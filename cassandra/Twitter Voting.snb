@@ -1,0 +1,511 @@
+{
+  "metadata" : {
+    "name" : "Twitter Voting",
+    "user_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "auto_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "language_info" : {
+      "name" : "scala",
+      "file_extension" : "scala",
+      "codemirror_mode" : "text/x-scala"
+    },
+    "trusted" : true,
+    "customLocalRepo" : null,
+    "customRepos" : null,
+    "customDeps" : null,
+    "customImports" : null,
+    "customSparkConf" : null
+  },
+  "cells" : [ {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Twitter Audience Pulse"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##Setup local repo and dependencies"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Set local repo for deps"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : ":local-repo /tmp/repo",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res2: String = Repo changed to /tmp/repo!\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/plain" : "Repo changed to /tmp/repo!"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 2
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Add streaming + twitter deps "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : ":dp org.apache.spark % spark-streaming_2.10 % 1.4.1\n    com.datastax.spark % spark-cassandra-connector_2.10 % 1.4.0-M3\n    org.apache.spark % spark-streaming-twitter_2.10 % 1.4.1\n    - org.apache.spark % spark-core_2.10 % _\n    - org.apache.hadoop % _ % _",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 4 feature warning(s); re-run with -feature for details\nglobalScope.jars: Array[String] = [Ljava.lang.String;@185e13ef\nres5: List[String] = List(/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar, /tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar, /home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar, /home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar, /home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar, /home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar, /home/maasg..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon41ea96df429cf881eac51b3caf002a00&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-stream/3.0.3/twitter4j-stream-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.cassandra/cassandra-clientutil/jars/cassandra-clientutil-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.1.5/cassandra-driver-core-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar&quot;},{&quot;string value&quot;:&quot;file:/media/maasg/ssd/playground/sparkfun/spark-notebook/spark-notebook-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4/lib/common.common-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4.jar&quot;}],&quot;genId&quot;:&quot;778340634&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":19,\"shown\":19,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 3
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Install the twitter credentials "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "**Note:** we are using the `env` variables here. For this, adapt the following and execute before launching the server\n```\n  export TWITTER_CONSUMER_KEY=...\n  export TWITTER_CONSUMER_SECRET=\"...\n  export TWITTER_ACCESS_TOKEN=...\n  export TWITTER_ACCESS_TOKEN_SECRET=...\n```"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "def $(s:String) = sys.env(s)\nSystem.setProperty(\"twitter4j.oauth.consumerKey\", $(\"TWITTER_CONSUMER_KEY\"))\nSystem.setProperty(\"twitter4j.oauth.consumerSecret\", $(\"TWITTER_CONSUMER_SECRET\"))\nSystem.setProperty(\"twitter4j.oauth.accessToken\", $(\"TWITTER_ACCESS_TOKEN\"))\nSystem.setProperty(\"twitter4j.oauth.accessTokenSecret\",$(\"TWITTER_ACCESS_TOKEN_SECRET\") )\n\"twitter settings done!\"",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "$: (s: String)String\nres6: String = twitter settings done!\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "twitter settings done!"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 4
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\nval cassandraHost = \"172.17.0.1\"\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.master\", \"local[*]\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "sparkLocalDir: String = /tmp/spark-local\nbroadcastFactory: String = org.apache.spark.broadcast.HttpBroadcastFactory\ncassandraHost: String = 172.17.0.1\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 5
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##Import the supporting modules from the Spark-Cassandra Connector"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import com.datastax.spark.connector._ //Imports basic rdd functions\nimport com.datastax.spark.connector.cql._",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import com.datastax.spark.connector._\nimport com.datastax.spark.connector.cql._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 6
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\n//val drop = \"DROP TABLE meetup.votes\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         \n                         session.execute(votes)\n                        }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "connector: com.datastax.spark.connector.cql.CassandraConnector = com.datastax.spark.connector.cql.CassandraConnector@4e0a03bf\nks: String = \nCREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\nvotes: String = \n\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\nres8: com.datastax.driver.core.ResultSet = ResultSet[ exhausted: true, Columns[]]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "ResultSet[ exhausted: true, Columns[]]"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 7
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "case class Vote(handle:String, ts:Long, txt: String)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "defined class Vote\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 8
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "# Spark streaming"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Create context with batch 2s "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\n\nval ssc = new StreamingContext(sparkContext, Seconds(2))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\nssc: org.apache.spark.streaming.StreamingContext = org.apache.spark.streaming.StreamingContext@20f4f06c\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.StreamingContext@20f4f06c"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 9
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "## Listen twitter stream "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#### We're going to **filter** the tweets to only those containing the following tag."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val filters = Array(\"drone\", \"fpv\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "filters: Array[String] = Array(drone, fpv)\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anona76dcb114e442a25783ea01fa0bd4f4b&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;drone&quot;},{&quot;string value&quot;:&quot;fpv&quot;}],&quot;genId&quot;:&quot;1101325556&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":2,\"shown\":2,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 10
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Create the twitter listeners"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val stream = TwitterUtils.createStream(ssc, None, filters)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "stream: org.apache.spark.streaming.dstream.ReceiverInputDStream[twitter4j.Status] = org.apache.spark.streaming.twitter.TwitterInputDStream@19f8bc1e\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.twitter.TwitterInputDStream@19f8bc1e"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 11
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Count by hashtag and sort  "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##### The windows are `60s` long"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import StreamingContext._\nval tweets = stream.map{status => \n                       val handle = status.getUser.getScreenName \n                       val ts = status.getCreatedAt.getTime\n                       val txt = status.getText\n                       Vote(handle, ts, txt)\n                      }\nval votes = tweets.flatMap(vote => vote.txt.split(\" \"))\n\nval topCounts120 = votes.map((_, 1)).reduceByKeyAndWindow(_ + _, Seconds(120))\n                          .map{case (topic, count) => (count, topic)}\n                          .transform(_.sortByKey(false))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import StreamingContext._\ntweets: org.apache.spark.streaming.dstream.DStream[Vote] = org.apache.spark.streaming.dstream.MappedDStream@4b6540c9\nvotes: org.apache.spark.streaming.dstream.DStream[String] = org.apache.spark.streaming.dstream.FlatMappedDStream@648072ca\ntopCounts120: org.apache.spark.streaming.dstream.DStream[(Int, String)] = org.apache.spark.streaming.dstream.TransformedDStream@2cf05f52\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.dstream.TransformedDStream@2cf05f52"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 12
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "output_stream_collapsed" : true,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import com.datastax.spark.connector.streaming._\ntweets.saveToCassandra(\"meetup\",\"votes\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import com.datastax.spark.connector.streaming._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 13
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##### Creating the text output to be updated by the stream of result "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val result = ul(10)\n",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "result: notebook.front.DataConnectedWidget[String]{implicit val singleCodec: notebook.Codec[play.api.libs.json.JsValue,String]; def data: Seq[String]; def data_=(x$1: Seq[String]): Unit; lazy val toHtml: scala.xml.Elem; def append(s: String): Unit; def appendAll(s: Seq[String]): Unit} = <anon$1 widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<ul data-bind=\"foreach: value\">\n      <li data-bind=\"text: $data\"></li><script data-this=\"{&quot;valueId&quot;:&quot;anon830e91925c281970c19828931f5d2656&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId)\n    },\n    this\n  );\n});\n          /*]]>*/</script></ul>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 14
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "result.append( \"five\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 1 feature warning(s); re-run with -feature for details\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 15
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val custom  = widgets.BarChart(Seq((\"yo\",1L),(\"tu\",2L)), Some((\"X\", \"Y\")), maxPoints = 100)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "custom: notebook.front.widgets.BarChart[Seq[(String, Long)]] = <BarChart widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon701bfa48646b61f4b95354da0bfad0de&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;yo&quot;,&quot;Y&quot;:1},{&quot;X&quot;:&quot;tu&quot;,&quot;Y&quot;:2}],&quot;genId&quot;:&quot;672259948&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 25
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "output_stream_collapsed" : true,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "custom.applyOn(List((\"foo\",2),(\"bar\",5), (\"scala\",7)))",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 28
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##### Let's show the 10 first hashtag every window "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "// Print popular hashtags\ntopCounts120.foreachRDD(rdd => {\n  val topList = rdd.take(10).toList\n  //val r = topList.map{case (count, tag) => s\"$tag: $count\"}\n  //result(r)\n  custom.applyOn(topList.map{case (count, label) => (label, count.toLong)})\n})\n",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 33
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###  Start listening twitter"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "This will listen the twitter stream, and the computation above will update the `resuilt` every `2s` using the last `60s` of values."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "ssc.start()",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 34
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Stop listening twitter "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "// commented to all 'run all' :-D\nssc.stop(false)",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 35
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val results = sparkContext.cassandraTable(\"meetup\", \"votes\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "results: com.datastax.spark.connector.rdd.CassandraTableScanRDD[com.datastax.spark.connector.CassandraRow] = CassandraTableScanRDD[3895] at RDD at CassandraRDD.scala:15\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "CassandraTableScanRDD[3895] at RDD at CassandraRDD.scala:15"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 36
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "results.take(10).toList",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res21: List[com.datastax.spark.connector.CassandraRow] = \nList(CassandraRow{handle: CallmeUpdates, ts: 2015-09-07 01:08:32+0200, txt: Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV}, CassandraRow{handle: elenlap, ts: 2015-09-07 01:14:01+0200, txt: RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\nhttps://t.co/GA…}, CassandraRow{handle: flagallegos, ts: 2015-09-07 01:10:24+0200, txt: RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…}, CassandraRow{handle: hosukivyfuke, ts: 2015-09-07 01:05:14+0200, txt: Mystery drone drops cash http://t...."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon172578c1c0acb9503b8faa16aa32cc32&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(CallmeUpdates, Mon Sep 07 01:08:32 CEST 2015, Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(elenlap, Mon Sep 07 01:14:01 CEST 2015, RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\\nhttps://t.co/GA…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(flagallegos, Mon Sep 07 01:10:24 CEST 2015, RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:14 CEST 2015, Mystery drone drops cash http://t.co/AYXCvwKR5A)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:15 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/gnQfXYqDhK)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Ncna_7wr_koj, Mon Sep 07 01:09:05 CEST 2015, CAMERA ART Deals : http://t.co/aozbusptdx Parrot AR Drone 2.0 Elite Edition, Jungle Camo, HD Camera #5899... #950… http://t.co/9YC00rkSrd)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(nysemyjymew, Mon Sep 07 01:05:25 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/OuGCXU0pZE)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Drone360mag, Thu Sep 03 23:43:27 CEST 2015, The cheapest way to get a drone license? Take hot air balloon lessons: http://t.co/gZCY0Z54Jq http://t.co/YA5ACWD1fV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Hylmand, Mon Sep 07 01:04:47 CEST 2015, RT @PopSci: This Snap drone is designed for crash landings\\nhttp://t.co/RgfqNaC0R3 http://t.co/Z8n3VzsJxb)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(IlusionSalvaje, Mon Sep 07 01:09:19 CEST 2015, RT @ArnaldoIrigoyen: (1) El #FPV de Sta Fe promueve una reforma previsional. El socialismo instaló el 82% móvil y parece que #Scioli - #Per…)&quot;}],&quot;genId&quot;:&quot;1207163128&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <ul class=\"nav nav-tabs\" id=\"ul1207163128\"><li>\n              <a href=\"#tab1207163128-0\"><i class=\"fa fa-table\"/></a>\n            </li><li>\n              <a href=\"#tab1207163128-1\"><i class=\"fa fa-pie-chart\"/></a>\n            </li></ul>\n\n        <div class=\"tab-content\" id=\"tab1207163128\"><div class=\"tab-pane\" id=\"tab1207163128-0\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anone795e9edc22fdd41ebea040a7eb3f53a&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(CallmeUpdates, Mon Sep 07 01:08:32 CEST 2015, Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(elenlap, Mon Sep 07 01:14:01 CEST 2015, RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\\nhttps://t.co/GA…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(flagallegos, Mon Sep 07 01:10:24 CEST 2015, RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:14 CEST 2015, Mystery drone drops cash http://t.co/AYXCvwKR5A)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:15 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/gnQfXYqDhK)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Ncna_7wr_koj, Mon Sep 07 01:09:05 CEST 2015, CAMERA ART Deals : http://t.co/aozbusptdx Parrot AR Drone 2.0 Elite Edition, Jungle Camo, HD Camera #5899... #950… http://t.co/9YC00rkSrd)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(nysemyjymew, Mon Sep 07 01:05:25 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/OuGCXU0pZE)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Drone360mag, Thu Sep 03 23:43:27 CEST 2015, The cheapest way to get a drone license? Take hot air balloon lessons: http://t.co/gZCY0Z54Jq http://t.co/YA5ACWD1fV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Hylmand, Mon Sep 07 01:04:47 CEST 2015, RT @PopSci: This Snap drone is designed for crash landings\\nhttp://t.co/RgfqNaC0R3 http://t.co/Z8n3VzsJxb)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(IlusionSalvaje, Mon Sep 07 01:09:19 CEST 2015, RT @ArnaldoIrigoyen: (1) El #FPV de Sta Fe promueve una reforma previsional. El socialismo instaló el 82% móvil y parece que #Scioli - #Per…)&quot;}],&quot;genId&quot;:&quot;1934008914&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"X\",\"Y\"],\"nrow\":10,\"shown\":10,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div><div class=\"tab-pane\" id=\"tab1207163128-1\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonfccca541ace3bfdfc82a8a71d9499a46&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(CallmeUpdates, Mon Sep 07 01:08:32 CEST 2015, Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(elenlap, Mon Sep 07 01:14:01 CEST 2015, RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\\nhttps://t.co/GA…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(flagallegos, Mon Sep 07 01:10:24 CEST 2015, RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:14 CEST 2015, Mystery drone drops cash http://t.co/AYXCvwKR5A)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:15 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/gnQfXYqDhK)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Ncna_7wr_koj, Mon Sep 07 01:09:05 CEST 2015, CAMERA ART Deals : http://t.co/aozbusptdx Parrot AR Drone 2.0 Elite Edition, Jungle Camo, HD Camera #5899... #950… http://t.co/9YC00rkSrd)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(nysemyjymew, Mon Sep 07 01:05:25 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/OuGCXU0pZE)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Drone360mag, Thu Sep 03 23:43:27 CEST 2015, The cheapest way to get a drone license? Take hot air balloon lessons: http://t.co/gZCY0Z54Jq http://t.co/YA5ACWD1fV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Hylmand, Mon Sep 07 01:04:47 CEST 2015, RT @PopSci: This Snap drone is designed for crash landings\\nhttp://t.co/RgfqNaC0R3 http://t.co/Z8n3VzsJxb)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(IlusionSalvaje, Mon Sep 07 01:09:19 CEST 2015, RT @ArnaldoIrigoyen: (1) El #FPV de Sta Fe promueve una reforma previsional. El socialismo instaló el 82% móvil y parece que #Scioli - #Per…)&quot;}],&quot;genId&quot;:&quot;1971327565&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/pieChart'], \n      function(playground, _magicpieChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicpieChart,\n    \"o\": {\"series\":\"X\",\"p\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div></div>\n      </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 37
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true
+    },
+    "cell_type" : "code",
+    "source" : "",
+    "outputs" : [ ]
+  } ],
+  "nbformat" : 4
+}
