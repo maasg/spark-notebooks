@@ -38,14 +38,14 @@
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "res2: String = Repo changed to /tmp/repo!\n"
+      "text" : "res13: String = Repo changed to /tmp/repo!\n"
     }, {
       "metadata" : { },
       "data" : {
         "text/plain" : "Repo changed to /tmp/repo!"
       },
       "output_type" : "execute_result",
-      "execution_count" : 2
+      "execution_count" : 1
     } ]
   }, {
     "metadata" : { },
@@ -62,14 +62,14 @@
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "warning: there were 4 feature warning(s); re-run with -feature for details\nglobalScope.jars: Array[String] = [Ljava.lang.String;@185e13ef\nres5: List[String] = List(/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar, /tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar, /home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar, /home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar, /home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar, /home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar, /home/maasg..."
+      "text" : "warning: there were 4 feature warning(s); re-run with -feature for details\nglobalScope.jars: Array[String] = [Ljava.lang.String;@207e87f6\nres16: List[String] = List(/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar, /tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar, /home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar, /home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar, /home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar, /home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar, /home/maas..."
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon41ea96df429cf881eac51b3caf002a00&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-stream/3.0.3/twitter4j-stream-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.cassandra/cassandra-clientutil/jars/cassandra-clientutil-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.1.5/cassandra-driver-core-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar&quot;},{&quot;string value&quot;:&quot;file:/media/maasg/ssd/playground/sparkfun/spark-notebook/spark-notebook-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4/lib/common.common-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4.jar&quot;}],&quot;genId&quot;:&quot;778340634&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":19,\"shown\":19,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon4ea7f4d5af10d257500b219a482adc57&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-stream/3.0.3/twitter4j-stream-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.cassandra/cassandra-clientutil/jars/cassandra-clientutil-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.1.5/cassandra-driver-core-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar&quot;},{&quot;string value&quot;:&quot;file:/media/maasg/ssd/playground/sparkfun/spark-notebook/spark-notebook-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4/lib/common.common-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4.jar&quot;}],&quot;genId&quot;:&quot;648510454&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":19,\"shown\":19,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
       },
       "output_type" : "execute_result",
-      "execution_count" : 3
+      "execution_count" : 2
     } ]
   }, {
     "metadata" : { },
@@ -90,14 +90,14 @@
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "$: (s: String)String\nres6: String = twitter settings done!\n"
+      "text" : "$: (s: String)String\nres17: String = twitter settings done!\n"
     }, {
       "metadata" : { },
       "data" : {
         "text/html" : "twitter settings done!"
       },
       "output_type" : "execute_result",
-      "execution_count" : 4
+      "execution_count" : 3
     } ]
   }, {
     "metadata" : {
@@ -117,7 +117,7 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 5
+      "execution_count" : 4
     } ]
   }, {
     "metadata" : { },
@@ -141,7 +141,7 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 6
+      "execution_count" : 5
     } ]
   }, {
     "metadata" : {
@@ -150,18 +150,18 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\n//val drop = \"DROP TABLE meetup.votes\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         \n                         session.execute(votes)\n                        }",
+    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\n//val drop = \"DROP TABLE meetup.votes\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         session.execute(votes)\n                        }",
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "connector: com.datastax.spark.connector.cql.CassandraConnector = com.datastax.spark.connector.cql.CassandraConnector@4e0a03bf\nks: String = \nCREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\nvotes: String = \n\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\nres8: com.datastax.driver.core.ResultSet = ResultSet[ exhausted: true, Columns[]]\n"
+      "text" : "connector: com.datastax.spark.connector.cql.CassandraConnector = com.datastax.spark.connector.cql.CassandraConnector@1afa9a1d\nks: String = \nCREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\nvotes: String = \n\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\nres19: com.datastax.driver.core.ResultSet = ResultSet[ exhausted: true, Columns[]]\n"
     }, {
       "metadata" : { },
       "data" : {
         "text/html" : "ResultSet[ exhausted: true, Columns[]]"
       },
       "output_type" : "execute_result",
-      "execution_count" : 7
+      "execution_count" : 6
     } ]
   }, {
     "metadata" : {
@@ -181,7 +181,7 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 8
+      "execution_count" : 7
     } ]
   }, {
     "metadata" : { },
@@ -202,14 +202,14 @@
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\nssc: org.apache.spark.streaming.StreamingContext = org.apache.spark.streaming.StreamingContext@20f4f06c\n"
+      "text" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\nssc: org.apache.spark.streaming.StreamingContext = org.apache.spark.streaming.StreamingContext@f606002\n"
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "org.apache.spark.streaming.StreamingContext@20f4f06c"
+        "text/html" : "org.apache.spark.streaming.StreamingContext@f606002"
       },
       "output_type" : "execute_result",
-      "execution_count" : 9
+      "execution_count" : 8
     } ]
   }, {
     "metadata" : { },
@@ -218,7 +218,7 @@
   }, {
     "metadata" : { },
     "cell_type" : "markdown",
-    "source" : "#### We're going to **filter** the tweets to only those containing the following tag."
+    "source" : "#### We're going to **filter** the tweets to only those containing the following event  tag."
   }, {
     "metadata" : {
       "trusted" : true,
@@ -234,10 +234,10 @@
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anona76dcb114e442a25783ea01fa0bd4f4b&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;drone&quot;},{&quot;string value&quot;:&quot;fpv&quot;}],&quot;genId&quot;:&quot;1101325556&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":2,\"shown\":2,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonac7ff1ec3fc547ac67e59cf8fbc6c623&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;drone&quot;},{&quot;string value&quot;:&quot;fpv&quot;}],&quot;genId&quot;:&quot;1328140348&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":2,\"shown\":2,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
       },
       "output_type" : "execute_result",
-      "execution_count" : 10
+      "execution_count" : 9
     } ]
   }, {
     "metadata" : { },
@@ -254,23 +254,23 @@
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "stream: org.apache.spark.streaming.dstream.ReceiverInputDStream[twitter4j.Status] = org.apache.spark.streaming.twitter.TwitterInputDStream@19f8bc1e\n"
+      "text" : "stream: org.apache.spark.streaming.dstream.ReceiverInputDStream[twitter4j.Status] = org.apache.spark.streaming.twitter.TwitterInputDStream@115b7e09\n"
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "org.apache.spark.streaming.twitter.TwitterInputDStream@19f8bc1e"
+        "text/html" : "org.apache.spark.streaming.twitter.TwitterInputDStream@115b7e09"
       },
       "output_type" : "execute_result",
-      "execution_count" : 11
+      "execution_count" : 10
     } ]
   }, {
     "metadata" : { },
     "cell_type" : "markdown",
-    "source" : "### Count by hashtag and sort  "
+    "source" : "### Window-based count by hashtag and sort  "
   }, {
     "metadata" : { },
     "cell_type" : "markdown",
-    "source" : "##### The windows are `60s` long"
+    "source" : "##### The windows are `120s` long"
   }, {
     "metadata" : {
       "trusted" : true,
@@ -282,14 +282,14 @@
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "import StreamingContext._\ntweets: org.apache.spark.streaming.dstream.DStream[Vote] = org.apache.spark.streaming.dstream.MappedDStream@4b6540c9\nvotes: org.apache.spark.streaming.dstream.DStream[String] = org.apache.spark.streaming.dstream.FlatMappedDStream@648072ca\ntopCounts120: org.apache.spark.streaming.dstream.DStream[(Int, String)] = org.apache.spark.streaming.dstream.TransformedDStream@2cf05f52\n"
+      "text" : "import StreamingContext._\ntweets: org.apache.spark.streaming.dstream.DStream[Vote] = org.apache.spark.streaming.dstream.MappedDStream@56cf64c1\nvotes: org.apache.spark.streaming.dstream.DStream[String] = org.apache.spark.streaming.dstream.FlatMappedDStream@49dfe76d\ntopCounts120: org.apache.spark.streaming.dstream.DStream[(Int, String)] = org.apache.spark.streaming.dstream.TransformedDStream@ad2caff\n"
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "org.apache.spark.streaming.dstream.TransformedDStream@2cf05f52"
+        "text/html" : "org.apache.spark.streaming.dstream.TransformedDStream@ad2caff"
       },
       "output_type" : "execute_result",
-      "execution_count" : 12
+      "execution_count" : 11
     } ]
   }, {
     "metadata" : {
@@ -310,7 +310,7 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 13
+      "execution_count" : 12
     } ]
   }, {
     "metadata" : { },
@@ -331,10 +331,10 @@
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "<ul data-bind=\"foreach: value\">\n      <li data-bind=\"text: $data\"></li><script data-this=\"{&quot;valueId&quot;:&quot;anon830e91925c281970c19828931f5d2656&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId)\n    },\n    this\n  );\n});\n          /*]]>*/</script></ul>"
+        "text/html" : "<ul data-bind=\"foreach: value\">\n      <li data-bind=\"text: $data\"></li><script data-this=\"{&quot;valueId&quot;:&quot;anonb8cce982205b04e481366b58dafb89e9&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId)\n    },\n    this\n  );\n});\n          /*]]>*/</script></ul>"
       },
       "output_type" : "execute_result",
-      "execution_count" : 14
+      "execution_count" : 13
     } ]
   }, {
     "metadata" : {
@@ -354,7 +354,7 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 15
+      "execution_count" : 14
     } ]
   }, {
     "metadata" : {
@@ -363,7 +363,7 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "val custom  = widgets.BarChart(Seq((\"yo\",1L),(\"tu\",2L)), Some((\"X\", \"Y\")), maxPoints = 100)",
+    "source" : "val custom  = widgets.BarChart(Seq((\"\",0L)), Some((\"X\", \"Y\")), maxPoints = 100)",
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
@@ -371,10 +371,10 @@
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon701bfa48646b61f4b95354da0bfad0de&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;yo&quot;,&quot;Y&quot;:1},{&quot;X&quot;:&quot;tu&quot;,&quot;Y&quot;:2}],&quot;genId&quot;:&quot;672259948&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>"
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anoncb9d8a44738325cd60bfc4db455fed35&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;&quot;,&quot;Y&quot;:0}],&quot;genId&quot;:&quot;1461579176&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>"
       },
       "output_type" : "execute_result",
-      "execution_count" : 25
+      "execution_count" : 43
     } ]
   }, {
     "metadata" : {
@@ -384,19 +384,19 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "custom.applyOn(List((\"foo\",2),(\"bar\",5), (\"scala\",7)))",
+    "source" : "custom.applyOn(List((\"spark\",3L),(\"cassandra\",2L), (\"scala\",4L)))",
     "outputs" : [ {
       "metadata" : { },
       "data" : {
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 28
+      "execution_count" : 44
     } ]
   }, {
     "metadata" : { },
     "cell_type" : "markdown",
-    "source" : "##### Let's show the 10 first hashtag every window "
+    "source" : "#### We update the chart with the top-10 tags every interval "
   }, {
     "metadata" : {
       "trusted" : true,
@@ -411,7 +411,7 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 33
+      "execution_count" : 25
     } ]
   }, {
     "metadata" : { },
@@ -435,12 +435,12 @@
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 34
+      "execution_count" : 26
     } ]
   }, {
     "metadata" : { },
     "cell_type" : "markdown",
-    "source" : "### Stop listening twitter "
+    "source" : "### Done with the poll? Stop listening twitter \n_We keep the underlying Spark Context active_"
   }, {
     "metadata" : {
       "trusted" : true,
@@ -448,14 +448,86 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "// commented to all 'run all' :-D\nssc.stop(false)",
+    "source" : "// commented to all 'run all' :-D\nssc.stop(stopSparkContext = false, stopGracefully= true)",
     "outputs" : [ {
       "metadata" : { },
       "data" : {
         "text/html" : ""
       },
       "output_type" : "execute_result",
-      "execution_count" : 35
+      "execution_count" : 29
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Voting timeline\n_Read the voting data back from Cassandra and build up a 0-based timeline of vote frequency_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val votingResults = sparkContext.cassandraTable[Vote](\"meetup\", \"votes\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "votingResults: com.datastax.spark.connector.rdd.CassandraTableScanRDD[Vote] = CassandraTableScanRDD[748] at RDD at CassandraRDD.scala:15\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "CassandraTableScanRDD[748] at RDD at CassandraRDD.scala:15"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 46
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###Count votes\n_First, we use the standard count from Spark, that requires loading all the data_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val totalVotes = votingResults.count()",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "totalVotes: Long = 555\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "555"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 47
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "_It is also possible to \"push down\" the count to Cassandra for a more efficient count_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val totalVotesCassandra = votingResults.cassandraCount()",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "totalVotesCassandra: Long = 555\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "555"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 48
     } ]
   }, {
     "metadata" : {
@@ -464,18 +536,18 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "val results = sparkContext.cassandraTable(\"meetup\", \"votes\")",
+    "source" : "val floor: Long => Long => Long = t => n => n / t * t",
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "results: com.datastax.spark.connector.rdd.CassandraTableScanRDD[com.datastax.spark.connector.CassandraRow] = CassandraTableScanRDD[3895] at RDD at CassandraRDD.scala:15\n"
+      "text" : "floor: Long => (Long => Long) = <function1>\n"
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "CassandraTableScanRDD[3895] at RDD at CassandraRDD.scala:15"
+        "text/html" : "&lt;function1&gt;"
       },
       "output_type" : "execute_result",
-      "execution_count" : 36
+      "execution_count" : 49
     } ]
   }, {
     "metadata" : {
@@ -484,18 +556,18 @@
       "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "results.take(10).toList",
+    "source" : "val floor10s = floor(10000) \nval tenSecTimeline = votingResults.map(vote => (floor10s(vote.ts),1)).reduceByKey(_ + _).collect\nval tenSecTimelineDelta = {\n  val min = tenSecTimeline.map(_._1).min\n  println(min)\n  tenSecTimeline.map{ case (k,v) => ((k-min)/1000,v)}\n}\ntenSecTimelineDelta",
     "outputs" : [ {
       "name" : "stdout",
       "output_type" : "stream",
-      "text" : "res21: List[com.datastax.spark.connector.CassandraRow] = \nList(CassandraRow{handle: CallmeUpdates, ts: 2015-09-07 01:08:32+0200, txt: Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV}, CassandraRow{handle: elenlap, ts: 2015-09-07 01:14:01+0200, txt: RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\nhttps://t.co/GA…}, CassandraRow{handle: flagallegos, ts: 2015-09-07 01:10:24+0200, txt: RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…}, CassandraRow{handle: hosukivyfuke, ts: 2015-09-07 01:05:14+0200, txt: Mystery drone drops cash http://t...."
+      "text" : "1441316490000\nfloor10s: Long => Long = <function1>\ntenSecTimeline: Array[(Long, Int)] = Array((1441581130000,2), (1441580750000,2), (1441580830000,1), (1441581230000,1), (1441643350000,6), (1441581200000,3), (1441316640000,9), (1441581010000,4), (1441581270000,6), (1441581110000,2), (1441581220000,2), (1441580720000,1), (1441643310000,19), (1441643240000,20), (1441581260000,1), (1441581080000,1), (1441581140000,2), (1441316520000,2), (1441580780000,3), (1441580990000,1), (1441580860000,2), (1441643270000,18), (1441580800000,3), (1441580760000,4), (1441643320000,16), (1441581090000,5), (1441643330000,14), (1441316610000,4), (1441580980000,2), (1441316530000,9), (1441580970000,4), (1441316590000,5), (1441580920000,2), (1441580700000,10), (1441580840000,2), (1441581350000,5), (1441580910000,3), (1441316..."
     }, {
       "metadata" : { },
       "data" : {
-        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon172578c1c0acb9503b8faa16aa32cc32&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(CallmeUpdates, Mon Sep 07 01:08:32 CEST 2015, Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(elenlap, Mon Sep 07 01:14:01 CEST 2015, RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\\nhttps://t.co/GA…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(flagallegos, Mon Sep 07 01:10:24 CEST 2015, RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:14 CEST 2015, Mystery drone drops cash http://t.co/AYXCvwKR5A)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:15 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/gnQfXYqDhK)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Ncna_7wr_koj, Mon Sep 07 01:09:05 CEST 2015, CAMERA ART Deals : http://t.co/aozbusptdx Parrot AR Drone 2.0 Elite Edition, Jungle Camo, HD Camera #5899... #950… http://t.co/9YC00rkSrd)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(nysemyjymew, Mon Sep 07 01:05:25 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/OuGCXU0pZE)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Drone360mag, Thu Sep 03 23:43:27 CEST 2015, The cheapest way to get a drone license? Take hot air balloon lessons: http://t.co/gZCY0Z54Jq http://t.co/YA5ACWD1fV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Hylmand, Mon Sep 07 01:04:47 CEST 2015, RT @PopSci: This Snap drone is designed for crash landings\\nhttp://t.co/RgfqNaC0R3 http://t.co/Z8n3VzsJxb)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(IlusionSalvaje, Mon Sep 07 01:09:19 CEST 2015, RT @ArnaldoIrigoyen: (1) El #FPV de Sta Fe promueve una reforma previsional. El socialismo instaló el 82% móvil y parece que #Scioli - #Per…)&quot;}],&quot;genId&quot;:&quot;1207163128&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <ul class=\"nav nav-tabs\" id=\"ul1207163128\"><li>\n              <a href=\"#tab1207163128-0\"><i class=\"fa fa-table\"/></a>\n            </li><li>\n              <a href=\"#tab1207163128-1\"><i class=\"fa fa-pie-chart\"/></a>\n            </li></ul>\n\n        <div class=\"tab-content\" id=\"tab1207163128\"><div class=\"tab-pane\" id=\"tab1207163128-0\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anone795e9edc22fdd41ebea040a7eb3f53a&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(CallmeUpdates, Mon Sep 07 01:08:32 CEST 2015, Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(elenlap, Mon Sep 07 01:14:01 CEST 2015, RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\\nhttps://t.co/GA…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(flagallegos, Mon Sep 07 01:10:24 CEST 2015, RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:14 CEST 2015, Mystery drone drops cash http://t.co/AYXCvwKR5A)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:15 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/gnQfXYqDhK)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Ncna_7wr_koj, Mon Sep 07 01:09:05 CEST 2015, CAMERA ART Deals : http://t.co/aozbusptdx Parrot AR Drone 2.0 Elite Edition, Jungle Camo, HD Camera #5899... #950… http://t.co/9YC00rkSrd)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(nysemyjymew, Mon Sep 07 01:05:25 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/OuGCXU0pZE)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Drone360mag, Thu Sep 03 23:43:27 CEST 2015, The cheapest way to get a drone license? Take hot air balloon lessons: http://t.co/gZCY0Z54Jq http://t.co/YA5ACWD1fV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Hylmand, Mon Sep 07 01:04:47 CEST 2015, RT @PopSci: This Snap drone is designed for crash landings\\nhttp://t.co/RgfqNaC0R3 http://t.co/Z8n3VzsJxb)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(IlusionSalvaje, Mon Sep 07 01:09:19 CEST 2015, RT @ArnaldoIrigoyen: (1) El #FPV de Sta Fe promueve una reforma previsional. El socialismo instaló el 82% móvil y parece que #Scioli - #Per…)&quot;}],&quot;genId&quot;:&quot;1934008914&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"X\",\"Y\"],\"nrow\":10,\"shown\":10,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div><div class=\"tab-pane\" id=\"tab1207163128-1\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonfccca541ace3bfdfc82a8a71d9499a46&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(CallmeUpdates, Mon Sep 07 01:08:32 CEST 2015, Drone crashes at University of Kentucky game: According to a university spokesman, the drone crashed inside th... http://t.co/H8XImaHoNV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(elenlap, Mon Sep 07 01:14:01 CEST 2015, RT @Rex_Aluminio: Santiago del Estero ( FRAUDE ): Una ciudad de 500 habitantes con 5 mesas donde votaron 1500 ( MEDELLIN ).\\nhttps://t.co/GA…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(flagallegos, Mon Sep 07 01:10:24 CEST 2015, RT @AnabellaLOsorio: Repudiamos el ataque de esta madrugada contra la sede del NE-FpV en Haedo. Algunos se empeñan en volver al pasado. htt…)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:14 CEST 2015, Mystery drone drops cash http://t.co/AYXCvwKR5A)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(hosukivyfuke, Mon Sep 07 01:05:15 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/gnQfXYqDhK)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Ncna_7wr_koj, Mon Sep 07 01:09:05 CEST 2015, CAMERA ART Deals : http://t.co/aozbusptdx Parrot AR Drone 2.0 Elite Edition, Jungle Camo, HD Camera #5899... #950… http://t.co/9YC00rkSrd)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(nysemyjymew, Mon Sep 07 01:05:25 CEST 2015, Student’s drone crashes into Kentucky stadium before college football game – The Guardian http://t.co/OuGCXU0pZE)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Drone360mag, Thu Sep 03 23:43:27 CEST 2015, The cheapest way to get a drone license? Take hot air balloon lessons: http://t.co/gZCY0Z54Jq http://t.co/YA5ACWD1fV)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(Hylmand, Mon Sep 07 01:04:47 CEST 2015, RT @PopSci: This Snap drone is designed for crash landings\\nhttp://t.co/RgfqNaC0R3 http://t.co/Z8n3VzsJxb)&quot;},{&quot;X&quot;:&quot;WrappedArray(handle, ts, txt)&quot;,&quot;Y&quot;:&quot;WrappedArray(IlusionSalvaje, Mon Sep 07 01:09:19 CEST 2015, RT @ArnaldoIrigoyen: (1) El #FPV de Sta Fe promueve una reforma previsional. El socialismo instaló el 82% móvil y parece que #Scioli - #Per…)&quot;}],&quot;genId&quot;:&quot;1971327565&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/pieChart'], \n      function(playground, _magicpieChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicpieChart,\n    \"o\": {\"series\":\"X\",\"p\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div></div>\n      </div></div>"
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anone5bd15ecf9d9692e815f8fb15c20fb9e&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:264640,&quot;Y&quot;:2},{&quot;X&quot;:264260,&quot;Y&quot;:2},{&quot;X&quot;:264340,&quot;Y&quot;:1},{&quot;X&quot;:264740,&quot;Y&quot;:1},{&quot;X&quot;:326860,&quot;Y&quot;:6},{&quot;X&quot;:264710,&quot;Y&quot;:3},{&quot;X&quot;:150,&quot;Y&quot;:9},{&quot;X&quot;:264520,&quot;Y&quot;:4},{&quot;X&quot;:264780,&quot;Y&quot;:6},{&quot;X&quot;:264620,&quot;Y&quot;:2},{&quot;X&quot;:264730,&quot;Y&quot;:2},{&quot;X&quot;:264230,&quot;Y&quot;:1},{&quot;X&quot;:326820,&quot;Y&quot;:19},{&quot;X&quot;:326750,&quot;Y&quot;:20},{&quot;X&quot;:264770,&quot;Y&quot;:1},{&quot;X&quot;:264590,&quot;Y&quot;:1},{&quot;X&quot;:264650,&quot;Y&quot;:2},{&quot;X&quot;:30,&quot;Y&quot;:2},{&quot;X&quot;:264290,&quot;Y&quot;:3},{&quot;X&quot;:264500,&quot;Y&quot;:1},{&quot;X&quot;:264370,&quot;Y&quot;:2},{&quot;X&quot;:326780,&quot;Y&quot;:18},{&quot;X&quot;:264310,&quot;Y&quot;:3},{&quot;X&quot;:264270,&quot;Y&quot;:4},{&quot;X&quot;:326830,&quot;Y&quot;:16},{&quot;X&quot;:264600,&quot;Y&quot;:5},{&quot;X&quot;:326840,&quot;Y&quot;:14},{&quot;X&quot;:120,&quot;Y&quot;:4},{&quot;X&quot;:264490,&quot;Y&quot;:2},{&quot;X&quot;:40,&quot;Y&quot;:9},{&quot;X&quot;:264480,&quot;Y&quot;:4},{&quot;X&quot;:100,&quot;Y&quot;:5},{&quot;X&quot;:264430,&quot;Y&quot;:2},{&quot;X&quot;:264210,&quot;Y&quot;:10},{&quot;X&quot;:264350,&quot;Y&quot;:2},{&quot;X&quot;:264860,&quot;Y&quot;:5},{&quot;X&quot;:264420,&quot;Y&quot;:3},{&quot;X&quot;:90,&quot;Y&quot;:5},{&quot;X&quot;:264360,&quot;Y&quot;:3},{&quot;X&quot;:264540,&quot;Y&quot;:2},{&quot;X&quot;:264400,&quot;Y&quot;:3},{&quot;X&quot;:326800,&quot;Y&quot;:22},{&quot;X&quot;:264460,&quot;Y&quot;:5},{&quot;X&quot;:264830,&quot;Y&quot;:2},{&quot;X&quot;:264840,&quot;Y&quot;:2},{&quot;X&quot;:264410,&quot;Y&quot;:5},{&quot;X&quot;:264760,&quot;Y&quot;:3},{&quot;X&quot;:264220,&quot;Y&quot;:4},{&quot;X&quot;:326760,&quot;Y&quot;:14},{&quot;X&quot;:264800,&quot;Y&quot;:3},{&quot;X&quot;:264390,&quot;Y&quot;:2},{&quot;X&quot;:264280,&quot;Y&quot;:3},{&quot;X&quot;:264720,&quot;Y&quot;:4},{&quot;X&quot;:326850,&quot;Y&quot;:18},{&quot;X&quot;:60,&quot;Y&quot;:5},{&quot;X&quot;:264610,&quot;Y&quot;:5},{&quot;X&quot;:70,&quot;Y&quot;:7},{&quot;X&quot;:264690,&quot;Y&quot;:10},{&quot;X&quot;:264320,&quot;Y&quot;:5},{&quot;X&quot;:264550,&quot;Y&quot;:5},{&quot;X&quot;:264440,&quot;Y&quot;:1},{&quot;X&quot;:264680,&quot;Y&quot;:1},{&quot;X&quot;:20,&quot;Y&quot;:3},{&quot;X&quot;:326810,&quot;Y&quot;:16},{&quot;X&quot;:264530,&quot;Y&quot;:2},{&quot;X&quot;:264700,&quot;Y&quot;:2},{&quot;X&quot;:264180,&quot;Y&quot;:8},{&quot;X&quot;:264330,&quot;Y&quot;:2},{&quot;X&quot;:326740,&quot;Y&quot;:18},{&quot;X&quot;:10,&quot;Y&quot;:1},{&quot;X&quot;:326790,&quot;Y&quot;:27},{&quot;X&quot;:140,&quot;Y&quot;:13},{&quot;X&quot;:326770,&quot;Y&quot;:12},{&quot;X&quot;:264190,&quot;Y&quot;:4},{&quot;X&quot;:50,&quot;Y&quot;:10},{&quot;X&quot;:0,&quot;Y&quot;:1},{&quot;X&quot;:264580,&quot;Y&quot;:6},{&quot;X&quot;:264850,&quot;Y&quot;:7},{&quot;X&quot;:264470,&quot;Y&quot;:6},{&quot;X&quot;:264510,&quot;Y&quot;:7},{&quot;X&quot;:110,&quot;Y&quot;:9},{&quot;X&quot;:264660,&quot;Y&quot;:10},{&quot;X&quot;:130,&quot;Y&quot;:5},{&quot;X&quot;:264170,&quot;Y&quot;:1},{&quot;X&quot;:80,&quot;Y&quot;:6},{&quot;X&quot;:264570,&quot;Y&quot;:3},{&quot;X&quot;:264560,&quot;Y&quot;:2},{&quot;X&quot;:264240,&quot;Y&quot;:3},{&quot;X&quot;:264820,&quot;Y&quot;:2},{&quot;X&quot;:264200,&quot;Y&quot;:7},{&quot;X&quot;:264750,&quot;Y&quot;:3},{&quot;X&quot;:264810,&quot;Y&quot;:4},{&quot;X&quot;:264300,&quot;Y&quot;:3},{&quot;X&quot;:264250,&quot;Y&quot;:7},{&quot;X&quot;:264630,&quot;Y&quot;:6},{&quot;X&quot;:264450,&quot;Y&quot;:4}],&quot;genId&quot;:&quot;1993081127&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <ul class=\"nav nav-tabs\" id=\"ul1993081127\"><li>\n              <a href=\"#tab1993081127-0\"><i class=\"fa fa-table\"/></a>\n            </li><li>\n              <a href=\"#tab1993081127-1\"><i class=\"fa fa-dot-circle-o\"/></a>\n            </li><li>\n              <a href=\"#tab1993081127-2\"><i class=\"fa fa-line-chart\"/></a>\n            </li><li>\n              <a href=\"#tab1993081127-3\"><i class=\"fa fa-bar-chart\"/></a>\n            </li></ul>\n\n        <div class=\"tab-content\" id=\"tab1993081127\"><div class=\"tab-pane\" id=\"tab1993081127-0\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon991d64b7f53146755f6db991b25c30ab&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:264640,&quot;Y&quot;:2},{&quot;X&quot;:264260,&quot;Y&quot;:2},{&quot;X&quot;:264340,&quot;Y&quot;:1},{&quot;X&quot;:264740,&quot;Y&quot;:1},{&quot;X&quot;:326860,&quot;Y&quot;:6},{&quot;X&quot;:264710,&quot;Y&quot;:3},{&quot;X&quot;:150,&quot;Y&quot;:9},{&quot;X&quot;:264520,&quot;Y&quot;:4},{&quot;X&quot;:264780,&quot;Y&quot;:6},{&quot;X&quot;:264620,&quot;Y&quot;:2},{&quot;X&quot;:264730,&quot;Y&quot;:2},{&quot;X&quot;:264230,&quot;Y&quot;:1},{&quot;X&quot;:326820,&quot;Y&quot;:19},{&quot;X&quot;:326750,&quot;Y&quot;:20},{&quot;X&quot;:264770,&quot;Y&quot;:1},{&quot;X&quot;:264590,&quot;Y&quot;:1},{&quot;X&quot;:264650,&quot;Y&quot;:2},{&quot;X&quot;:30,&quot;Y&quot;:2},{&quot;X&quot;:264290,&quot;Y&quot;:3},{&quot;X&quot;:264500,&quot;Y&quot;:1},{&quot;X&quot;:264370,&quot;Y&quot;:2},{&quot;X&quot;:326780,&quot;Y&quot;:18},{&quot;X&quot;:264310,&quot;Y&quot;:3},{&quot;X&quot;:264270,&quot;Y&quot;:4},{&quot;X&quot;:326830,&quot;Y&quot;:16},{&quot;X&quot;:264600,&quot;Y&quot;:5},{&quot;X&quot;:326840,&quot;Y&quot;:14},{&quot;X&quot;:120,&quot;Y&quot;:4},{&quot;X&quot;:264490,&quot;Y&quot;:2},{&quot;X&quot;:40,&quot;Y&quot;:9},{&quot;X&quot;:264480,&quot;Y&quot;:4},{&quot;X&quot;:100,&quot;Y&quot;:5},{&quot;X&quot;:264430,&quot;Y&quot;:2},{&quot;X&quot;:264210,&quot;Y&quot;:10},{&quot;X&quot;:264350,&quot;Y&quot;:2},{&quot;X&quot;:264860,&quot;Y&quot;:5},{&quot;X&quot;:264420,&quot;Y&quot;:3},{&quot;X&quot;:90,&quot;Y&quot;:5},{&quot;X&quot;:264360,&quot;Y&quot;:3},{&quot;X&quot;:264540,&quot;Y&quot;:2},{&quot;X&quot;:264400,&quot;Y&quot;:3},{&quot;X&quot;:326800,&quot;Y&quot;:22},{&quot;X&quot;:264460,&quot;Y&quot;:5},{&quot;X&quot;:264830,&quot;Y&quot;:2},{&quot;X&quot;:264840,&quot;Y&quot;:2},{&quot;X&quot;:264410,&quot;Y&quot;:5},{&quot;X&quot;:264760,&quot;Y&quot;:3},{&quot;X&quot;:264220,&quot;Y&quot;:4},{&quot;X&quot;:326760,&quot;Y&quot;:14},{&quot;X&quot;:264800,&quot;Y&quot;:3},{&quot;X&quot;:264390,&quot;Y&quot;:2},{&quot;X&quot;:264280,&quot;Y&quot;:3},{&quot;X&quot;:264720,&quot;Y&quot;:4},{&quot;X&quot;:326850,&quot;Y&quot;:18},{&quot;X&quot;:60,&quot;Y&quot;:5},{&quot;X&quot;:264610,&quot;Y&quot;:5},{&quot;X&quot;:70,&quot;Y&quot;:7},{&quot;X&quot;:264690,&quot;Y&quot;:10},{&quot;X&quot;:264320,&quot;Y&quot;:5},{&quot;X&quot;:264550,&quot;Y&quot;:5},{&quot;X&quot;:264440,&quot;Y&quot;:1},{&quot;X&quot;:264680,&quot;Y&quot;:1},{&quot;X&quot;:20,&quot;Y&quot;:3},{&quot;X&quot;:326810,&quot;Y&quot;:16},{&quot;X&quot;:264530,&quot;Y&quot;:2},{&quot;X&quot;:264700,&quot;Y&quot;:2},{&quot;X&quot;:264180,&quot;Y&quot;:8},{&quot;X&quot;:264330,&quot;Y&quot;:2},{&quot;X&quot;:326740,&quot;Y&quot;:18},{&quot;X&quot;:10,&quot;Y&quot;:1},{&quot;X&quot;:326790,&quot;Y&quot;:27},{&quot;X&quot;:140,&quot;Y&quot;:13},{&quot;X&quot;:326770,&quot;Y&quot;:12},{&quot;X&quot;:264190,&quot;Y&quot;:4},{&quot;X&quot;:50,&quot;Y&quot;:10},{&quot;X&quot;:0,&quot;Y&quot;:1},{&quot;X&quot;:264580,&quot;Y&quot;:6},{&quot;X&quot;:264850,&quot;Y&quot;:7},{&quot;X&quot;:264470,&quot;Y&quot;:6},{&quot;X&quot;:264510,&quot;Y&quot;:7},{&quot;X&quot;:110,&quot;Y&quot;:9},{&quot;X&quot;:264660,&quot;Y&quot;:10},{&quot;X&quot;:130,&quot;Y&quot;:5},{&quot;X&quot;:264170,&quot;Y&quot;:1},{&quot;X&quot;:80,&quot;Y&quot;:6},{&quot;X&quot;:264570,&quot;Y&quot;:3},{&quot;X&quot;:264560,&quot;Y&quot;:2},{&quot;X&quot;:264240,&quot;Y&quot;:3},{&quot;X&quot;:264820,&quot;Y&quot;:2},{&quot;X&quot;:264200,&quot;Y&quot;:7},{&quot;X&quot;:264750,&quot;Y&quot;:3},{&quot;X&quot;:264810,&quot;Y&quot;:4},{&quot;X&quot;:264300,&quot;Y&quot;:3},{&quot;X&quot;:264250,&quot;Y&quot;:7},{&quot;X&quot;:264630,&quot;Y&quot;:6},{&quot;X&quot;:264450,&quot;Y&quot;:4}],&quot;genId&quot;:&quot;886179625&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"X\",\"Y\"],\"nrow\":96,\"shown\":96,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div><div class=\"tab-pane\" id=\"tab1993081127-1\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon0215c937c1e5347792bbd16094084fd2&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:264640,&quot;Y&quot;:2},{&quot;X&quot;:264260,&quot;Y&quot;:2},{&quot;X&quot;:264340,&quot;Y&quot;:1},{&quot;X&quot;:264740,&quot;Y&quot;:1},{&quot;X&quot;:326860,&quot;Y&quot;:6},{&quot;X&quot;:264710,&quot;Y&quot;:3},{&quot;X&quot;:150,&quot;Y&quot;:9},{&quot;X&quot;:264520,&quot;Y&quot;:4},{&quot;X&quot;:264780,&quot;Y&quot;:6},{&quot;X&quot;:264620,&quot;Y&quot;:2},{&quot;X&quot;:264730,&quot;Y&quot;:2},{&quot;X&quot;:264230,&quot;Y&quot;:1},{&quot;X&quot;:326820,&quot;Y&quot;:19},{&quot;X&quot;:326750,&quot;Y&quot;:20},{&quot;X&quot;:264770,&quot;Y&quot;:1},{&quot;X&quot;:264590,&quot;Y&quot;:1},{&quot;X&quot;:264650,&quot;Y&quot;:2},{&quot;X&quot;:30,&quot;Y&quot;:2},{&quot;X&quot;:264290,&quot;Y&quot;:3},{&quot;X&quot;:264500,&quot;Y&quot;:1},{&quot;X&quot;:264370,&quot;Y&quot;:2},{&quot;X&quot;:326780,&quot;Y&quot;:18},{&quot;X&quot;:264310,&quot;Y&quot;:3},{&quot;X&quot;:264270,&quot;Y&quot;:4},{&quot;X&quot;:326830,&quot;Y&quot;:16},{&quot;X&quot;:264600,&quot;Y&quot;:5},{&quot;X&quot;:326840,&quot;Y&quot;:14},{&quot;X&quot;:120,&quot;Y&quot;:4},{&quot;X&quot;:264490,&quot;Y&quot;:2},{&quot;X&quot;:40,&quot;Y&quot;:9},{&quot;X&quot;:264480,&quot;Y&quot;:4},{&quot;X&quot;:100,&quot;Y&quot;:5},{&quot;X&quot;:264430,&quot;Y&quot;:2},{&quot;X&quot;:264210,&quot;Y&quot;:10},{&quot;X&quot;:264350,&quot;Y&quot;:2},{&quot;X&quot;:264860,&quot;Y&quot;:5},{&quot;X&quot;:264420,&quot;Y&quot;:3},{&quot;X&quot;:90,&quot;Y&quot;:5},{&quot;X&quot;:264360,&quot;Y&quot;:3},{&quot;X&quot;:264540,&quot;Y&quot;:2},{&quot;X&quot;:264400,&quot;Y&quot;:3},{&quot;X&quot;:326800,&quot;Y&quot;:22},{&quot;X&quot;:264460,&quot;Y&quot;:5},{&quot;X&quot;:264830,&quot;Y&quot;:2},{&quot;X&quot;:264840,&quot;Y&quot;:2},{&quot;X&quot;:264410,&quot;Y&quot;:5},{&quot;X&quot;:264760,&quot;Y&quot;:3},{&quot;X&quot;:264220,&quot;Y&quot;:4},{&quot;X&quot;:326760,&quot;Y&quot;:14},{&quot;X&quot;:264800,&quot;Y&quot;:3},{&quot;X&quot;:264390,&quot;Y&quot;:2},{&quot;X&quot;:264280,&quot;Y&quot;:3},{&quot;X&quot;:264720,&quot;Y&quot;:4},{&quot;X&quot;:326850,&quot;Y&quot;:18},{&quot;X&quot;:60,&quot;Y&quot;:5},{&quot;X&quot;:264610,&quot;Y&quot;:5},{&quot;X&quot;:70,&quot;Y&quot;:7},{&quot;X&quot;:264690,&quot;Y&quot;:10},{&quot;X&quot;:264320,&quot;Y&quot;:5},{&quot;X&quot;:264550,&quot;Y&quot;:5},{&quot;X&quot;:264440,&quot;Y&quot;:1},{&quot;X&quot;:264680,&quot;Y&quot;:1},{&quot;X&quot;:20,&quot;Y&quot;:3},{&quot;X&quot;:326810,&quot;Y&quot;:16},{&quot;X&quot;:264530,&quot;Y&quot;:2},{&quot;X&quot;:264700,&quot;Y&quot;:2},{&quot;X&quot;:264180,&quot;Y&quot;:8},{&quot;X&quot;:264330,&quot;Y&quot;:2},{&quot;X&quot;:326740,&quot;Y&quot;:18},{&quot;X&quot;:10,&quot;Y&quot;:1},{&quot;X&quot;:326790,&quot;Y&quot;:27},{&quot;X&quot;:140,&quot;Y&quot;:13},{&quot;X&quot;:326770,&quot;Y&quot;:12},{&quot;X&quot;:264190,&quot;Y&quot;:4},{&quot;X&quot;:50,&quot;Y&quot;:10},{&quot;X&quot;:0,&quot;Y&quot;:1},{&quot;X&quot;:264580,&quot;Y&quot;:6},{&quot;X&quot;:264850,&quot;Y&quot;:7},{&quot;X&quot;:264470,&quot;Y&quot;:6},{&quot;X&quot;:264510,&quot;Y&quot;:7},{&quot;X&quot;:110,&quot;Y&quot;:9},{&quot;X&quot;:264660,&quot;Y&quot;:10},{&quot;X&quot;:130,&quot;Y&quot;:5},{&quot;X&quot;:264170,&quot;Y&quot;:1},{&quot;X&quot;:80,&quot;Y&quot;:6},{&quot;X&quot;:264570,&quot;Y&quot;:3},{&quot;X&quot;:264560,&quot;Y&quot;:2},{&quot;X&quot;:264240,&quot;Y&quot;:3},{&quot;X&quot;:264820,&quot;Y&quot;:2},{&quot;X&quot;:264200,&quot;Y&quot;:7},{&quot;X&quot;:264750,&quot;Y&quot;:3},{&quot;X&quot;:264810,&quot;Y&quot;:4},{&quot;X&quot;:264300,&quot;Y&quot;:3},{&quot;X&quot;:264250,&quot;Y&quot;:7},{&quot;X&quot;:264630,&quot;Y&quot;:6},{&quot;X&quot;:264450,&quot;Y&quot;:4}],&quot;genId&quot;:&quot;1587999340&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/scatterChart'], \n      function(playground, _magicscatterChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicscatterChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div><div class=\"tab-pane\" id=\"tab1993081127-2\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon1919bc4e8bde736c6c77527c8a708ee2&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:264640,&quot;Y&quot;:2},{&quot;X&quot;:264260,&quot;Y&quot;:2},{&quot;X&quot;:264340,&quot;Y&quot;:1},{&quot;X&quot;:264740,&quot;Y&quot;:1},{&quot;X&quot;:326860,&quot;Y&quot;:6},{&quot;X&quot;:264710,&quot;Y&quot;:3},{&quot;X&quot;:150,&quot;Y&quot;:9},{&quot;X&quot;:264520,&quot;Y&quot;:4},{&quot;X&quot;:264780,&quot;Y&quot;:6},{&quot;X&quot;:264620,&quot;Y&quot;:2},{&quot;X&quot;:264730,&quot;Y&quot;:2},{&quot;X&quot;:264230,&quot;Y&quot;:1},{&quot;X&quot;:326820,&quot;Y&quot;:19},{&quot;X&quot;:326750,&quot;Y&quot;:20},{&quot;X&quot;:264770,&quot;Y&quot;:1},{&quot;X&quot;:264590,&quot;Y&quot;:1},{&quot;X&quot;:264650,&quot;Y&quot;:2},{&quot;X&quot;:30,&quot;Y&quot;:2},{&quot;X&quot;:264290,&quot;Y&quot;:3},{&quot;X&quot;:264500,&quot;Y&quot;:1},{&quot;X&quot;:264370,&quot;Y&quot;:2},{&quot;X&quot;:326780,&quot;Y&quot;:18},{&quot;X&quot;:264310,&quot;Y&quot;:3},{&quot;X&quot;:264270,&quot;Y&quot;:4},{&quot;X&quot;:326830,&quot;Y&quot;:16},{&quot;X&quot;:264600,&quot;Y&quot;:5},{&quot;X&quot;:326840,&quot;Y&quot;:14},{&quot;X&quot;:120,&quot;Y&quot;:4},{&quot;X&quot;:264490,&quot;Y&quot;:2},{&quot;X&quot;:40,&quot;Y&quot;:9},{&quot;X&quot;:264480,&quot;Y&quot;:4},{&quot;X&quot;:100,&quot;Y&quot;:5},{&quot;X&quot;:264430,&quot;Y&quot;:2},{&quot;X&quot;:264210,&quot;Y&quot;:10},{&quot;X&quot;:264350,&quot;Y&quot;:2},{&quot;X&quot;:264860,&quot;Y&quot;:5},{&quot;X&quot;:264420,&quot;Y&quot;:3},{&quot;X&quot;:90,&quot;Y&quot;:5},{&quot;X&quot;:264360,&quot;Y&quot;:3},{&quot;X&quot;:264540,&quot;Y&quot;:2},{&quot;X&quot;:264400,&quot;Y&quot;:3},{&quot;X&quot;:326800,&quot;Y&quot;:22},{&quot;X&quot;:264460,&quot;Y&quot;:5},{&quot;X&quot;:264830,&quot;Y&quot;:2},{&quot;X&quot;:264840,&quot;Y&quot;:2},{&quot;X&quot;:264410,&quot;Y&quot;:5},{&quot;X&quot;:264760,&quot;Y&quot;:3},{&quot;X&quot;:264220,&quot;Y&quot;:4},{&quot;X&quot;:326760,&quot;Y&quot;:14},{&quot;X&quot;:264800,&quot;Y&quot;:3},{&quot;X&quot;:264390,&quot;Y&quot;:2},{&quot;X&quot;:264280,&quot;Y&quot;:3},{&quot;X&quot;:264720,&quot;Y&quot;:4},{&quot;X&quot;:326850,&quot;Y&quot;:18},{&quot;X&quot;:60,&quot;Y&quot;:5},{&quot;X&quot;:264610,&quot;Y&quot;:5},{&quot;X&quot;:70,&quot;Y&quot;:7},{&quot;X&quot;:264690,&quot;Y&quot;:10},{&quot;X&quot;:264320,&quot;Y&quot;:5},{&quot;X&quot;:264550,&quot;Y&quot;:5},{&quot;X&quot;:264440,&quot;Y&quot;:1},{&quot;X&quot;:264680,&quot;Y&quot;:1},{&quot;X&quot;:20,&quot;Y&quot;:3},{&quot;X&quot;:326810,&quot;Y&quot;:16},{&quot;X&quot;:264530,&quot;Y&quot;:2},{&quot;X&quot;:264700,&quot;Y&quot;:2},{&quot;X&quot;:264180,&quot;Y&quot;:8},{&quot;X&quot;:264330,&quot;Y&quot;:2},{&quot;X&quot;:326740,&quot;Y&quot;:18},{&quot;X&quot;:10,&quot;Y&quot;:1},{&quot;X&quot;:326790,&quot;Y&quot;:27},{&quot;X&quot;:140,&quot;Y&quot;:13},{&quot;X&quot;:326770,&quot;Y&quot;:12},{&quot;X&quot;:264190,&quot;Y&quot;:4},{&quot;X&quot;:50,&quot;Y&quot;:10},{&quot;X&quot;:0,&quot;Y&quot;:1},{&quot;X&quot;:264580,&quot;Y&quot;:6},{&quot;X&quot;:264850,&quot;Y&quot;:7},{&quot;X&quot;:264470,&quot;Y&quot;:6},{&quot;X&quot;:264510,&quot;Y&quot;:7},{&quot;X&quot;:110,&quot;Y&quot;:9},{&quot;X&quot;:264660,&quot;Y&quot;:10},{&quot;X&quot;:130,&quot;Y&quot;:5},{&quot;X&quot;:264170,&quot;Y&quot;:1},{&quot;X&quot;:80,&quot;Y&quot;:6},{&quot;X&quot;:264570,&quot;Y&quot;:3},{&quot;X&quot;:264560,&quot;Y&quot;:2},{&quot;X&quot;:264240,&quot;Y&quot;:3},{&quot;X&quot;:264820,&quot;Y&quot;:2},{&quot;X&quot;:264200,&quot;Y&quot;:7},{&quot;X&quot;:264750,&quot;Y&quot;:3},{&quot;X&quot;:264810,&quot;Y&quot;:4},{&quot;X&quot;:264300,&quot;Y&quot;:3},{&quot;X&quot;:264250,&quot;Y&quot;:7},{&quot;X&quot;:264630,&quot;Y&quot;:6},{&quot;X&quot;:264450,&quot;Y&quot;:4}],&quot;genId&quot;:&quot;1118819260&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/lineChart'], \n      function(playground, _magiclineChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magiclineChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div><div class=\"tab-pane\" id=\"tab1993081127-3\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonf168b096b225df53b76011f659ed3462&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:264640,&quot;Y&quot;:2},{&quot;X&quot;:264260,&quot;Y&quot;:2},{&quot;X&quot;:264340,&quot;Y&quot;:1},{&quot;X&quot;:264740,&quot;Y&quot;:1},{&quot;X&quot;:326860,&quot;Y&quot;:6},{&quot;X&quot;:264710,&quot;Y&quot;:3},{&quot;X&quot;:150,&quot;Y&quot;:9},{&quot;X&quot;:264520,&quot;Y&quot;:4},{&quot;X&quot;:264780,&quot;Y&quot;:6},{&quot;X&quot;:264620,&quot;Y&quot;:2},{&quot;X&quot;:264730,&quot;Y&quot;:2},{&quot;X&quot;:264230,&quot;Y&quot;:1},{&quot;X&quot;:326820,&quot;Y&quot;:19},{&quot;X&quot;:326750,&quot;Y&quot;:20},{&quot;X&quot;:264770,&quot;Y&quot;:1},{&quot;X&quot;:264590,&quot;Y&quot;:1},{&quot;X&quot;:264650,&quot;Y&quot;:2},{&quot;X&quot;:30,&quot;Y&quot;:2},{&quot;X&quot;:264290,&quot;Y&quot;:3},{&quot;X&quot;:264500,&quot;Y&quot;:1},{&quot;X&quot;:264370,&quot;Y&quot;:2},{&quot;X&quot;:326780,&quot;Y&quot;:18},{&quot;X&quot;:264310,&quot;Y&quot;:3},{&quot;X&quot;:264270,&quot;Y&quot;:4},{&quot;X&quot;:326830,&quot;Y&quot;:16},{&quot;X&quot;:264600,&quot;Y&quot;:5},{&quot;X&quot;:326840,&quot;Y&quot;:14},{&quot;X&quot;:120,&quot;Y&quot;:4},{&quot;X&quot;:264490,&quot;Y&quot;:2},{&quot;X&quot;:40,&quot;Y&quot;:9},{&quot;X&quot;:264480,&quot;Y&quot;:4},{&quot;X&quot;:100,&quot;Y&quot;:5},{&quot;X&quot;:264430,&quot;Y&quot;:2},{&quot;X&quot;:264210,&quot;Y&quot;:10},{&quot;X&quot;:264350,&quot;Y&quot;:2},{&quot;X&quot;:264860,&quot;Y&quot;:5},{&quot;X&quot;:264420,&quot;Y&quot;:3},{&quot;X&quot;:90,&quot;Y&quot;:5},{&quot;X&quot;:264360,&quot;Y&quot;:3},{&quot;X&quot;:264540,&quot;Y&quot;:2},{&quot;X&quot;:264400,&quot;Y&quot;:3},{&quot;X&quot;:326800,&quot;Y&quot;:22},{&quot;X&quot;:264460,&quot;Y&quot;:5},{&quot;X&quot;:264830,&quot;Y&quot;:2},{&quot;X&quot;:264840,&quot;Y&quot;:2},{&quot;X&quot;:264410,&quot;Y&quot;:5},{&quot;X&quot;:264760,&quot;Y&quot;:3},{&quot;X&quot;:264220,&quot;Y&quot;:4},{&quot;X&quot;:326760,&quot;Y&quot;:14},{&quot;X&quot;:264800,&quot;Y&quot;:3},{&quot;X&quot;:264390,&quot;Y&quot;:2},{&quot;X&quot;:264280,&quot;Y&quot;:3},{&quot;X&quot;:264720,&quot;Y&quot;:4},{&quot;X&quot;:326850,&quot;Y&quot;:18},{&quot;X&quot;:60,&quot;Y&quot;:5},{&quot;X&quot;:264610,&quot;Y&quot;:5},{&quot;X&quot;:70,&quot;Y&quot;:7},{&quot;X&quot;:264690,&quot;Y&quot;:10},{&quot;X&quot;:264320,&quot;Y&quot;:5},{&quot;X&quot;:264550,&quot;Y&quot;:5},{&quot;X&quot;:264440,&quot;Y&quot;:1},{&quot;X&quot;:264680,&quot;Y&quot;:1},{&quot;X&quot;:20,&quot;Y&quot;:3},{&quot;X&quot;:326810,&quot;Y&quot;:16},{&quot;X&quot;:264530,&quot;Y&quot;:2},{&quot;X&quot;:264700,&quot;Y&quot;:2},{&quot;X&quot;:264180,&quot;Y&quot;:8},{&quot;X&quot;:264330,&quot;Y&quot;:2},{&quot;X&quot;:326740,&quot;Y&quot;:18},{&quot;X&quot;:10,&quot;Y&quot;:1},{&quot;X&quot;:326790,&quot;Y&quot;:27},{&quot;X&quot;:140,&quot;Y&quot;:13},{&quot;X&quot;:326770,&quot;Y&quot;:12},{&quot;X&quot;:264190,&quot;Y&quot;:4},{&quot;X&quot;:50,&quot;Y&quot;:10},{&quot;X&quot;:0,&quot;Y&quot;:1},{&quot;X&quot;:264580,&quot;Y&quot;:6},{&quot;X&quot;:264850,&quot;Y&quot;:7},{&quot;X&quot;:264470,&quot;Y&quot;:6},{&quot;X&quot;:264510,&quot;Y&quot;:7},{&quot;X&quot;:110,&quot;Y&quot;:9},{&quot;X&quot;:264660,&quot;Y&quot;:10},{&quot;X&quot;:130,&quot;Y&quot;:5},{&quot;X&quot;:264170,&quot;Y&quot;:1},{&quot;X&quot;:80,&quot;Y&quot;:6},{&quot;X&quot;:264570,&quot;Y&quot;:3},{&quot;X&quot;:264560,&quot;Y&quot;:2},{&quot;X&quot;:264240,&quot;Y&quot;:3},{&quot;X&quot;:264820,&quot;Y&quot;:2},{&quot;X&quot;:264200,&quot;Y&quot;:7},{&quot;X&quot;:264750,&quot;Y&quot;:3},{&quot;X&quot;:264810,&quot;Y&quot;:4},{&quot;X&quot;:264300,&quot;Y&quot;:3},{&quot;X&quot;:264250,&quot;Y&quot;:7},{&quot;X&quot;:264630,&quot;Y&quot;:6},{&quot;X&quot;:264450,&quot;Y&quot;:4}],&quot;genId&quot;:&quot;829345893&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>\n            </div></div>\n      </div></div>"
       },
       "output_type" : "execute_result",
-      "execution_count" : 37
+      "execution_count" : 50
     } ]
   }, {
     "metadata" : {

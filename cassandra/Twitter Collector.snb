@@ -1,0 +1,554 @@
+{
+  "metadata" : {
+    "name" : "Twitter Collector",
+    "user_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "auto_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "language_info" : {
+      "name" : "scala",
+      "file_extension" : "scala",
+      "codemirror_mode" : "text/x-scala"
+    },
+    "trusted" : true,
+    "customLocalRepo" : "/tmp/repo",
+    "customRepos" : null,
+    "customDeps" : null,
+    "customImports" : null,
+    "customSparkConf" : null
+  },
+  "cells" : [ {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Twitter Collector"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##Setup Dependencies"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Add streaming + twitter deps "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : ":dp org.apache.spark % spark-streaming_2.10 % 1.4.1\n    com.datastax.spark % spark-cassandra-connector_2.10 % 1.4.0-M3\n    org.apache.spark % spark-streaming-twitter_2.10 % 1.4.1\n    - org.apache.spark % spark-core_2.10 % _\n    - org.apache.hadoop % _ % _",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 4 feature warning(s); re-run with -feature for details\nglobalScope.jars: Array[String] = [Ljava.lang.String;@ba349b9\nres4: List[String] = List(/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar, /tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar, /home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar, /home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar, /home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar, /home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar, /home/maasg/..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonabef28e9869708a627f31929c2edec9e&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0-M3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-stream/3.0.3/twitter4j-stream-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.cassandra/cassandra-clientutil/jars/cassandra-clientutil-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.1.5/cassandra-driver-core-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/tmp/repo/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar&quot;},{&quot;string value&quot;:&quot;file:/media/maasg/ssd/playground/sparkfun/spark-notebook/spark-notebook-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4/lib/common.common-0.6.0-scala-2.10.4-spark-1.4.1-hadoop-1.0.4.jar&quot;}],&quot;genId&quot;:&quot;2054072628&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":19,\"shown\":19,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div></div></div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 1
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Install the twitter credentials "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "**Note:** we are using the `env` variables here. For this, adapt the following and execute before launching the server\n```\n  export TWITTER_CONSUMER_KEY=...\n  export TWITTER_CONSUMER_SECRET=\"...\n  export TWITTER_ACCESS_TOKEN=...\n  export TWITTER_ACCESS_TOKEN_SECRET=...\n```"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "def $(s:String) = sys.env(s)\nSystem.setProperty(\"twitter4j.oauth.consumerKey\", $(\"TWITTER_CONSUMER_KEY\"))\nSystem.setProperty(\"twitter4j.oauth.consumerSecret\", $(\"TWITTER_CONSUMER_SECRET\"))\nSystem.setProperty(\"twitter4j.oauth.accessToken\", $(\"TWITTER_ACCESS_TOKEN\"))\nSystem.setProperty(\"twitter4j.oauth.accessTokenSecret\",$(\"TWITTER_ACCESS_TOKEN_SECRET\") )\n\"twitter settings done!\"",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "$: (s: String)String\nres5: String = twitter settings done!\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "twitter settings done!"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 2
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\nval cassandraHost = \"172.17.0.1\"\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.master\", \"local[*]\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "sparkLocalDir: String = /tmp/spark-local\nbroadcastFactory: String = org.apache.spark.broadcast.HttpBroadcastFactory\ncassandraHost: String = 172.17.0.1\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 3
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##Import the supporting modules from the Spark-Cassandra Connector"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import com.datastax.spark.connector._ //Imports basic rdd functions\nimport com.datastax.spark.connector.cql._",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import com.datastax.spark.connector._\nimport com.datastax.spark.connector.cql._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 4
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\n//val drop = \"DROP TABLE meetup.tweets\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.tweets(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         session.execute(votes)\n                        }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "connector: com.datastax.spark.connector.cql.CassandraConnector = com.datastax.spark.connector.cql.CassandraConnector@6ed0a7e4\nks: String = \nCREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\nvotes: String = \n\"CREATE TABLE IF NOT EXISTS meetup.tweets(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\nres7: com.datastax.driver.core.ResultSet = ResultSet[ exhausted: true, Columns[]]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "ResultSet[ exhausted: true, Columns[]]"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 5
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "case class Tweet(handle:String, ts:Long, txt: String)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "defined class Tweet\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 6
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "# Spark streaming"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Create context with batch 2s "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\n\nval ssc = new StreamingContext(sparkContext, Seconds(2))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\nssc: org.apache.spark.streaming.StreamingContext = org.apache.spark.streaming.StreamingContext@37fa58d2\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.StreamingContext@37fa58d2"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 7
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "## Listen twitter stream "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#### We're going to **filter** the tweets to only those containing the following event  tag."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val filters:Array[String] = Array()",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "filters: Array[String] = Array()\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "empty array"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 8
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Create the twitter listeners"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val stream = TwitterUtils.createStream(ssc, None, filters)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "stream: org.apache.spark.streaming.dstream.ReceiverInputDStream[twitter4j.Status] = org.apache.spark.streaming.twitter.TwitterInputDStream@47b2c74a\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.twitter.TwitterInputDStream@47b2c74a"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 9
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Window-based count by hashtag and sort  "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##### The windows are `120s` long"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val updateTotalFunc:(Seq[Long], Option[Long])=>Option[Long] = (newValues, runningCount) =>  {\n    val newCount = runningCount.getOrElse(0L)+ newValues.sum \n    Some(newCount)\n}",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "updateTotalFunc: (Seq[Long], Option[Long]) => Option[Long] = <function2>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "&lt;function2&gt;"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 10
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import StreamingContext._\nval tweets = stream.map{status => \n                       val handle = status.getUser.getScreenName \n                       val ts = status.getCreatedAt.getTime\n                       val txt = status.getText\n                       Tweet(handle, ts, txt)\n                      }\n\nval keywords = tweets.flatMap(vote => vote.txt.split(\" \")).filter(_.startsWith(\"#\"))\n\nval totalKeywords = keywords.map((_, 1L)).reduceByKeyAndWindow(_ + _, Seconds(120))\nval topKeywords = totalKeywords.map{case (topic, count) => (count, topic)}.transform(_.sortByKey(false))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import StreamingContext._\ntweets: org.apache.spark.streaming.dstream.DStream[Tweet] = org.apache.spark.streaming.dstream.MappedDStream@5a8dfef0\nkeywords: org.apache.spark.streaming.dstream.DStream[String] = org.apache.spark.streaming.dstream.FilteredDStream@205c6d02\ntotalKeywords: org.apache.spark.streaming.dstream.DStream[(String, Long)] = org.apache.spark.streaming.dstream.ShuffledDStream@13f8aee7\ntopKeywords: org.apache.spark.streaming.dstream.DStream[(Long, String)] = org.apache.spark.streaming.dstream.TransformedDStream@2ba2c9ef\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.dstream.TransformedDStream@2ba2c9ef"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 11
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val tweetCount = stream.map(_ => 1L).reduce(_ + _).map(x => (\"total\", x))\n\nval totalTweetCount = tweetCount.reduceByKeyAndWindow(_ + _, Seconds(120))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "tweetCount: org.apache.spark.streaming.dstream.DStream[(String, Long)] = org.apache.spark.streaming.dstream.MappedDStream@7b41ffe3\ntotalTweetCount: org.apache.spark.streaming.dstream.DStream[(String, Long)] = org.apache.spark.streaming.dstream.ShuffledDStream@2a06cf4d\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.dstream.ShuffledDStream@2a06cf4d"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 12
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "output_stream_collapsed" : true,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import com.datastax.spark.connector.streaming._\ntweets.saveToCassandra(\"meetup\",\"tweets\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import com.datastax.spark.connector.streaming._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 13
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "# Twiter Stream - Trending keywords"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val count = out\n",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "count: notebook.front.SingleConnectedWidget[String]{implicit val codec: notebook.Codec[play.api.libs.json.JsValue,String]; lazy val toHtml: scala.xml.Elem} = <anon$2 widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<p data-bind=\"text: value\"><script data-this=\"{&quot;valueId&quot;:&quot;anond2ab48cbddf1037458214ab0f25c3bfb&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId)\n    },\n    this\n  );\n});\n        /*]]>*/</script></p>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 14
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val custom  = widgets.BarChart(Seq((\"\",0L)), Some((\"X\", \"Y\")), maxPoints = 100)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "custom: notebook.front.widgets.BarChart[Seq[(String, Long)]] = <BarChart widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon36b8d2a14dd6bfaf674750fc079c8409&quot;,&quot;dataInit&quot;:[{&quot;X&quot;:&quot;&quot;,&quot;Y&quot;:0}],&quot;genId&quot;:&quot;1285145572&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"X\",\"y\":\"Y\",\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    </div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 15
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "output_stream_collapsed" : true,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "custom.applyOn(List((\"spark\",3L),(\"cassandra\",2L), (\"scala\",4L)))",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 16
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#### We update the chart with the top-10 tags every interval "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "// Print popular hashtags\ntopKeywords.foreachRDD(rdd => {\n  val topList = rdd.take(10).toList\n  //val r = topList.map{case (count, tag) => s\"$tag: $count\"}\n  //result(r)\n  custom.applyOn(topList.map{case (count, label) => (label, count)})\n})\n\ntotalTweetCount.foreachRDD{rdd => \n  val t = rdd.take(1).headOption.map{case (_,count) => count.toString}.getOrElse(\"-0-\")\n  count(t)\n}",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 17
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###  Start listening twitter"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "This will listen the twitter stream, and the computation above will update the `resuilt` every `2s` using the last `60s` of values."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "ssc.start()",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 18
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Done with the poll? Stop listening twitter \n_We keep the underlying Spark Context active_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true
+    },
+    "cell_type" : "code",
+    "source" : "// commented to all 'run all' :-D\nssc.stop(stopSparkContext = false, stopGracefully= true)",
+    "outputs" : [ ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Checking the captured load\n_Read the voting data back from Cassandra and build up a 0-based timeline of vote frequency_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val storedTweets = sparkContext.cassandraTable[Tweet](\"meetup\", \"tweets\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "storedTweets: com.datastax.spark.connector.rdd.CassandraTableScanRDD[Tweet] = CassandraTableScanRDD[270432] at RDD at CassandraRDD.scala:15\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "CassandraTableScanRDD[270432] at RDD at CassandraRDD.scala:15"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 19
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###Count votes\n_First, we use the standard count from Spark, that requires loading all the data_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true
+    },
+    "cell_type" : "code",
+    "source" : "val totalTweets = storedTweets.count()",
+    "outputs" : [ ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "_It is also possible to \"push down\" the count to Cassandra for a more efficient count_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val totalTweetsCassandra = storedTweets.cassandraCount()",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "totalTweetsCassandra: Long = 1521732\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "1521732"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 20
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val floor: Long => Long => Long = t => n => n / t * t",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "floor: Long => (Long => Long) = <function1>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "&lt;function1&gt;"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 21
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val floor10s = floor(10000) \nval tenSecTimeline = votingResults.map(vote => (floor10s(vote.ts),1)).reduceByKey(_ + _).collect\nval tenSecTimelineDelta = {\n  val min = tenSecTimeline.map(_._1).min\n  println(min)\n  tenSecTimeline.map{ case (k,v) => ((k-min)/1000,v)}\n}\ntenSecTimelineDelta",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:69: error: not found: value votingResults\n              val tenSecTimeline = votingResults.map(vote => (floor10s(vote.ts),1)).reduceByKey(_ + _).collect\n                                   ^\n"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true
+    },
+    "cell_type" : "code",
+    "source" : "",
+    "outputs" : [ ]
+  } ],
+  "nbformat" : 4
+}
