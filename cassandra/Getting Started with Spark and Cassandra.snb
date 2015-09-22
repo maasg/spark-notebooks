@@ -35,7 +35,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : ":local-repo /tmp/repo",
@@ -48,7 +48,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : ":dp com.datastax.spark % spark-cassandra-connector_2.10 % 1.4.0-M3",
@@ -61,10 +61,10 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
-    "source" : "val cassandraHost = \"172.17.0.1\"",
+    "source" : "val cassandraHost = <FILL-IN>",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -74,7 +74,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "reset(\"Getting Stated with Spark and Cassandra Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n})",
@@ -87,7 +87,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val createKeyspace = \"CREATE KEYSPACE IF NOT EXISTS test WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 1 };\" \nval createTable = \"CREATE TABLE IF NOT EXISTS test.kv(key text PRIMARY KEY, value int);\"",
@@ -100,7 +100,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val sparkConf = sparkContext.getConf",
@@ -109,7 +109,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "import com.datastax.spark.connector.cql.CassandraConnector\nval cassandraConnector = CassandraConnector(sparkConf) ",
@@ -122,7 +122,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "cassandraConnector.withSessionDo { session =>\n  session.execute(createKeyspace)\n  session.execute(createTable)\n}",
@@ -135,7 +135,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "CassandraConnector(sparkConf).withSessionDo { session =>\n  for (i <- 0 until 100) {\n    val insertStatement = s\"INSERT INTO test.kv(key, value) VALUES ('key${i}', $i);\"\n    session.execute(insertStatement)\n  }\n}",
@@ -148,7 +148,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "import com.datastax.spark.connector._",
@@ -161,7 +161,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val rdd = sc.cassandraTable(\"test\", \"kv\")",
@@ -174,7 +174,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "rdd.count",
@@ -187,7 +187,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "rdd.first",
@@ -200,7 +200,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "rdd.map(_.getInt(\"value\")).sum",
@@ -213,7 +213,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "rdd.map(row =>  row.getInt(\"value\")).take(100)",
@@ -227,7 +227,7 @@
       "trusted" : true,
       "input_collapsed" : false,
       "output_stream_collapsed" : true,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val moreData = for (i <- 500 until 800) yield ((s\"addedKey$i\"),i) ",
@@ -240,7 +240,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val moreDataRdd = sparkContext.parallelize(moreData) ",
@@ -253,7 +253,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "moreDataRdd.saveToCassandra(\"test\",\"kv\")",
@@ -266,7 +266,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "rdd.count",
