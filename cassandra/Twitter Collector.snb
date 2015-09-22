@@ -31,7 +31,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : ":dp org.apache.spark % spark-streaming_2.10 % 1.4.1\n    com.datastax.spark % spark-cassandra-connector_2.10 % 1.4.0-M3\n    org.apache.spark % spark-streaming-twitter_2.10 % 1.4.1\n    - org.apache.spark % spark-core_2.10 % _\n    - org.apache.hadoop % _ % _",
@@ -48,7 +48,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "def $(s:String) = sys.env(s)\nSystem.setProperty(\"twitter4j.oauth.consumerKey\", $(\"TWITTER_CONSUMER_KEY\"))\nSystem.setProperty(\"twitter4j.oauth.consumerSecret\", $(\"TWITTER_CONSUMER_SECRET\"))\nSystem.setProperty(\"twitter4j.oauth.accessToken\", $(\"TWITTER_ACCESS_TOKEN\"))\nSystem.setProperty(\"twitter4j.oauth.accessTokenSecret\",$(\"TWITTER_ACCESS_TOKEN_SECRET\") )\n\"twitter settings done!\"",
@@ -57,10 +57,19 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
-    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\nval cassandraHost = \"cassandra2-0.cassandrabatch.private\"\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.cores.max\", \"4\")\n   .set(\"spark.master\", \"spark://cassandra2-0.cassandrabatch.private:7077\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
+    "source" : "val cassandraHost = <FILL-IN>",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true
+    },
+    "cell_type" : "code",
+    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.cores.max\", \"4\")\n   .set(\"spark.master\", \"spark://cassandra2-0.cassandrabatch.private:7077\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -70,7 +79,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "import com.datastax.spark.connector._ //Imports basic rdd functions\nimport com.datastax.spark.connector.cql._",
@@ -79,7 +88,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '2'\n};\"\"\"\n\nval drop = \"DROP TABLE meetup.tweets\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.tweets(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         session.execute(votes)\n                        }",
@@ -88,7 +97,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "case class Tweet(handle:String, ts:Long, txt: String)",
@@ -105,7 +114,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\n\nval ssc = new StreamingContext(sparkContext, Seconds(2))",
@@ -122,7 +131,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val emptyFilter:Array[String] = Array()",
@@ -135,7 +144,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val stream =  TwitterUtils.createStream(ssc, None, emptyFilter)",
@@ -152,7 +161,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "import StreamingContext._\nval tweets = stream.map{status => \n                       val handle = status.getUser.getScreenName \n                       val ts = status.getCreatedAt.getTime\n                       val txt = status.getText\n                       Tweet(handle, ts, txt)\n                      }\n\nval keywords = tweets.flatMap(vote => vote.txt.split(\" \")).filter(_.startsWith(\"#\"))\n\nval totalKeywords = keywords.map((_, 1L)).reduceByKeyAndWindow(_ + _, Seconds(120))\nval topKeywords = totalKeywords.map{case (topic, count) => (count, topic)}.transform(_.sortByKey(false))",
@@ -161,7 +170,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val tweetCount = stream.map(_ => 1L).reduce(_ + _).map(x => (\"total\", x))\n\nval totalTweetCount = tweetCount.reduceByKeyAndWindow(_ + _, Seconds(120))",
@@ -171,7 +180,7 @@
       "trusted" : true,
       "input_collapsed" : false,
       "output_stream_collapsed" : true,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "import com.datastax.spark.connector.streaming._\ntweets.saveToCassandra(\"meetup\",\"tweets\")",
@@ -184,7 +193,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val count = out",
@@ -193,20 +202,10 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "val custom  = widgets.BarChart(Seq((\"\",0L)), Some((\"X\", \"Y\")), maxPoints = 100)",
-    "outputs" : [ ]
-  }, {
-    "metadata" : {
-      "trusted" : true,
-      "input_collapsed" : false,
-      "output_stream_collapsed" : true,
-      "collapsed" : false
-    },
-    "cell_type" : "code",
-    "source" : "custom.applyOn(List((\"spark\",3L),(\"cassandra\",2L), (\"scala\",4L)))",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -216,7 +215,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "// Print popular hashtags\ntopKeywords.foreachRDD(rdd => {\n  val topList = rdd.take(10).toList\n  //val r = topList.map{case (count, tag) => s\"$tag: $count\"}\n  //result(r)\n  custom.applyOn(topList.map{case (count, label) => (label, count)})\n})\n\ntotalTweetCount.foreachRDD{rdd => \n  val t = rdd.take(1).headOption.map{case (_,count) => count.toString}.getOrElse(\"-0-\")\n  count(t)\n}",
@@ -233,7 +232,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false
+      "collapsed" : true
     },
     "cell_type" : "code",
     "source" : "ssc.start()",
@@ -262,12 +261,8 @@
       "collapsed" : true
     },
     "cell_type" : "code",
-    "source" : "val storedTweets = sparkContext.cassandraTable[Tweet](\"meetup\", \"tweets\")",
+    "source" : "val storedTweets = sparkContext.cassandraTable[Tweet](\"meetup\", \"tweets\")\nstoredTweets.count()",
     "outputs" : [ ]
-  }, {
-    "metadata" : { },
-    "cell_type" : "markdown",
-    "source" : "_we \"push down\" the count to Cassandra for a more efficient count_"
   } ],
   "nbformat" : 4
 }

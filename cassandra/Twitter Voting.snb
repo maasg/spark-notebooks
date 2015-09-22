@@ -31,7 +31,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : ":local-repo /tmp/repo",
@@ -44,7 +44,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : ":dp org.apache.spark % spark-streaming_2.10 % 1.4.1\n    com.datastax.spark % spark-cassandra-connector_2.10 % 1.4.0-M3\n    org.apache.spark % spark-streaming-twitter_2.10 % 1.4.1\n    - org.apache.spark % spark-core_2.10 % _\n    - org.apache.hadoop % _ % _",
@@ -61,7 +61,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "def $(s:String) = sys.env(s)\nSystem.setProperty(\"twitter4j.oauth.consumerKey\", $(\"TWITTER_CONSUMER_KEY\"))\nSystem.setProperty(\"twitter4j.oauth.consumerSecret\", $(\"TWITTER_CONSUMER_SECRET\"))\nSystem.setProperty(\"twitter4j.oauth.accessToken\", $(\"TWITTER_ACCESS_TOKEN\"))\nSystem.setProperty(\"twitter4j.oauth.accessTokenSecret\",$(\"TWITTER_ACCESS_TOKEN_SECRET\") )\n\"twitter settings done!\"",
@@ -70,10 +70,19 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\nval cassandraHost = \"172.17.0.1\"\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.master\", \"local[*]\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
+    "source" : "val cassandraHost = <FILL-IN>",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\n\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.master\", \"local[*]\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -83,7 +92,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "import com.datastax.spark.connector._ //Imports basic rdd functions\nimport com.datastax.spark.connector.cql._",
@@ -92,16 +101,16 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\n//val drop = \"DROP TABLE meetup.votes\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         session.execute(votes)\n                        }",
+    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS meetup WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\nval drop = \"DROP TABLE meetup.votes\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS meetup.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         session.execute(drop)\n                         session.execute(votes)\n                        }",
     "outputs" : [ ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "case class Vote(handle:String, ts:Long, txt: String)",
@@ -118,7 +127,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\n\nval ssc = new StreamingContext(sparkContext, Seconds(2))",
@@ -135,10 +144,10 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "val filters = Array(\"drone\", \"fpv\")",
+    "source" : "val filters = Array(<FILL-IN:keywords to listen to>)",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -148,7 +157,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "val stream = TwitterUtils.createStream(ssc, None, filters)",
@@ -165,7 +174,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "import StreamingContext._\nval tweets = stream.map{status => \n                       val handle = status.getUser.getScreenName \n                       val ts = status.getCreatedAt.getTime\n                       val txt = status.getText\n                       Vote(handle, ts, txt)\n                      }\nval votes = tweets.flatMap(vote => vote.txt.split(\" \"))\n\nval topCounts120 = votes.map((_, 1)).reduceByKeyAndWindow(_ + _, Seconds(120))\n                          .map{case (topic, count) => (count, topic)}\n                          .transform(_.sortByKey(false))",
@@ -175,7 +184,7 @@
       "trusted" : true,
       "input_collapsed" : false,
       "output_stream_collapsed" : true,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "import com.datastax.spark.connector.streaming._\ntweets.saveToCassandra(\"meetup\",\"votes\")",
@@ -188,7 +197,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "val result = ul(10)\n",
@@ -197,7 +206,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "result.append( \"five\")",
@@ -206,20 +215,10 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "val custom  = widgets.BarChart(Seq((\"\",0L)), Some((\"X\", \"Y\")), maxPoints = 100)",
-    "outputs" : [ ]
-  }, {
-    "metadata" : {
-      "trusted" : true,
-      "input_collapsed" : false,
-      "output_stream_collapsed" : true,
-      "collapsed" : true
-    },
-    "cell_type" : "code",
-    "source" : "custom.applyOn(List((\"spark\",3L),(\"cassandra\",2L), (\"scala\",4L)))",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -229,10 +228,10 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "// Print popular hashtags\ntopCounts120.foreachRDD(rdd => {\n  val topList = rdd.take(10).toList\n  //val r = topList.map{case (count, tag) => s\"$tag: $count\"}\n  //result(r)\n  custom.applyOn(topList.map{case (count, label) => (label, count.toLong)})\n})\n",
+    "source" : "// Print popular hashtags\ntopCounts120.foreachRDD(rdd => {\n  val topList = rdd.take(10).toList\n  custom.applyOn(topList.map{case (count, label) => (label, count.toLong)})\n})\n",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -246,7 +245,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
     "source" : "ssc.start()",
@@ -259,10 +258,10 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true
+      "collapsed" : false
     },
     "cell_type" : "code",
-    "source" : "// commented to all 'run all' :-D\nssc.stop(stopSparkContext = false, stopGracefully= true)",
+    "source" : "ssc.stop(stopSparkContext = false, stopGracefully= true)",
     "outputs" : [ ]
   }, {
     "metadata" : { },
@@ -320,15 +319,6 @@
     },
     "cell_type" : "code",
     "source" : "val floor10s = floor(10000) \nval tenSecTimeline = votingResults.map(vote => (floor10s(vote.ts),1)).reduceByKey(_ + _).collect\nval tenSecTimelineDelta = {\n  val min = tenSecTimeline.map(_._1).min\n  println(min)\n  tenSecTimeline.map{ case (k,v) => ((k-min)/1000,v)}\n}\ntenSecTimelineDelta",
-    "outputs" : [ ]
-  }, {
-    "metadata" : {
-      "trusted" : true,
-      "input_collapsed" : false,
-      "collapsed" : true
-    },
-    "cell_type" : "code",
-    "source" : "",
     "outputs" : [ ]
   } ],
   "nbformat" : 4
