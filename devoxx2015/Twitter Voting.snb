@@ -1,0 +1,928 @@
+{
+  "metadata" : {
+    "name" : "Twitter Voting",
+    "user_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "auto_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "language_info" : {
+      "name" : "scala",
+      "file_extension" : "scala",
+      "codemirror_mode" : "text/x-scala"
+    },
+    "trusted" : true,
+    "customLocalRepo" : "/home/maasg/.m2/repository",
+    "customRepos" : null,
+    "customDeps" : null,
+    "customImports" : null,
+    "customArgs" : null,
+    "customSparkConf" : null
+  },
+  "cells" : [ {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Twitter Audience Pulse"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Add streaming + twitter deps "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : ":dp org.apache.spark % spark-streaming_2.10 % 1.4.1\n    com.datastax.spark % spark-cassandra-connector_2.10 % 1.4.0\n    org.apache.spark % spark-streaming-twitter_2.10 % 1.4.1\n    - org.apache.spark % spark-core_2.10 % _\n    - org.apache.hadoop % _ % _",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 4 feature warning(s); re-run with -feature for details\nglobalScope.jars: Array[String] = [Ljava.lang.String;@40b21de1\nres4: List[String] = List(/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar, /home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar, /home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar, /home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar, /home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar, /home/maasg/.m2/repository/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.4.1.jar, /home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar, /ho..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon7137f060902a534dcd7f6a28bc57f39b&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-core/3.0.3/twitter4j-core-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/joda/joda-convert/1.2/joda-convert-1.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-reflect/2.10.5/scala-reflect-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/scala-lang/scala-library/2.10.5/scala-library-2.10.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/spark/spark-streaming_2.10/1.4.1/spark-streaming_2.10-1.4.1.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/twitter4j/twitter4j-stream/3.0.3/twitter4j-stream-3.0.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.4.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/joda-time/joda-time/2.3/joda-time-2.3.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.1.5/cassandra-driver-core-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/com/twitter/jsr166e/1.1.0/jsr166e-1.1.0.jar&quot;},{&quot;string value&quot;:&quot;/home/maasg/.m2/repository/org/apache/cassandra/cassandra-clientutil/2.1.5/cassandra-clientutil-2.1.5.jar&quot;},{&quot;string value&quot;:&quot;file:/media/maasg/ssd/playground/sparkfun/spark-notebook/spark-notebook-0.6.2-SNAPSHOT-scala-2.10.4-spark-1.4.1-hadoop-2.4.0-with-parquet/&quot;},{&quot;string value&quot;:&quot;file:/media/maasg/ssd/playground/sparkfun/spark-notebook/spark-notebook-0.6.2-SNAPSHOT-scala-2.10.4-spark-1.4.1-hadoop-2.4.0-with-parquet/lib/common.common-0.6.2-SNAPSHOT-scala-2.10.4-spark-1.4.1-hadoop-2.4.0-with-parquet.jar&quot;}],&quot;genId&quot;:&quot;2140827022&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":20,\"shown\":20,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon13ce810c8ded90c9b0ebc9f43c7f29a6\">\n      Max Points\n    </label><input id=\"input-anon13ce810c8ded90c9b0ebc9f43c7f29a6\" type=\"number\" name=\"input-anon13ce810c8ded90c9b0ebc9f43c7f29a6\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon13ce810c8ded90c9b0ebc9f43c7f29a6\" data-this=\"{&quot;valueId&quot;:&quot;anon13ce810c8ded90c9b0ebc9f43c7f29a6&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div></div></div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 1
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Install the twitter credentials "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "**Note:** we are using the `env` variables here. For this, adapt the following and execute before launching the server\n```\n  export TWITTER_CONSUMER_KEY=...\n  export TWITTER_CONSUMER_SECRET=\"...\n  export TWITTER_ACCESS_TOKEN=...\n  export TWITTER_ACCESS_TOKEN_SECRET=...\n```"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "def $(s:String) = sys.env(s)\nSystem.setProperty(\"twitter4j.oauth.consumerKey\", $(\"TWITTER_CONSUMER_KEY\"))\nSystem.setProperty(\"twitter4j.oauth.consumerSecret\", $(\"TWITTER_CONSUMER_SECRET\"))\nSystem.setProperty(\"twitter4j.oauth.accessToken\", $(\"TWITTER_ACCESS_TOKEN\"))\nSystem.setProperty(\"twitter4j.oauth.accessTokenSecret\",$(\"TWITTER_ACCESS_TOKEN_SECRET\") )\n\"twitter settings done!\"",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "$: (s: String)String\nres5: String = twitter settings done!\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "twitter settings done!"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 2
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val cassandraHost = \"172.17.0.2\"",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "cassandraHost: String = 172.17.0.2\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "172.17.0.2"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 3
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val sparkLocalDir = \"/tmp/spark-local\"\n// faced some problems with Torrent...\nval broadcastFactory = \"org.apache.spark.broadcast.HttpBroadcastFactory\"\n\n  \nreset(\"Notebook\", lastChanges = (c:SparkConf) => {\n  c.set(\"spark.cassandra.connection.host\", cassandraHost)\n   .set(\"spark.master\", \"local[*]\")\n   .set(\"spark.broadcast.factory\", broadcastFactory)\n   .set(\"spark.local.dir\", sparkLocalDir)\n})",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "sparkLocalDir: String = /tmp/spark-local\nbroadcastFactory: String = org.apache.spark.broadcast.HttpBroadcastFactory\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 82
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Setup Cassandra"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##Import the supporting modules from the Spark-Cassandra Connector"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import com.datastax.spark.connector._ //Imports basic rdd functions\nimport com.datastax.spark.connector.cql._",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import com.datastax.spark.connector._\nimport com.datastax.spark.connector.cql._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 5
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val connector = CassandraConnector(sparkContext.getConf)\n\nval ks = \"\"\"CREATE KEYSPACE IF NOT EXISTS devoxx WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\"\"\"\n\nval drop = \"DROP TABLE devoxx.votes\" \nval votes = \"\"\"CREATE TABLE IF NOT EXISTS devoxx.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\"\"\nconnector.withSessionDo { session => \n                         session.execute(ks)\n                         //session.execute(drop)\n                         session.execute(votes)\n                        }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "connector: com.datastax.spark.connector.cql.CassandraConnector = com.datastax.spark.connector.cql.CassandraConnector@1bb3e963\nks: String = \nCREATE KEYSPACE IF NOT EXISTS devoxx WITH replication = {\n  'class': 'SimpleStrategy',\n  'replication_factor': '1'\n};\ndrop: String = DROP TABLE devoxx.votes\nvotes: String = \n\"CREATE TABLE IF NOT EXISTS devoxx.votes(\n  handle TEXT,\n  ts TIMESTAMP,\n  txt TEXT,\n  PRIMARY KEY (handle, ts)\n);\n\"\nres7: com.datastax.driver.core.ResultSet = ResultSet[ exhausted: true, Columns[]]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "ResultSet[ exhausted: true, Columns[]]"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 6
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##Vote Definition"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###Matches Cassandra Schema"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "case class Vote(handle:String, ts:Long, txt: String)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "defined class Vote\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 83
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "# Spark Streaming Job Definition"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Create context with batch 2s "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import org.apache.spark.streaming.{Seconds, StreamingContext}\nimport org.apache.spark.SparkContext._\nimport org.apache.spark.streaming.twitter._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 84
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "@transient val ssc = new StreamingContext(sparkContext, Seconds(2))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "ssc: org.apache.spark.streaming.StreamingContext = org.apache.spark.streaming.StreamingContext@579b0f60\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.StreamingContext@579b0f60"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 119
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "## Listen twitter stream "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#### We're going to **filter** the tweets to only those containing the following event  tag."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val filters = Array(\"streamvoxx\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "filters: Array[String] = Array(streamvoxx)\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon9f7938e928703b39549353e5317a677d&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;streamvoxx&quot;}],&quot;genId&quot;:&quot;1333176968&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":1,\"shown\":1,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anonceb1ead53e290a885524d6b5548c59b0\">\n      Max Points\n    </label><input id=\"input-anonceb1ead53e290a885524d6b5548c59b0\" type=\"number\" name=\"input-anonceb1ead53e290a885524d6b5548c59b0\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anonceb1ead53e290a885524d6b5548c59b0\" data-this=\"{&quot;valueId&quot;:&quot;anonceb1ead53e290a885524d6b5548c59b0&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div></div></div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 120
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Create the twitter listeners"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "@transient val stream = TwitterUtils.createStream(ssc, None, filters)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "stream: org.apache.spark.streaming.dstream.ReceiverInputDStream[twitter4j.Status] = org.apache.spark.streaming.twitter.TwitterInputDStream@67c2b701\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.twitter.TwitterInputDStream@67c2b701"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 121
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Window-based count by hashtag and sort  "
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "##### The windows are `480s` long"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import StreamingContext._",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import StreamingContext._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 104
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val tweets = stream.map{status => \n                       val handle = status.getUser.getScreenName \n                       val ts = status.getCreatedAt.getTime\n                       val txt = status.getText\n                       Vote(handle, ts, txt)\n                      }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "tweets: org.apache.spark.streaming.dstream.DStream[Vote] = org.apache.spark.streaming.dstream.MappedDStream@19206659\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.dstream.MappedDStream@19206659"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 122
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val votes = tweets.flatMap(vote => vote.txt.split(\" \"))\n                  .filter(w => w.startsWith(\"#\"))\n                  .map(w=> w.drop(1).toLowerCase)\n                  .filter(w => !Set(\"devoxx\", \"streamvoxx\").contains(w))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "votes: org.apache.spark.streaming.dstream.DStream[String] = org.apache.spark.streaming.dstream.FilteredDStream@4b701cb3\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.dstream.FilteredDStream@4b701cb3"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 123
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val topCounts120 = votes.map((_, 1)).reduceByKeyAndWindow((x:Int, y:Int) => x+y, Seconds(480), Seconds(2))\n                          .map{case (topic, count) => (count, topic)}\n                          .transform(_.sortByKey(false))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "topCounts120: org.apache.spark.streaming.dstream.DStream[(Int, String)] = org.apache.spark.streaming.dstream.TransformedDStream@a833d5b\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "org.apache.spark.streaming.dstream.TransformedDStream@a833d5b"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 124
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "output_stream_collapsed" : true,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "import com.datastax.spark.connector.streaming._\ntweets.saveToCassandra(\"devoxx\",\"votes\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import com.datastax.spark.connector.streaming._\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 125
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Reactive Output Fields to Visualize the Stream"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val debug = ul(10)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "debug: notebook.front.DataConnectedWidget[String]{implicit val singleCodec: notebook.Codec[play.api.libs.json.JsValue,String]; def data: Seq[String]; def data_=(x$1: Seq[String]): Unit; lazy val toHtml: scala.xml.Elem; def append(s: String): Unit; def appendAll(s: Seq[String]): Unit} = <anon$1 widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<ul data-bind=\"foreach: value\">\n      <li data-bind=\"text: $data\"></li><script data-this=\"{&quot;valueId&quot;:&quot;anon97b880b98ab9e2975cfc99e4bfea5cb9&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId)\n    },\n    this\n  );\n});\n          /*]]>*/</script></ul>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 126
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val incomingVotes = ul(10)\n(1 to 10).foreach(_ => incomingVotes.append(\" \"))\nincomingVotes",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 1 feature warning(s); re-run with -feature for details\nincomingVotes: notebook.front.DataConnectedWidget[String]{implicit val singleCodec: notebook.Codec[play.api.libs.json.JsValue,String]; def data: Seq[String]; def data_=(x$1: Seq[String]): Unit; lazy val toHtml: scala.xml.Elem; def append(s: String): Unit; def appendAll(s: Seq[String]): Unit} = <anon$1 widget>\nres62: notebook.front.DataConnectedWidget[String]{implicit val singleCodec: notebook.Codec[play.api.libs.json.JsValue,String]; def data: Seq[String]; def data_=(x$1: Seq[String]): Unit; lazy val toHtml: scala.xml.Elem; def append(s: String): Unit; def appendAll(s: Seq[String]): Unit} = <anon$1 widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<ul data-bind=\"foreach: value\">\n      <li data-bind=\"text: $data\"></li><script data-this=\"{&quot;valueId&quot;:&quot;anon7b0ef558f1df8b93deec316f3d3ee236&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId)\n    },\n    this\n  );\n});\n          /*]]>*/</script></ul>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 127
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val voteChart  = widgets.BarChart(Seq((\"\",0L)),  maxPoints = 20)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "voteChart: notebook.front.widgets.BarChart[Seq[(String, Long)]] = <BarChart widget>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonaadf07f1152f1feacacd8de0bae56c97&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;&quot;,&quot;_2&quot;:0}],&quot;genId&quot;:&quot;502897551&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":1,\"shown\":1,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anonccc963e96b91c5039051a075b0357c49\">\n      Max Points\n    </label><input id=\"input-anonccc963e96b91c5039051a075b0357c49\" type=\"number\" name=\"input-anonccc963e96b91c5039051a075b0357c49\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anonccc963e96b91c5039051a075b0357c49\" data-this=\"{&quot;valueId&quot;:&quot;anonccc963e96b91c5039051a075b0357c49&quot;,&quot;valueInit&quot;:20}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 128
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#### We update the chart with the top-10 tags every interval "
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "//voteChart.applyOn(Seq((\"#spark\", 1L),(\"#scala\",1L),(\"#bigdata\",1L)))",
+    "outputs" : [ {
+      "ename" : "Error",
+      "output_type" : "error",
+      "traceback" : [ "Incomplete (hint: check the parenthesis)" ]
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "// Print popular hashtags\ntopCounts120.foreachRDD{rdd => \n  val topList = rdd.take(10).toList\n  voteChart.applyOn(topList.map{case (count, label) => (label, count.toLong)})\n}\n",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 129
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "votes.foreachRDD{rdd=> \n                 val selection = rdd.take(10).toList\n                 debug.appendAll(selection)\n                }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 1 feature warning(s); re-run with -feature for details\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 130
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "tweets.foreachRDD{rdd => \n                  val count = rdd.count()\n                  val last9 = rdd.take(9).map(tweet => tweet.handle + \":\" + tweet.txt)\n                  incomingVotes.append(s\"count: $count\")\n                  last9.foreach(incomingVotes.append _)\n                 }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "warning: there were 2 feature warning(s); re-run with -feature for details\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 131
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###  Start listening twitter"
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "This will listen the twitter stream, and the computation above will update the `chart` every `2s` using the last `8mins` of values."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "ssc.start()",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 132
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "### Done with the poll? Stop listening twitter \n_We keep the underlying Spark Context active_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "ssc.stop(stopSparkContext = false, stopGracefully = true)",
+    "outputs" : [ {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 133
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "#Voting timeline\n_Read the voting data back from Cassandra and build up a 0-based timeline of vote frequency_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val votingResults = sparkContext.cassandraTable[Vote](\"devoxx\", \"votes\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "votingResults: com.datastax.spark.connector.rdd.CassandraTableScanRDD[Vote] = CassandraTableScanRDD[14997] at RDD at CassandraRDD.scala:15\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "CassandraTableScanRDD[14997] at RDD at CassandraRDD.scala:15"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 134
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###Count votes\n_First, we use the standard count from Spark, that requires loading all the data_"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val totalVotesCassandra = votingResults.cassandraCount()",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "totalVotesCassandra: Long = 52\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "52"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 135
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val floor: Long => Long => Long = t => n => n / t * t",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "floor: Long => (Long => Long) = <function1>\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "&lt;function1&gt;"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 136
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val floor10s = floor(10000) \nval tenSecTimeline = votingResults.map(vote => (floor10s(vote.ts),1)).reduceByKey(_ + _).collect\nval tenSecTimelineDelta = {\n  val min = tenSecTimeline.map(_._1).min\n  println(min)\n  tenSecTimeline.map{ case (k,v) => ((k-min)/1000,v)}\n}\ntenSecTimelineDelta",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "1447245980000\nfloor10s: Long => Long = <function1>\ntenSecTimeline: Array[(Long, Int)] = Array((1447247020000,1), (1447246970000,2), (1447247040000,1), (1447247100000,1), (1447247050000,1), (1447248760000,2), (1447246960000,4), (1447247010000,2), (1447247440000,1), (1447246930000,2), (1447247530000,1), (1447247000000,1), (1447246950000,10), (1447247090000,1), (1447247150000,1), (1447247280000,1), (1447246910000,1), (1447247380000,1), (1447248750000,3), (1447245980000,1), (1447246920000,1), (1447248770000,3), (1447247210000,1), (1447246980000,3), (1447246940000,5), (1447247410000,1))\ntenSecTimelineDelta: Array[(Long, Int)] = Array((1040,1), (990,2), (1060,1), (1120,1), (1070,1), (2780,2), (980,4), (1030,2), (1460,1), (950,2), (1550,1), (1020,1), (970,10), (1110,1), (1170,1), (1300,1), (930,1), (1400,1)..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonb3e75ecbc9867a3c35a8c6ff55b76764&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:1040,&quot;_2&quot;:1},{&quot;_1&quot;:990,&quot;_2&quot;:2},{&quot;_1&quot;:1060,&quot;_2&quot;:1},{&quot;_1&quot;:1120,&quot;_2&quot;:1},{&quot;_1&quot;:1070,&quot;_2&quot;:1},{&quot;_1&quot;:2780,&quot;_2&quot;:2},{&quot;_1&quot;:980,&quot;_2&quot;:4},{&quot;_1&quot;:1030,&quot;_2&quot;:2},{&quot;_1&quot;:1460,&quot;_2&quot;:1},{&quot;_1&quot;:950,&quot;_2&quot;:2},{&quot;_1&quot;:1550,&quot;_2&quot;:1},{&quot;_1&quot;:1020,&quot;_2&quot;:1},{&quot;_1&quot;:970,&quot;_2&quot;:10},{&quot;_1&quot;:1110,&quot;_2&quot;:1},{&quot;_1&quot;:1170,&quot;_2&quot;:1},{&quot;_1&quot;:1300,&quot;_2&quot;:1},{&quot;_1&quot;:930,&quot;_2&quot;:1},{&quot;_1&quot;:1400,&quot;_2&quot;:1},{&quot;_1&quot;:2770,&quot;_2&quot;:3},{&quot;_1&quot;:0,&quot;_2&quot;:1},{&quot;_1&quot;:940,&quot;_2&quot;:1},{&quot;_1&quot;:2790,&quot;_2&quot;:3},{&quot;_1&quot;:1230,&quot;_2&quot;:1},{&quot;_1&quot;:1000,&quot;_2&quot;:3},{&quot;_1&quot;:960,&quot;_2&quot;:5}],&quot;genId&quot;:&quot;329443327&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon0f99ea74ec277d16464bb8c63b2be02e\">\n      Max Points\n    </label><input id=\"input-anon0f99ea74ec277d16464bb8c63b2be02e\" type=\"number\" name=\"input-anon0f99ea74ec277d16464bb8c63b2be02e\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon0f99ea74ec277d16464bb8c63b2be02e\" data-this=\"{&quot;valueId&quot;:&quot;anon0f99ea74ec277d16464bb8c63b2be02e&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n        <div>\n          <ul class=\"nav nav-tabs\" id=\"ul329443327\"><li>\n                <a href=\"#tab329443327-0\"><i class=\"fa fa-table\"/></a>\n              </li><li>\n                <a href=\"#tab329443327-1\"><i class=\"fa fa-dot-circle-o\"/></a>\n              </li><li>\n                <a href=\"#tab329443327-2\"><i class=\"fa fa-line-chart\"/></a>\n              </li><li>\n                <a href=\"#tab329443327-3\"><i class=\"fa fa-bar-chart\"/></a>\n              </li></ul>\n\n          <div class=\"tab-content\" id=\"tab329443327\"><div class=\"tab-pane\" id=\"tab329443327-0\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anone436ace7dad4e3ec00e1a053dadf61c9&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:1040,&quot;_2&quot;:1},{&quot;_1&quot;:990,&quot;_2&quot;:2},{&quot;_1&quot;:1060,&quot;_2&quot;:1},{&quot;_1&quot;:1120,&quot;_2&quot;:1},{&quot;_1&quot;:1070,&quot;_2&quot;:1},{&quot;_1&quot;:2780,&quot;_2&quot;:2},{&quot;_1&quot;:980,&quot;_2&quot;:4},{&quot;_1&quot;:1030,&quot;_2&quot;:2},{&quot;_1&quot;:1460,&quot;_2&quot;:1},{&quot;_1&quot;:950,&quot;_2&quot;:2},{&quot;_1&quot;:1550,&quot;_2&quot;:1},{&quot;_1&quot;:1020,&quot;_2&quot;:1},{&quot;_1&quot;:970,&quot;_2&quot;:10},{&quot;_1&quot;:1110,&quot;_2&quot;:1},{&quot;_1&quot;:1170,&quot;_2&quot;:1},{&quot;_1&quot;:1300,&quot;_2&quot;:1},{&quot;_1&quot;:930,&quot;_2&quot;:1},{&quot;_1&quot;:1400,&quot;_2&quot;:1},{&quot;_1&quot;:2770,&quot;_2&quot;:3},{&quot;_1&quot;:0,&quot;_2&quot;:1},{&quot;_1&quot;:940,&quot;_2&quot;:1},{&quot;_1&quot;:2790,&quot;_2&quot;:3},{&quot;_1&quot;:1230,&quot;_2&quot;:1},{&quot;_1&quot;:1000,&quot;_2&quot;:3},{&quot;_1&quot;:960,&quot;_2&quot;:5}],&quot;genId&quot;:&quot;1235961064&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"_1\",\"_2\"],\"nrow\":26,\"shown\":25,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon30b5b5daab9e3e0b89c3c23220b3cf6a\">\n      Max Points\n    </label><input id=\"input-anon30b5b5daab9e3e0b89c3c23220b3cf6a\" type=\"number\" name=\"input-anon30b5b5daab9e3e0b89c3c23220b3cf6a\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon30b5b5daab9e3e0b89c3c23220b3cf6a\" data-this=\"{&quot;valueId&quot;:&quot;anon30b5b5daab9e3e0b89c3c23220b3cf6a&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab329443327-1\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anone6cff773864e9c83ba70fccb1c7cf0b9&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:1040,&quot;_2&quot;:1},{&quot;_1&quot;:990,&quot;_2&quot;:2},{&quot;_1&quot;:1060,&quot;_2&quot;:1},{&quot;_1&quot;:1120,&quot;_2&quot;:1},{&quot;_1&quot;:1070,&quot;_2&quot;:1},{&quot;_1&quot;:2780,&quot;_2&quot;:2},{&quot;_1&quot;:980,&quot;_2&quot;:4},{&quot;_1&quot;:1030,&quot;_2&quot;:2},{&quot;_1&quot;:1460,&quot;_2&quot;:1},{&quot;_1&quot;:950,&quot;_2&quot;:2},{&quot;_1&quot;:1550,&quot;_2&quot;:1},{&quot;_1&quot;:1020,&quot;_2&quot;:1},{&quot;_1&quot;:970,&quot;_2&quot;:10},{&quot;_1&quot;:1110,&quot;_2&quot;:1},{&quot;_1&quot;:1170,&quot;_2&quot;:1},{&quot;_1&quot;:1300,&quot;_2&quot;:1},{&quot;_1&quot;:930,&quot;_2&quot;:1},{&quot;_1&quot;:1400,&quot;_2&quot;:1},{&quot;_1&quot;:2770,&quot;_2&quot;:3},{&quot;_1&quot;:0,&quot;_2&quot;:1},{&quot;_1&quot;:940,&quot;_2&quot;:1},{&quot;_1&quot;:2790,&quot;_2&quot;:3},{&quot;_1&quot;:1230,&quot;_2&quot;:1},{&quot;_1&quot;:1000,&quot;_2&quot;:3},{&quot;_1&quot;:960,&quot;_2&quot;:5}],&quot;genId&quot;:&quot;1268578040&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/scatterChart'], \n      function(playground, _magicscatterChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicscatterChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":26,\"shown\":25,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon541dddda83db4ecdbf7eec30dfddc847\">\n      Max Points\n    </label><input id=\"input-anon541dddda83db4ecdbf7eec30dfddc847\" type=\"number\" name=\"input-anon541dddda83db4ecdbf7eec30dfddc847\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon541dddda83db4ecdbf7eec30dfddc847\" data-this=\"{&quot;valueId&quot;:&quot;anon541dddda83db4ecdbf7eec30dfddc847&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab329443327-2\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonb732846b50a1bf2bbe4487b14b179f9d&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:1040,&quot;_2&quot;:1},{&quot;_1&quot;:990,&quot;_2&quot;:2},{&quot;_1&quot;:1060,&quot;_2&quot;:1},{&quot;_1&quot;:1120,&quot;_2&quot;:1},{&quot;_1&quot;:1070,&quot;_2&quot;:1},{&quot;_1&quot;:2780,&quot;_2&quot;:2},{&quot;_1&quot;:980,&quot;_2&quot;:4},{&quot;_1&quot;:1030,&quot;_2&quot;:2},{&quot;_1&quot;:1460,&quot;_2&quot;:1},{&quot;_1&quot;:950,&quot;_2&quot;:2},{&quot;_1&quot;:1550,&quot;_2&quot;:1},{&quot;_1&quot;:1020,&quot;_2&quot;:1},{&quot;_1&quot;:970,&quot;_2&quot;:10},{&quot;_1&quot;:1110,&quot;_2&quot;:1},{&quot;_1&quot;:1170,&quot;_2&quot;:1},{&quot;_1&quot;:1300,&quot;_2&quot;:1},{&quot;_1&quot;:930,&quot;_2&quot;:1},{&quot;_1&quot;:1400,&quot;_2&quot;:1},{&quot;_1&quot;:2770,&quot;_2&quot;:3},{&quot;_1&quot;:0,&quot;_2&quot;:1},{&quot;_1&quot;:940,&quot;_2&quot;:1},{&quot;_1&quot;:2790,&quot;_2&quot;:3},{&quot;_1&quot;:1230,&quot;_2&quot;:1},{&quot;_1&quot;:1000,&quot;_2&quot;:3},{&quot;_1&quot;:960,&quot;_2&quot;:5}],&quot;genId&quot;:&quot;389783149&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/lineChart'], \n      function(playground, _magiclineChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magiclineChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":26,\"shown\":25,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon2b4c6a705ae4812d3ae409a5f5d7959c\">\n      Max Points\n    </label><input id=\"input-anon2b4c6a705ae4812d3ae409a5f5d7959c\" type=\"number\" name=\"input-anon2b4c6a705ae4812d3ae409a5f5d7959c\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon2b4c6a705ae4812d3ae409a5f5d7959c\" data-this=\"{&quot;valueId&quot;:&quot;anon2b4c6a705ae4812d3ae409a5f5d7959c&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab329443327-3\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonddce115cc327a17708e34b2b72273ba4&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:1040,&quot;_2&quot;:1},{&quot;_1&quot;:990,&quot;_2&quot;:2},{&quot;_1&quot;:1060,&quot;_2&quot;:1},{&quot;_1&quot;:1120,&quot;_2&quot;:1},{&quot;_1&quot;:1070,&quot;_2&quot;:1},{&quot;_1&quot;:2780,&quot;_2&quot;:2},{&quot;_1&quot;:980,&quot;_2&quot;:4},{&quot;_1&quot;:1030,&quot;_2&quot;:2},{&quot;_1&quot;:1460,&quot;_2&quot;:1},{&quot;_1&quot;:950,&quot;_2&quot;:2},{&quot;_1&quot;:1550,&quot;_2&quot;:1},{&quot;_1&quot;:1020,&quot;_2&quot;:1},{&quot;_1&quot;:970,&quot;_2&quot;:10},{&quot;_1&quot;:1110,&quot;_2&quot;:1},{&quot;_1&quot;:1170,&quot;_2&quot;:1},{&quot;_1&quot;:1300,&quot;_2&quot;:1},{&quot;_1&quot;:930,&quot;_2&quot;:1},{&quot;_1&quot;:1400,&quot;_2&quot;:1},{&quot;_1&quot;:2770,&quot;_2&quot;:3},{&quot;_1&quot;:0,&quot;_2&quot;:1},{&quot;_1&quot;:940,&quot;_2&quot;:1},{&quot;_1&quot;:2790,&quot;_2&quot;:3},{&quot;_1&quot;:1230,&quot;_2&quot;:1},{&quot;_1&quot;:1000,&quot;_2&quot;:3},{&quot;_1&quot;:960,&quot;_2&quot;:5}],&quot;genId&quot;:&quot;113499800&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":26,\"shown\":25,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon23dc2d82c1f94df2d03547bdb5deb995\">\n      Max Points\n    </label><input id=\"input-anon23dc2d82c1f94df2d03547bdb5deb995\" type=\"number\" name=\"input-anon23dc2d82c1f94df2d03547bdb5deb995\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon23dc2d82c1f94df2d03547bdb5deb995\" data-this=\"{&quot;valueId&quot;:&quot;anon23dc2d82c1f94df2d03547bdb5deb995&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div></div>\n        </div>\n      </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 137
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "## Back to Devoxx"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val devoxx14TweetFile = \"/media/maasg/ssd/playground/devoxx/devoxx2014-tweets.txt\"",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "devoxx14TweetFile: String = /media/maasg/ssd/playground/devoxx/devoxx2014-tweets.txt\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "/media/maasg/ssd/playground/devoxx/devoxx2014-tweets.txt"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 138
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val devoxx14Tweets = sparkContext.textFile(devoxx14TweetFile)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "devoxx14Tweets: org.apache.spark.rdd.RDD[String] = MapPartitionsRDD[15004] at textFile at <console>:99\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "MapPartitionsRDD[15004] at textFile at &lt;console&gt;:99"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 140
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "devoxx14Tweets.take(5)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res69: Array[String] = Array(1415770969000; ElleneSiber; Ellène Siber Dijoux; devoxx; Avec 2 jours de retard bon #devoxx a tous !, 1415770848000; bellingard; Fabrice Bellingard; ; Up and ready for our first day @Devoxx, let’s me there with the (almost whole) @SonarSource dev team!, 1415771132000; ossmentor; Kenneth Peeples; Devoxx|DevoxxHunt|awkward; RT @royvanrijn: Not even the #Devoxx toilets are safe... some dude just walked in (and cheered), not to pee but to get some #DevoxxHunt poi…, 1415770790000; JMibu; Jörg Michelberger; javafx|devoxx|hackergarten; RT @heathervc: Hacking #javafx tweet wall for #devoxx in #hackergarten with @SvenNB http://t.co/jPceO4ZNNu, 1415770785000; AntoineHub; Antoine Huberland; devoxx; RT @itoche: Go to #devoxx.35 @arhs_group people will be there this year!)\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div class=\"container-fluid\"><div><div class=\"col-md-12\"><div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonb8bea53aea3881f9d4e469036bf0ed71&quot;,&quot;dataInit&quot;:[{&quot;string value&quot;:&quot;1415770969000; ElleneSiber; Ellène Siber Dijoux; devoxx; Avec 2 jours de retard bon #devoxx a tous !&quot;},{&quot;string value&quot;:&quot;1415770848000; bellingard; Fabrice Bellingard; ; Up and ready for our first day @Devoxx, let’s me there with the (almost whole) @SonarSource dev team!&quot;},{&quot;string value&quot;:&quot;1415771132000; ossmentor; Kenneth Peeples; Devoxx|DevoxxHunt|awkward; RT @royvanrijn: Not even the #Devoxx toilets are safe... some dude just walked in (and cheered), not to pee but to get some #DevoxxHunt poi…&quot;},{&quot;string value&quot;:&quot;1415770790000; JMibu; Jörg Michelberger; javafx|devoxx|hackergarten; RT @heathervc: Hacking #javafx tweet wall for #devoxx in #hackergarten with @SvenNB http://t.co/jPceO4ZNNu&quot;},{&quot;string value&quot;:&quot;1415770785000; AntoineHub; Antoine Huberland; devoxx; RT @itoche: Go to #devoxx.35 @arhs_group people will be there this year!&quot;}],&quot;genId&quot;:&quot;2014304513&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"string value\"],\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anonaa71a05df09fa2adfebada7c41535296\">\n      Max Points\n    </label><input id=\"input-anonaa71a05df09fa2adfebada7c41535296\" type=\"number\" name=\"input-anonaa71a05df09fa2adfebada7c41535296\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anonaa71a05df09fa2adfebada7c41535296\" data-this=\"{&quot;valueId&quot;:&quot;anonaa71a05df09fa2adfebada7c41535296&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div></div></div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 141
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val devoxx2014Votes = devoxx14Tweets.flatMap{line => try { \n                                              val parts = line.split(\";\")\n                                              Some(Vote(parts(1).trim, parts(0).toLong, parts(4)))\n                                            } catch {\n                                              case e:Exception => None\n                                            }\n                                           }",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "devoxx2014Votes: org.apache.spark.rdd.RDD[Vote] = MapPartitionsRDD[15005] at flatMap at <console>:103\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "MapPartitionsRDD[15005] at flatMap at &lt;console&gt;:103"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 142
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "devoxx2014Votes.count()",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res70: Long = 14538\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "14538"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 143
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val tweeters2014 = devoxx2014Votes.map(vote => (vote.handle,1)).reduceByKey(_ + _)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "tweeters2014: org.apache.spark.rdd.RDD[(String, Int)] = ShuffledRDD[15007] at reduceByKey at <console>:105\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "ShuffledRDD[15007] at reduceByKey at &lt;console&gt;:105"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 144
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "tweeters2014.lookup(\"Stephan007\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res71: Seq[Int] = ArrayBuffer(39)\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonc2b064bfa1a3a5f3967f2d82db9eeae7&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:0,&quot;_2&quot;:39}],&quot;genId&quot;:&quot;258178769&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon160f664d7baa002e1afde6e0f45f07ec\">\n      Max Points\n    </label><input id=\"input-anon160f664d7baa002e1afde6e0f45f07ec\" type=\"number\" name=\"input-anon160f664d7baa002e1afde6e0f45f07ec\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon160f664d7baa002e1afde6e0f45f07ec\" data-this=\"{&quot;valueId&quot;:&quot;anon160f664d7baa002e1afde6e0f45f07ec&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n        <div>\n          <ul class=\"nav nav-tabs\" id=\"ul258178769\"><li>\n                <a href=\"#tab258178769-0\"><i class=\"fa fa-table\"/></a>\n              </li><li>\n                <a href=\"#tab258178769-1\"><i class=\"fa fa-dot-circle-o\"/></a>\n              </li><li>\n                <a href=\"#tab258178769-2\"><i class=\"fa fa-line-chart\"/></a>\n              </li><li>\n                <a href=\"#tab258178769-3\"><i class=\"fa fa-bar-chart\"/></a>\n              </li></ul>\n\n          <div class=\"tab-content\" id=\"tab258178769\"><div class=\"tab-pane\" id=\"tab258178769-0\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon0b3ced87fa764c6011359523cf4232d3&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:0,&quot;_2&quot;:39}],&quot;genId&quot;:&quot;568613577&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"_1\",\"_2\"],\"nrow\":1,\"shown\":1,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon12c1c05e2b7c868d1f8aa4b36fd6a258\">\n      Max Points\n    </label><input id=\"input-anon12c1c05e2b7c868d1f8aa4b36fd6a258\" type=\"number\" name=\"input-anon12c1c05e2b7c868d1f8aa4b36fd6a258\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon12c1c05e2b7c868d1f8aa4b36fd6a258\" data-this=\"{&quot;valueId&quot;:&quot;anon12c1c05e2b7c868d1f8aa4b36fd6a258&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab258178769-1\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anona2c85e6fee1a51541b362b5653af7264&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:0,&quot;_2&quot;:39}],&quot;genId&quot;:&quot;1701101194&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/scatterChart'], \n      function(playground, _magicscatterChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicscatterChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":1,\"shown\":1,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon18c7d33a68907abee152ab7ce1ecd0f5\">\n      Max Points\n    </label><input id=\"input-anon18c7d33a68907abee152ab7ce1ecd0f5\" type=\"number\" name=\"input-anon18c7d33a68907abee152ab7ce1ecd0f5\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon18c7d33a68907abee152ab7ce1ecd0f5\" data-this=\"{&quot;valueId&quot;:&quot;anon18c7d33a68907abee152ab7ce1ecd0f5&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab258178769-2\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonc47dc42cad5235e7698a4a021749402c&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:0,&quot;_2&quot;:39}],&quot;genId&quot;:&quot;969834126&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/lineChart'], \n      function(playground, _magiclineChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magiclineChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":1,\"shown\":1,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon1c861673f1c9a1ca01e0ed450ad4d874\">\n      Max Points\n    </label><input id=\"input-anon1c861673f1c9a1ca01e0ed450ad4d874\" type=\"number\" name=\"input-anon1c861673f1c9a1ca01e0ed450ad4d874\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon1c861673f1c9a1ca01e0ed450ad4d874\" data-this=\"{&quot;valueId&quot;:&quot;anon1c861673f1c9a1ca01e0ed450ad4d874&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab258178769-3\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon763dd138bb42e960d24aa8c4bdbf7ea9&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:0,&quot;_2&quot;:39}],&quot;genId&quot;:&quot;284771485&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":1,\"shown\":1,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon348da84adb67c98234e48eaf4f475ae1\">\n      Max Points\n    </label><input id=\"input-anon348da84adb67c98234e48eaf4f475ae1\" type=\"number\" name=\"input-anon348da84adb67c98234e48eaf4f475ae1\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon348da84adb67c98234e48eaf4f475ae1\" data-this=\"{&quot;valueId&quot;:&quot;anon348da84adb67c98234e48eaf4f475ae1&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div></div>\n        </div>\n      </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 145
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val tweeters2015 = votingResults.map(vote => (vote.handle,1)).reduceByKey(_ + _)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "tweeters2015: org.apache.spark.rdd.RDD[(String, Int)] = ShuffledRDD[15009] at start at <console>:97\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "ShuffledRDD[15009] at start at &lt;console&gt;:97"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 146
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val backToDevoxxTwitters = tweeters2014.join(tweeters2015)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "backToDevoxxTwitters: org.apache.spark.rdd.RDD[(String, (Int, Int))] = MapPartitionsRDD[15012] at join at <console>:111\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "MapPartitionsRDD[15012] at join at &lt;console&gt;:111"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 147
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "val streamingSessionTwitterScore = backToDevoxxTwitters.map{case (handle,(t2014, t2015)) => (handle, t2014 * t2015)}",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "streamingSessionTwitterScore: org.apache.spark.rdd.RDD[(String, Int)] = MapPartitionsRDD[15013] at map at <console>:113\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "MapPartitionsRDD[15013] at map at &lt;console&gt;:113"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 148
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "streamingSessionTwitterScore.sortBy(_._2, false).take(5)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res72: Array[(String, Int)] = Array((finalspy,104), (samklr,75), (youen_chene,38), (jesperdj,13), (klavereelco,13))\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anone83f566285ba43d40c368c84f19d7860&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;finalspy&quot;,&quot;_2&quot;:104},{&quot;_1&quot;:&quot;samklr&quot;,&quot;_2&quot;:75},{&quot;_1&quot;:&quot;youen_chene&quot;,&quot;_2&quot;:38},{&quot;_1&quot;:&quot;jesperdj&quot;,&quot;_2&quot;:13},{&quot;_1&quot;:&quot;klavereelco&quot;,&quot;_2&quot;:13}],&quot;genId&quot;:&quot;1195770641&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon65fabf184e7ab5774280ba4e7bcbe597\">\n      Max Points\n    </label><input id=\"input-anon65fabf184e7ab5774280ba4e7bcbe597\" type=\"number\" name=\"input-anon65fabf184e7ab5774280ba4e7bcbe597\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon65fabf184e7ab5774280ba4e7bcbe597\" data-this=\"{&quot;valueId&quot;:&quot;anon65fabf184e7ab5774280ba4e7bcbe597&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n        <div>\n          <ul class=\"nav nav-tabs\" id=\"ul1195770641\"><li>\n                <a href=\"#tab1195770641-0\"><i class=\"fa fa-table\"/></a>\n              </li><li>\n                <a href=\"#tab1195770641-1\"><i class=\"fa fa-bar-chart\"/></a>\n              </li><li>\n                <a href=\"#tab1195770641-2\"><i class=\"fa fa-pie-chart\"/></a>\n              </li></ul>\n\n          <div class=\"tab-content\" id=\"tab1195770641\"><div class=\"tab-pane\" id=\"tab1195770641-0\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon0c3c8a24d2f367c77165bc69991f3784&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;finalspy&quot;,&quot;_2&quot;:104},{&quot;_1&quot;:&quot;samklr&quot;,&quot;_2&quot;:75},{&quot;_1&quot;:&quot;youen_chene&quot;,&quot;_2&quot;:38},{&quot;_1&quot;:&quot;jesperdj&quot;,&quot;_2&quot;:13},{&quot;_1&quot;:&quot;klavereelco&quot;,&quot;_2&quot;:13}],&quot;genId&quot;:&quot;1042860922&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"_1\",\"_2\"],\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon416f65b5a5d52d6a73d6af9dd48c87dc\">\n      Max Points\n    </label><input id=\"input-anon416f65b5a5d52d6a73d6af9dd48c87dc\" type=\"number\" name=\"input-anon416f65b5a5d52d6a73d6af9dd48c87dc\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon416f65b5a5d52d6a73d6af9dd48c87dc\" data-this=\"{&quot;valueId&quot;:&quot;anon416f65b5a5d52d6a73d6af9dd48c87dc&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab1195770641-1\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonde23893efa3786ffae35ec5e4065811c&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;finalspy&quot;,&quot;_2&quot;:104},{&quot;_1&quot;:&quot;samklr&quot;,&quot;_2&quot;:75},{&quot;_1&quot;:&quot;youen_chene&quot;,&quot;_2&quot;:38},{&quot;_1&quot;:&quot;jesperdj&quot;,&quot;_2&quot;:13},{&quot;_1&quot;:&quot;klavereelco&quot;,&quot;_2&quot;:13}],&quot;genId&quot;:&quot;965570805&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anonba04ad1f892cf6154c2aeb16d56a798e\">\n      Max Points\n    </label><input id=\"input-anonba04ad1f892cf6154c2aeb16d56a798e\" type=\"number\" name=\"input-anonba04ad1f892cf6154c2aeb16d56a798e\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anonba04ad1f892cf6154c2aeb16d56a798e\" data-this=\"{&quot;valueId&quot;:&quot;anonba04ad1f892cf6154c2aeb16d56a798e&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab1195770641-2\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon0a1c9046e8583255bb5c78e6a74836f7&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;finalspy&quot;,&quot;_2&quot;:104},{&quot;_1&quot;:&quot;samklr&quot;,&quot;_2&quot;:75},{&quot;_1&quot;:&quot;youen_chene&quot;,&quot;_2&quot;:38},{&quot;_1&quot;:&quot;jesperdj&quot;,&quot;_2&quot;:13},{&quot;_1&quot;:&quot;klavereelco&quot;,&quot;_2&quot;:13}],&quot;genId&quot;:&quot;852781228&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/pieChart'], \n      function(playground, _magicpieChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicpieChart,\n    \"o\": {\"series\":\"_1\",\"p\":\"_2\",\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon4f00b964082dae8491ea5b84f93634b1\">\n      Max Points\n    </label><input id=\"input-anon4f00b964082dae8491ea5b84f93634b1\" type=\"number\" name=\"input-anon4f00b964082dae8491ea5b84f93634b1\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon4f00b964082dae8491ea5b84f93634b1\" data-this=\"{&quot;valueId&quot;:&quot;anon4f00b964082dae8491ea5b84f93634b1&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div></div>\n        </div>\n      </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 149
+    } ]
+  }, {
+    "metadata" : { },
+    "cell_type" : "markdown",
+    "source" : "###Plan B"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false
+    },
+    "cell_type" : "code",
+    "source" : "tweeters2015.sortBy(_._2, false).take(5)",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res40: Array[(String, Int)] = Array((xpinjection,2), (maasg,1), (WayneASchneider,1), (java_ew,1), (CeeDeeBee2901,1))\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon83f32cb90c1902c0e905906afcc0a5b1&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;xpinjection&quot;,&quot;_2&quot;:2},{&quot;_1&quot;:&quot;maasg&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;WayneASchneider&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;java_ew&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;CeeDeeBee2901&quot;,&quot;_2&quot;:1}],&quot;genId&quot;:&quot;1032411848&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon2be942a401b3a0c29803888111565c4a\">\n      Max Points\n    </label><input id=\"input-anon2be942a401b3a0c29803888111565c4a\" type=\"number\" name=\"input-anon2be942a401b3a0c29803888111565c4a\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon2be942a401b3a0c29803888111565c4a\" data-this=\"{&quot;valueId&quot;:&quot;anon2be942a401b3a0c29803888111565c4a&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n        <div>\n          <ul class=\"nav nav-tabs\" id=\"ul1032411848\"><li>\n                <a href=\"#tab1032411848-0\"><i class=\"fa fa-table\"/></a>\n              </li><li>\n                <a href=\"#tab1032411848-1\"><i class=\"fa fa-bar-chart\"/></a>\n              </li><li>\n                <a href=\"#tab1032411848-2\"><i class=\"fa fa-pie-chart\"/></a>\n              </li></ul>\n\n          <div class=\"tab-content\" id=\"tab1032411848\"><div class=\"tab-pane\" id=\"tab1032411848-0\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anond04457c71d5a1099d38c3e500b8a6d08&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;xpinjection&quot;,&quot;_2&quot;:2},{&quot;_1&quot;:&quot;maasg&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;WayneASchneider&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;java_ew&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;CeeDeeBee2901&quot;,&quot;_2&quot;:1}],&quot;genId&quot;:&quot;1911413339&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"_1\",\"_2\"],\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anonb472a5fc25844a7bcb3045a425e12d6d\">\n      Max Points\n    </label><input id=\"input-anonb472a5fc25844a7bcb3045a425e12d6d\" type=\"number\" name=\"input-anonb472a5fc25844a7bcb3045a425e12d6d\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anonb472a5fc25844a7bcb3045a425e12d6d\" data-this=\"{&quot;valueId&quot;:&quot;anonb472a5fc25844a7bcb3045a425e12d6d&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab1032411848-1\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anonc88fc34ba1a94d2a86a3a095f22fe009&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;xpinjection&quot;,&quot;_2&quot;:2},{&quot;_1&quot;:&quot;maasg&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;WayneASchneider&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;java_ew&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;CeeDeeBee2901&quot;,&quot;_2&quot;:1}],&quot;genId&quot;:&quot;576746213&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/barChart'], \n      function(playground, _magicbarChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicbarChart,\n    \"o\": {\"x\":\"_1\",\"y\":\"_2\",\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anon55e670bc543988ef6b93fd3c030ef669\">\n      Max Points\n    </label><input id=\"input-anon55e670bc543988ef6b93fd3c030ef669\" type=\"number\" name=\"input-anon55e670bc543988ef6b93fd3c030ef669\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anon55e670bc543988ef6b93fd3c030ef669\" data-this=\"{&quot;valueId&quot;:&quot;anon55e670bc543988ef6b93fd3c030ef669&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div><div class=\"tab-pane\" id=\"tab1032411848-2\">\n              <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon7480315b093664b17e2be5ad0a684db0&quot;,&quot;dataInit&quot;:[{&quot;_1&quot;:&quot;xpinjection&quot;,&quot;_2&quot;:2},{&quot;_1&quot;:&quot;maasg&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;WayneASchneider&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;java_ew&quot;,&quot;_2&quot;:1},{&quot;_1&quot;:&quot;CeeDeeBee2901&quot;,&quot;_2&quot;:1}],&quot;genId&quot;:&quot;671567073&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/pieChart'], \n      function(playground, _magicpieChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicpieChart,\n    \"o\": {\"series\":\"_1\",\"p\":\"_2\",\"nrow\":5,\"shown\":5,\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n        <label for=\"input-anondbc21f8023f4b61ac0e0693df217024f\">\n      Max Points\n    </label><input id=\"input-anondbc21f8023f4b61ac0e0693df217024f\" type=\"number\" name=\"input-anondbc21f8023f4b61ac0e0693df217024f\" data-bind=\"textInput: value, fireChange: true, valueUpdate: 'input'\">\n      <script data-selector=\"#input-anondbc21f8023f4b61ac0e0693df217024f\" data-this=\"{&quot;valueId&quot;:&quot;anondbc21f8023f4b61ac0e0693df217024f&quot;,&quot;valueInit&quot;:25}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(\n ['observable', 'knockout'],\n function (Observable, ko) {\n   //console.log(\"-----------\")\n   //console.dir(this);\n   //console.dir(valueId);\n   var obs = Observable.makeObservable(valueId)\n                       .extend({ rateLimit: { //throttle\n                                   timeout: 500,\n                                   method: \"notifyWhenChangesStop\"\n                                 }\n                               }\n                       );\n   ko.applyBindings({\n     value: obs\n   }, this);\n   obs(valueInit);\n }\n)/*]]>*/</script>\n    </input>\n      </div></div>\n              </div></div>\n        </div>\n      </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 77
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true
+    },
+    "cell_type" : "code",
+    "source" : "",
+    "outputs" : [ ]
+  } ],
+  "nbformat" : 4
+}
