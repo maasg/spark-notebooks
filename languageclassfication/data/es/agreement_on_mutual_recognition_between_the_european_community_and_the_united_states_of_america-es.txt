@@ -1,0 +1,772 @@
+ACTOS ADOPTADOS POR ÓRGANOS CREADOS 
+MEDIANTE ACUERDOS INTERNACIONALES 
+DECISIÓN N.o 1/2017 
+de 1 de marzo de 2017 
+del Comité Mixto creado en virtud del artículo 14 del Acuerdo sobre el reconocimiento mutuo 
+entre la Comunidad Europea y los Estados Unidos de América, por la que se modifica el anexo 
+sectorial sobre prácticas correctas de fabricación de productos farmacéuticos [2017/382] 
+EL COMITÉ MIXTO, 
+Visto el Acuerdo sobre el reconocimiento mutuo entre la Comunidad Europea y los Estados Unidos de América («el 
+Acuerdo») firmado en 1998, y en particular sus artículos 14 y 21, y 
+Considerando que el Comité Mixto debe tomar una decisión para modificar el anexo sectorial sobre prácticas correctas 
+de fabricación de productos farmacéuticos, con arreglo a lo dispuesto en el artículo 21, apartado 2, del Acuerdo; 
+DECIDE:  
+1. El apéndice A de la presente Decisión constituye el anexo sectorial modificado sobre prácticas correctas de 
+fabricación de productos farmacéuticos del Acuerdo sobre el reconocimiento mutuo entre los Estados Unidos y la 
+Unión Europea («el anexo sectorial modificado»), que modifica el anexo sectorial sobre prácticas correctas de 
+fabricación de productos farmacéuticos de 1998 y lo sustituye por una versión consolidada.  
+2. El apéndice A ha sido consensuado por las partes.   
+La presente Decisión, hecha por duplicado, será firmada por los representantes del Comité Mixto que, con 
+arreglo al artículo 21, apartado 2, del Acuerdo, están facultados para actuar en nombre de las Partes a fin 
+de modificar los anexos. La presente Decisión surtirá efecto a partir de la fecha de la última de estas firmas.  
+Firmado en Washington D. C., el 19 de enero  
+de 2017. 
+En nombre de los Estados Unidos de América 
+Michael B. G. FROMAN  
+Firmado en Bruselas, el 1 de marzo de 2017. 
+En nombre de la Unión Europea 
+Cecilia MALMSTRÖM    
+4.3.2017 L 58/36 Diario Oficial de la Unión Europea ES    
+ANEXO A 
+Estados Unidos-Unión Europea — Anexo sectorial modificado sobre prácticas correctas de 
+fabricación de productos farmacéuticos (PCF) 
+PREÁMBULO 
+El presente anexo constituye un anexo sectorial del Acuerdo sobre el reconocimiento mutuo entre los Estados Unidos y 
+la Unión Europea y por el que se modifica el «anexo sectorial sobre productos farmacéuticos: prácticas correctas de 
+fabricación» de 1998. 
+CAPÍTULO 1 
+DEFINICIONES, OBJETIVO, ALCANCE Y PRODUCTOS ABARCADOS 
+Artículo 1 
+Definiciones 
+A efectos del presente anexo:  
+1. Por «evaluación con arreglo a lo dispuesto en el presente anexo» se entenderá: 
+en el caso de la Unión Europea (UE), la evaluación de la equivalencia; y 
+en el caso de los Estados Unidos, la evaluación de la competencia (en inglés: capability assessment). 
+Una evaluación con arreglo a lo dispuesto en el presente anexo comprenderá una revaluación.  
+2. Por «autoridad reconocida» se entenderá: 
+en el caso de la UE, una autoridad equivalente; y 
+en el caso de los Estados Unidos, una autoridad competente (en inglés: capable authority).  
+3. Por «autoridad competente» se entenderá una autoridad a la que la Food and Drug Administration (FDA) ha 
+declarado competente de conformidad con los criterios y procedimientos especificados en el apéndice 4 y 
+mencionados en las disposiciones legales, reglamentarias y administrativas de los Estados Unidos que figuran en el 
+apéndice 1. En aras de una mayor seguridad, la constatación de que una autoridad de reglamentación sea 
+«competente» no exige que mantenga procedimientos para llevar a cabo inspecciones y supervisar instalaciones de 
+producción que sean idénticos a los procedimientos de la FDA.  
+4. Por «autoridad equivalente» se entenderá una autoridad a la que la UE ha declarado equivalente de conformidad con 
+los criterios y procedimientos especificados en el apéndice 4 y mencionados en las disposiciones legales, reglamen­
+tarias y administrativas de la UE que figuran en el apéndice 1.  
+5. Por «equivalencia» se entenderá que el sistema reglamentario bajo el cual una autoridad desempeña su función es lo 
+suficientemente comparable para garantizar que el proceso de inspección y los documentos oficiales subsiguientes 
+sobre PCF facilitan la información adecuada para determinar el cumplimiento de los requisitos legales y reglamen­
+tarios respectivos de las autoridades. Para mayor seguridad, la «equivalencia» no exige que los sistemas reglamen­
+tarios respectivos sigan procedimientos idénticos.  
+6. Por «medidas para la aplicación efectiva» se entenderán las medidas tomadas por las autoridades para proteger a la 
+población frente a productos de calidad, seguridad o eficacia dudosas o para garantizar que los productos son 
+fabricados de conformidad con las leyes, reglamentos y normas pertinentes, así como con los compromisos 
+adquiridos en el marco de la autorización de comercialización de un producto.  
+7. Por «prácticas correctas de fabricación» (PCF) se entenderán los sistemas que garanticen una concepción, un 
+seguimiento y un control adecuados de los procesos e instalaciones de producción, cuya aplicación garantiza la 
+identidad, la potencia, la calidad y la pureza de los productos farmacéuticos. Las prácticas correctas de fabricación 
+incluyen disponer de sistemas sólidos de gestión de la calidad, obtener materias primas (incluidos los materiales de 
+partida) y material de envasado de una calidad adecuada, establecer procedimientos de trabajo sólidos, detectar e 
+investigar las desviaciones en la calidad de los productos, y mantener laboratorios de ensayo fiables. 
+4.3.2017 L 58/37 Diario Oficial de la Unión Europea ES    
+8. Por «inspección» se entenderá la evaluación in situ de una instalación de producción para determinar si cumple las 
+prácticas correctas de fabricación y los compromisos adquiridos en el marco de la autorización para la comerciali­
+zación de un producto.  
+9. Por «informe de inspección» se entenderá un informe redactado por un investigador o inspector de una de las 
+autoridades enumeradas en el apéndice 2 sobre una inspección de una instalación de producción que el investigador 
+o inspector ha llevado a cabo y que describe el objeto y el alcance de la inspección, incluye observaciones y 
+conclusiones presentadas por escrito acerca de la conformidad de las instalaciones de producción con los requisitos 
+sobre PCF aplicables establecidos en las disposiciones legales, reglamentarias y administrativas que figuran en el 
+apéndice 1 y sobre el cumplimiento de los compromisos adquiridos en el marco de la autorización para la 
+comercialización de un producto.  
+10. Por «documento oficial sobre prácticas correctas de fabricación» se entenderá un documento expedido por una de 
+las autoridades enumeradas en el apéndice 2 a raíz de una inspección de unas instalaciones de producción. Entre los 
+documentos oficiales sobre PCF cabe citar, a título de ejemplo, los informes de inspección, los certificados 
+expedidos por una autoridad que certifiquen la conformidad de una instalación de producción con las PCF, la 
+declaración de no conformidad con las PCF emitida por las autoridades de la UE, y el anuncio de observaciones, las 
+cartas sin título, las cartas de advertencia y las alertas de importación que expide la FDA. 
+11. Los «productos farmacéuticos» comprenden los medicamentos en el sentido de las disposiciones legales y reglamen­
+tarias que figuran en el apéndice 1.  
+12. Se entenderá por «inspecciones posteriores a la autorización» las inspecciones de vigilancia de las PCF realizadas 
+durante la comercialización de los productos.  
+13. Se entenderá por «inspecciones previas a la autorización» las inspecciones farmacéuticas de instalaciones de 
+producción efectuadas en el territorio de una Parte como parte del examen de una solicitud de autorización de la 
+comercialización antes de que se conceda.  
+14. Por «sistema reglamentario» se entenderá el conjunto de requisitos jurídicos correspondientes a las prácticas 
+correctas de fabricación, las inspecciones y las medidas para la aplicación efectiva destinadas a garantizar la 
+protección de la salud pública y la autoridad jurídica para asegurar el cumplimiento de dichos requisitos. 
+Artículo 2 
+Objetivo 
+El presente anexo facilita el intercambio de documentos oficiales sobre prácticas correctas de fabricación entre las Partes 
+y la confianza en las constataciones fácticas de este tipo de documentos. El presente anexo tiene por objeto facilitar el 
+comercio y beneficiar a la salud pública permitiendo a cada parte movilizar y reasignar sus recursos de inspección, en 
+particular evitando la duplicación de inspecciones, con el fin de mejorar la supervisión de las instalaciones de 
+producción, así como de abordar mejor el riesgo en materia de calidad y evitar consecuencias adversas para la salud. 
+Artículo 3 
+Ámbito de aplicación 
+1. Las disposiciones del presente anexo se aplicarán a las inspecciones farmacéuticas de instalaciones de producción 
+realizadas en el territorio de una de las partes durante la comercialización de los productos (en lo sucesivo, «inspecciones 
+posteriores a la autorización») y, en la medida de lo establecido en el artículo 11, antes de que los productos se 
+comercialicen (en lo sucesivo, «inspecciones previas a la autorización»), así como, en la medida de lo dispuesto en el 
+artículo 8, apartado 3, a las inspecciones farmacéuticas de instalaciones de producción efectuadas fuera del territorio de 
+cualquiera de las Partes. 
+2. En el apéndice 1 se enumeran las disposiciones legales, reglamentarias y administrativas aplicables a estas 
+inspecciones y a las prácticas correctas de fabricación. 
+3. En el apéndice 2 se enumeran todas las autoridades responsables de la supervisión de instalaciones que fabrican 
+productos abarcados en el presente anexo. 
+4. Los artículos 6, 7, 8, 9, 10 y 11 del Acuerdo no se aplicarán al presente anexo. 
+4.3.2017 L 58/38 Diario Oficial de la Unión Europea ES    
+Artículo 4 
+Productos abarcados 
+1. Las presentes disposiciones se aplicarán a los productos farmacéuticos para uso humano o veterinario acabados y 
+comercializados, los productos intermedios (en el caso de la UE, tal como se definen en la legislación de esta) y las in- 
+process materials) («materias en transformación», en el caso de los Estados Unidos, tal como se definen en su legislación), 
+determinados productos biológicos de uso humano comercializados y los principios activos farmacéuticos, solo en la 
+medida en que estén regulados por las autoridades de ambas Partes enumeradas en el apéndice 2 y con arreglo a lo 
+dispuesto en el artículo 20. 
+2. La sangre humana, el plasma humano, los tejidos y órganos humanos y los productos inmunológicos veterinarios 
+están excluidos del ámbito de aplicación del presente anexo. 
+3. El apéndice 3 contiene la lista de los productos abarcados por el presente anexo. 
+CAPÍTULO 2 
+DECISIÓN SOBRE EL RECONOCIMIENTO 
+Artículo 5 
+Evaluaciones 
+1. Cada Parte llevará a cabo evaluaciones de las autoridades enumeradas en el apéndice 2, de conformidad con el 
+presente anexo, a petición de la otra Parte, tan pronto como sea posible, en particular en el caso de las autoridades 
+añadidas al apéndice 2 tras la fecha efectiva de entrada en vigor del presente anexo y en lo que se refiere a los productos 
+enumerados en el apéndice 3 (incluidos los pertenecientes al ámbito de aplicación del presente anexo, con arreglo a lo 
+dispuesto en el artículo 20 a partir de la fecha efectiva de entrada en vigor del presente anexo). 
+2. Cada Parte utilizará los criterios y el procedimiento que se contemplan en el apéndice 4 para realizar evaluaciones 
+de conformidad con el presente anexo. 
+Artículo 6 
+Participación en las evaluaciones y finalización de estas 
+Cada Parte, con respecto a las autoridades enumeradas en el apéndice 2, participará en el procedimiento descrito en el 
+apéndice 4. Cada Parte se esforzará de buena fe por concluir las evaluaciones de conformidad con el presente anexo tan 
+pronto como sea posible. Para ello: 
+a)  La UE completará una evaluación de la FDA en el caso de los productos farmacéuticos de uso humano con arreglo al 
+presente anexo el 1 de julio de 2017, a más tardar. 
+b)  La FDA concluirá una evaluación, conforme al presente anexo, de cada autoridad de los Estados miembros de la UE 
+en el caso de los productos farmacéuticos de uso humano enumerados en el apéndice 2, con arreglo a lo establecido 
+en el apéndice 5. 
+Artículo 7 
+Reconocimiento de las autoridades 
+1. Cada Parte determinará si reconoce a una autoridad de conformidad con los criterios especificados en el apéndice 
+4. Cada Parte notificará sin demora al Comité Sectorial Mixto toda decisión de reconocer a una autoridad de la otra 
+Parte. El Comité Sectorial Mixto mantendrá una lista de autoridades reconocidas y la actualizará. Cada Parte pondrá la 
+lista a disposición del público. 
+4.3.2017 L 58/39 Diario Oficial de la Unión Europea ES    
+2. La Parte evaluadora notificará sin demora a la otra Parte y a la autoridad correspondiente cualquier deficiencia 
+detectada en la evaluación. En caso de decisión negativa, la Parte evaluadora notificará a la otra Parte y a la autoridad 
+competente los motivos de la decisión negativa y proporcionará suficientes detalles a fin de permitir que la autoridad 
+comprenda qué medidas correctoras deben adoptarse para lograr una decisión positiva. Una Parte podrá solicitar a la 
+otra Parte que lleve a cabo una revaluación de cualquier autoridad que haya recibido una decisión negativa de la otra 
+Parte una vez que la autoridad haya adoptado las medidas correctoras necesarias de conformidad con el artículo 5. 
+3. A petición de la otra Parte, una Parte evaluadora debatirá con prontitud con la otra Parte en el Comité Sectorial 
+Mixto las razones de una decisión negativa. En el caso de una decisión negativa, el Comité Sectorial Mixto procurará 
+debatir en un plazo de 3 meses el calendario adecuado y las medidas precisas que han de adoptarse para revaluar a la 
+autoridad pertinente. 
+CAPÍTULO 3 
+ASPECTOS OPERATIVOS 
+Artículo 8 
+Reconocimiento de las inspecciones 
+1. Una Parte reconocerá las inspecciones farmacéuticas y aceptará los documentos oficiales sobre prácticas correctas 
+de fabricación expedidos por una autoridad reconocida de la otra Parte en relación con las instalaciones de producción 
+situadas en el territorio de la autoridad que haya publicado dichos documentos, sin perjuicio de lo dispuesto en el 
+apartado 2. 
+2. En circunstancias específicas, una Parte podrá optar por no aceptar un documento oficial sobre prácticas correctas 
+de fabricación expedido por una autoridad reconocida de la otra Parte en relación con las instalaciones de producción 
+situadas en el territorio de la autoridad que haya publicado dicho documento. Entre dichas circunstancias cabe citar los 
+indicios de incoherencias o insuficiencias importantes en un informe de inspección, los defectos de calidad determinados 
+en la vigilancia posterior a la comercialización u otras pruebas específicas que planteen serias dudas en relación con la 
+calidad del producto o la seguridad de los consumidores. La Parte que opte por no aceptar un documento oficial sobre 
+prácticas correctas de fabricación expedido por una autoridad reconocida de la otra Parte notificará a esta y a la 
+autoridad pertinente los motivos por los que no acepta el documento y podrá solicitar aclaraciones a dicha autoridad. La 
+autoridad se esforzará por responder a la solicitud de aclaración en un plazo oportuno y normalmente ofrecerá dicha 
+aclaración basándose en la aportación de uno o varios miembros del equipo de inspección. 
+3. Una Parte podrá aceptar documentos oficiales sobre prácticas correctas de fabricación expedidos por una autoridad 
+reconocida de la otra Parte en relación con instalaciones de producción situadas fuera del territorio de la autoridad que 
+haya expedido dichos documentos. 
+4. Cada Parte podrá establecer las condiciones con que acepta documentos oficiales sobre prácticas correctas de 
+fabricación expedidos de conformidad con el apartado 3. 
+5. A efectos del presente anexo, aceptar documentos oficiales sobre prácticas correctas de fabricación significa confiar 
+en las constataciones fácticas de este tipo de documentos. 
+Artículo 9 
+Ensayos de lotes 
+En la UE, conforme al artículo 51, apartado 2, de la Directiva 2001/83/CE del Parlamento Europeo y del Consejo (1) y al 
+artículo 55, apartado 2, de la Directiva 2001/82/CE del Parlamento Europeo y del Consejo (2), la persona cualificada será 
+liberada de la responsabilidad de llevar a cabo los controles establecidos en el artículo 51, apartado 1, de la Directiva 
+2001/83/CE y en el artículo 55, apartado 1, de la Directiva 2001/82/CE, siempre que dichos controles hayan sido 
+llevados a cabo en los Estados Unidos, el producto haya sido fabricado en dicho país y que cada lote vaya acompañado 
+de un certificado de lote [en consonancia con el sistema de certificación de la Organización Mundial de la Salud (OMS) 
+sobre la calidad de los medicamentos] expedido por el fabricante, certificando que el producto satisface los requisitos 
+establecidos por la autorización de comercialización y firmado por la persona responsable de la liberación del lote. 
+4.3.2017 L 58/40 Diario Oficial de la Unión Europea ES    
+(1) Directiva 2001/83/CE del Parlamento Europeo y del Consejo, de 6 de noviembre de 2001, por la que se establece un código comunitario 
+sobre medicamentos para uso humano (DO L 311 de 28.11.2001, p. 67). 
+(2) Directiva 2001/82/CE del Parlamento Europeo y del Consejo, de 6 de noviembre de 2001, por la que se establece un código comunitario 
+sobre medicamentos veterinarios (DO L 311 de 28.11.2001, p. 1). 
+Artículo 10 
+Envío de documentos oficiales sobre prácticas correctas de fabricación 
+Si una Parte importadora solicita a una autoridad reconocida de la otra Parte un documento oficial sobre prácticas 
+correctas de fabricación posterior a la autorización, la autoridad reconocida enviará el documento a la Parte en un plazo 
+de treinta días naturales a partir de la fecha de la solicitud. Si, basándose en dicho documento, la Parte importadora 
+determina que es necesaria una nueva inspección de la instalación de producción, la Parte importadora lo notificará a la 
+correspondiente autoridad reconocida de la otra Parte y solicitará a la autoridad reconocida de la otra Parte, con arreglo 
+al artículo 11, que lleve a cabo una nueva inspección. 
+Artículo 11 
+Las solicitudes de inspecciones previas a la autorización y posteriores a la autorización 
+1. Una parte o una autoridad reconocida de una Parte podrán solicitar por escrito que una autoridad reconocida de la 
+otra Parte lleve a cabo una inspección de una instalación de producción previa o posterior a la autorización. La solicitud 
+incluirá el motivo de la solicitud y señalará los temas concretos que han de abordarse durante la inspección, el plazo 
+solicitado para la concluir la inspección y enviar los documentos oficiales sobre prácticas correctas de fabricación. 
+2. En la UE, las solicitudes se enviarán directamente a la autoridad reconocida pertinente, con copia a la Agencia 
+Europea de Medicamentos (EMA). 
+3. En el plazo de quince días naturales a partir de la recepción de la solicitud, la autoridad reconocida acusará recibo 
+de la misma y confirmará si llevará a cabo la inspección en los plazos solicitados. Cuando la autoridad que recibe la 
+solicitud considere que se están elaborando o que ya se dispone de documentos oficiales sobre prácticas correctas de 
+fabricación que son pertinentes para la solicitud, informará de ello a la autoridad solicitante y compartirá dichos 
+documentos previa petición en este sentido. 
+4. Para mayor seguridad, si la autoridad reconocida declara que no realizará la inspección, la autoridad solicitante 
+tendrá derecho a efectuar su propia inspección de las instalaciones de producción y la autoridad a la que se solicitó la 
+inspección estará autorizada a participar en la inspección. 
+Artículo 12 
+Mantenimiento 
+Cada Parte realizará actividades permanentes para controlar que las autoridades reconocidas en su territorio siguen 
+cumpliendo los criterios necesarios para su reconocimiento. A los efectos de dichas actividades de control, cada Parte 
+podrá aplicar programas establecidos que incluyan auditorías o evaluaciones periódicas de las autoridades basadas en los 
+criterios especificados en el apéndice 4. La frecuencia y naturaleza de dichas actividades estarán en consonancia con las 
+mejores prácticas internacionales. Una Parte podrá invitar a la otra Parte, a cargo de esta, a participar en estas 
+actividades de control. Cada Parte notificará a la otra Parte cualquier cambio significativo en sus programas de control. 
+Artículo 13 
+Suspensión de una autoridad reconocida 
+1. Cada Parte tendrá derecho a suspender el reconocimiento de una autoridad reconocida de la otra Parte. Este 
+derecho se ejercerá de forma objetiva y motivada y se comunicará por escrito a la otra Parte y a la autoridad reconocida. 
+2. La Parte que suspenda el reconocimiento de una autoridad reconocida de la otra Parte, a petición de esta o de la 
+autoridad cuyo reconocimiento haya sido suspendido, debatirá sin demora en el Comité Sectorial Mixto la suspensión, 
+los motivos para ello y las medidas correctivas que sería necesario adoptar para que se levante la suspensión. 
+4.3.2017 L 58/41 Diario Oficial de la Unión Europea ES    
+3. Tras la suspensión de una autoridad considerada anteriormente como reconocida, las Partes ya no estarán 
+obligadas a aceptar documentos oficiales de dicha autoridad sobre prácticas correctas de fabricación. Las Partes 
+continuarán aceptando documentos oficiales de dicha autoridad sobre prácticas correctas de fabricación anteriores a la 
+suspensión, salvo que las Partes decidan lo contrario por consideraciones de salud o seguridad. La suspensión continuará 
+vigente hasta que las partes decidan levantar la suspensión o hasta que se adopte una decisión positiva, con arreglo al 
+artículo 7, tras una revaluación. 
+CAPÍTULO 4 
+COMITÉ SECTORIAL MIXTO 
+Artículo 14 
+Función y composición del Comité Sectorial Mixto 
+1. Se crea un Comité Sectorial Mixto para supervisar las actividades realizadas en virtud del presente anexo. 
+2. El Comité estará presidido conjuntamente por un representante de la FDA, por parte estadounidense, y un 
+representante de la UE, cada uno de los cuales dispondrá de un voto en dicho Comité. El Comité Sectorial Mixto tomará 
+sus decisiones por unanimidad. Asimismo, aprobará su propio reglamento interno. 
+3. Las funciones del Comité Sectorial Mixto serán, entre otras: 
+a)  crear y mantener actualizada la lista de autoridades reconocida, incluida cualquier limitación referente al tipo de 
+inspección o a los productos, y la lista de autoridades del apéndice 2 y comunicar las listas a todas las autoridades 
+enumeradas en el apéndice 2 y al Comité Mixto; 
+b)  facilitar un foro para debatir asuntos relacionados con el presente anexo, incluidos los relativos a desacuerdos sobre 
+las decisiones de reconocimiento o suspensión y los plazos para concluir las evaluaciones, con arreglo al presente 
+anexo, de las autoridades enumeradas en el apéndice 2; 
+c)  de conformidad con el artículo 20 y el apéndice 3, estudiar la situación de los productos contemplados en el 
+artículo 20 y tomar decisiones sobre su inclusión; y 
+d)  adoptar, cuando sea necesario, medidas técnicas y administrativas complementarias destinadas a la aplicación efectiva 
+del presente anexo. 
+4. El Comité Sectorial Mixto se reunirá a petición de cualquiera de las Partes por lo que se refiere a las cuestiones 
+relativas a los desacuerdos sobre las decisiones de reconocimiento o suspensión y, en cuanto a otras cuestiones, cuando 
+lo acuerden las Partes. El Comité Sectorial Mixto podrá reunirse físicamente o por otros medios. 
+CAPÍTULO 5 
+COOPERACIÓN EN MATERIA DE REGLAMENTACIÓN E INTERCAMBIO DE INFORMACIÓN 
+Artículo 15 
+Cooperación en materia de reglamentación 
+Las Partes se informarán y se consultarán mutuamente, con arreglo a la legislación, sobre las propuestas para introducir 
+nuevos controles o modificar los reglamentos técnicos vigentes o realizar modificaciones importantes de los procedi­
+mientos de inspección farmacéutica, y se brindarán la oportunidad de presentar observaciones sobre dichas propuestas. 
+Artículo 16 
+Intercambio de información 
+Las Partes establecerán mecanismos adecuados, incluido el acceso a las bases de datos que corresponda, para el 
+intercambio de documentos oficiales sobre prácticas correctas de fabricación y otra información pertinente relativa a la 
+inspección de una instalación de producción y el intercambio de información sobre cualquier informe confirmado sobre 
+problemas, medidas correctoras, retiradas, importaciones rechazadas y cualquier otro problema sobre la reglamentación 
+o la aplicación efectiva en relación con los productos regulados por el presente anexo. 
+4.3.2017 L 58/42 Diario Oficial de la Unión Europea ES    
+Artículo 17 
+Sistema de alerta 
+Cada Parte deberá mantener un sistema de alerta que permita informar proactivamente y con la celeridad necesaria a las 
+autoridades de la otra Parte, cuando proceda, en caso de defecto de calidad, retirada, productos falsos o falsificados, o de 
+posible escasez importante y de otros problemas relacionados con la calidad o el incumplimiento de las prácticas 
+correctas de fabricación que pudiera requerir controles adicionales o la suspensión de la distribución de los productos 
+afectados. 
+CAPÍTULO 6 
+CLÁUSULA DE SALVAGUARDIA 
+Artículo 18 
+Cláusula de salvaguardia 
+1. Las Partes reconocen que el país importador tiene derecho a asumir sus responsabilidades jurídicas tomando las 
+medidas necesarias para garantizar la protección de la salud pública y la sanidad animal al nivel que considere necesario. 
+Una autoridad de una Parte tiene derecho a realizar su propia inspección de una instalación de producción en el 
+territorio de la otra Parte. 
+2. El hecho de que una autoridad de una Parte realice su propia inspección de una instalación de producción en el 
+territorio de la otra Parte debe constituir una excepción a la práctica normal de una Parte a partir de la fecha en que los 
+artículos mencionados en el artículo 19, apartado 2, sean de aplicación. 
+3. Antes de efectuar una inspección con arreglo a lo dispuesto en el apartado 1, una autoridad de una Parte enviará 
+una notificación por escrito a la otra Parte, cuya autoridad tendrá derecho a sumarse a la inspección realizada por la 
+Parte mencionada en primer lugar. 
+CAPÍTULO 7 
+DISPOSICIONES FINALES 
+Artículo 19 
+Entrada en vigor 
+1. El presente anexo entrará en vigor en la fecha en que las partes hayan concluido un canje de notas que confirme la 
+finalización de todos los procedimientos respectivos necesarios para la entrada en vigor del presente anexo. 
+2. No obstante lo dispuesto en el apartado 1, los artículos 8, 10, 11 y 12 del presente anexo no se aplicarán hasta el 
+1 de noviembre de 2017, con excepción de lo dispuesto en el apartado 4. 
+3. No obstante lo dispuesto en el apartado 1, el artículo 9 del presente anexo no se aplicará hasta la fecha en que la 
+FDA haya reconocido a todas las autoridades de los Estados miembros de la UE competentes en materia de productos 
+farmacéuticos de uso humano enumeradas en el apéndice 2. 
+4. Si, a más tardar el 1 de noviembre de 2017, la FDA no ha concluido las evaluaciones, con arreglo al presente 
+anexo, de un mínimo de ocho autoridades de Estados miembros competentes en materia de productos farmacéuticos de 
+uso humano recogidas en el apéndice 2, pese a haber recibido de dichas autoridades expedientes completos para la 
+evaluación de la competencia como establece el punto II.A.1 del apéndice 4 y con arreglo al calendario que figura en el 
+apéndice 5, la aplicación de los artículos a que se refiere el apartado 2 se retrasará hasta la fecha en que la FDA haya 
+concluido las evaluaciones de, al menos, ocho de estas autoridades. 
+Artículo 20 
+Disposiciones transitorias 
+1. A más tardar el 15 de julio de 2019, el Comité Sectorial Mixto estudiará si procede incluir los productos 
+veterinarios en el ámbito de aplicación del presente anexo. El Comité Sectorial Mixto intercambiará puntos de vista 
+sobre la organización de la evaluación de las autoridades respectivas a más tardar el 15 de diciembre de 2017. 
+4.3.2017 L 58/43 Diario Oficial de la Unión Europea ES    
+2. A más tardar el 15 de julio de 2022, el Comité Sectorial Mixto estudiará si procede incluir las vacunas de uso 
+humano y los productos farmacéuticos derivados de plasma en el ámbito de aplicación del presente anexo. Sin perjuicio 
+de esta consideración, a partir de la fecha efectiva de entrada en vigor del presente anexo, una Parte notificará 
+previamente a la autoridad pertinente de la otra Parte la realización de una inspección, posterior a la autorización, de 
+una instalación de producción de dichos productos situada en el territorio de la Parte en cuestión y ofrecerá a la 
+autoridad la posibilidad de unirse a la inspección. Con el fin de respaldar la inclusión de vacunas de uso humano y 
+productos farmacéuticos derivados de plasma en el ámbito de aplicación del presente anexo, el Comité Sectorial Mixto 
+tendrá en cuenta, en particular, la experiencia adquirida gracias a estas inspecciones conjuntas. 
+3. A más tardar el 15 de julio de 2019, el Comité Sectorial Mixto revisará la experiencia adquirida a fin de decidir si 
+han de revisarse las disposiciones relativas a las inspecciones previas a la autorización contempladas en el artículo 11. 
+4. Los productos a que se hace referencia en los apartados 1 y 2 se incluirán en el ámbito de aplicación del presente 
+anexo solamente después de que así lo haya decidido el Comité Sectorial Mixto de conformidad con los apartados 1 y 2. 
+5. En aquellos casos en que la FDA identifique que es necesario realizar una inspección posterior a la autorización de 
+una instalación de producción en un territorio de una autoridad de un Estado miembro cuya evaluación con arreglo al 
+presente anexo esté pendiente o que la FDA no haya reconocido, la FDA lo notificará a dicha autoridad y a la EMA por 
+escrito. 
+a)  A más tardar treinta días naturales a partir de la fecha de recepción de una notificación con arreglo al apartado 5, la 
+autoridad en cuyo territorio esté situada la instalación de producción o la EMA, en nombre de dicha autoridad, 
+informará a la FDA si ha optado por solicitar a una autoridad reconocida de la UE que lleve a cabo la inspección y, 
+en caso afirmativo, si dicha autoridad reconocida de la UE llevará a cabo la inspección antes de la fecha indicada en 
+la notificación. Se permitirá que la autoridad en cuyo territorio se encuentra la instalación de producción se una a la 
+inspección. 
+b)  En el caso de que una autoridad reconocida de la UE lleve a cabo la inspección, la autoridad reconocida o la EMA, en 
+nombre de dicha autoridad, comunicará a la FDA la fecha o las fechas en que llevará a cabo la inspección y 
+presentará los documentos oficiales sobre prácticas correctas de fabricación pertinentes para la inspección a la FDA y 
+a la autoridad del territorio en el que se haya efectuado la inspección antes de la fecha especificada en la notificación, 
+de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables enumeradas en el 
+apéndice 1. La FDA tendrá la posibilidad de participar en la inspección. 
+c)  En el caso de que una autoridad reconocida de la UE no realice la inspección y que esta sea efectuada por la FDA, la 
+autoridad del territorio en el que se haya efectuado la inspección tendrá derecho a participar en la inspección y la 
+FDA presentará a dicha autoridad los documentos oficiales sobre prácticas correctas de fabricación pertinentes para la 
+inspección. 
+Artículo 21 
+Expiración 
+1. El anexo expirará el 15 de julio de 2019 en el caso de que la FDA, hasta esa fecha, no haya concluido una 
+evaluación, con arreglo al presente anexo, de cada autoridad de los Estados miembros competentes en materia de 
+productos farmacéuticos de uso humano recogida en el apéndice 2, a condición de que la FDA haya recibido de dichas 
+autoridades expedientes completos para la evaluación de la competencia como establece el punto II.A.1 del apéndice 4 y 
+con arreglo al calendario que figura en el apéndice 5. 
+2. La fecha prevista en el apartado 1 se prorrogará noventa días naturales por cada autoridad que proporcione un 
+expediente completo para la evaluación de la competencia, como establece el punto II.A.1 del apéndice 4, fuera del 
+plazo previsto en el apéndice 5 pero antes del 15 de julio de 2019. 
+3. Previa solicitud, la FDA debatirá cualquier desacuerdo planteado por la UE respecto a una evaluación en el Comité 
+Sectorial Mixto. Si dicho Comité no puede llegar a un acuerdo sobre la solución del desacuerdo, la UE podrá notificar 
+por escrito a la FDA su desacuerdo formal y el anexo expirará tres meses a partir de la fecha de dicha notificación o en 
+cualquier otra fecha que acuerde el Comité Sectorial Mixto.  
+4.3.2017 L 58/44 Diario Oficial de la Unión Europea ES    
+Apéndice 1 
+Lista de las disposiciones legales, reglamentarias y administrativas aplicables 
+ESTADOS UNIDOS 
+Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 301 y ss. De especial pertinencia: 21 USC 351(a)(2)(B) (medicamento 
+adulterado si no es fabricado conforme a la norma vigente de correcta fabricación); 21 U.S.C. 355(d)(3); 21 U.S.C. 355(j) 
+(4)(A) (autorización de medicamentos humanos dependiente de la adecuación de los métodos, instalaciones y controles 
+de producción, transformación y embalaje para preservar la identidad, la potencia, la calidad y la pureza de los 
+medicamentos); 21 U.S.C. 360b(c)(2)(A)(i); 360b(d)(1)(C) (autorización de medicamentos veterinarios dependiente de la 
+adecuación de los métodos, instalaciones y controles de producción, transformación y embalaje para preservar la 
+identidad, la potencia, la calidad y la pureza de los medicamentos); 21 U.S.C. 374 (autoridad de inspección); 21 U.S.C. 
+384(e) (reconocimiento de inspecciones de Administraciones extranjeras); 
+Public Health Service Act Section 351, 42 U.S.C. 262. De especial pertinencia: 42 U.S.C. 262(a)(2)(C)(i)(II), (concesión de 
+licencias de productos biológicos supeditada a la demostración de que la instalación en la que se fabrican, se 
+transforman, se envasan o se conservan cumple las normas concebidas para garantizar el mantenimiento de la 
+seguridad, la pureza y la potencia del producto); 42 U.S.C. 262(j) (la Federal Food, Drug, and Cosmetic Act se aplica 
+a los productos biológicos) 
+21 CFR, parte 210 (Normas vigentes de correcta fabricación para la fabricación, la transformación, el envasado o la 
+conservación de medicamentos; Generalidades) 
+21 CFR, parte 211 (Normas vigentes de correcta fabricación para productos farmacéuticos acabados) 
+21 CFR, parte 600, subparte B (Normas relativas a los establecimientos); ssubparte C (Inspección de establecimientos) 
+UNIÓN EUROPEA 
+Directiva 2001/83/CE del Parlamento Europeo y del Consejo, de 6 de noviembre de 2001, por la que se establece un 
+código comunitario sobre medicamentos para uso humano; 
+Directiva 2001/82/CE del Parlamento Europeo y del Consejo, de 6 de noviembre de 2001, por la que se establece un 
+código comunitario sobre medicamentos veterinarios; 
+Directiva 2001/20/CE del Parlamento Europeo y del Consejo, de 4 de abril de 2001, relativa a la aproximación de las 
+disposiciones legales, reglamentarias y administrativas de los Estados miembros sobre la aplicación de buenas prácticas 
+clínicas en la realización de ensayos clínicos de medicamentos de uso humano; 
+Reglamento (UE) n.o 536/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los ensayos 
+clínicos de medicamentos de uso humano, y por el que se deroga la Directiva 2001/20/CE; 
+Reglamento (CE) n.o 726/2004 del Parlamento Europeo y del Consejo, de 31 de marzo de 2004, por el que se establecen 
+procedimientos comunitarios para la autorización y el control de los medicamentos de uso humano y veterinario y por 
+el que se crea la Agencia Europea de Medicamentos: 
+Directiva 2003/94/CE de la Comisión, de 8 de octubre de 2003, por la que se establecen los principios y directrices de 
+las prácticas correctas de fabricación de los medicamentos de uso humano y de los medicamentos en investigación de 
+uso humano; 
+Directiva 91/412/CEE de la Comisión, de 23 de julio de 1991, por la que se establecen los principios y directrices de las 
+prácticas correctas de fabricación de los medicamentos veterinarios; 
+Reglamento Delegado (UE) n.o 1252/2014 de la Comisión, de 28 de mayo de 2014, por el que se completa la Directiva 
+2001/83/CE del Parlamento Europeo y del Consejo en lo que se refiere a principios y directrices de prácticas correctas 
+de fabricación de principios activos para medicamentos de uso humano; y 
+última versión de la «Guía de prácticas correctas de fabricación» contenida en el volumen IV de las Normas sobre 
+medicamentos de la Unión Europea y recopilación de los procedimientos de la Unión Europea en materia de 
+inspecciones e intercambio de información.  
+4.3.2017 L 58/45 Diario Oficial de la Unión Europea ES    
+Apéndice 2 
+LISTA DE AUTORIDADES 
+ESTADOS UNIDOS 
+The Food and Drug Administration 
+UNIÓN EUROPEA 
+País Para los medicamentos de uso humano Para los medicamentos de uso veterinario 
+Austria Agencia Austriaca de Seguridad Sanitaria y 
+Alimentaria/Österreichische Agentur für Ge­
+sundheit und Ernährungssicherheit GmbH 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Alemania Instituto Federal de Medicamentos y Produc­
+tos Sanitarios/Bundesinstitut für Arzneimit­
+tel und Medizinprodukte (BfArM) 
+Instituto Paul-Ehrlich, Instituto Federal de 
+Vacunas y Biomedicamentos/Paul-Ehrlich- 
+Institut (PEI) Bundesinstitut für Impfstoffe 
+und biomedizinische Arzneimittel 
+Ministerio Federal de Sanidad/Bundesminis­
+terium für Gesundheit (BMG)/Zentralstelle 
+der Länder für Gesundheitsschutz bei Arz­
+neimitteln und Medizinprodukten (ZLG) (1) 
+Oficina Federal de Protección del Consumidor 
+y Seguridad Alimentaria/Bundesamt für Ver­
+braucherschutz und Lebensmittelsicherheit 
+(BVL) 
+Ministerio Federal de Alimentación y Agricul­
+tura/Bundesministerium für Ernährung und 
+Landwirtschaft 
+Bélgica Agencia Federal de Medicamentos y Produc­
+tos Sanitarios/Federaal Agentschap voor ge­
+neesmiddelen en gezondheidsproducten/ 
+Agence fédérale des médicaments et pro­
+duits de santé 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Bulgaria Agencia Búlgara de Medicamentos/ИЗПЪЛ­
+НИТЕЛНА АГЕНЦИЯ ПО ЛЕКАРСТВАТА 
+Agencia Búlgara de Seguridad Alimentaria/ 
+Българска агенция по безопасност на храните 
+Chipre Ministerio de Sanidad, Servicios Farmacéuti­
+cos/Φαρμακευτικές Υπηρεσίες, Υπουργείο 
+Υγείας 
+Ministerio de Agricultura, Desarrollo Rural y 
+Medio Ambiente,Servicios Veterinarios/Κτη­
+νιατρικές Υπηρεσίες- Υπουργείο Γεωργίας, Αγρο­
+τικής Ανάπτυξης και Περιβάλλοντος 
+Croacia Agencia de Medicamentos y Productos Sani­
+tarios/Agencija za lijekove i medicinske 
+proizvode (HALMED) 
+Ministerio de Agricultura, Dirección de Vete­
+rinaria y Seguridad Alimentaria/Ministarstvo 
+Poljoprivrede, Uprava za veterinarstvo i sigur­
+nost hrane 
+Dinamarca Agencia Danesa de Medicamentos/Laegemid­
+delstyrelsen 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Eslovenia Agencia de Medicamentos y Productos Sani­
+tarios de la República de Eslovenia/Javna 
+agencija Republike Slovenije za zdravila in 
+medicinske pripomočke (JAZMP) 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+4.3.2017 L 58/46 Diario Oficial de la Unión Europea ES    
+País Para los medicamentos de uso humano Para los medicamentos de uso veterinario 
+España Agencia Española de Medicamentos y Pro­
+ductos Sanitarios (2) 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Estonia Agencia Estatal de Medicamentos/Ravimia­
+met 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Finlandia Agencia Finlandesa de Medicamentos/Lää­
+kealan turvallisuus- ja kehittämiskeskus (FI­
+MEA) 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Francia Agencia Nacional de Seguridad de los Medi­
+camentos y los Productos Sanitarios/Agence 
+nationale de sécurité du médicament et des 
+produits de santé (ANSM) 
+Agencia Nacional de Seguridad Sanitaria de la 
+Alimentación, del Medio Ambiente y del Tra­
+bajo-Agencia Nacional de Medicamentos Veteri­
+narios/Agence Nationale de Sécurité Sanitaire 
+de l'alimentation, de l'environnement et du 
+travail-Agence Nationale du Médicament Vé­
+térinaire (Anses-ANMV) 
+Grecia Organismo Nacional de Medicamentos/Eth­
+nikos Organismos Farmakon (EOF)- 
+(ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΦΑΡΜΑΚΩΝ) 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Hungría Országos Gyógyszerészeti és Élelmezés- 
+egészségügyi Intézet/Instituto Nacional de 
+Farmacia y Nutrición 
+Oficina Nacional de Seguridad de la Cadena 
+Alimentaria, Dirección de Medicamentos Ve­
+terinarios/Nemzeti Élelmiszerlánc-biztonsági 
+Hivatal, Állatgyógyászati Termékek Igazgató­
+sága (ÁTI) 
+Irlanda Autoridad Reguladora de Medicamentos y 
+Productos Sanitarios/Health Products Regu­
+latory Authority (HPRA) 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Italia Agencia Italiana de Medicamentos/Agenzia Ita­
+liana del Farmaco 
+Ministerio de Sanidad, Dirección General de Sani­
+dad Animal y Medicamentos Veterinarios/Minis­
+tero della Salute, Direzione Generale della Sa­
+nità Animale e dei Farmaci Veterinari 
+Letonia Agencia Estatal de Medicamentos/Zāļu valsts 
+aģentūra 
+Departamento de Evaluación y Registro del 
+Servicio de Alimentación y Veterinaria/Pārti­
+kas un veterinārā dienesta Novērtēšanas un 
+reģistrācijas departaments 
+Lituania Agencia Estatal de Control de Medicamen­
+tos/Valstybinė vaistų kontrolės tarnyba 
+Servicio Estatal de Alimentación y Veterina­
+ria/Valstybinė maisto ir veterinarijos tarnyba 
+Luxemburgo Ministerio de Sanidad, División de Farmacia 
+y Medicamentos/Ministère de la Santé, Divi­
+sion de la Pharmacie et des Médicaments 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Malta Autoridad Reguladora de Medicamentos/Me­
+dicines Regulatory Authority 
+Sección de Medicamentos Veterinarios y Ali­
+mentación Animal, Dirección de Reglamen­
+tación Veterinaria del Departamento de Re­
+glamentación Veterinaria y Fitosanitaria/Vete­
+rinary Medicines and Animal Nutrition sec­
+tion (VMANS) Veterinary Regulation Directo­
+rate (VRD) within the Veterinary and Phytosa­
+nitary Regulation Department (VPRD) 
+4.3.2017 L 58/47 Diario Oficial de la Unión Europea ES    
+País Para los medicamentos de uso humano Para los medicamentos de uso veterinario 
+Países Bajos Inspección de Sanidad/Inspectie voor de Ge­
+zondheidszorg (IGZ) 
+Comisión de Evaluación de Medicamentos/ 
+Bureau Diergeneesmiddelen, College ter 
+Beoordeling van Geneesmiddelen (CBG) 
+Polonia Inspección General de Productos Farmacéu­
+ticos/Główny Inspektorat Farmaceutyczny 
+(GIF) 
+Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+Portugal Autoridad Nacional de Medicamentos y Pro­
+ductos Sanitarios/INFARMED, I.P Autoridade 
+Nacional do Medicamento e Produtos de 
+Saúde, I. P. 
+Dirección General de Alimentación y Veteri­
+naria/DGAV-Direção Geral de Alimentação e 
+Veterinária (PT) 
+Reino Unido Agencia Reguladora de Medicamentos y Pro­
+ductos Sanitarios/Medicines and Healthcare 
+products Regulatory Agency 
+Dirección de Medicamentos Veterinarios/Vete­
+rinary Medicines Directorate 
+República Checa Instituto Nacional para el Control de Medi­
+camentos/Státní ústav pro kontrolu léčiv 
+(SÚKL) 
+Instituto para el Control Estatal de Medica­
+mentos y Productos Biológicos de Uso Veteri­
+nario/Ústav pro státní kontrolu veterinárních 
+biopreparátů a léčiv (ÚSKVBL) 
+República Eslovaca 
+(Eslovaquia) 
+Instituto Nacional para el Control de Medi­
+camentos/Štátny ústav pre kontrolu liečiv 
+(ŠÚKL) 
+Instituto de Control Estatal de Medicamentos 
+y Productos Biológicos de Uso Veterinario/ 
+Ústav štátnej kontroly veterinárnych biopre­
+parátov a liečiv (USKVBL) 
+Rumanía Agencia Nacional de Medicamentos y Pro­
+ductos Sanitarios/Agenţia Naţională a Medi­
+camentului şi a Dispozitivelor Medicale 
+Autoridad Nacional de Sanidad Animal y Se­
+guridad Alimentaria/Autoritatea Naţională Sa­
+nitară Veterinară şi pentru Siguranţa Alimen­
+telor 
+Suecia Agencia de Medicamentos/Läkemedelsverket Véase la autoridad competente en materia de 
+medicamentos de uso humano 
+(1) A los efectos del presente anexo y sin perjuicio del reparto interno de competencias en Alemania en relación con las materias perte­
+necientes al ámbito de aplicación del presente anexo, se entenderá que ZLG incluye a todas las autoridades competentes de los Esta­
+dos federados que publican documentos sobre normas de correcta fabricación y que realizan inspecciones farmacéuticas. 
+(2) A los efectos del presente anexo y sin perjuicio del reparto interno de competencias en España en relación con las materias pertene­
+cientes al ámbito de aplicación del presente anexo, se entenderá que la Agencia Española de Medicamentos y Productos Sanitarios 
+incluye a todas las autoridades competentes de las Comunidades Autónomas que publican documentos sobre prácticas correctas de 
+fabricación y que realizan inspecciones farmacéuticas.   
+4.3.2017 L 58/48 Diario Oficial de la Unión Europea ES    
+Apéndice 3 
+LISTA DE PRODUCTOS REGULADOS POR EL ANEXO 
+Reconociendo que la definición precisa de los medicamentos ha de hallarse en las disposiciones legales, reglamentarias y 
+administrativas enumeradas en el apéndice 1, a continuación se ofrece una lista indicativa de los productos incluidos en 
+el ámbito de aplicación del anexo. Esto se aplica a las instalaciones de transformación, envasado, ensayo y esterilización, 
+incluidas las que ejercen estas funciones por contrato.  
+1. Productos farmacéuticos de uso humano acabados y comercializados, en diferentes formas farmacéuticas como 
+comprimidos, cápsulas, pomadas e inyectables, incluidos: 
+a)  los gases medicinales; 
+b)  los radiofármacos o los productos biológicos radiactivos; 
+c)  medicamentos a base de plantas (botánicos) (*); y 
+d)  los productos homeopáticos;  
+2. Productos biológicos comercializados: 
+a)  Vacunas de uso humano (**); 
+b)  Productos farmacéuticos derivados de plasma (**); 
+c)  Productos terapéuticos biológicos derivados de la biotecnología; y 
+d)  Productos alérgenos.  
+3. Materias en transformación (in process materials, en el caso de los Estados Unidos y definidos según su legislación) y 
+productos intermedios (en el caso de la Unión Europea, tal como se definen en su legislación);  
+4. Principios activos farmacéuticos o sustancias medicamentosas a granel;  
+5. Productos farmacéuticos en investigación (materias de ensayo clínico) (***); y  
+6. Productos veterinarios (**): 
+a)  productos farmacéuticos veterinarios, incluidos los medicamentos con receta y sin receta, con la exclusión de los 
+productos inmunológicos veterinarios; 
+b)  premezclas para la fabricación de alimentos medicamentosos para animales (UE), artículos medicamentosos de 
+tipo A para la fabricación de alimentos medicamentosos para animales (type A medicated articles for the preparation 
+of veterinary medicated feeds, Estados Unidos);  
+(*) Se incluyen en la medida en que estén regulados como medicamentos por la FDA y por la UE. 
+(**) Estos productos solo se incluyen en el ámbito de aplicación del presente anexo en la medida en que el Comité 
+Sectorial Mixto decida incluirlos con arreglo al artículo 20. 
+(***) La FDA normalmente no lleva a cabo inspecciones relativas a las prácticas correctas de fabricación de 
+medicamentos en investigación. Se facilitará información relativa a la inspección de dichos productos en la medida 
+en que estén disponibles y los recursos lo permitan. Estos productos solo se incluyen en el ámbito de aplicación 
+del presente anexo en la medida en que el Comité Sectorial Mixto decida incluirlos.  
+4.3.2017 L 58/49 Diario Oficial de la Unión Europea ES    
+Apéndice 4 
+CRITERIOS Y PROCEDIMIENTO PARA LAS EVALUACIONES CON ARREGLO AL PRESENTE ANEXO  
+I. CRITERIOS Y PROCEDIMIENTO PARA LAS EVALUACIONES CON ARREGLO AL PRESENTE ANEXO 
+Cada Parte aplicará los siguientes criterios para determinar si debe reconocer a una autoridad enumerada en el 
+apéndice 2: 
+i)  La autoridad tiene autoridad desde el punto de vista legal y reglamentario para llevar a cabo inspecciones según 
+los criterios de prácticas correctas de fabricación (tal como se definen en el artículo 1). 
+ii)  La autoridad gestiona los conflictos de intereses de manera ética. 
+iii)  La autoridad tiene la capacidad de evaluar riesgos y de reducirlos. 
+iv)  La autoridad mantiene una supervisión adecuada de las instalaciones de producción pertenecientes a su 
+jurisdicción. 
+v)  La autoridad dispone de recursos suficientes y los utiliza. 
+vi)  La autoridad emplea a inspectores formados y cualificados con las aptitudes y conocimientos necesarios para 
+identificar prácticas de fabricación que pueden provocar daño al paciente. 
+vii)  La autoridad dispone de las herramientas necesarias para actuar a fin de proteger a la población frente a los 
+daños debidos a la mala calidad de los medicamentos.  
+II. PROCEDIMIENTOS PARA LAS EVALUACIONES CON ARREGLO AL PRESENTE ANEXO 
+A.  Evaluación de autoridades de la UE por parte de la FDA 
+1.  Para recibir una evaluación de la competencia de una autoridad enumerada en el apéndice 2, la autoridad 
+de cada Estado miembro presentará expedientes para la evaluación de la competencia que contengan los 
+documentos siguientes antes de que la FDA inicie una evaluación: 
+i)  la versión definitiva del informe de una auditoría, realizada conforme al programa conjunto de 
+auditoría, en la que se hubiese comunicado con tres meses de antelación a la FDA que esta podía 
+participar en calidad de observador, que incluya el informe completo de la inspección observada, todas 
+las medidas correctoras asociadas y todos los documentos citados por los auditores en el informe en el 
+caso de los indicadores señalados por la FDA en la lista de control para auditorías del programa 
+conjunto de auditoría como esenciales para la evaluación y en el caso de cualquier indicador que 
+exigiese que la autoridad propusiera medidas correctivas y preventivas; 
+ii)  un cuestionario cumplimentado sobre conflictos de intereses, elaborado por la FDA, firmado por un 
+directivo de la autoridad; 
+iii)  un total de cuatro informes de inspección, incluido el informe de las inspecciones observadas durante 
+la auditoría del programa conjunto de auditoría; 
+iv)  los procedimientos normalizados de trabajo o una descripción de la forma en que la autoridad elabora 
+la versión definitiva de los informes de inspección; 
+v)  los procedimientos normalizados de trabajo relacionados con la formación y la cualificación de 
+inspectores, incluidos los expedientes de formación de todos los inspectores que realizaron las 
+inspecciones en los informes facilitados a la FDA [de conformidad con el inciso iii)]; y 
+vi)  el inventario más reciente de instalaciones de producción en su territorio y bajo la jurisdicción de la 
+autoridad, incluido el tipo de instalación de producción de los productos incluidos en el ámbito de 
+aplicación del presente anexo, y previa solicitud, se cumplimentará un cuadro facilitado por la FDA en 
+el que se detallan los tipos de instalaciones de producción. 
+2.  Durante una evaluación de la competencia, la FDA podrá exigir información o aclaraciones adicionales a la 
+autoridad de un Estado miembro. 
+4.3.2017 L 58/50 Diario Oficial de la Unión Europea ES    
+3.  La FDA podrá dispensar del requisito de presentar determinados datos que figuran en el punto II.A.1 y 
+podrá solicitar en su lugar otros datos a la autoridad del Estado miembro. La FDA adoptará caso por caso 
+la decisión de dispensar de presentar documentos para la evaluación. 
+4.  Una vez recibida de la autoridad de un Estado miembro toda la información requerida especificada en el 
+punto II.A, la FDA tiene intención de enviar dicha información para su traducción oficial al inglés dentro 
+de un plazo razonable. La FDA completará las evaluaciones y determinará la competencia de las 
+autoridades de los Estados miembros en un plazo máximo de setenta días naturales a partir de la fecha en 
+que reciba una traducción de toda la información exigida que se especifica en el punto II.A en relación con 
+la autoridad del Estado miembro. La FDA dedicará dos equipos a la evaluación de la competencia; por 
+consiguiente, la FDA evaluará a dos autoridades de Estados miembros en un momento dado. 
+B.  Evaluación de la FDA por parte de la UE 
+La UE llevará a cabo su evaluación de la FDA basándose en los elementos siguientes: 
+i)  La realización de una auditoría conforme a los elementos del programa conjunto de auditoría teniendo en 
+cuenta las auditorías efectuadas en el marco del Acuerdo sobre Inspección Farmacéutica y el Plan de 
+Cooperación de Inspección Farmacéutica [Pharmaceutical Inspection Convention/Scheme (PIC/S)] y las auditorías 
+realizadas en el contexto del artículo 111 ter, apartado 1, de la Directiva 2001/83/CE. 
+ii)  La evaluación de la equivalencia de los requisitos legales y reglamentarios relativos a las prácticas correctas 
+de fabricación. 
+C.  Revaluación de las autoridades 
+En el caso de que una Parte evaluadora formule una decisión negativa o decida la suspensión de una autoridad 
+de la otra Parte, podrá revaluar a la autoridad. El alcance de la revaluación estará ligado a los motivos de la 
+decisión negativa o de la suspensión.  
+III. MANTENIMIENTO DEL RECONOCIMIENTO 
+Para mantener el reconocimiento, es necesario que la autoridad siga cumpliendo los criterios establecidos en el 
+punto I.A y que siga sometida a las actividades de control descritas en el artículo 12; en el caso de las autoridades de 
+los Estados miembros, la FDA exige el control a través de un programa de auditoría que incluya una auditoría (que la 
+FDA tiene la posibilidad de observar) de cada autoridad reconocida de cada Estado miembro cada cinco a seis años. 
+En caso de que una autoridad no haya sido objeto de auditoría por un período de seis años, la otra Parte tendrá 
+derecho a auditar a dicha autoridad.  
+4.3.2017 L 58/51 Diario Oficial de la Unión Europea ES    
+Apéndice 5 
+CALENDARIO DE LA EVALUACIÓN INICIAL DE LAS AUTORIDADES DE LOS ESTADOS MIEMBROS  
+1. Las autoridades de los Estados miembros competentes en materia de productos farmacéuticos de uso humano 
+enumeradas en el apéndice 2 presentarán expedientes completos para la evaluación de la competencia que contengan 
+la información especificada en el punto II.A.1 del apéndice 4 con arreglo al siguiente calendario: 
+—  A más tardar el 1 de enero de 2017: expedientes para la evaluación de la competencia de cuatro autoridades de 
+los Estados miembros 
+—  A más tardar el 15 de febrero de 2017: expedientes para la evaluación de la competencia de tres autoridades más 
+de los Estados miembros 
+—  A más tardar el 1 de abril de 2017: expedientes para la evaluación de la competencia de dos autoridades más de 
+los Estados miembros 
+—  A más tardar el 15 de mayo de 2017: expedientes para la evaluación de la competencia de dos autoridades más 
+de los Estados miembros 
+—  A más tardar el 15 de septiembre de 2017: expedientes para la evaluación de la competencia de dos autoridades 
+más de los Estados miembros 
+—  A más tardar el 15 de diciembre de 2017: expedientes para la evaluación de la competencia de cuatro autoridades 
+más de los Estados miembros 
+—  A más tardar el 15 de marzo de 2018: expedientes para la evaluación de la competencia de cuatro autoridades 
+más de los Estados miembros 
+—  A más tardar el 15 de junio de 2018: expedientes para la evaluación de la competencia de siete autoridades más 
+de los Estados miembros  
+2. La FDA deberá completar las evaluaciones, en virtud del presente anexo, de las autoridades de los Estados miembros 
+competentes en materia de productos farmacéuticos de uso humano, recogidas en el apéndice 2, con arreglo a lo 
+dispuesto en el punto II.A.4 y al siguiente calendario, a condición de que la FDA reciba expedientes completos para la 
+evaluación de la competencia relativos a dichas autoridades, que contengan la información especificada en el 
+punto II.A.1 del apéndice 4, con arreglo al calendario establecido en el punto 1: 
+—  1 de noviembre de 2017: ocho evaluaciones 
+—  1 de marzo de 2018: cuatro evaluaciones adicionales 
+—  1 de junio de 2018: dos evaluaciones adicionales 
+—  1 de diciembre de 2018: seis evaluaciones adicionales 
+—  15 de julio de 2019: ocho evaluaciones adicionales  
+3. En el caso de cada autoridad de cada Estado miembro: 
+a)  La UE presentará un informe final de auditoría a la FDA a más tardar sesenta días antes de la fecha límite del 
+expediente para la evaluación de la competencia correspondiente a la autoridad. 
+b)  La FDA deberá proporcionar a la autoridad una lista de control definitiva del expediente para la evaluación de la 
+competencia a más tardar veinte días después de que la FDA reciba el informe de auditoría. 
+c)  La autoridad enviará a la FDA el expediente para la evaluación de la competencia a más tardar cuarenta días 
+después de que la autoridad reciba la lista de control del expediente para la evaluación de la competencia.  
+4.3.2017 L 58/52 Diario Oficial de la Unión Europea ES    

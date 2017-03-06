@@ -1,0 +1,463 @@
+VERORDENING (EG) Nr. 452/2008 VAN HET EUROPEES PARLEMENT EN DE RAAD
+van 23 april 2008
+betreffende de productie en ontwikkeling van statistieken over onderwijs en een leven lang leren
+(Voor de EER relevante tekst)
+HET EUROPEES PARLEMENT EN DE RAAD VAN DE EUROPESE UNIE,
+Gelet op het Verdrag tot oprichting van de Europese Gemeen-
+schap, en met name op artikel 285, lid 1,
+Gezien het voorstel van de Commissie,
+Na raadpleging van het Europees Economisch en Sociaal Comité,
+Handelend volgens de procedure van artikel 251 van het
+Verdrag (1),
+Overwegende hetgeen volgt:
+(1) In de Resolutie van de Raad van 5 december 1994 betref-
+fende de bevordering van de onderwijs- en opleidings-
+statistiek in de Europese Unie (2) wordt de Commissie
+verzocht om in nauwe samenwerking met de lidstaten de
+ontwikkeling van onderwijs- en opleidingsstatistieken te
+bespoedigen.
+(2) De Europese Raad kwam op zijn bijeenkomst in Brussel
+(22-23 maart 2005) overeen om de Lissabonstrategie
+nieuw leven in te blazen. Europa moet, zo concludeerde de
+Raad, het fundament van zijn concurrentievermogen ver-
+nieuwen, zijn groeipotentieel en productiviteit vergroten,
+de sociale samenhang versterken en zich daarbij vooral op
+kennis, innovatie en een optimale benutting van het men-
+selijk kapitaal richten. Tegen deze achtergrond zijn inzet-
+bare, flexibele en mobiele burgers voor Europa van vitaal
+belang.
+(3) Om deze doelen te bereiken moeten de Europese systemen
+voor onderwijs en opleiding worden aangepast aan de
+eisen van de kennismaatschappij, de noodzaak van een
+hoger opleidingsniveau en een betere kwaliteit van de
+werkgelegenheid. Statistieken over onderwijs, opleiding en
+een leven lang leren zijn, als basis voor politieke besluiten,
+van het grootste belang.
+(4) Een leven lang leren is een cruciaal element voor een vak-
+bekwaam, geschoold en flexibel arbeidspotentieel. In
+de conclusies van het voorzitterschap van de voorjaars-
+bijeenkomst 2005 van de Europese Raad werd er met
+nadruk op gewezen dat „het menselijk kapitaal Europa’s
+belangrijkste troef is”. Verbetering van het werk aan de
+Lissabonstrategie en uitwerking van brede strategieën voor
+een leven lang leren zijn doelstellingen in de geïntegreerde
+richtsnoeren voor groei en werkgelegenheid en de door de
+Raad in zijn Beschikking 2005/600/EG (3) goedgekeurde
+richtsnoeren voor het werkgelegenheidsbeleid, die daarvan
+deel uitmaken.
+(5) Met de goedkeuring in februari 2001 van het verslag van
+de Raad over de concrete doelstellingen van de onderwijs-
+en opleidingsstelsels en in februari 2002 van het werk-
+programma 2001-2011 voor de follow-up op dit verslag
+is een belangrijke invulling gegeven aan het streven de
+onderwijs- en beroepsopleidingsstelsels van de lidstaten te
+moderniseren en kwalitatief te verbeteren. Indicatoren en
+benchmarks (referentieniveaus van Europese gemiddelde
+prestaties) maken deel uit van de bij de opencoördinatie-
+methode gehanteerde instrumenten en spelen een belang-
+rijke rol bij het werkprogramma Onderwijs en opleiding
+2010. De ministers van onderwijs hebben in mei 2003
+overeenstemming bereikt over vijf Europese benchmarks,
+die uiterlijk in 2010 te bereiken zijn, en daarmee een
+beslissende stap voorwaarts gezet. Tegelijkertijd is erop
+gewezen dat hiermee geen nationale streefcijfers, noch
+door de nationale regeringen te nemen beslissingen wor-
+den voorgeschreven.
+(6) Op 24 mei 2005 heeft de Raad conclusies over nieuwe
+indicatoren voor onderwijs en opleiding (4) aangenomen.
+De Commissie kreeg hierin het verzoek om de Raad stra-
+tegieën en voorstellen voor te leggen voor nieuw uit te
+werken indicatoren op negen specifieke terreinen die met
+onderwijs en beroepsopleiding te maken hebben. Tevens
+werd benadrukt dat de ontwikkeling van nieuwe indicato-
+ren de verantwoordelijkheid van de lidstaten voor de
+organisatie van hun onderwijsstelsels volledig moet respec-
+teren, en geen onnodige administratieve of financiële las-
+ten voor de betrokken organisaties en instellingen met zich
+mee mag brengen, en ook niet onontkoombaar mag leiden
+tot een hoger aantal indicatoren voor het meten van de
+vooruitgang.
+(7) In november 2004 heeft de Raad tevens conclusies over
+Europese samenwerking in het beroepsonderwijs en de
+beroepsopleiding aangenomen. Overeengekomen werd
+om op Europees niveau prioriteit te geven aan „de verbe-
+tering van het bereik, de nauwkeurigheid en de betrouw-
+baarheid van de statistieken op het gebied van
+beroepsonderwijs en -opleiding, waardoor een voortgangs-
+evaluatie mogelijk wordt”.
+(1) Advies van het Europees Parlement van 25 september 2007 (nog niet
+bekendgemaakt in het Publicatieblad) en Besluit van de Raad van
+14 februari 2008.
+(2) PB C 374 van 30.12.1994, blz. 4.
+(3) PB L 205 van 6.8.2005, blz. 21.
+(4) PB C 141 van 10.6.2005, blz. 7.
+4.6.2008 NL Publicatieblad van de Europese Unie L 145/227
+(8) Op Europees niveau zijn onderling vergelijkbare statis-
+tische gegevens van fundamenteel belang om strategieën
+voor onderwijs en een leven lang leren uit te werken en de
+vooruitgang bij de implementatie daarvan te meten. De
+productie van statistisch materiaal moet gegrondvest zijn
+op een raamwerk van op elkaar afgestemde concepten en
+onderling vergelijkbare gegevens, zodat een integraal Euro-
+pees statistisch informatiesysteem over onderwijs, beroeps-
+opleiding en een leven lang leren kan worden opgebouwd.
+(9) Bij de toepassing van deze verordening moet het begrip
+„mensen met een achterstandspositie op de arbeidsmarkt”,
+waarnaar wordt verwezen in de richtsnoeren voor het
+werkgelegenheidsbeleid van de lidstaten, in acht worden
+genomen.
+(10) Uit hoofde van Verordening (EG) nr. 1552/2005 van het
+Europees Parlement en de Raad van 7 september 2005
+betreffende de statistiek van bij- en nascholing in onderne-
+mingen (1) verzamelt de Commissie (Eurostat) gegevens
+over in het bedrijfsleven gegeven opleidingen. Om blijvend
+statistieken over onderwijs en een leven lang leren te kun-
+nen produceren en uitbouwen, is evenwel een breder raam-
+werk nodig dat op zijn minst alle desbetreffende lopende
+of geplande werkzaamheden bestrijkt. In het kader van de
+zogenaamde UOE-enquête verzamelt de Commissie (Euro-
+stat) ieder jaar in samenwerking met het Institute for Sta-
+tistics van de Unesco (UIS) en de Organisatie voor
+Economische Samenwerking en Ontwikkeling (OESO)
+onderwijsgegevens, die op vrijwillige basis door de lidsta-
+ten worden geleverd. Ook verzamelt de Commissie (Euro-
+stat) gegevens over onderwijs, beroepsopleiding en een
+leven lang leren uit enquêtes onder huishoudens, zoals de
+steekproefenquête naar de arbeidskrachten in de Gemeen-
+schap (2) en de communautaire statistiek van inkomens en
+levensomstandigheden (3), en ad-hocmodules.
+(11) Omdat het formuleren en volgen van het beleid op gebied
+van onderwijs en een leven lang leren dynamisch van aard
+is en zich aan een evoluerende omgeving aanpast, moet het
+reguleringskader voor de statistiek op beperkte en
+beheerste wijze ruimte laten voor een zekere mate van
+flexibiliteit en rekening houden met de last die op de res-
+pondenten en de lidstaten drukt.
+(12) Daar de doelstelling van deze verordening, te weten het uit-
+werken van gemeenschappelijke statistische standaards
+voor de productie van geharmoniseerde gegevens, niet vol-
+doende door de lidstaten kan worden verwezenlijkt en der-
+halve beter door de Gemeenschap kan worden
+verwezenlijkt, kan de Gemeenschap, overeenkomstig het
+in artikel 5 van het Verdrag neergelegde subsidiariteitsbe-
+ginsel, maatregelen nemen. Overeenkomstig het in het-
+zelfde artikel neergelegde evenredigheidsbeginsel gaat deze
+verordening niet verder dan nodig is om deze doelstelling
+te verwezenlijken.
+(13) Voor de productie van specifieke communautaire statistie-
+ken gelden de voorschriften van Verordening (EG)
+nr. 322/97 van de Raad van 17 februari 1997 betreffende
+de communautaire statistiek (4).
+(14) Deze verordening verzekert de volledige eerbiediging van
+het recht op bescherming van persoonsgegevens zoals
+geregeld in artikel 8 van het Handvest van de grondrech-
+ten van de Europese Unie.
+(15) Voor de toe te zenden gegevens die onder de statistische
+geheimhoudingsplicht vallen, gelden de voorschriften van
+Verordening (EG) nr. 322/97 en Verordening (Euratom,
+EEG) nr. 1588/90 van de Raad van 11 juni 1990
+betreffende de toezending van onder de statistische
+geheimhoudingsplicht vallende gegevens aan het Bureau
+voor de statistiek van de Europese Gemeenschappen (5).
+(16) Verordening (EG) nr. 831/2002 van de Commissie van
+17 mei 2002 tot tenuitvoerlegging van Verordening (EG)
+nr. 322/97 van de Raad betreffende de communautaire sta-
+tistiek, met betrekking tot de toegang tot vertrouwelijke
+gegevens voor wetenschappelijke doeleinden (6), beschrijft
+de voorwaarden waaronder toegang kan worden verkregen
+tot vertrouwelijke gegevens die aan een instantie van de
+Gemeenschap zijn doorgegeven.
+(17) De voor de uitvoering van deze verordening vereiste maat-
+regelen moeten worden vastgesteld overeenkomstig Besluit
+1999/468/EG van de Raad van 28 juni 1999 tot vaststel-
+ling van de voorwaarden voor de uitoefening van de aan de
+Commissie verleende uitvoeringsbevoegdheden (7).
+(18) In het bijzonder moet de Commissie de bevoegdheid wor-
+den gegeven, de onderwerpen van deze statistieken, hun
+kenmerken in aansluiting op beleids- of technische behoef-
+ten, de specificatie van kenmerken, de waarnemings-
+periode en de termijnen voor het doorsturen van resultaten
+en de kwaliteitseisen, met inbegrip van de vereiste nauw-
+keurigheid en het kader voor de kwaliteitsrapportage, uit te
+kiezen en te specificeren. Daar het maatregelen van alge-
+mene strekking betreft tot wijziging van niet-essentiële
+onderdelen van deze verordening, onder meer door haar
+aan te vullen met nieuwe niet-essentiële onderdelen, moe-
+ten zij worden vastgesteld volgens de in artikel 5 bis van
+Besluit 1999/468/EG bepaalde regelgevingsprocedure met
+toetsing.
+(1) PB L 255 van 30.9.2005, blz. 1.
+(2) Verordening (EG) nr. 2104/2002 van de Commissie van 28 novem-
+ber 2002 tot aanpassing van Verordening (EG) nr. 577/98 van de Raad
+betreffende de organisatie van een steekproefenquête naar de arbeids-
+krachten in de Gemeenschap, alsmede van Verordening (EG)
+nr. 1575/2000 houdende uitvoering van Verordening (EG) nr. 577/98
+van de Raad, wat de lĳst van variabelen voor onderwĳs en opleiding
+en de vanaf 2003 voor de indiening van gegevens te gebruiken code-
+ring van deze variabelen betreft (PB L 324 van 29.11.2002, blz. 14).
+(3) Verordening (EG) nr. 1983/2003 van de Commissie van 7 novem-
+ber 2003 tot uitvoering van Verordening (EG) nr. 1177/2003 van het
+Europees Parlement en de Raad inzake de communautaire statistiek
+van inkomens en levensomstandigheden (EU-SILC), wat de lĳst van
+primaire doelvariabelen betreft (PB L 298 van 17.11.2003, blz. 34).
+(4) PB L 52 van 22.2.1997, blz. 1. Verordening gewijzigd bij Verordening
+(EG) nr. 1882/2003 van het Europees Parlement en de Raad (PB L 284
+van 31.10.2003, blz. 1).
+(5) PB L 151 van 15.6.1990, blz. 1. Verordening gewijzigd bij Verorde-
+ning (EG) nr. 322/97.
+(6) PB L 133 van 18.5.2002, blz. 7. Verordening laatstelijk gewijzigd bij
+Verordening (EG) nr. 1000/2007 (PB L 226 van 30.8.2007, blz. 7).
+(7) PB L 184 van 17.7.1999, blz. 23. Besluit gewijzigd bij Besluit
+2006/512/EG (PB L 200 van 22.7.2006, blz. 11).
+L 145/228 NL Publicatieblad van de Europese Unie 4.6.2008
+(19) Het Comité statistisch programma, opgericht bij Besluit
+nr. 89/382/EEG, Euratom van de Raad (1), is overeenkom-
+stig artikel 3 van dit besluit geraadpleegd,
+HEBBEN DE VOLGENDE VERORDENING VASTGESTELD:
+Artikel 1
+Onderwerp
+Deze verordening stelt een gemeenschappelijk raamwerk voor de
+systematische productie van communautaire statistieken over
+onderwijs en een leven lang leren vast.
+Artikel 2
+Definities
+In deze verordening wordt verstaan onder:
+a) communautaire statistieken: statistieken van de Gemeen-
+schap overeenkomstig artikel 2, eerste streepje, van Verorde-
+ning (EG) nr. 322/97;
+b) productie van statistieken: productie van statistieken over-
+eenkomstig artikel 2, tweede streepje, van Verordening (EG)
+nr. 322/97;
+c) nationale instanties: nationale instanties overeenkomstig arti-
+kel 2, derde streepje, van Verordening (EG) nr. 322/97;
+d) onderwijs: georganiseerde, duurzame vorm van op leren
+gerichte communicatie (2);
+e) een leven lang leren: alle gedurende de hele levenscyclus
+plaatsvindende leeractiviteiten waarbij vanuit een persoonlijk,
+participatief, sociaal en/of arbeidsmarktperspectief kennis,
+vaardigheden en competenties worden verworven (3);
+f) micro-gegevens: individuele statistische bestanden;
+g) vertrouwelijke gegevens: gegevens waaruit de identiteit van
+de betrokken statistische eenheden alleen indirect is af te lei-
+den, overeenkomstig Verordening (EG) nr. 322/97 en Veror-
+dening (Euratom, EEG) nr. 1588/90.
+Artikel 3
+Deelgebieden
+De verordening heeft betrekking op de productie van statistieken
+in de volgende drie deelgebieden:
+a) deelgebied 1: statistieken over de onderwijs- en
+beroepsopleidingsstelsels;
+b) deelgebied 2: statistieken over de deelname van volwassenen
+aan een leven lang leren;
+c) deelgebied 3: overige statistieken over onderwijs en een leven
+lang leren die niet onder deelgebied 1 of 2 vallen, zoals sta-
+tistieken over menselijk kapitaal en de sociale en economi-
+sche voordelen van onderwijs.
+De statistieken op deze drie deelgebieden worden overeenkom-
+stig de bepalingen in de bijlage geproduceerd.
+Artikel 4
+Statistische werkzaamheden
+1. Met het oog op de productie van communautaire statistie-
+ken over onderwijs en een leven lang leren vinden de volgende
+afzonderlijke statistische werkzaamheden plaats:
+a) regelmatige levering van statistieken over onderwijs en een
+leven lang leren door de lidstaten binnen de voor deelgebied
+1 en 2 vastgelegde termijnen;
+b) levering van nog een aantal statistische variabelen en indica-
+toren over onderwijs en een leven lang leren voor deelgebied
+3 uit andere statistische informatiesystemen en surveys;
+c) uitwerking, verbetering en bijstelling van standaards en hand-
+boeken over statistische systemen, concepten en methoden;
+d) verbetering van de gegevenskwaliteit in het kader van het
+kwaliteitskader, op de volgende punten:
+— relevantie,
+— nauwkeurigheid,
+— actualiteit en precisie,
+— toegankelijkheid en duidelijkheid,
+— vergelijkbaarheid, en
+— samenhang.
+De Commissie houdt rekening met de in de lidstaten aanwezige
+capaciteit om zowel gegevens te verzamelen en te verwerken als
+concepten en methoden uit te werken.
+Waar van toepassing, wordt bijzondere aandacht besteed aan, res-
+pectievelijk rekening gehouden met regionale aspecten van de
+verzamelde gegevens. Waar nodig worden gegevens stelselmatig
+gespecificeerd naar geslacht.
+(1) PB L 181 van 28.6.1989, blz. 47.
+(2) Definitie uit de International Standard Classification of Education
+(ISCED) van 1997.
+(3) Resolutie van de Raad van 27 juni 2002 inzake een leven lang leren
+(PB C 163 van 9.7.2002, blz. 1).
+4.6.2008 NL Publicatieblad van de Europese Unie L 145/229
+2. De Commissie (Eurostat) werkt vooral bij de uitwerking en
+ontwikkeling van statistische concepten en methoden en bij de
+levering van statistieken door de lidstaten zoveel mogelijk samen
+met het UIS, de OESO en andere internationale organisaties om
+internationaal vergelijkbare gegevens te verkrijgen en dubbel werk
+te voorkomen.
+3. Wanneer er behoefte aan belangrijke nieuwe gegevens is, de
+gegevens van onvoldoende kwaliteit zijn of een gegevens-
+verzameling gepland is, geeft de Commissie (Eurostat) pilotstudies
+in opdracht, die op vrijwillige basis door de lidstaten worden uit-
+gevoerd. In deze pilotstudies wordt de haalbaarheid van de des-
+betreffende gegevensverzameling onderzocht, waarbij de baten
+van de in te winnen gegevens worden afgezet tegen de kosten van
+het verzamelen en het werk voor de respondenten. Deze pilotstu-
+dies hoeven niet noodzakelijk te resulteren in dien-
+overeenkomstige uitvoeringsmaatregelen.
+Artikel 5
+Toezending van microgegevens over personen
+Indien dit voor de productie van communautaire statistieken
+nodig is, zenden de lidstaten de Commissie (Eurostat) de uit steek-
+proeven verkregen vertrouwelijke microgegevens toe overeen-
+komstig de in Verordening (EG) nr. 322/97 en Verordening
+(Euratom, EEG) nr. 1588/90 neergelegde voorschriften voor de
+toezending van onder de statistische geheimhoudingsplicht val-
+lende gegevens. De lidstaten zorgen ervoor dat de identiteit van de
+statistische eenheden (personen) niet rechtstreeks uit de toegezon-
+den gegevens af te leiden is.
+Artikel 6
+Uitvoeringsmaatregelen
+1. Onderstaande maatregelen die niet-essentiële onderdelen
+van deze verordening beogen te wijzigen door haar aan te vullen,
+met inbegrip van de maatregelen die nodig zijn in verband met
+economische en technische ontwikkelingen voor het verzamelen,
+toezenden en verwerken van gegevens, worden vastgelegd vol-
+gens de regelgevingsprocedure met toetsing in artikel 7, lid 3, om
+zeker te stellen dat de toe te zenden gegevens van hoge kwaliteit
+zijn:
+a) de selectie en specificatie van door de deelgebieden bestre-
+ken thema’s en kenmerken, in reactie op beleids- of techni-
+sche behoeften;
+b) de uitsplitsing van de kenmerken;
+c) de observatieperiode en termijnen voor de toezending van
+statistische gegevens;
+d) de kwaliteitsvereisten, waaronder de vereiste precisie;
+e) het kader voor de kwaliteitsrapportage.
+Indien de uitvoeringsmaatregelen behoefte doen ontstaan aan
+aanzienlijke uitbreiding van bestaande gegevensverzamelingen of
+aan nieuwe gegevensverzamelingen of enquêtes, wordt daartoe
+besloten op grond van een kosten-batenanalyse als onderdeel van
+een alomvattende analyse van de gevolgen en de implicaties,
+waarbij rekening wordt gehouden met de baten van de maatrege-
+len, de kosten voor de lidstaten en de last voor de respondenten.
+2. De in lid 1 bedoelde maatregelen houden in het bijzonder
+rekening met:
+a) de potentiële belasting voor onderwijsinstellingen en perso-
+nen (alle deelgebieden);
+b) de resultaten van de in artikel 4, lid 3, bedoelde pilotstudies
+(alle deelgebieden);
+c) de meest recente afspraken tussen het UIS, de OECD en de
+Commissie (Eurostat) over concepten, definities, het formaat
+voor de gegevensverzameling, de gegevensverwerking en de
+frequentie en termijnen voor de toezending van de resulta-
+ten (deelgebied 1);
+d) de uitkomsten van de pilot survey Volwasseneneducatie die
+tussen 2005 en 2007 is uitgevoerd en ontwikkelings-
+behoeften (deelgebied 2);
+e) de beschikbaarheid, geschiktheid en de juridische context van
+bestaande communautaire gegevensbronnen na uitputtend
+onderzoek van alle bestaande gegevensbronnen (deelgebied 3).
+3. Zo nodig worden voor een of meer lidstaten overeenkom-
+stig de in artikel 7, lid 2, bedoelde regelgevingsprocedure beperkte
+afwijkingsregelingen en overgangsperioden vastgesteld die beide
+op objectieve overwegingen gebaseerd dienen te zijn.
+Artikel 7
+Comité
+1. De Commissie wordt bijgestaan door het Comité statistisch
+programma.
+2. Wanneer naar dit lid wordt verwezen, zijn de artikelen 5
+en 7 van Besluit 1999/468/EG van toepassing, met inachtneming
+van artikel 8 van dat besluit.
+De in artikel 5, lid 6, van Besluit 1999/468/EG bedoelde termijn
+wordt vastgesteld op drie maanden.
+3. Wanneer naar dit lid wordt verwezen, zijn de artikelen 5 bis,
+lid 1 tot en met 4, en artikel 7 van Besluit 1999/468/EG van toe-
+passing, met inachtneming van artikel 8 van dat besluit.
+L 145/230 NL Publicatieblad van de Europese Unie 4.6.2008
+Artikel 8
+Inwerkingtreding
+Deze verordening treedt in werking op de twintigste dag volgende op die van haar bekendmaking in het
+Publicatieblad van de Europese Unie.
+Deze verordening is verbindend in al haar onderdelen en is rechtstreeks toepasselijk in elke
+lidstaat.
+Gedaan te Straatsburg, 23 april 2008.
+Voor het Europees Parlement
+De voorzitter
+H.-G. PÖTTERING
+Voor de Raad
+De voorzitter
+J. LENARČIČ
+4.6.2008 NL Publicatieblad van de Europese Unie L 145/231
+BIJLAGE
+DEELGEBIEDEN
+Deelgebied 1: Statistieken over de onderwijs- en beroepsopleidingsstelsels
+1. Doel
+In deelgebied 1 worden onderling vergelijkbare gegevens verzameld over centrale aspecten van de onderwijs- en
+beroepsopleidingsstelsels, zoals met name onderwijsdeelname, aantallen gediplomeerden/afgestudeerden, en de kosten
+van en soorten middelen voor onderwijs en beroepsopleiding.
+2. Reikwijdte
+De gegevensverzameling betreft al het binnenlandse onderwijs, ongeacht de vraag of de verantwoordelijkheid voor de
+betrokken onderwijsinstellingen bij de publieke of private sector van het eigen of een ander land ligt, wie het onderwijs
+financiert en in welke vorm het onderwijs plaatsvindt. Over alle categorieën leerlingen/studenten en alle leeftijdsgroepen
+worden dan ook gegevens verzameld.
+3. Thema’s
+Er worden gegevens vergaard over:
+a) ingeschreven studenten met vermelding van hun kenmerken,
+b) eerstejaarsstudenten,
+c) afgestudeerden en diploma’s,
+d) onderwijsuitgaven,
+e) onderwijzend personeel,
+f) geleerde vreemde talen,
+g) klassenomvang,
+waaruit indicatoren kunnen worden afgeleid inzake investeringen in en processen en resultaten van de onderwijs- en
+beroepsopleidingsstelsels.
+De lidstaten verstrekken passende informatie (metagegevens) over de bijzonderheden van hun nationale onderwijs- en
+beroepsopleidingsstelsel. Ze geven de overeenkomsten met internationale classificaties aan, maken melding van afwij-
+kingen op de specificaties voor gegevensaanvragen, en verstrekken alle informatie die voor de interpretatie van de gege-
+vens en de uitwerking van onderling vergelijkbare indicatoren van belang is.
+4. Frequentie
+Levering van de gegevens en metagegevens vindt elk jaar en, indien niets anders is aangegeven, binnen de door de Com-
+missie (Eurostat) en de nationale autoriteiten overeengekomen termijnen plaats met inachtneming van de meest recente
+afspraken tussen het UIS, de OESO en de Commissie (Eurostat).
+Deelgebied 2: Statistieken over de deelname van volwassenenen aan een leven lang leren
+1. Doel
+In deelgebied 2 worden onderling vergelijkbare gegevens verzameld over de aantallen volwassenen die wel, respectie-
+velijk niet aan een leven lang leren deelnemen.
+L 145/232 NL Publicatieblad van de Europese Unie 4.6.2008
+2. Reikwijdte
+De gegevensverzameling betreft personen en omvat ten minste personen in de leeftijdsgroep van de 25- tot 64-jarigen.
+Indien de gegevens door middel van een survey worden verzameld, moeten niet door de deelnemers zelf gegeven ant-
+woorden zoveel mogelijk worden vermeden.
+3. Thema’s
+De enquête omvat de volgende onderwerpen:
+a) deelname en niet-deelname aan een leven lang leren;
+b) kenmerken van de leeractiviteiten;
+c) informatie over verworven vaardigheden;
+d) sociaal-demografische gegevens.
+Gegevens over deelname aan sociale of culturele activiteiten worden op vrijwillige basis in de vorm van verklarende varia-
+belen verzameld, zodat het profiel van de deelnemende, respectievelijk niet-deelnemende volwassenen nader kan wor-
+den geanalyseerd.
+4. Gegevensbronnen en steekproefomvang
+De gegevensbron is een steekproefenquête. Om het werk voor respondenten te beperken mogen administratieve
+gegevensbronnen worden gebruikt. De steekproefomvang wordt vastgesteld op grond van nauwkeurigheidsvereisten die
+niet voorschrijven dat de nationale steekproefomvang meer dan 5 000 personen moet omvatten, uitgaande van een
+enkelvoudige aselecte steekproef. Binnen deze grenzen gelden voor specifieke subpopulaties welbepaalde
+steekproefcriteria.
+5. Frequentie
+De gegevens worden elke vijf jaar verzameld. Het eerste jaar van tenuitvoerlegging is op zijn vroegst 2010.
+Deelgebied 3: Overige statistieken over onderwijs en een leven lang leren
+1. Doel
+In deelgebied 3 worden met het oog op specifiek beleid van de Gemeenschap nog een aantal onderling vergelijkbare gege-
+vens over onderwijs en een leven lang leren verzameld die niet onder deelgebied 1 of 2 vallen.
+2. Reikwijdte
+De overige statistieken over onderwijs en een leven lang leren hebben betrekking op de volgende aspecten:
+a) statistieken over onderwijs en economie waarmee het onderwijs-, onderzoeks-, concurrentie- en groeibeleid op
+Europees niveau kan worden gemonitord;
+b) statistieken over onderwijs en arbeidsmarkt waarmee het werkgelegenheidsbeleid op Europees niveau kan worden
+gemonitord;
+c) statistieken over onderwijs en maatschappelijke integratie waarmee het beleid op het gebied van armoede, sociale
+inclusie en integratie van allochtonen op Europees niveau kan worden gemonitord.
+Voor de bovenvermelde aspecten worden de nodige gegevens ontleend aan reeds bestaand communautair statistisch
+materiaal.
+4.6.2008 NL Publicatieblad van de Europese Unie L 145/233

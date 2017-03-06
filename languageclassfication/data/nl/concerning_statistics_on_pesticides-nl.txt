@@ -1,0 +1,1053 @@
+ 
+NL    NL 
+ 
+ 
+ 
+EUROPESE 
+COMMISSIE  
+Brussel, 3.3.2017  
+COM(2017) 109 final 
+  
+VERSLAG VAN DE COMMISSIE AAN HET EUROPEES PARLEMENT EN DE 
+RAAD 
+over de uitvoering van Verordening (EG) nr. 1185/2009 van het Europees Parlement en 
+de Raad van 25 november 2009 betreffende statistieken over pesticiden 
+ 
+ 
+2 
+ 
+1. INLEIDING 
+Artikel 7 van Verordening (EG) nr. 1185/2009 van het Europees Parlement en de Raad 
+betreffende statistieken over pesticiden
+1
+ (hierna "de verordening" genoemd) luidt als volgt: 
+"De Commissie brengt om de vijf jaar verslag uit aan het Europees Parlement en de Raad 
+over de uitvoering van deze verordening. In dit verslag wordt in het bijzonder de kwaliteit 
+van de toegezonden gegevens als bedoeld in artikel 4, beoordeeld, alsook de methoden voor 
+het verzamelen van gegevens, de last voor het bedrijfsleven, landbouwbedrijven en nationale 
+overheden en het nut van deze statistieken in de context van de thematische strategie voor een 
+duurzaam gebruik van pesticiden, met name met betrekking tot de in artikel 1 genoemde 
+doelstellingen. Het bevat in voorkomend geval voorstellen die bedoeld zijn om de kwaliteit 
+van de gegevens en methoden voor het verzamelen van gegevens verder te verbeteren met het 
+oog op een betere dekking en betere vergelijkbaarheid van de gegevens, en een vermindering 
+van de last voor het bedrijfsleven, landbouwbedrijven en nationale overheden. Het eerste 
+verslag wordt uiterlijk 31 december 2016 uitgebracht.". 
+ 
+2. TOEPASSINGSGEBIED EN INHOUD 
+Op grond van artikel 2, onder a), van de verordening worden "pesticiden" gedefinieerd als 
+"gewasbeschermingsmiddelen zoals omschreven in artikel 2, lid 1, van Verordening (EG) 
+nr. 1107/2009"
+2
+ of als "biociden zoals omschreven in artikel 2, lid 1, van Richtlijn 98/8/EG"
+3
+. 
+Op grond van de verordening moeten de lidstaten jaarlijks hun statistische gegevens over 
+pesticiden die op de markt zijn gebracht, indienen bij de Commissie (statistieken over 
+pesticidenverkoop). Bovendien moeten zij om de vijf jaar statistieken over het gebruik van 
+pesticiden in de landbouw indienen (statistieken over pesticidengebruik). De gegevens 
+moeten vertrouwelijke gegevens omvatten. De lidstaten moeten de Commissie ook verslagen 
+over de kwaliteit van de toegezonden gegevens verstrekken, en de Commissie moet op haar 
+beurt de kwaliteit van die gegevens beoordelen. 
+ 
+2.1. Statistieken over pesticidenverkoop 
+Voor de op de markt gebrachte pesticiden is de referentieperiode het kalenderjaar. De eerste 
+referentieperiode was het tweede kalenderjaar na 30 december 2009. De gegevens moeten 
+worden ingediend binnen twaalf maanden na afloop van het referentiejaar, en de 
+kwaliteitsverslagen uiterlijk drie maanden later. De gegevens en kwaliteitsverslagen die tot 
+dusver zijn ingediend, betreffen de jaren 2011 tot en met 2014. 
+                                                            
+1 PB L 324 van 10.12.2009, blz. 4. 
+2 Verordening (EG) nr. 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 
+betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de 
+Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PB L 309 van 24.11.2009, blz. 1). 
+3 PB L 123 van 24.4.1998, blz. 1. Richtlijn 98/8/EG is met ingang van 1 september 2013 ingetrokken bij 
+Verordening (EU) nr. 528/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende 
+het op de markt aanbieden en het gebruik van biociden (PB L 167 van 27.6.2017, blz. 1). 
+Verwijzingen naar de ingetrokken richtlijn worden gelezen als verwijzingen naar Verordening (EU) 
+nr. 528/2012. 
+ 
+ 
+3 
+ 
+ 
+2.2. Statistieken over pesticidengebruik 
+Voor statistieken over pesticidengebruik in de landbouw moet de referentieperiode een 
+periode van hoogstens twaalf maanden binnen elke periode van vijf jaar zijn. De eerste 
+periode van vijf jaar is begonnen in het eerste kalenderjaar na 30 december 2009. Deze 
+gegevens en kwaliteitsverslagen worden binnen twaalf maanden na het eind van elke periode 
+van vijf jaar verwacht. De indiening van de gegevens en de kwaliteitsverslagen van de eerste 
+periode van vijf jaar (referentiejaren 2010 tot en met 2014) is dan ook afgerond in december 
+2015. 
+ 
+Voor beide reeksen gegevens moet de Commissie (Eurostat) de gegevens vóór publicatie 
+aggregeren, met inachtneming van de bescherming van vertrouwelijke gegevens van de 
+lidstaten. Dit heeft tot gevolg dat de Commissie (Eurostat) geen statistieken over 
+afzonderlijke werkzame stoffen kan verstrekken. 
+ 
+De volgende hoofdstukken bevatten een algemene beoordeling van de kwaliteit van de 
+gegevens over pesticidenverkoop die de lidstaten hebben ingediend. Deze beoordeling is 
+opgesteld op basis van de kwaliteitsverslagen die door de lidstaten zijn verstrekt zoals 
+voorgeschreven door artikel 4 van de verordening. De toegepaste kwaliteitscriteria zijn 
+vastgelegd in artikel 12, lid 1, Statistische kwaliteit, van Verordening (EG) nr. 223/2009
+4
+. De 
+validering van de kwaliteitsverslagen over de statistieken over pesticidengebruik is nog niet 
+afgerond, en deze verslagen zijn dan ook niet geanalyseerd. 
+ 
+2.3. Methoden en bronnen voor het verzamelen van gegevens 
+Voor de meeste van de 28 lidstaten en voor Noorwegen zijn alle onderliggende primaire 
+gegevens over pesticidenverkoop afgeleid van administratieve bronnen waarvoor de 
+rapportage wettelijk verplicht is. Alle landen behalve Denemarken, Slovenië en Noorwegen 
+beschouwen alle informatie over individuele respondenten als vertrouwelijk. De meeste 
+landen hebben geen openbare databanken, en geaggregeerde gegevens zijn meestal 
+beschikbaar via statistische publicaties en/of websites. In België en Noorwegen worden 
+individuele gegevens op verzoek ter beschikking gesteld. Aangezien aan Zwitserland een 
+afwijking is toegestaan, zijn van dat land geen kwaliteitsverslagen beschikbaar. Zie bijlage I 
+voor meer informatie. 
+ 
+                                                            
+4 Verordening (EG) nr. 223/2009 van het Europees Parlement en de Raad van 11 maart 2009 betreffende 
+de Europese statistiek en tot intrekking van Verordening (EG, Euratom) nr. 1101/2008 betreffende de 
+toezending van onder de statistische geheimhoudingsplicht vallende gegevens aan het Bureau voor de 
+Statistiek van de Europese Gemeenschappen, Verordening (EG) nr. 322/97 van de Raad betreffende de 
+communautaire statistiek en Besluit 89/382/EEG, Euratom van de Raad tot oprichting van een Comité 
+statistisch programma van de Europese Gemeenschappen (PB L 87 van 31.3.2009, blz. 164). 
+ 
+ 
+4 
+ 
+2.4. Kwaliteit van de verstrekte gegevens 
+Alle lidstaten, Zwitserland en Noorwegen voldoen aan de vereisten voor de dekking en de 
+tijdigheid van hun gegevens. De meeste landen verstrekken hun gegevensbestanden op tijd en 
+reageren bereidwillig wanneer nadere controles en correcties nodig zijn. 
+ 
+Wat de nauwkeurigheid, betrouwbaarheid en vergelijkbaarheid betreft, verklaarden de meeste 
+landen dat hun primaire gegevens over pesticidenverkoop afkomstig waren van 
+administratieve bronnen of van vergunninghouders, en dat zij de meegedeelde gegevens als 
+juist aanmerkten. Bovendien waren steekproeffouten niet relevant, aangezien alleen de 
+werkelijke administratieve waarden werden verzameld en er geen ramingen of monsters 
+werden gebruikt. Toch zijn er verschillende methoden voor gegevensverzameling gebruikt. 
+ 
+De Commissie is daarom van oordeel dat alle primaire gegevens over pesticidenverkoop 
+nauwkeurig en betrouwbaar zijn, aangezien er geen berekeningen of ramingen waren van de 
+waarden waarop de statistieken betrekking hadden. Daarom worden de geaggregeerde 
+gegevens over pesticidenverkoop eveneens als nauwkeurig en betrouwbaar aangemerkt. 
+ 
+In het algemeen verklaarden de meeste landen de volgende voorzorgsmaatregelen te nemen 
+om de vereiste statistische kwaliteit van hun gegevens te garanderen: 
+• hun vragenlijsten regelmatig evalueren en bijwerken; 
+• de gemelde problemen en de aanbevelingen van de respondenten in voorgaande 
+jaren in aanmerking nemen; 
+• een volledige lijst van toegelaten producten gebruiken; 
+• de gegevens aan interne kwaliteitscontroleprocedures onderwerpen; 
+• de gegevens opslaan in een beveiligde omgeving waar zij worden beschermd door 
+statistische geheimhouding. 
+ 
+Gegevens over pesticidenverkoop maken een goede raming mogelijk van de totale 
+hoeveelheid op de markt gebrachte pesticidenproducten op nationaal niveau. Dit kan een 
+beeld geven van de tendensen in nieuwe soorten pesticiden, hoeveelheden producten in de 
+loop van de tijd en de daaruit voortvloeiende gevaren voor mens en milieu. Dergelijke 
+ramingen kunnen in de toekomst worden verbeterd door een onderscheid te maken tussen 
+professionele en hobby-vergunningen (respectievelijk voor agrarische en niet-agrarische 
+doeleinden). Ook kunnen extra controles van de gegevenskwaliteit worden overwogen voor 
+de volumes van de resterende bestanden. Zie bijlage II voor meer informatie. 
+ 
+3. RELEVANTIE — BRUIKBAARHEID VAN DE STATISTISCHE GEGEVENS EN 
+VERSPREIDING 
+3.1. Informatie die is ontvangen van belanghebbenden 
+Uit het overleg met de betrokken diensten van de Commissie en agentschappen zijn de 
+volgende belangrijke punten ter overweging naar voren gekomen: 
+ 
+5 
+ 
+ 
+ Elke vorm van wetgeving inzake pesticidenstatistieken moet voorzien in 
+geharmoniseerde risico-indicatoren, die de Commissie moet opstellen op grond van 
+artikel 15 van de richtlijn duurzaam gebruik
+5
+, en moet hulp bieden bij de berekening 
+van risico-indicatoren "aan de hand van de verzamelde statistische gegevens". Het 
+verzamelen van de statistische gegevens over pesticiden mag niet volledig los worden 
+gezien van de taak om deze gegevens voor risicoberekening te gebruiken. Het schijnt 
+logisch toe dat de risico-indicatoren eerst bekend moeten zijn voordat een besluit 
+wordt genomen over de te verzamelen gegevens voor dit doel. Verdere besprekingen 
+zijn nodig en ook moeten de lidstaten worden geraadpleegd in de werkgroep richtlijn 
+duurzaam gebruik. 
+ Belanghebbenden stellen voor de wetgeving aan te passen, zodat de op een lager 
+niveau geaggregeerde cijfers kunnen worden vrijgegeven, aangezien deze nodig 
+kunnen zijn voor de berekening van risico-indicatoren. Het verzamelen van zinvolle 
+gegevens over pesticidengebruik door de landbouwers is problematisch en brengt 
+kosten voor lidstaten met zich mee, en ook is het moeilijk om overeenstemming in de 
+hele EU te bereiken over de vraag welke gewassen relevant zijn, aangezien deze 
+tussen de verschillende klimaatzones binnen Europa aanzienlijk kunnen verschillen. 
+ 
+ Pesticiden zijn een bron van vervuiling en hebben een rechtstreeks effect op met name 
+de staat van de biodiversiteit, de waterlichamen en de bodem. Om ervoor te zorgen 
+dat deze effecten naar behoren in aanmerking worden genomen, is het van 
+doorslaggevend belang dat beleidsmakers het risico en de mate van verontreiniging 
+met pesticiden kunnen kwantificeren. Dit zou ook bijdragen aan een betere 
+tenuitvoerlegging van de bestaande milieubeleidsinstrumenten en aan het 
+onderkennen van de resterende leemten in het beleid om de milieuproblemen 
+veroorzaakt door pesticiden aan te pakken. Momenteel is behoefte aan gegevens over 
+de EU-biodiversiteitsstrategie voor 2020, het gemeenschappelijk landbouwbeleid 
+(GLB), de kaderrichtlijn water en de thematische strategie inzake bodembescherming.  
+ 
+ Pesticidenstatistieken zijn te sterk geaggregeerd om doeltreffende informatie voor een 
+milieurisicobeoordeling te verschaffen. Voor een gedegen analyse van de effecten van 
+de toepassing van pesticiden op ecosystemen is er behoefte aan informatie over welke 
+specifieke werkzame stoffen in pesticiden op welke gewassen worden toegepast, en 
+ook aan informatie over de soorten ecosystemen waarin die gewassen zich bevinden. 
+Gegevens over gevaren, d.w.z. (eco-)toxicologische eigenschappen, zijn specifiek 
+voor werkzame stoffen. Om gegevens over gevaren doeltreffend te combineren met 
+gegevens over blootstelling teneinde het risico te kunnen begrijpen, is er dan ook 
+absoluut behoefte aan gegevens over de mate van toepassing van specifieke 
+werkzame stoffen in pesticiden per gewas, per gebied en per soort ecosysteem. 
+                                                            
+5  Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling 
+van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden 
+(PB L 309 van 24.11.2009, blz. 71). 
+ 
+6 
+ 
+Bovendien zouden cumulatieve risicobeoordelingsmethoden moeten worden 
+toegepast om inzicht te verschaffen in de wijze waarop de mengsels van werkzame 
+stoffen, beschermstoffen en synergistische middelen op elkaar inwerken om 
+gecombineerde effecten in pesticiden te genereren. 
+ 
+ De verordening vereist geen gegevens van de lidstaten over het type ecosysteem 
+waarin stoffen worden toegepast. De effecten van mengsels van werkzame stoffen op 
+het ecosysteem waarin een gewas zich bevindt, hangen af van de kenmerken van dat 
+ecosysteem, met inbegrip van biotische en abiotische kenmerken. Het project 
+"Ecosystemen en hun diensten in kaart brengen en beoordelen"6 verschaft een 
+overeengekomen typologie van ecosystemen. Deze typologie kan dienen als basis 
+voor de verslaglegging door de lidstaten over de toepassing van pesticiden naar 
+ecosysteemtype, en ons inzicht in de risico’s van pesticiden voor het milieu 
+verbeteren. Een gedegen analyse van de risico’s voor het milieu in verband met 
+pesticiden is noodzakelijk voor de ondersteuning van de vergelijkende beoordeling 
+van stoffen die in aanmerking komen om te worden vervangen, in de zin van 
+artikel 50 van Verordening (EG) nr. 1107/2009 betreffende het op de markt brengen 
+van gewasbeschermingsmiddelen. Dit is niet mogelijk met de gegevens die 
+momenteel beschikbaar zijn. 
+ 
+ Indien pesticidenstatistieken voldoende gedetailleerd beschikbaar komen, kunnen zij 
+zeer nuttig kan zijn voor de verrichting terugwerkende risicobeoordelingen van de te 
+verwachten werkelijke risiconiveaus van het totale pesticidengebruik in de EU, voor 
+de gezondheid van mens en dier, en voor het milieu. Dit zou de schatting van de 
+tendensen op basis van risico mogelijk maken, in aanvulling op de gegevens over de 
+verkoop. Aangezien elke werkzame stof in een pesticide een verschillende toxiciteit 
+en waarschijnlijkheid van blootstelling heeft, kunnen tendensen op basis van hun 
+risico’s voor de gezondheid van mens en dier en de verschillende groepen van niet-
+doelorganismen van grote waarde zijn voor de ondersteuning van het EU-beleid voor 
+volksgezondheid, consumentenbescherming, diergezondheid en bescherming van het 
+milieu. Deze beoordeling vormt een aanvulling op de jaarlijkse evaluatie van de 
+risico’s voor de consument die voortkomen uit de niveaus van pesticideresiduen 
+waarop de lidstaten toezicht houden. 
+ 
+ Een evenwicht tussen vertrouwelijkheid en de relevantie of bruikbaarheid van de 
+gegevens kon worden bereikt door de verschillende aggregatiemogelijkheden te 
+onderzoeken, bijvoorbeeld op basis van de toxiciteit en de gebruikspatronen. Daarom 
+wordt een dialoog voorgesteld tussen de diensten van de Commissie, de 
+agentschappen en andere relevante actoren om de mogelijkheden te verkennen die 
+kunnen bijdragen aan een optimalisering van de relevantie en de bruikbaarheid van de 
+gegevens in de toekomst. 
+ 
+                                                            
+6  http://biodiversity.europa.eu/maes 
+ 
+7 
+ 
+3.2. Studies over niet-agrarisch pesticidengebruik 
+De landbouw is de meest voor de hand liggende en waarschijnlijk de grootste bedrijfstak die 
+pesticiden gebruikt. Er zijn echter ook andere professionele of niet-professionele gebruikers 
+die in meerdere of mindere mate kunnen bijdragen aan de totale hoeveelheid gebruikte 
+pesticiden. In het kwaliteitsverslag dat wordt toegevoegd aan de gegevens over het 
+pesticidengebruik in de landbouw zal een vergelijking van de hoeveelheid in de landbouw 
+gebruikte pesticiden met de totale in de handel gebrachte hoeveelheid worden opgenomen. 
+De verordening geldt zowel voor de jaarlijkse statistieken over het op de markt brengen van 
+pesticiden als voor statistieken over het agrarisch pesticidengebruik. Deze twee reeksen 
+gegevens stemmen niet met elkaar overeen, aangezien er geen informatie is over pesticiden 
+die niet in de landbouw worden toegepast. Dit werd ook geconstateerd in de 
+onderhandelingen voorafgaand aan de goedkeuring van de verordening, en daarom werd een 
+passage toegevoegd aan afdeling 6 (Kwaliteitsverslagen) van bijlage II bij de verordening: "– 
+een korte beschrijving van het commerciële, niet-agrarische gebruik van pesticiden die in het 
+kader van door de Commissie (Eurostat) te leiden proefstudies zijn verkregen". 
+ 
+Figuur 1. Overzicht van de verschillende toepassingen van pesticiden 
+ 
+ 
+ 
+ 
+ 
+In 2011 heeft de Commissie subsidies verstrekt voor experimentele studies om ramingen te 
+maken van het commerciële en het niet-commerciële niet-agrarische pesticidengebruik. Vijf 
+landen (België, Italië, Litouwen, Letland en Roemenië) hebben subsidies aangevraagd. 
+Bovendien is de Commissie zich ervan bewust dat dergelijke onderzoeken zijn uitgevoerd in 
+Nederland en het Verenigd Koninkrijk. 
+ 
+De proefenquêtes waren gericht op sectoren zoals: 
+- aangelegde terreinen of tuinen, openluchtrecreatiegebieden, parken; 
+- sport- en recreatiegebieden en -faciliteiten; 
+- spoorwegen; 
+- snelwegen en wegen; 
+- luchthavens en zeehavens; 
+- archeologische locaties; 
+Alle toepassingen van pesticiden 
+Professionele toepassingen  Niet-professionele 
+toepassingen 
+Toepassingen in de landbouw Toepassingen buiten de landbouw 
+ 
+8 
+ 
+- moestuinen en hobbyboeren; 
+- staatsbossen; 
+- tuinen en parken; 
+- overige. 
+ 
+De belangrijkste lessen getrokken uit eerdere maatregelen en uit de pilotstudies zijn de 
+volgende: 
+1. er zijn grote verschillen in de patronen van niet-agrarisch pesticidengebruik tussen 
+de lidstaten en zelfs tussen de gebieden binnen een land; 
+2. de voornaamste toepassingsgebieden kunnen worden geïdentificeerd en zijn in de 
+meeste lidstaten dezelfde; 
+3. een beperkte lijst van werkzame stoffen is verbonden met de meest voorkomende 
+toepassingen; 
+4. voor de verschillende toepassingsgebieden zijn verschillende 
+gegevensverzamelingsmethoden of een combinatie van methoden noodzakelijk. 
+ 
+Naast de ogenschijnlijke diversiteit van nationale en regionale situaties hebben alle lidstaten 
+bepaalde belangrijke spelers met elkaar gemeen en moeten zij de basis vormen voor alle 
+enquêtes over het pesticidengebruik in de niet-agrarische sectoren. Het betreft: 
+1. woongebieden (met inbegrip van huis en tuin); 
+2. openbare ruimtes (met inbegrip van golfterreinen); 
+3. industriële gebieden; 
+4. infrastructuur; 
+5. bossen. 
+ 
+Deze activiteitengebieden moeten met prioriteit worden gedekt en moeten de basis vormen 
+voor de vergelijking tussen statistieken over niet-agrarisch pesticidengebruik in de 
+verschillende lidstaten of regio’s. 
+ 
+3.3. Uitbreiding van de werkingssfeer van de verordening 
+Overweging 5 van de verordening loopt vooruit op een uitbreiding van de werkingssfeer tot 
+biociden. In haar verslag
+7
+ betreffende een duurzaam gebruik van biociden heeft de 
+Commissie verklaard dat het niet wenselijk is om de werkingssfeer van de richtlijn duurzaam 
+gebruik simpelweg uit te breiden tot biociden. Daarom acht de Commissie het ook niet 
+noodzakelijk om de werkingssfeer van de verordening uit breiden tot biociden, zelfs al was 
+dit de oorspronkelijke bedoeling. 
+ 
+                                                            
+7 COM (2016) 151 
+(http://ec.europa.eu/health/biocides/docs/2016_report_sustainableuse_biocides_en.pdf) 
+ 
+9 
+ 
+4. KOSTEN EN LASTEN 
+De kosten en administratieve lasten van de enquêtes zijn sterk afhankelijk van de gekozen 
+enquêtemethode. 
+ 
+De statistieken over pesticidenverkoop berusten in veel lidstaten op de administratieve 
+gegevens van de autoriteiten of de vergunninghouders (zie bijlage I). In dat geval houden de 
+kosten verband met het contact opnemen met de autoriteiten of het vaak beperkte aantal 
+vergunninghouders om de gegevens op te vragen, en met het verwerken ervan. Niet uit alle 
+lidstaten zijn concrete cijfers beschikbaar, maar uit de beschikbare informatie blijkt dat er in 
+de meeste gevallen weinig werkdagen en kosten mee gemoeid zijn. De kosten en de lasten 
+voor de rapporterende eenheden zijn volgens de verslagen alleszins aanvaardbaar, aangezien 
+de vereiste gegevens hoe dan ook moeten worden geregistreerd op grond van Verordening 
+(EG) nr. 1107/2009. 
+ 
+Voor de statistieken over pesticidengebruik moet de informatie worden geregistreerd op 
+het niveau van het landbouwbedrijf, hetgeen tot een hogere last leidt. Dit betekent dat een 
+steekproef moet worden opgezet, vragenlijsten moeten worden opgesteld en enquêteurs of 
+brieven moeten worden gestuurd indien er nog geen elektronisch systeem is ontwikkeld. De 
+totale kosten zijn sterk afhankelijk van de gekozen methode, hetgeen ook blijkt uit de 
+informatie die aan de Commissie is toegezonden. Er kunnen geen rechtstreekse conclusies 
+worden getrokken uit de verslagen over de betrokken kosten, aangezien de informatie 
+daarvoor onvoldoende gedetailleerd is. 
+ 
+Zoals reeds uiteengezet, komt de informatie in de meeste landen rechtstreeks van de 
+landbouwers. Op grond van Verordening (EG) nr. 1107/2009 moeten professionele 
+gebruikers (landbouwers of ondernemers) een boekhouding van hun pesticidengebruik 
+bijhouden. Dit betekent dat de informatie gemakkelijk beschikbaar moet zijn wanneer de 
+landbouwer de enquêteur antwoord moet geven of de vragenlijst moet invullen. Dit komt tot 
+uiting in de kwaliteitsverslagen, waaruit in veel gevallen blijkt dat op de bedrijven weinig tijd 
+— 15 minuten tot 2 uur per enquête (elke vijf jaar) — nodig is om de enquête te 
+beantwoorden. 
+ 
+5. ERVARINGEN IN DE EERSTE VIJF JAAR 
+Sinds december 2012 (voor de gegevens van 2011) zijn jaarlijks gegevens over 
+pesticidenverkoop ingediend. Ondanks enkele technische opstartproblemen bij de Commissie 
+zijn de procedures nu uitontwikkeld en functioneren ze goed. De eerste gegevens over het 
+agrarisch pesticidengebruik zijn eind 2015 bij de Commissie ingediend. Tot dusverre was het 
+— gezien het zeer grote aantal complexe gegevens — niet mogelijk om de gegevens volledig 
+te verwerken, zodat zij nog niet volledig beschikbaar zijn voor de gebruikers. Bijgevolg is de 
+bruikbaarheid van deze gegevens nog niet beoordeeld. Desondanks worden hieronder aantal 
+tekortkomingen en aanbevelingen weergegeven. 
+ 
+ 
+10 
+ 
+5.1. De beschikbaarheid van gedetailleerde informatie over pesticiden 
+De verordening verbiedt de bekendmaking van gegevens over de afzonderlijke werkzame 
+stoffen. Artikel 3, lid 4, luidt als volgt: "Om redenen van vertrouwelijkheid, aggregeert de 
+Commissie (Eurostat) de gegevens vóór publicatie volgens de chemische klassen of de 
+categorieën van producten vermeld in bijlage III, met inachtneming van de bescherming van 
+vertrouwelijke gegevens in de afzonderlijke lidstaten. Conform artikel 20 van Verordening 
+(EG) nr. 223/2009 worden de vertrouwelijke gegevens door de nationale instanties en de 
+Commissie (Eurostat) uitsluitend voor statistische doeleinden gebruikt." 
+ 
+Bijgevolg kan de Commissie geen gegevens over individuele werkzame stoffen 
+bekendmaken. Bovendien kunnen de geaggregeerde gegevens niet altijd worden verspreid 
+wanneer er een direct of indirect risico bestaat dat statistische eenheden worden onderkend; 
+dit is de algemene regel in de statistiek om de vertrouwelijkheid van gegevens te beschermen. 
+ 
+Indien de verkoopstatistieken bij de detailhandelaars zouden worden verzameld, zou dit 
+leiden tot een groot aantal statistische eenheden, waardoor de kans op 
+vertrouwelijkheidskwesties klein zou zijn. Er is echter gebleken dat de meeste lidstaten de 
+gegevens rechtstreeks bij de vergunninghouders verzamelen. Dit gebeurt hetzij in de vorm 
+van administratieve gegevens die zijn toegezonden aan de voor pesticiden bevoegde 
+autoriteiten, hetzij aan de hand van een vragenlijst. Voor de meeste werkzame stoffen 
+betekent dit dat er slechts één gegevensverstrekker is, waardoor de informatie een 
+vertrouwelijk karakter krijgt. Doordat veel klassen uit slechts weinig stoffen bestaan, of de 
+producent/importeur dezelfde is voor veel stoffen van de groep, is een situatie ontstaan 
+waarin veel geaggregeerde gegevens op hogere niveaus eveneens vertrouwelijk zijn. De 
+Commissie is van mening dat de verkoopgegevens die wettelijk zijn vereist op grond van de 
+verordening, met succes door de landen worden verzameld en toegezonden aan de 
+Commissie. Zij is ook van mening dat de algehele kwaliteit van de gegevens goed is. De 
+waarde van de statistische informatie die aan gebruikers wordt verstrekt, vermindert echter 
+door de toepassing van de vertrouwelijkheidsvoorschriften op een aanzienlijk deel van de 
+gegevens. Daarom kan niet worden aangenomen dat de behoeften van de gebruikers goed 
+worden gediend door de verordening. 
+5.2. Statistieken over pesticidenverkoop 
+Het vergelijken van de pesticidenverkoop tussen de verschillende landen en in de loop der 
+jaren is niet eenvoudig omdat externe factoren zoals weersomstandigheden, de bodem en 
+productiemethoden sterk van invloed zijn op de benodigde soorten en hoeveelheden 
+pesticiden. 
+ 
+Een product wordt niet noodzakelijkerwijze gebruikt waar het is gekocht, en landbouwers 
+kunnen pesticiden ook rechtstreeks bij een detailhandelaar in het buurland betrekken. Hierbij 
+zal het slechts gaan om een klein deel van de totale verkopen, maar dit deel wordt niet correct 
+weergegeven in de verkoopstatistieken. Er kan ook tijd verlopen tussen de verkoop van het 
+ 
+11 
+ 
+bestrijdingsmiddel en het gebruik ervan, afhankelijk van de vraag of het is gekocht om een 
+voorraad te vormen of voor direct gebruik. 
+ 
+Veel gebruikers willen beschikken over gedetailleerde gegevens over de verkochte 
+hoeveelheden van de afzonderlijke werkzame stoffen. De Commissie en de nationale bureaus 
+voor de statistiek kunnen deze informatie echter niet geven, omdat zij aan de verordening en 
+de vertrouwelijkheidsvoorschriften moeten voldoen. 
+ 
+Zoals reeds vermeld, legt de verordening de Commissie sterke beperkingen voor de 
+verspreiding van gegevens op. Alle gegevens moeten worden geaggregeerd in klassen en 
+groepen, ongeacht of de gegevens door de lidstaten al dan niet als vertrouwelijk worden 
+aangemerkt. Bovendien mag de Commissie niet afwijken van de klassen die zijn vastgesteld 
+in bijlage III bij de verordening. 
+ 
+Aangezien gebruikers vaak geïnteresseerd zijn in specifieke werkzame stoffen of groepen van 
+stoffen die van de vooraf gedefinieerde klassen verschillen, kan de verordening als te 
+restrictief worden aangemerkt; de juiste analyses kunnen niet worden uitgevoerd. Een goed 
+voorbeeld is de recente discussies over neonicotinoïden, de groep pesticiden die schadelijk 
+kunnen zijn voor bijen. De desbetreffende werkzame stoffen bevinden zich niet allemaal in 
+dezelfde chemische klassen in bijlage III, hetgeen betekent dat de Commissie de 
+beleidsmakers niet alle relevante gegevens heeft kunnen verschaffen. 
+ 
+In de verordening wordt bepaald dat gewicht de enige te gebruiken eenheid is, maar 
+biologische pesticiden mogen niet worden uitgedrukt in gewicht, maar in "kolonievormende 
+eenheden". Dit leidt tot problemen voor zowel de verstrekkers als de gebruikers van de 
+gegevens, aangezien de gegevens geen betekenis hebben of moeten worden omgezet voordat 
+ze worden doorgegeven en gebruikt. Deze zuiver technische kwestie moet verder worden 
+uitgewerkt. 
+ 
+5.3. Statistieken over pesticidengebruik 
+Op grond van de verordening moet elke lidstaat voor de statistieken over het agrarisch 
+pesticidengebruik een selectie vaststellen van de gewassen waarvoor in de periode van vijf 
+jaar gegevens moeten worden verzameld; die selectie moet representatief zijn voor de 
+gewassen die in de lidstaat worden geteeld en voor de gebruikte stoffen. Bij de keuze van de 
+gewassen moet rekening worden gehouden met de gewassen die het meest relevant zijn voor 
+de nationale actieplannen inzake pesticiden. Aangezien echter in de nationale actieplannen 
+niet altijd de meest relevante gewassen worden genoemd, is de keuze van gewassen zeer 
+divers. Dit heeft geleid tot een situatie waarin een risico bestaat dat het niet mogelijk is 
+gegevens over pesticidengebruik op de gewassen tussen verschillende landen te vergelijken. 
+ 
+De referentieperiode moet bestaan uit maximaal twaalf maanden in een periode van vijf jaar, 
+en alle gewasbeschermingsbehandelingen beslaan die direct of indirect bij het gewas horen. 
+De lidstaten kunnen de referentieperiode op elk moment van de periode van vijf jaar kiezen 
+ 
+12 
+ 
+en de keuze kan voor elk gekozen gewas verschillend zijn. Dit heeft ertoe geleid dat landen 
+verschillende referentieperioden hebben gekozen, en het zal dus potentieel niet mogelijk zijn 
+om gegevens voor hetzelfde jaar tussen landen onderling te vergelijken of om resultaten op 
+EU-niveau te verschaffen. 
+ 
+6. VOORSTELLEN VOOR VERDERE VERBETERINGEN 
+Rekening houdend met het advies van de belanghebbenden acht de Commissie het belangrijk 
+om de wetgeving over pesticidenverkoop verder aan te passen, zodat alle niet-vertrouwelijke 
+gegevens aan het publiek beschikbaar kunnen worden gesteld, zowel als werkzame stof als in 
+verschillende vormen van aggregatie. 
+ 
+De Commissie hecht evenveel belang aan verdere aanpassing van de wetgeving inzake 
+statistieken over pesticidengebruik met het oog op een consistentere aanpak en dekking in 
+alle lidstaten. Te denken valt aan vastgestelde gemeenschappelijke referentieperioden en 
+duidelijke voorschriften voor de gewassen die in de enquête moeten worden opgenomen. De 
+dekkingsvoorschriften kunnen worden gebaseerd op de gewasproductiestatistieken (een 
+bepaald percentage van het bouwland en meerjarige teelten moet worden afgedekt), en op 
+analyses van de mogelijke risico’s voor het milieu en de menselijke gezondheid op basis van 
+de verkoop van werkzame stoffen. Deze voorschriften kunnen worden opgesteld in nauwe 
+samenwerking tussen de betrokken diensten en agentschappen van de Commissie en met de 
+nationale deskundigen. 
+ 
+Tot slot heeft de Commissie, in samenwerking met de belanghebbenden, een strategie voor 
+landbouwstatistieken in 2020 en daarna ontworpen8. De strategie stelt voor dat alle 
+landbouwstatistieken, met uitzondering van de Landbouwrekeningen, moeten worden 
+gegroepeerd in twee kaderregelingen. De Commissie beveelt sterk aan dat 
+pesticidenstatistieken moeten worden samengevoegd met de andere gebieden van 
+landbouwstatistieken.  
+                                                            
+8  Strategy for agricultural statistics 2020 and beyond — Final. 
+ 
+13 
+ 
+BIJLAGE I 
+De informatie in deze bijlage is gebaseerd op de nationale verslagen die de lidstaten 
+overeenkomstig de verordening hebben verstrekt 
+ 
+NATIONALE AUTORITEIT 
+BEVOEGD VOOR 
+PESTICIDENVERKOOP 
+VERZAMELMETHODEN VOOR GEGEVENS OVER 
+PESTICIDENVERKOOP 
+BE 
+Federale Overheidsdienst 
+Volksgezondheid, Veiligheid van 
+de Voedselketen en Leefmilieu 
+Administratieve gegevens; vergunninghouders 
+(producenten, importeurs en exporteurs) moeten aangifte 
+doen van de hoeveelheden die in de handel zijn gebracht 
+BG 
+Ministerie van Landbouw en 
+Voedselvoorziening 
+Administratieve gegevens op basis van verklaringen van de 
+erkende distributeurs 
+CZ 
+Tsjechisch Bureau voor de 
+Statistiek 
+Administratieve gegevens; ondernemers die hun producten 
+in de handel brengen of opslaan met het oog op uitvoer 
+naar derde landen moeten verslag uitbrengen aan het 
+centraal instituut voor toezicht op en onderzoek in de 
+landbouw (CISTA). De gegevensverzameling gebeurt online 
+en/of door middel van papieren vragenlijsten  
+DK 
+Deens Bureau voor 
+Milieubescherming 
+(Miljøstyrelsen), Deens Ministerie 
+van Milieubeheer en 
+Voedselvoorziening 
+Administratieve gegevens. Verplichte rapportage: Deense 
+vergunninghouders elektronisch en buitenlandse 
+vergunninghouders per e-mail 
+DE 
+Federaal Bureau voor 
+Consumentenbescherming en 
+Voedselveiligheid (BVL) 
+Administratieve gegevens; vergunninghouders (inclusief 
+houders van een vergunning voor parallelhandel), 
+fabrikanten en distributeurs moeten verslag uitbrengen 
+over de in eigen land verkochte en de uitgevoerde 
+hoeveelheden, inclusief verkoop voor noodsituaties 
+EE Ests Bureau voor de Statistiek 
+Telling van alle importeurs en leveranciers door web-
+applicatie en/of enquête via papieren post 
+IE 
+Ministerie van Landbouw, 
+Voedselvoorziening en Mariene 
+Zaken 
+De gegevens worden verzameld op basis van een telling. De 
+administratieve gegevens zijn afkomstig van alle houders 
+van productvergunningen en afzetbedrijven 
+EL 
+Griekse Statistische Autoriteit 
+(ELSTAT) 
+Statistische enquête van alle verkopers op het nationale 
+grondgebied, door het Ministerie van 
+Plattelandsontwikkeling en Voedselvoorziening, per brief of 
+e-mail. Sinds 2014 zijn verkopers verplicht om de gegevens 
+online te melden  
+ 
+14 
+ 
+ 
+NATIONALE AUTORITEIT 
+BEVOEGD VOOR 
+PESTICIDENVERKOOP 
+VERZAMELMETHODEN VOOR GEGEVENS OVER 
+PESTICIDENVERKOOP 
+ES 
+Ministerie van Landbouw, 
+Voedselvoorziening en Milieu 
+Elektronische vragenlijst/enquête (binnen en buiten het 
+nationale grondgebied) van de vergunninghouders en 
+respondenten aan wie de rechten voor het in de handel 
+brengen zijn overgedragen. Administratieve gegevens 
+worden verstrekt door het Subdireccion General de Sanidad 
+Vegetal 
+FR 
+Ministerie van Landbouw, 
+Voedselvoorziening en Bosbouw 
+Administratieve gegevens; distributeurs moeten hun 
+verkoopcijfers melden aan de wateragentschappen. De 
+verkoopcijfers worden vervolgens verder bewerkt door het 
+Ministerie van Milieu 
+HR 
+Kroatisch Bureau voor de 
+Statistiek  
+Administratieve gegevens; het Ministerie van Landbouw is 
+verantwoordelijk voor het verzamelen van gegevens van 
+distributeurs en verkooppunten 
+IT 
+Italiaans Nationaal Bureau voor 
+de Statistiek (ISTAT) 
+Telling van alle distributeurs per post  
+CY 
+Statistische dienst van Cyprus 
+(CYSTAT) 
+Vragenlijst/enquête van leveranciers, per post of 
+elektronisch. Administratieve gegevens worden verstrekt 
+door het Ministerie van Landbouw 
+LV 
+Letse staatsdienst voor 
+gewasbescherming (SPPS) 
+Volledige enquête (op papier en/of elektronisch) van alle 
+respondenten — distributeurs 
+LT Litouws Bureau voor de Statistiek 
+Volledige enquête van alle producenten en 
+vergunninghouders 
+LU 
+Nationaal Instituut voor Statistiek 
+en Economische Studies (STATEC) 
+Telling van verkopers (detail- of groothandelaren) en 
+coöperaties 
+HU 
+Hongaars Centraal Bureau voor 
+de Statistiek 
+Het Nationaal Bureau voor Voedselveiligheid (Ministerie van 
+Plattelandsontwikkeling) verzamelt de gegevens van 
+vergunninghouders  
+MT 
+Maltees Nationaal Bureau voor de 
+Statistiek (NSO) 
+Online telling van erkende importeurs 
+NL 
+Centraal Bureau voor de Statistiek 
+(CBS) 
+Administratieve gegevens afkomstig van de Nederlandse 
+Voedsel- en Warenautoriteit (NVWA) 
+ 
+15 
+ 
+ 
+NATIONALE AUTORITEIT 
+BEVOEGD VOOR 
+PESTICIDENVERKOOP 
+VERZAMELMETHODEN VOOR GEGEVENS OVER 
+PESTICIDENVERKOOP 
+AT 
+Oostenrijks Bureau voor de 
+Statistiek (STAT), Oostenrijks 
+Agentschap voor Gezondheid en 
+Voedselveiligheid (AGES) 
+Vergunning; vergunninghouders en distributeurs moeten 
+gegevens indienen bij het Oostenrijkse Federale Bureau 
+voor Voedselveiligheid 
+PL Centraal Bureau voor de Statistiek 
+Volledige enquête, uitgevoerd in samenwerking met het 
+Ministerie van Landbouw en Plattelandsontwikkeling en het 
+Instituut voor Gewasbescherming — Nationaal 
+onderzoeksinstituut 
+PT 
+Portugees Bureau voor de 
+Statistiek (INE), Nationale 
+Autoriteit (DGAV) 
+Administratieve gegevens worden verkregen van de 
+Nationale Autoriteit Direção Geral de Alimentação e 
+Veterinária (DGAV)  
+RO 
+Roemeens Nationaal Instituut 
+voor de Statistiek 
+Telling op basis van persoonlijke interviews, uitgevoerd in 
+samenwerking met het Ministerie van Landbouw en 
+Plattelandsontwikkeling (Nationaal Agentschap voor 
+Gewasbescherming). De telling dekt gecertificeerde 
+verkoopeenheden, marktdeelnemers en natuurlijke 
+personen 
+SI 
+Bureau voor de Statistiek van de 
+Sloveense Republiek 
+Administratieve gegevens die worden ingediend bij de 
+Sloveense Dienst voor Voedselveiligheid, Diergeneeskunde 
+en Gewasbescherming (UVHVVR) 
+SK 
+Bureau voor de Statistiek van de 
+Slowaakse Republiek (SOSR) 
+Administratieve gegevens; het Centrale Toezichts- en 
+Testinstituut voor de Landbouw (CCTIA) verzamelt gegevens 
+van de vergunninghouders of houders van een vergunning 
+voor parallelhandel 
+FI 
+Fins Bureau voor Veiligheid en 
+Chemische Stoffen (Tukes) 
+Het Fins Bureau voor Veiligheid en Chemische Stoffen 
+(Tukes) verzamelt de gegevens per post of e-mail van 
+vergunninghouders of hun vertegenwoordigers 
+SE 
+Zweeds Agentschap voor 
+chemische stoffen (Kemi) 
+Het agentschap verzamelt gegevens van vergunninghouders 
+UK 
+Directoraat Regelgeving 
+Chemische Stoffen (Chemicals 
+Regulation Directorate) 
+Vrijwillige elektronische telling van bedrijven, uitgevoerd 
+door de Britse Raad voor Gewasproductie (British Crop 
+Production Council) namens het Bureau voor Nationale 
+Statistiek (Office for National Statistics — ONS) 
+ 
+16 
+ 
+ 
+NATIONALE AUTORITEIT 
+BEVOEGD VOOR 
+PESTICIDENVERKOOP 
+VERZAMELMETHODEN VOOR GEGEVENS OVER 
+PESTICIDENVERKOOP 
+NO 
+Noorse Autoriteit voor 
+Voedselveiligheid 
+Administratieve gegevens afkomstig van producenten en 
+importeurs 
+ 
+  
+ 
+17 
+ 
+BIJLAGE II 
+De informatie in deze bijlage is gebaseerd op de nationale verslagen die de lidstaten 
+overeenkomstig de verordening hebben verstrekt  
+ 
+KWALITEIT VAN DE INGEDIENDE GEGEVENS 
+OVER PESTICIDEN  
+BRUIKBAARHEID VAN VERKOOPSTATISTIEKEN 
+VAN PESTICIDEN 
+BE 
+Ramingen zijn niet noodzakelijk en te hoge 
+ramingen zijn onwaarschijnlijk doordat 
+gedeclareerde gegevens en de vergoedingen 
+aan elkaar gekoppeld worden. 
+De gegevens worden gebruikt voor de berekening 
+van de jaarlijkse vergoeding voor het op de markt 
+brengen van pesticiden en de raming van de 
+totale hoeveelheden die op nationaal niveau 
+worden toegepast en de daaruit voortvloeiende 
+risico’s voor mens en milieu  
+BG 
+De gegevens zijn veelomvattend en 
+bestrijken alle beschikbare in- en uitvoer 
+De gegevens zijn specifiek, met slechts een klein 
+aantal potentiële gebruikers 
+CZ 
+De bronnen bestrijken alle eenheden die 
+wettelijk verplicht zijn om verslag uit te 
+brengen en alle producten die in de handel 
+zijn gebracht 
+De gegevens worden voornamelijk gebruikt door 
+CISTA voor fytosanitaire controle, planning en 
+uitvoering van controles op naleving door 
+distributeurs  
+DK 
+De verkochte hoeveelheid wordt 
+gerapporteerd als het totale bedrag van de 
+verkoop van elk product 
+Gebruikers zijn politici, de landbouwsector, 
+NGO’s en het publiek.  
+De gegevens worden onder meer gebruikt voor 
+toezicht op de doelstelling om de last van 
+pesticiden te verminderen met 40 % tussen 2011 
+en eind 2015 (Deense 
+bestrijdingsmiddelenstrategie 2013-2015, nu 
+verlengd met 1 jaar) 
+DE 
+De totale nauwkeurigheid van de gegevens is 
+bevredigend, hoewel non-respons — 
+voornamelijk door onjuiste contactgegevens 
+van parallelhandelsbedrijven — een 
+probleem kan zijn. Een raming van de te 
+geringe dekking wegens illegale handel is 
+niet mogelijk  
+Het Federaal Bureau voor 
+Consumentenbescherming en Voedselveiligheid 
+(BVL) maakt gebruik van de gegevens voor de 
+interne toezichthoudende taken na registratie. 
+De gegevens worden ook bekendgemaakt in de 
+Duitse statistische jaarboek over voeding, 
+landbouw en bosbouw en in de Bundesanzeiger 
+(Staatscourant). Het Julius Kühn Institut (JKI) — 
+het federale onderzoekscentrum voor 
+cultuurgewassen — ontvangt deze gegevens 
+eveneens. Andere autoriteiten, zoals het federale 
+milieubureau (Umweltbundesamt — UBA) of 
+onderzoeksinstellingen, ontvangen op verzoek 
+stofspecifieke verkoopgegevens  
+ 
+18 
+ 
+ 
+KWALITEIT VAN DE INGEDIENDE GEGEVENS 
+OVER PESTICIDEN  
+BRUIKBAARHEID VAN VERKOOPSTATISTIEKEN 
+VAN PESTICIDEN 
+EE 
+De kwaliteit van de statistieken is hoog 
+omdat alle ondernemingen worden 
+bestreken en het responspercentage hoog 
+was 
+Gebruikers zijn de Landbouwkamer, het Centrum 
+voor Landbouwkundig Onderzoek, het Ministerie 
+van Landbouw), andere ministeries, onderzoeks- 
+en opleidingsinstellingen, de media, andere 
+organisaties en ondernemingen, en particulieren  
+IE 
+Gegevens afkomstig van de houders van 
+productvergunningen en afzetbedrijven zijn 
+de werkelijke gegevens. Daarom wordt de 
+kwaliteit van de gegevens als hoog 
+aangemerkt. 
+Er zijn slechts enkele verzoeken om deze 
+gegevens ontvangen. Ondernemingen en 
+vergunninghouders hebben toegang tot dit 
+register en kunnen informatie over elk product 
+raadplegen  
+EL 
+Door de invoering van het online-systeem is 
+de totale kwaliteit verbeterd. Met name is 
+daardoor de respons verbeterd ten opzichte 
+van de lage niveaus in het verleden 
+Ministerie van Plattelandsontwikkeling en 
+Voedselvoorziening, de regering, de pers, de 
+media en universitaire onderzoekers gebruiken 
+deze gegevens om de risico’s in verband met 
+pesticiden te beperken 
+ES 
+De gegevens worden onderworpen aan een 
+interne consistentieprocedure 
+Om het effect van overheidsbeleid te beoordelen 
+en de relevante gezondheidsindicatoren en 
+aanverwante milieurisico’s te berekenen  
+FR 
+De declaratiesysteem geldt voor de verkoop 
+aan eindgebruikers (of aankopen in het 
+buitenland door eindgebruikers). Dit 
+voorkomt dubbeltellingen als gevolg van 
+overdrachten van vergunningen of 
+tussenpersonen in de verkoopketen  
+Momenteel zijn ons geen specifieke 
+gebruikersbehoeften bekend 
+HR Het land heeft geen gegevens verstrekt 
+Gegevens worden gebruikt door 
+overheidsinstanties, lokale overheden, 
+rechtspersonen en natuurlijke personen  
+IT Bevredigend 
+Gegevens worden vooral gebruikt door het 
+Instituut voor Milieubescherming en -onderzoek 
+(Ispra) en het Ministerie van Landbouw om de 
+risico’s voor mens en milieu te beoordelen 
+CY 
+De enquête was integraal met volledige 
+dekking, aangezien het land slechts enkele 
+leveranciers telt 
+De gegevens voldoen aan de behoeften van het 
+Ministerie van Landbouw 
+ 
+19 
+ 
+ 
+KWALITEIT VAN DE INGEDIENDE GEGEVENS 
+OVER PESTICIDEN  
+BRUIKBAARHEID VAN VERKOOPSTATISTIEKEN 
+VAN PESTICIDEN 
+LV 
+De algemene kwaliteit van de statistische 
+output wordt als goed beoordeeld. De 
+belangrijkste kracht van het proces is dat het 
+verzamelen van gegevens op de wet is 
+gebaseerd 
+Vooral wetenschappers, studenten en media 
+hebben belangstelling voor de gegevens getoond. 
+De statistische informatie voldoet in grote lijnen 
+aan de behoeften van de nationale gebruikers 
+LT 
+De gegevens worden verzameld uit 
+betrouwbare bronnen met gebruikmaking 
+van strenge methodologische normen 
+De voornaamste gebruikers zijn overheids- en 
+gemeentelijke autoriteiten en instanties, 
+internationale organisaties, de media, 
+onderzoekers, het bedrijfsleven en studenten. De 
+gegevens worden gebruikt om potentiële risico’s 
+voor de gezondheid van de mens en het milieu te 
+identificeren 
+LU 
+De respondenten wordt tevens gevraagd 
+welk aandeel de binnenlandse en 
+buitenlandse leveranciers of tussenpersonen 
+hebben om mogelijke dubbeltelling van 
+nationale groothandelaren te voorkomen 
+Verkoopstatistieken kunnen van belang zijn voor 
+beleidsmakers, het Ministerie van Landbouw, het 
+Ministerie van Milieu, milieulobbygroepen en 
+onderzoekers 
+HU 
+Afgezette hoeveelheden worden vergeleken 
+en getoetst aan de hand van de gegevens 
+van de voorgaande jaren op productniveau 
+Het land heeft geen gegevens verstrekt 
+MT 
+De algemene kwaliteit is goed. De 
+verzameling van de gegevens is integraal en 
+er zijn procedures om de gegevens te 
+valideren en te analyseren 
+De Europese Commissie is de belangrijkste 
+gebruiker 
+NL 
+De kwaliteit van de gegevens wordt 
+stelselmatig beoordeeld met behulp van een 
+kader dat is gebaseerd op de 
+kwaliteitsdefinitie van het Europees 
+statistisch systeem 
+De gegevens worden gebruikt om het 
+overheidsbeleid te evalueren 
+AT Het land heeft geen gegevens verstrekt Toezicht en controle  
+PL 
+Verplichte enquête van producenten, 
+nationale distributeurs en importeurs 
+middels elektronische vragenlijsten 
+Gebruikers zijn onder meer centrale bureaus, 
+wetenschappelijke en onderzoeksinstellingen, 
+studenten en ondernemingen in de 
+landbouwsector. De gegevens kunnen worden 
+gebruikt om de omstandigheden en de kosten 
+van landbouwproductie en gevolgen voor het 
+milieu te beoordelen  
+ 
+20 
+ 
+ 
+KWALITEIT VAN DE INGEDIENDE GEGEVENS 
+OVER PESTICIDEN  
+BRUIKBAARHEID VAN VERKOOPSTATISTIEKEN 
+VAN PESTICIDEN 
+PT 
+Valideringen zijn gebaseerd op een 
+vergelijking van geaggregeerde gegevens 
+met die van de voorafgaande jaren  
+Deze gegevens worden gebruikt om de markt en 
+de verbinding ervan met de 
+verkoopvergunningen van de nationale autoriteit 
+te beoordelen 
+RO Het land heeft geen gegevens verstrekt 
+Gebruikers zijn onder meer het Ministerie van 
+Landbouw en Plattelandsontwikkeling, het 
+Nationale Bureau voor Gewasbescherming, de 
+gewasbeschermingseenheden, de Academie van 
+Land- en bosbouwwetenschappen, het Nationaal 
+Instituut voor Onderzoek en Ontwikkeling voor 
+Industriële Ecologie, het Centrum voor 
+Toegepaste Biochemie en Biotechnologie, het 
+Ministerie van Milieu, Water en Bossen en het 
+Instituut voor Onderzoek en Ontwikkeling voor 
+Gewasbescherming 
+SI 
+De gegevens betreffen groothandelaren 
+binnen het nationale grondgebied. De 
+gegevens kunnen echter niet worden 
+uitgesplitst in lagere territoriale eenheden 
+omdat er geen conclusies kunnen worden 
+getrokken over de vraag waar sprake is van 
+detailhandel of van daadwerkelijk gebruik 
+Gebruikt als indicatie voor de hoeveelheid 
+werkzame stoffen die in de landbouw worden 
+gebruikt 
+SK 
+De gegevens zijn van goede kwaliteit met 
+voldoende nauwkeurigheid en volledigheid 
+De Europese Commissie is de belangrijkste 
+gebruiker 
+FI 
+De kwaliteit van de gegevens is als goed aan 
+te merken  
+De gebruikers van de gegevens zijn autoriteiten 
+op het gebied van landbouw, milieu, 
+voedselveiligheid en gezondheid, 
+onderzoeksinstellingen en de media. Op verzoek 
+zijn gedetailleerde gegevens verstrekt voor 
+onderzoek en toezicht  
+SE 
+De gegevens hebben betrekking op alle in de 
+handel gebrachte producten. De gegevens 
+worden handmatig verwerkt, en 
+rekenfouten zijn daarom mogelijk 
+Wij hebben zeer weinig informatie over de 
+gebruikers. Tendensen zijn vaak interessanter 
+dan de gegevens zelf 
+ 
+21 
+ 
+ 
+KWALITEIT VAN DE INGEDIENDE GEGEVENS 
+OVER PESTICIDEN  
+BRUIKBAARHEID VAN VERKOOPSTATISTIEKEN 
+VAN PESTICIDEN 
+UK 
+De nauwkeurigheidsmaat is als 
+aanvaardbaar aan te merken. Een 
+multinationale onderneming met naar 
+schatting 8 % marktaandeel in het VK heeft 
+consequent geweigerd gegevens te 
+verschaffen. Andere ontbrekende 
+antwoorden werden niet significant geacht 
+omdat de meeste niet-antwoordende 
+ondernemingen kleine marktdeelnemers 
+zijn. 
+Potentiële gebruikers op nationaal niveau zijn 
+onder meer leden van de Vereniging voor 
+Gewasbescherming ("Crop Protection 
+Association"). Dit is de Britse branchevereniging 
+van bedrijven die betrokken zijn bij de 
+vervaardiging, samenstelling, ontwikkeling en 
+nationale distributie van pesticiden en 
+gewasbeschermingsmiddelen voor landbouw, 
+bosbouw, tuinbouw, hobbytelers, industriële of 
+gemeentelijke afzetmarkten 
+NO 
+De kwaliteit van de gegevens wordt als zeer 
+goed beoordeeld. Alle invoer en productie 
+moet worden gerapporteerd en bevestigd 
+door de accountants van de bedrijven. 
+Ramingen van gegevens zijn niet vereist 
+De gegevens worden gebruikt als basis voor de 
+berekening van de milieubelasting. Gebruikers 
+zijn onder meer overheidsinstellingen, 
+landbouwersorganisaties, NGO’s, het 
+bedrijfsleven enz. De gegevens zijn beschikbaar 
+voor werkzame stoffen en voor producten. 
+Gebruikers hebben verklaard behoefte te hebben 
+aan gegevens op regionaal niveau, en niet alleen 
+op nationaal niveau. Gezien de wijze waarop de 
+gegevens worden verzameld, is dit echter niet 
+mogelijk 
+ 
+ 
+ 

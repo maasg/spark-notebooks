@@ -1,0 +1,318 @@
+VERORDNUNG (EG) Nr. 808/2004 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 21. April 2004
+über Gemeinschaftsstatistiken zur Informationsgesellschaft
+(Text von Bedeutung für den EWR)
+DAS EUROPÄISCHE PARLAMENT UND DER RAT
+DER EUROPÄISCHEN UNION —
+gestützt auf den Vertrag zur Gründung der Europäischen
+Gemeinschaft, insbesondere auf Artikel 285 Absatz 1,
+auf Vorschlag der Kommission,
+gemäß dem Verfahren des Artikels 251 des Vertrags (1),
+in Erwägung nachstehender Gründe:
+(1) Der Europäische Rat von Lissabon hat im März 2000
+für Europa das Ziel gesetzt, innerhalb des kommenden
+Jahrzehnts zum wettbewerbsfähigsten und dynamischs-
+ten wissensbasierten Wirtschaftsraum der Welt zu wer-
+den.
+(2) Im Aktionsplan eEurope 2002, der im Juni 2000 vom
+Europäischen Rat in Feira verabschiedet wurde, wird ein
+Zielsetzungs- und Benchmarking-Prozess vorgegeben,
+der Europa so rasch wie möglich ans Netz führen soll.
+(3) Der Europäische Rat von Sevilla hat im Juni 2002 die
+Zielsetzung des Aktionsplans eEurope 2005 verabschie-
+det, in dem eine Rechtsgrundlage für die regelmäßige
+Bereitstellung vergleichbarer Daten in den Mitgliedstaa-
+ten und die stärkere Nutzung amtlicher Statistiken zur
+Informationsgesellschaft gefordert wird.
+(4) Die Strukturindikatoren, die im jährlichen Frühjahrs-
+bericht an den Europäischen Rat zugrunde gelegt wer-
+den, setzen Indikatoren voraus, die auf kohärenter statis-
+tischer Information zur Informationsgesellschaft basie-
+ren.
+(5) Der eEurope-Leistungsvergleich (Benchmarking) als Teil
+der Umsetzung des Aktionsplans eEurope erfordert Indi-
+katoren, die auf kohärenter statistischer Information zur
+Informationsgesellschaft basieren.
+(6) Die Dienststellen der Kommission benötigen harmoni-
+sierte jährliche Statistiken über den Einsatz von Informa-
+tions- und Kommunikations-Technologien (IKT) in
+Unternehmen.
+(7) Die Dienststellen der Kommission benötigen harmoni-
+sierte jährliche Statistiken über die Nutzung von IKT
+durch Einzelpersonen und Haushalte.
+(8) Wegen des raschen Wandels im Bereich der Informati-
+onsgesellschaft muss es möglich sein, die zu erstellenden
+Statistiken an neue Entwicklungen anzupassen. Dies
+kann durch die Einführung von Modulen mit begrenzter
+Geltungsdauer und dadurch erreicht werden, dass die
+Möglichkeit der Änderung über Durchführungsmaßnah-
+men gegeben wird; dabei sind die in den Mitgliedstaaten
+verfügbaren Ressourcen und der Aufwand für die
+Befragten, die technische und methodische Realisierbar-
+keit sowie die Zuverlässigkeit der Ergebnisse zu berück-
+sichtigen.
+(9) Maßgeblich für die Erstellung spezifischer Gemein-
+schaftsstatistiken sind die Bestimmungen der Verord-
+nung (EG) Nr. 322/97 des Rates vom 17. Februar 1997
+über Gemeinschaftsstatistiken (2).
+(10) Da das Ziel der beabsichtigten Maßnahmen, nämlich die
+Schaffung eines gemeinsamen Rahmens für die systema-
+tische Erstellung von Gemeinschaftsstatistiken zur Infor-
+mationsgesellschaft, auf Ebene der Mitgliedstaaten nicht
+ausreichend erreicht werden kann und daher wegen des
+Umfangs und der Wirkungen der Maßnahme besser auf
+Gemeinschaftsebene zu erreichen ist, kann die Gemein-
+schaft im Einklang mit dem in Artikel 5 des Vertrags
+niedergelegten Subsidiaritätsprinzip tätig werden. Ent-
+sprechend dem in demselben Artikel genannten Verhält-
+nismäßigkeitsprinzip geht diese Verordnung nicht über
+das zur Erreichung dieser Ziele erforderliche Maß
+hinaus.
+(11) Die zur Durchführung dieser Verordnung erforderlichen
+Maßnahmen sollten gemäß dem Beschluss 1999/468/EG
+des Rates vom 28. Juni 1999 zur Festlegung der Modali-
+täten für die Ausübung der der Kommission übertrage-
+nen Durchführungsbefugnisse (3) erlassen werden.
+(12) Der durch den Beschluss 89/382/EWG, Euratom des
+Rates (4) eingesetzte Ausschuss für das Statistische Pro-
+gramm wurde gemäß Artikel 3 dieses Beschlusses
+gehört —
+(1) Stellungnahme des Europäischen Parlaments vom 29. Januar 2004
+(noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates
+vom 16. April 2004.
+(2) ABl. L 52 vom 22.2.1997, S. 1. Geändert durch die Verordnung
+(EG) Nr. 1882/2003 des Europäischen Parlaments und des Rates
+(ABl. L 284 vom 31.10.2003, S. 1).
+(3) ABl. L 184 vom 17.7.1999, S. 23.
+(4) ABl. L 181 vom 28.6.1989, S. 47.
+30.4.2004 L 143/49Amtsblatt der Europäischen UnionDE
+HABEN FOLGENDE VERORDNUNG ERLASSEN:
+Artikel 1
+Ziel
+Ziel dieser Verordnung ist es, einen gemeinsamen Rahmen für
+die systematische Erstellung von Gemeinschaftsstatistiken zur
+Informationsgesellschaft zu schaffen.
+Artikel 2
+Definitionen
+Für die Zwecke dieser Verordnung
+a) gilt für „Gemeinschaftsstatistiken“ die Definition in Artikel
+2 der Verordnung (EG) Nr. 322/97;
+b) gilt für „Erstellung von Statistiken“ die Definition in Artikel
+2 der Verordnung (EG) Nr. 322/97;
+c) ist „Bezugszeitraum“ der Zeitraum, auf den sich die Daten
+beziehen;
+d) ist „Bezugsjahr“ ein Bezugszeitraum von einem Kalender-
+jahr;
+e) ist „Erhebungszeitraum“ ein in den Durchführungsmaßnah-
+men festgelegter Zeitraum, innerhalb dessen die Datenerhe-
+bung erfolgt.
+Artikel 3
+Erfassungsbereich
+(1) Die zu erstellenden Statistiken umfassen die für den eEu-
+rope-Benchmarking-Prozess erforderlichen sowie die für die
+Strukturindikatoren nützlichen Informationen und andere
+Daten, die als einheitliche Grundlage für die Analyse der Infor-
+mationsgesellschaft benötigt werden.
+(2) Die Statistiken sind in Module gegliedert, wie sie in den
+Anhängen I und II definiert werden.
+Artikel 4
+Module
+Gegenstand der Module dieser Verordnung sind folgende Berei-
+che:
+— Unternehmen und die Informationsgesellschaft, wie in
+Anhang I definiert;
+— Einzelpersonen, Haushalte und die Informationsgesellschaft,
+wie in Anhang II definiert.
+Artikel 5
+Methodenhandbuch
+Die Kommission erstellt in enger Zusammenarbeit mit den Mit-
+gliedstaaten ein Methodenhandbuch, das empfohlene Leitlinien
+zu den gemäß dieser Verordnung erstellten Gemeinschaftsstatis-
+tiken enthält und das sie im Bedarfsfall an neue Durchfüh-
+rungsmaßnahmen anpasst.
+Artikel 6
+Datenübermittlung
+(1) Die Mitgliedstaaten übermitteln der Kommission (Euros-
+tat) die in dieser Verordnung und ihren Durchführungsmaß-
+nahmen vorgesehenen aggregierten Daten und Metadaten, ein-
+schließlich der vertraulichen aggregierten Daten, unter Wah-
+rung der bestehenden Gemeinschaftsbestimmungen zur Über-
+mittlung von unter die Geheimhaltungspflicht fallenden Infor-
+mationen. Diese Gemeinschaftsbestimmungen gelten auch für
+die Behandlung der Ergebnisse, sofern sie vertrauliche Daten
+enthalten.
+(2) Die Mitgliedstaaten übermitteln die in dieser Verordnung
+vorgesehenen Daten und Metadaten in elektronischer Form
+entsprechend einem zwischen der Kommission und den Mit-
+gliedstaaten vereinbarten Austauschstandard.
+Artikel 7
+Qualitätskriterien und Berichte
+(1) Die Kommission (Eurostat) bewertet die Qualität der
+übermittelten Daten.
+(2) In enger Zusammenarbeit mit den Mitgliedstaaten arbei-
+tet die Kommission (Eurostat) empfohlene gemeinsame Stan-
+dards zur Sicherung der Qualität (gemäß einheitlichen Euros-
+tat-Qualitätskriterien) der gelieferten Daten aus. Diese Stan-
+dards werden im Methodenhandbuch veröffentlicht.
+(3) Die Mitgliedstaaten ergreifen alle Maßnahmen, die zur
+Sicherung der Qualität der übermittelten Daten erforderlich
+sind.
+(4) Innerhalb eines vorgegebenen Zeitraums nach Ablauf
+der Frist für die Übermittlung der Endergebnisse legen die Mit-
+gliedstaaten der Kommission (Eurostat) einen auf die in
+Absatz 2 genannten Standards gestützten Bericht zur Qualität
+der übermittelten Daten vor. In den Berichten sind die Fälle
+anzuführen, in denen von diesen Standards abgewichen wurde.
+Der Zeitraum wird bei der Ausarbeitung der Durchführungs-
+maßnahmen festgelegt.
+L 143/50 30.4.2004Amtsblatt der Europäischen UnionDE
+Artikel 8
+Durchführungsmaßnahmen
+(1) Die Durchführungsmaßnahmen für die Module dieser
+Verordnung betreffen die Auswahl und Beschreibung, die
+Anpassung und Änderung von Themen und Variablen, den
+Erfassungsbereich, die Bezugszeiträume und die Aufschlüsse-
+lung der Variablen, die Periodizität und den Zeitplan für die
+Bereitstellung der Daten sowie die Fristen für die Übermittlung
+der Ergebnisse.
+(2) Die Durchführungsmaßnahmen, einschließlich der durch
+wirtschaftlichen und technischen Wandel bedingten Anpas-
+sungs- und Aktualisierungsmaßnahmen, werden nach dem in
+Artikel 9 Absatz 2 genannten Verfahren unter Berücksichti-
+gung der in den Mitgliedstaaten verfügbaren Ressourcen und
+des Aufwands für die Befragten, der technischen und metho-
+dischen Realisierbarkeit sowie der Zuverlässigkeit der Ergeb-
+nisse festgelegt.
+(3) Die Durchführungsmaßnahmen werden spätestens neun
+Monate vor dem Beginn der Datenerhebung festgelegt.
+Artikel 9
+Ausschuss
+(1) Die Kommission wird von dem durch den Beschluss
+89/382/EWG, Euratom eingesetzten Ausschuss für das Statisti-
+sche Programm (nachstehend „Ausschuss“ genannt) unterstützt.
+(2) Wird auf diesen Absatz Bezug genommen, so gelten die
+Artikel 5 und 7 des Beschlusses 1999/468/EG unter Beachtung
+von dessen Artikel 8.
+Der Zeitraum nach Artikel 5 Absatz 6 des Beschlusses
+1999/468/EG wird auf drei Monate festgesetzt.
+Artikel 10
+Finanzierung
+(1) Zumindest für das erste Jahr, in dem Gemeinschaftssta-
+tistiken, wie sie in den gemäß dieser Verordnung erlassenen
+Durchführungsmaßnahmen vorgesehen sind, von den Mitglied-
+staaten erstellt werden, gewährt die Kommission den Mitglied-
+staaten einen Finanzbeitrag zu den durch die Erstellung, Ver-
+arbeitung und Übermittlung dieser Statistiken entstehenden
+Kosten. Die Höhe des Finanzbeitrags darf 90 % dieser Kosten
+nicht übersteigen.
+(2) Die Bedingungen und Verfahren zur Gewährung des
+Finanzbeitrags sowie für seine Auszahlung und Kontrolle müs-
+sen der Verordnung (EG, Euratom) Nr. 1605/2002 des Rates
+vom 25. Juni 2002 über die Haushaltsordnung für den
+Gesamthaushaltsplan der Europäischen Gemeinschaften (1) ent-
+sprechen.
+(3) Sofern die Haushaltsmittel dies zulassen, gewährt die
+Kommission den Mitgliedstaaten auch in den Folgejahren einen
+Finanzbeitrag zu den durch die Bereitstellung dieser Statistiken
+entstehenden Kosten.
+(4) Die Haushaltsbehörde genehmigt die für diesen Finanz-
+beitrag verfügbaren Mittel im Rahmen der jährlichen Haus-
+haltsverfahren der Europäischen Gemeinschaften.
+Artikel 11
+Inkrafttreten
+Diese Verordnung tritt am zwanzigsten Tag nach ihrer Ver-
+öffentlichung im Amtsblatt der Europäischen Union in Kraft.
+Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitglied-
+staat.
+Geschehen zu Straßburg am 21. April 2004.
+Im Namen des Europäischen Parlaments
+Der Präsident
+P. COX
+Im Namen des Rates
+Der Präsident
+D. ROCHE
+(1) ABl. L 248 vom 16.9.2002, S. 1.
+30.4.2004 L 143/51Amtsblatt der Europäischen UnionDE
+ANHANG I
+Modul 1: Unternehmen und die Informationsgesellschaft
+a) Zweck
+Zweck dieses Moduls ist die zeitnahe Bereitstellung von Statistiken über Unternehmen und die Informationsgesell-
+schaft. Dieses Modul bietet einen Rahmen für die Anforderungen an den Erfassungsbereich, den zeitlichen Rahmen
+und die Periodizität, die erfassten Themen, die Aufschlüsselung der Datenbereitstellung sowie alle notwendigen
+Pilotstudien.
+b) Erfassungsbereich
+In diesem Modul werden die wirtschaftlichen Tätigkeiten der Abschnitte D bis K sowie der Abteilung 92 der Statis-
+tischen Systematik der Wirtschaftszweige in der Europäischen Gemeinschaft (NACE REV. 1.1) erfasst. Wenn vor-
+herige Pilotstudien erfolgreich verlaufen, wird auch Abschnitt J erfasst.
+Die Statistiken werden für Unternehmenseinheiten erstellt.
+c) Zeitlicher Rahmen und Periodizität der Datenbereitstellung
+Für maximal fünf Bezugsjahre ab Inkrafttreten dieser Verordnung werden jährlich Statistiken bereitgestellt. Es sind
+nicht unbedingt jedes Jahr alle Variablen bereitzustellen; die Periodizität der Daten für die einzelnen Variablen wird
+im Rahmen der in Artikel 8 genannten Durchführungsmaßnahmen spezifiziert und festgelegt.
+d) Erfasste Themen
+Die Variablen, für die Daten bereitzustellen sind, werden der folgenden Themenliste entnommen:
+— IKT-Systeme und ihre Nutzung in Unternehmen;
+— Nutzung von Internet und anderen elektronischen Netzen durch Unternehmen;
+— e-commerce- und e-business-Prozesse;
+— IKT-Kompetenz in der Unternehmenseinheit und Bedarf an IKT-Kenntnissen;
+— Hemmnisse für die Nutzung von IKT, Internet und anderen elektronischen Netzen sowie von e-commerce- und
+e-business-Prozessen;
+— IKT-Ausgaben und -Investitionen;
+— IKT-Sicherheit;
+— Auswirkungen des IKT-Einsatzes auf Unternehmen.
+Es müssen nicht unbedingt jedes Jahr alle Themen erfasst werden.
+e) Aufschlüsselung der bereitgestellten Daten
+Die Daten sind nicht unbedingt jedes Jahr nach allen Kriterien aufzuschlüsseln; die jeweils maßgeblichen Kriterien
+werden der folgenden Liste entnommen und im Rahmen der Durchführungsmaßnahmen festgelegt:
+— nach Größenklassen;
+— nach NACE-Positionen;
+— nach Regionen; die regionale Aufschlüsselung ist auf nicht mehr als drei Gruppierungen zu begrenzen.
+L 143/52 30.4.2004Amtsblatt der Europäischen UnionDE
+f) Pilotstudien
+Werden erhebliche neue Datenerfordernisse festgestellt oder ist eine unzureichende Datenqualität zu erwarten, so
+leitet die Kommission Pilotstudien ein, die von den Mitgliedstaaten vor jeder Datenerhebung auf freiwilliger Basis
+fertig zu stellen sind. Diese Pilotstudien werden durchgeführt, um zu prüfen, ob die betreffende Datenerhebung rea-
+lisierbar ist, wobei die Vorteile, die sich aus der Verfügbarkeit der Daten ergeben, und die Kosten der Erhebung
+sowie der Aufwand für die Befragten gegeneinander abzuwägen sind.
+30.4.2004 L 143/53Amtsblatt der Europäischen UnionDE
+ANHANG II
+Modul 2: Einzelpersonen, Haushalte und die Informationsgesellschaft
+a) Zweck
+Zweck dieses Moduls ist die zeitnahe Bereitstellung von Statistiken über Einzelpersonen, Haushalte und die Informa-
+tionsgesellschaft. Dieses Modul bietet einen Rahmen für die Anforderungen an den Erfassungsbereich, den zeitlichen
+Rahmen und die Periodizität, die erfassten Themen, die Aufschlüsselung der Datenbereitstellung sowie alle notwen-
+digen Pilotstudien.
+b) Erfassungsbereich
+In diesem Modul werden Statistiken zu Einzelpersonen und Haushalten erfasst.
+c) Zeitlicher Rahmen und Periodizität der Datenbereitstellung
+Für maximal fünf Bezugsjahre ab Inkrafttreten dieser Verordnung werden jährlich Statistiken bereitgestellt. Es sind
+nicht unbedingt jedes Jahr alle Variablen bereitzustellen; die Periodizität der Daten für die einzelnen Variablen wird
+im Rahmen der in Artikel 8 genannten Durchführungsmaßnahmen spezifiziert und festgelegt.
+d) Erfasste Themen
+Die Variablen, für die Daten bereitzustellen sind, werden der folgenden Themenliste entnommen:
+— Zugang zu IKT-Systemen und Nutzung durch Einzelpersonen und/oder Haushalte;
+— Nutzung des Internet für verschiedene Zwecke durch Einzelpersonen und/oder Haushalte;
+— IKT-Sicherheit;
+— IKT-Kompetenz;
+— Hemmnisse für die Nutzung von IKT und Internet;
+— Auswirkungen der IKT-Nutzung auf Einzelpersonen und/oder Haushalte.
+Es müssen nicht unbedingt jedes Jahr alle Themen erfasst werden.
+e) Aufschlüsselung der bereitgestellten Daten
+Die Daten sind nicht unbedingt jedes Jahr nach allen Kriterien aufzuschlüsseln; die jeweils maßgeblichen Kriterien
+werden der folgenden Liste entnommen und im Rahmen der Durchführungsmaßnahmen festgelegt:
+A. Für Statistiken zu Haushalten:
+— nach Haushaltstyp.
+B. Für Statistiken zu Einzelpersonen:
+— nach Altersgruppen;
+— nach Geschlecht;
+— nach Bildungsniveau;
+— nach Stellung im Erwerbsleben;
+— nach Regionen.
+L 143/54 30.4.2004Amtsblatt der Europäischen UnionDE
+f) Pilotstudien
+Werden erhebliche neue Datenerfordernisse festgestellt oder ist eine unzureichende Datenqualität zu erwarten, so
+leitet die Kommission Pilotstudien ein, die von den Mitgliedstaaten vor jeder Datenerhebung auf freiwilliger Basis
+fertig zu stellen sind. Diese Pilotstudien werden durchgeführt, um zu prüfen, ob die betreffende Datenerhebung rea-
+lisierbar ist, wobei die Vorteile, die sich aus der Verfügbarkeit der Daten ergeben, und die Kosten der Erhebung
+sowie der Aufwand für die Befragten gegeneinander abzuwägen sind.
+30.4.2004 L 143/55Amtsblatt der Europäischen UnionDE

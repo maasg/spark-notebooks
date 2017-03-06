@@ -1,0 +1,1313 @@
+EN EN
+EUROPEAN
+COMMISSION
+Brussels, 14.9.2016
+COM(2016) 593 final
+2016/0280 (COD)
+Proposal for a
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+on copyright in the Digital Single Market
+(Text with EEA relevance)
+{SWD(2016) 301 final}
+{SWD(2016) 302 final}
+EN 2 EN
+EXPLANATORY MEMORANDUM
+1. CONTEXT OF THE PROPOSAL
+• Reasons for and objectives of the proposal
+The evolution of digital technologies has changed the way works and other protected subjectmatter
+are created, produced, distributed and exploited. New uses have emerged as well as
+new actors and new business models. In the digital environment, cross-border uses have also
+intensified and new opportunities for consumers to access copyright-protected content have
+materialised. Even though the objectives and principles laid down by the EU copyright
+framework remain sound, there is a need to adapt it to these new realities. Intervention at EU
+level is also needed to avoid fragmentation in the internal market. Against this background,
+the Digital Single Market Strategy1
+adopted in May 2015 identified the need “to reduce the
+differences between national copyright regimes and allow for wider online access to works by
+users across the EU”. This Communication highlighted the importance to enhance crossborder
+access to copyright-protected content services, facilitate new uses in the fields of
+research and education, and clarify the role of online services in the distribution of works and
+other subject-matter. In December 2015, the Commission issued a Communication ‘Towards
+a modern, more European copyright framework’2
+. This Communication outlined targeted
+actions and a long-term vision to modernise EU copyright rules. This proposal is one of the
+measures aiming at addressing specific issues identified in that Communication.
+Exceptions and limitations to copyright and neighbouring rights are harmonised at EU level.
+Some of these exceptions aim at achieving public policy objectives, such as research or
+education. However, as new types of uses have recently emerged, it remains uncertain
+whether these exceptions are still adapted to achieve a fair balance between the rights and
+interests of authors and other rightholders on the one hand, and of users on the other. In
+addition, these exceptions remain national and legal certainty around cross-border uses is not
+guaranteed. In this context, the Commission has identified three areas of intervention: digital
+and cross-border uses in the field of education, text and data mining in the field of scientific
+research, and preservation of cultural heritage. The objective is to guarantee the legality of
+certain types of uses in these fields, including across borders. As a result of a modernised
+framework of exceptions and limitations, researchers will benefit from a clearer legal space to
+use innovative text and data mining research tools, teachers and students will be able to take
+full advantage of digital technologies at all levels of education and cultural heritage
+institutions (i.e. publicly accessible libraries or museums, archives or film or audio heritage
+institutions) will be supported in their efforts to preserve the cultural heritage, to the ultimate
+advantage of EU citizens.
+Despite the fact that digital technologies should facilitate cross-border access to works and
+other subject-matter, obstacles remain, in particular for uses and works where clearance of
+rights is complex. This is the case for cultural heritage institutions wanting to provide online
+access, including across borders, to out-of-commerce works contained in their catalogues. As
+a consequence of these obstacles European citizens miss opportunities to access cultural
+heritage. The proposal addresses these problems by introducing a specific mechanism to
+facilitate the conclusion of licences for the dissemination of out-of-commerce works by
+cultural heritage institutions. As regards audiovisual works, despite the growing importance of
+video-on-demand platforms, EU audiovisual works only constitute one third of works
+
+1 COM(2015) 192 final.
+2 COM(2015) 626 final.
+EN 3 EN
+available to consumers on those platforms. Again, this lack of availability partly derives from
+a complex clearance process. This proposal provides for measures aiming at facilitating the
+licensing and clearance of rights process. This would ultimately facilitate consumers' crossborder
+access to copyright-protected content.
+Evolution of digital technologies has led to the emergence of new business models and
+reinforced the role of the Internet as the main marketplace for the distribution and access to
+copyright-protected content. In this new framework, rightholders face difficulties when
+seeking to license their rights and be remunerated for the online distribution of their works.
+This could put at risk the development of European creativity and production of creative
+content. It is therefore necessary to guarantee that authors and rightholders receive a fair share
+of the value that is generated by the use of their works and other subject-matter. Against this
+background, this proposal provides for measures aiming at improving the position of
+rightholders to negotiate and be remunerated for the exploitation of their content by online
+services giving access to user-uploaded content. A fair sharing of value is also necessary to
+ensure the sustainability of the press publications sector. Press publishers are facing
+difficulties in licensing their publications online and obtaining a fair share of the value they
+generate. This could ultimately affect citizens' access to information. This proposal provides
+for a new right for press publishers aiming at facilitating online licensing of their publications,
+the recoupment of their investment and the enforcement of their rights. It also addresses
+existing legal uncertainty as regards the possibility for all publishers to receive a share in the
+compensation for uses of works under an exception. Finally, authors and performers often
+have a weak bargaining position in their contractual relationships, when licensing their rights.
+In addition, transparency on the revenues generated by the use of their works or performances
+often remains limited. This ultimately affects the remuneration of the authors and performers.
+This proposal includes measures to improve transparency and better balanced contractual
+relationships between authors and performers and those to whom they assign their rights.
+Overall, the measures proposed in title IV of the proposal aiming at achieving a wellfunctioning
+market place for copyright are expected to have in the medium term a positive
+impact on the production and availability of content and on media pluralism, to the ultimate
+benefit of consumers.
+• Consistency with existing policy provisions in the policy area
+The Digital Single Market Strategy puts forward a range of initiatives with the objective of
+creating an internal market for digital content and services. In December 2015, a first step has
+been undertaken by the adoption by the Commission of a proposal for a Regulation of the
+European Parliament and of the Council on ensuring the cross-border portability of online
+content services in the internal market3
+.
+The present proposal aims at addressing several of the targeted actions identified in the
+Communication ‘Towards a modern, more European copyright framework’. Other actions
+identified in this Communication are covered by the ‘Proposal for a Regulation of the
+European Parliament and of the Council laying down rules on the exercise of copyright and
+related rights applicable to certain online transmissions of broadcasting organisations and
+retransmissions of television and radio programmes’4
+, the ‘Proposal for a Regulation of the
+European Parliament and of the Council on the cross-border exchange between the Union and
+third countries of accessible format copies of certain works and other subject-matter protected
+by copyright and related rights for the benefit of persons who are blind, visually impaired or
+
+3 COM(2015) 627 final.
+4 COM(2016) 594 final.
+EN 4 EN
+otherwise print disabled’5
+and the ‘Proposal for a Directive of the European Parliament and of
+the Council on certain permitted uses of works and other subject-matter protected by
+copyright and related rights for the benefit of persons who are blind, visually impaired or
+otherwise print disabled and amending Directive 2001/29/EC on the harmonisation of certain
+aspects of copyright and related rights in the information society’6
+, adopted on the same date
+of this proposal for a Directive.
+This proposal is consistent with the existing EU copyright legal framework. This proposal is
+based upon, and complements the rules laid down in Directive 96/9/EC7
+, Directive
+2001/29/EC8
+, Directive 2006/115/EC9
+, Directive 2009/24/EC10, Directive 2012/28/EU11 and
+Directive 2014/26/EU12
+. Those Directives, as well as this proposal, contribute to the
+functioning of the internal market, ensure a high level of protection for right holders and
+facilitate the clearance of rights.
+This proposal complements Directive 2010/13/EU13 and the proposal14 amending it.
+• Consistency with other Union policies
+This proposal would facilitate education and research, improve dissemination of European
+cultures and positively impact cultural diversity. This Directive is therefore consistent with
+Articles 165, 167 and 179 of the Treaty on the Functioning of the European Union (TFEU).
+Furthermore, this proposal contributes to promoting the interests of consumers, in accordance
+with the EU policies in the field of consumer protection and Article 169 TFEU, by allowing a
+wider access to and use of copyright-protected content.
+2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY
+• Legal basis
+The proposal is based on Article 114 TFEU. This Article confers on the EU the power to
+adopt measures which have as their object the establishment and functioning of the internal
+market.
+
+5 COM(2016) 595 final.
+6 COM(2016) 596 final.
+7 Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal
+protection of databases (OJ L 077, 27.03.1996, p. 20-28).
+8 Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the
+harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167,
+22.6.2001, p. 10–19).
+9 Directive 2006/115/EC of the European Parliament and of the Council of 12 December 2006 on rental
+right and lending right and on certain rights related to copyright in the field of intellectual property (OJ
+L 376, 27.12.2006, p. 28–35).
+10 Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on the legal
+protection of computer programs (OJ L 111, 5.5.2009, p. 16–22).
+11 Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain
+permitted uses of orphan works (OJ L 299, 27.10.2012, p. 5–12).
+12 Directive 2014/26/EU of the European Parliament and of the Council of 26 February 2014 on collective
+management of copyright and related rights and multi-territorial licensing of rights in musical works for
+online use in the internal market (OJ L 84, 20.3.2014, p. 72–98).
+13 Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the
+coordination of certain provisions laid down by law, regulation or administrative action in Member
+States concerning the provision of audiovisual media services (Audiovisual Media Services Directive)
+(OJ L 95, 15.4.2010, p. 1–24).
+14 COM(2016) 287 final.
+EN 5 EN
+• Subsidiarity (for non-exclusive competence)
+Since exceptions and limitations to copyright and related rights are harmonised at EU level,
+the margin of manoeuver of Member States in creating or adapting them is limited. In
+addition, intervention at national level would not be sufficient in view of the cross-border
+nature of the identified issues. EU intervention is therefore needed to achieve full legal
+certainty as regards cross-border uses in the fields of research, education and cultural heritage.
+Some national initiatives have already been developed to facilitate dissemination of and
+access to out-of-commerce works. However, these initiatives only exist in some Member
+States and are only applicable on the national territory. EU intervention is therefore necessary
+to ensure that licensing mechanisms for the access and dissemination of out-of-commerce
+works are in place in all Member States and to ensure their cross-border effect. As regards
+online exploitation of audiovisual works, to foster the availability of European works on
+video-on-demand platforms across the EU, there is a need to facilitate negotiations of
+licensing agreements in all Member States.
+Online distribution of copyright-protected content is by essence cross-border. Only
+mechanisms decided at European level could ensure a well-functioning marketplace for the
+distribution of works and other subject-matter and to ensure the sustainability of the
+publishing sector in the face of the challenges of the digital environment. Finally, authors and
+performers should enjoy in all Member States the high level of protection established by EU
+legislation. In order to do so and to prevent discrepancies across Member States, it is
+necessary to set an EU common approach to transparency requirements and mechanisms
+allowing for the adjustment of contracts in certain cases as well as for the resolution of
+disputes.
+• Proportionality
+The proposal provides for mandatory exceptions for Member States to implement. These
+exceptions target key public policy objectives and uses with a cross-border dimension.
+Exceptions also contain conditions that ensure the preservation of functioning markets and
+rightholders' interests and incentives to create and invest. When relevant, and while ensuring
+that the objectives of the Directive are met, room for national decision has been preserved.
+The proposal requires Member States to establish mechanisms aiming at facilitating the
+clearance of copyright and related rights in the fields of out-of-commerce works and online
+exploitation of audiovisual works. Whereas the proposal aims at ensuring a wider access and
+dissemination of content, it does so while preserving the rights of authors and other
+rightholders. Several safeguards are put in place to that effect (e.g. opt-out possibilities,
+preservation of licensing possibilities, participation in the negotiation forum on a voluntary
+basis). The proposal does not go further than what is necessary to achieve the intended aim
+while leaving sufficient room for Member States to make decisions as regards the specifics of
+these mechanisms and does not impose disproportionate costs.
+The proposal imposes obligations on some information society services. However, these
+obligations remain reasonable in view of the nature of the services covered, the significant
+impact of these services on the online content market and the large amounts of copyrightprotected
+content stored by these services. The introduction of a related right for press
+publishers would improve legal certainty and their bargaining position, which is the pursued
+objective. The proposal is proportionate as it only covers press publications and digital uses.
+Furthermore, the proposal will not affect retroactively any acts undertaken or rights acquired
+before the date of transposition. The transparency obligation contained in the proposal only
+EN 6 EN
+aims at rebalancing contractual relationships between creators and their contractual
+counterparts while respecting contractual freedom.
+• Choice of the instrument
+The proposal relates to, and in some instances modifies, existing Directives. It also leaves,
+when appropriate and taking into account the aim to be achieved, margin of manoeuver for
+Member States while ensuring that the objective of a functioning internal market is met. The
+choice of a Directive is therefore adequate.
+3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER
+CONSULTATIONS AND IMPACT ASSESSMENTS
+• Ex-post evaluations/fitness checks of existing legislation
+The Commission carried out a review of the existing copyright rules between 2013 and 2016
+with the objective to “ensure that copyright and copyright-related practices stay fit for purpose
+in the new digital context”15. Even if it started before the adoption of the Commission's Better
+Regulation Agenda in May 201516, this review process was carried out in the spirit of the
+Better Regulation guidelines. The review process highlighted, in particular, problems with the
+implementation of certain exceptions and their lack of cross-border effect17 and pointed out to
+difficulties in the use of copyright-protected content, notably in the digital and cross-border
+context that have emerged in recent years.
+• Stakeholder consultations
+Several public consultations were held by the Commission. The consultation on the review of
+the EU copyright rules carried out between 5 December 2013 and 5 March 201418 provided
+the Commission with an overview of stakeholders' views on the review of the EU copyright
+rules, including on exceptions and limitations and on the remuneration of authors and
+performers. The public consultation carried out between 24 September 2015 and 6 January
+2016 on the regulatory environment for platforms, online intermediaries, data and cloud
+computing and the collaborative economy19 provided evidence and views from all
+stakeholders on the role of intermediaries in the online distribution of works and other
+subject-matter. Finally, a public consultation was held between the 23 March 2016 and 15
+June 2016 on the role of publishers in the copyright value chain and on the 'panorama
+exception'. This consultation allowed collecting views notably on the possible introduction in
+EU law of a new related right for publishers.
+In addition, between 2014 and 2016, the Commission had discussions with the relevant
+stakeholders on the different topics addressed by the proposal.
+
+15 COM(2012) 789 final.
+16 COM(2015) 215 final.
+17 Covering, respectively, the exception on illustration for teaching and research (as it relates to text and
+data mining) and on specific acts of reproduction (as it relates to preservation).
+18 Reports on the responses to the consultation available on:
+http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/contributions/consultationreport_en.pdf
+19 First results available on https://ec.europa.eu/digital-single-market/news/first-brief-results-publicconsultation-regulatory-environment-platforms-online-intermediaries
+EN 7 EN
+• Collection and use of expertise
+Legal20 and economic21 studies have been conducted on the application of Directive
+2001/29/EC, on the economic impacts of adapting some exceptions and limitations, on the
+legal framework of text and data mining and on the remuneration of authors and performers.
+• Impact assessment
+An impact assessment was carried out for this proposal22
+. On 22 July 2016, the Regulatory
+Scrutiny Board gave a positive opinion on the understanding that the impact assessment will
+be further improved.
+23 The final Impact Assessment takes into account comments contained in
+that opinion.
+The Impact Assessment examines the baseline scenarios, policy options and their impacts for
+eight topics regrouped under three chapters, namely (i) ensuring wider access to content, (ii)
+adapting exceptions to digital and cross-border environment and (iii) achieving a wellfunctioning
+marketplace for copyright. The impact on the different stakeholders was analysed
+for each policy option; taking in particular into account the predominance of SMEs in the
+creative industries the analysis concludes that introducing a special regime would not be
+appropriate as it would defeat the purpose of the intervention. The policy options of each
+topic are shortly presented below.
+Access and availability of audiovisual works on video-on-demand platforms: A nonlegislative
+option (Option 1), consisting in the organisation of a stakeholder dialogue on
+licensing issues, was not retained as it was deemed insufficient to address individual cases of
+blockages. The chosen option (Option 2) combines the organisation of a stakeholder dialogue
+with the obligation for Member States to set up a negotiation mechanism.
+Out-of-commerce works: Option 1 required Member States to put in place legal mechanisms,
+with cross-border effect, to facilitate licensing agreements for out-of-commerce books and
+learned journals and to organise a stakeholder dialogue at national level to facilitate the
+implementation of that mechanism. Option 2 went further since it applied to all types of outof-commerce
+works. This extension was deemed necessary to address the licensing of out-ofcommerce
+works in all sectors. Option 2 was therefore chosen.
+
+20 Study on the application of Directive 2001/29/EC on copyright and related rights in the information
+society: http://ec.europa.eu/internal_market/copyright/studies/index_en.htm; Study on the legal
+framework of text and data mining:
+http://ec.europa.eu/internal_market/copyright/docs/studies/1403_study2_en.pdf; Study on the making
+available right and its relationship with the reproduction right in cross-border digital transmissions:
+http://ec.europa.eu/internal_market/copyright/docs/studies/141219-study_en.pdf; Study on the
+remuneration of authors and performers for the use of their works and the fixation of their
+performances: https://ec.europa.eu/digital-single-market/en/news/commission-gathers-evidenceremuneration-authors-and-performers-use-their-works-and-fixations;
+Study on the remuneration of
+authors of books and scientific journals, translators, journalists and visual artists for the use of their
+works: [hyperlink to be included – publication pending]
+21 Study “Assessing the economic impacts of adapting certain limitations and exceptions to copyright and
+related rights in the EU” : http://ec.europa.eu/internal_market/copyright/docs/studies/131001-
+study_en.pdf and “Assessing the economic impacts of adapting certain limitations and exceptions to
+copyright and related rights in the EU – Analysis of specific policy options”:
+http://ec.europa.eu/internal_market/copyright/docs/studies/140623-limitations-economic-impactsstudy_en.pdf
+22 Add link to IA and Executive Summary.
+23 Add link to RSB opinion.
+EN 8 EN
+Use of works and other subject-matter in digital and cross-border teaching activities: Option 1
+consisted in providing guidance to Member States on the application of the existing teaching
+exception in the digital environment and the organisation of a stakeholder dialogue. This was
+considered not sufficient to ensure legal certainty, in particular as regards cross-border uses.
+Option 2 required the introduction of a mandatory exception with a cross-border effect
+covering digital uses. Option 3 is similar to Option 2 but leaves some flexibility to Member
+States that can decide to apply the exception depending on the availability of licences. This
+option was deemed to be the most proportionate one.
+Text and data mining: Option 1 consisted in self-regulation initiatives from the industry.
+Other options consisted in the introduction of a mandatory exception covering text and data
+mining. In Option 2, the exception only covered uses pursuing a non-commercial scientific
+research purpose. Option 3 allowed uses for commercial scientific research purpose but
+limited the benefit of the exception to some beneficiaries. Option 4 went further as it did not
+restrict beneficiaries. Option 3 was deemed to be the most proportionate one.
+Preservation of cultural heritage: Option 1 consisted in the provision of guidance to Member
+States on the implementation of the exception on specific acts of reproduction for preservation
+purposes. This Option was rejected as it was deemed insufficient to achieve legal certainty in
+the field. Option 2, consisting in a mandatory exception for preservation purposes by cultural
+heritage institutions, was chosen.
+Use of copyright-protected content by information society services storing and giving access
+to large amounts of works and other subject-matter uploaded by their users: Option 1
+consisted in the organisation of a stakeholder dialogue. This approach was rejected as it would
+have a limited impact on the possibility for rightholders to determine the conditions of use of
+their works and other subject-matter. The chosen option (Option 2) goes further and provides
+for an obligation for certain service providers to put in place appropriate technologies and
+fosters the conclusion of agreements with rightholders.
+Rights in publications: Option 1 consisted in the organisation of a stakeholder dialogue to find
+solutions for the dissemination of press publishers' content. This option was deemed
+insufficient to ensure legal certainty across the EU. Option 2 consisted in the introduction of a
+related right covering digital uses of press publications. In addition to this, Option 3 leaves the
+option for Member States to enable publishers, to which rights have been transferred or
+licensed by an author, to claim a share in the compensation for uses under an exception. This
+last option was the one retained as it addressed all relevant problems.
+Fair remuneration in contracts of authors and performers: Option 1 consisted in providing a
+recommendation to Member States and organising a stakeholder dialogue. This option was
+rejected since it would not be efficient enough. Option 2 foresaw the introduction of
+transparency obligations on the contractual counterparts of creators. On top of that, Option 3
+proposed the introduction of a remuneration adjustment mechanism and a dispute resolution
+mechanism. This option was the one retained since Option 2 would not have provided
+enforcement means to creators to support the transparency obligation.
+• Regulatory fitness and simplification
+For the uses covered by the exceptions, the proposal will allow educational establishments,
+public-interest research institutions and cultural heritage institutions to reduce transaction
+costs. This reduction of transaction costs does not necessarily mean that rightholders would
+suffer a loss of income or licensing revenues: the scope and conditions of the exceptions
+EN 9 EN
+ensure that rightholders would suffer minimal harm. The impact on SMEs in these fields (in
+particular scientific and educational publishers) and on their business models should therefore
+be limited.
+Mechanisms aiming to improve licensing practices are likely to reduce transaction costs and
+increase licensing revenues for rightholders. SMEs in the fields (producers, distributors,
+publishers, etc.) would be positively affected. Other stakeholders, such as VoD platforms,
+would also be positively affected. The proposal also includes several measures (transparency
+obligation on rightholders' counterparts, introduction of a new right for press publishers and
+obligation on some online services) that would improve the bargaining position of
+rightholders and the control they have on the use of their works and other subject-matter. It is
+expected to have a positive impact on rightholders' revenues.
+The proposal includes new obligations on some online services and on those to which authors
+and performers transfer their rights. These obligations may impose additional costs. However,
+the proposal ensures that the costs will remain proportionate and that, when necessary, some
+actors would not be subject to the obligation. For instance, the transparency obligation will
+not apply when the administrative costs it implies are disproportionate in view of the
+generated revenues. As for the obligation on online services, it only applies to information
+society services storing and giving access to large amounts of copyright-protected content
+uploaded by their users.
+The proposal foresees the obligation for Member States to implement negotiation and dispute
+resolution mechanisms. This implies compliance costs for Member States. However, they
+could rely in most cases on existing structures, which would limit the costs. The teaching
+exception can also entail some costs for Member States linked to the measures ensuring the
+availability and visibility of licences for educational establishments.
+New technological developments have been carefully examined. The proposal includes
+several exceptions that aim at facilitating the use of copyright-protected content via new
+technologies. This proposal also includes measures to facilitate access to content, including
+via digital networks. Finally, it ensures a balanced bargaining position between all actors in
+the digital environment.
+• Fundamental rights
+By improving the bargaining position of authors and performers and the control rightholders
+have on the use of their copyright-protected content, the proposal will have a positive impact
+on copyright as a property right, protected under Article 17 of the Charter of Fundamental
+Rights of the European Union (‘the Charter’). This positive impact will be reinforced by the
+measures to improve licensing practices, and ultimately rightholders' revenues. New
+exceptions that reduce to some extent the rightholders' monopoly are justified by other public
+interest objectives. These exceptions are likely to have a positive impact on the right to
+education and on cultural diversity. Finally, the Directive has a limited impact on the freedom
+to conduct a business and on the freedom of expression and information, as recognised
+respectively by Articles 16 and 11 of the Charter, due to the mitigation measures put in place
+and a balanced approach to the obligations set on the relevant stakeholders.
+4. BUDGETARY IMPLICATIONS
+The proposal has no impact on the European Union budget.
+EN 10 EN
+5. OTHER ELEMENTS
+• Implementation plans and monitoring, evaluation and reporting arrangements
+In accordance with Article 22 the Commission shall carry out a review of the Directive no
+sooner than [five] years after the date of [transposition].
+• Explanatory documents
+In compliance with recital 48 of the proposal, Member States will notify the Commission of
+their transposition measures with explanatory documents. This is necessary given the
+complexity of rules laid down by the proposal and the importance to keep a harmonised
+approach of rules applicable to the digital and cross-border environment.
+• Detailed explanation of the specific provisions of the proposal
+The first title contains general provisions which (i) specify the subject-matter and the scope of
+the Directive and (ii) provide definitions that will need to be interpreted in a uniform manner
+in the Union.
+The second title concerns measures to adapt exceptions and limitations to the digital and
+cross-border environment. This title includes three articles which require Member States to
+provide for mandatory exceptions or a limitation allowing (i) text and data mining carried out
+by research organisations for the purposes of scientific research (Article 3); (ii) digital uses of
+works and other subject-matter for the sole purpose of illustration for teaching (Article 4) and
+(iii) cultural heritage institutions to make copies of works and other subject-matter that are
+permanently in their collections to the extent necessary for their preservation (Article 5).
+Article 6 provides for common provisions to the title on exceptions and limitations.
+The third title concerns measures to improve licensing practices and ensure wider access to
+content. Article 7 requires Member States to put in place a legal mechanism to facilitate
+licensing agreements of out-of-commerce works and other subject-matter. Article 8
+guarantees the cross-border effect of such licensing agreements. Article 9 requires Member
+States to put in place a stakeholder dialogue on issues relating to Articles 7 and 8. Article 10
+creates an obligation for Member States to put in place a negotiation mechanism to facilitate
+negotiations on the online exploitation of audiovisual works.
+The fourth title concerns measures to achieve a well-functioning marketplace for copyright.
+Articles 11 and 12 (i) extend the rights provided for in Articles 2 and 3(2) of Directive
+2001/29/EC to publishers of press publications for the digital use of their publications and (ii)
+provide for the option for Member States to provide all publishers with the possibility to claim
+a share in the compensation for uses made under an exception. Article 13 creates an
+obligation on information society service providers storing and giving access to large amounts
+of works and other subject-matter uploaded by their users to take appropriate and
+proportionate measures to ensure the functioning of agreements concluded with rightholders
+and to prevent the availability on their services of content identified by rightholders in
+cooperation with the service providers. Article 14 requires Member States to include
+transparency obligations to the benefit of authors and performers. Article 15 requires Member
+States to establish a contract adjustment mechanism, in support of the obligation provided for
+in Article 14. Article 16 requires Member States to set up a dispute resolution mechanism for
+issues arising from the application of Articles 14 and 15.
+EN 11 EN
+The fifth title contains final provisions on amendments to other directives, the application in
+time, transitional provisions, the protection of personal data, the transposition, the review and
+the entry into force.
+EN 12 EN
+2016/0280 (COD)
+Proposal for a
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+on copyright in the Digital Single Market
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty on the Functioning of the European Union, and in particular
+Article 114 thereof,
+Having regard to the proposal from the European Commission,
+After transmission of the draft legislative act to the national parliaments,
+Having regard to the opinion of the European Economic and Social Committee24
+,
+Having regard to the opinion of the Committee of the Regions25
+,
+Acting in accordance with the ordinary legislative procedure,
+Whereas:
+(1) The Treaty provides for the establishment of an internal market and the institution of a
+system ensuring that competition in the internal market is not distorted. Harmonisation
+of the laws of the Member States on copyright and related rights should contribute
+further to the achievement of those objectives.
+(2) The directives which have been adopted in the area of copyright and related rights
+provide for a high level of protection for rightholders and create a framework wherein
+the exploitation of works and other protected subject-matter can take place. This
+harmonised legal framework contributes to the good functioning of the internal
+market; it stimulates innovation, creativity, investment and production of new content,
+also in the digital environment. The protection provided by this legal framework also
+contributes to the Union's objective of respecting and promoting cultural diversity
+while at the same time bringing the European common cultural heritage to the fore.
+Article 167(4) of the Treaty on the Functioning of the European Union requires the
+Union to take cultural aspects into account in its action.
+(3) Rapid technological developments continue to transform the way works and other
+subject-matter are created, produced, distributed and exploited. New business models
+and new actors continue to emerge. The objectives and the principles laid down by the
+Union copyright framework remain sound. However, legal uncertainty remains, for
+both rightholders and users, as regards certain uses, including cross-border uses, of
+works and other subject-matter in the digital environment. As set out in the
+Communication of the Commission entitled ‘Towards a modern, more European
+
+24 OJ C , , p. .
+25 OJ C , , p. .
+EN 13 EN
+copyright framework’26, in some areas it is necessary to adapt and supplement the
+current Union copyright framework. This Directive provides for rules to adapt certain
+exceptions and limitations to digital and cross-border environments, as well as
+measures to facilitate certain licensing practices as regards the dissemination of out-ofcommerce
+works and the online availability of audiovisual works on video-on-demand
+platforms with a view to ensuring wider access to content. In order to achieve a wellfunctioning
+marketplace for copyright, there should also be rules on rights in
+publications, on the use of works and other subject-matter by online service providers
+storing and giving access to user uploaded content and on the transparency of authors'
+and performers' contracts.
+(4) This Directive is based upon, and complements, the rules laid down in the Directives
+currently in force in this area, in particular Directive 96/9/EC of the European
+Parliament and of the Council27, Directive 2001/29/EC of the European Parliament
+and of the Council28, Directive 2006/115/EC of the European Parliament and of the
+Council29, Directive 2009/24/EC of the European Parliament and of the Council30
+,
+Directive 2012/28/EU of the European Parliament and of the Council31 and Directive
+2014/26/EU of the European Parliament and of the Council32
+.
+(5) In the fields of research, education and preservation of cultural heritage, digital
+technologies permit new types of uses that are not clearly covered by the current
+Union rules on exceptions and limitations. In addition, the optional nature of
+exceptions and limitations provided for in Directives 2001/29/EC, 96/9/EC and
+2009/24/EC in these fields may negatively impact the functioning of the internal
+market. This is particularly relevant as regards cross-border uses, which are becoming
+increasingly important in the digital environment. Therefore, the existing exceptions
+and limitations in Union law that are relevant for scientific research, teaching and
+preservation of cultural heritage should be reassessed in the light of those new uses.
+Mandatory exceptions or limitations for uses of text and data mining technologies in
+the field of scientific research, illustration for teaching in the digital environment and
+for preservation of cultural heritage should be introduced. For uses not covered by the
+exceptions or the limitation provided for in this Directive, the exceptions and
+limitations existing in Union law should continue to apply. Directives 96/9/EC and
+2001/29/EC should be adapted.
+(6) The exceptions and the limitation set out in this Directive seek to achieve a fair
+balance between the rights and interests of authors and other rightholders on the one
+hand, and of users on the other. They can be applied only in certain special cases
+
+26 COM(2015) 626 final.
+27 Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal
+protection of databases (OJ L 77, 27.3.1996, p. 20–28).
+28 Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the
+harmonisation of certain aspects of copyright and related rights in the information society (OJ L 167,
+22.6.2001, p. 10–19).
+29 Directive 2006/115/EC of the European Parliament and of the Council of 12 December 2006 on rental
+right and lending right and on certain rights related to copyright in the field of intellectual property (OJ
+L 376, 27.12.2006, p. 28–35).
+30 Directive 2009/24/EC of the European Parliament and of the Council of 23 April 2009 on the legal
+protection of computer programs (OJ L 111, 5.5.2009, p. 16–22).
+31 Directive 2012/28/EU of the European Parliament and of the Council of 25 October 2012 on certain
+permitted uses of orphan works (OJ L 299, 27.10.2012, p. 5–12).
+32 Directive 2014/26/EU of the European Parliament and of the Council of 26 February 2014 on collective
+management of copyright and related rights and multi-territorial licensing of rights in musical works for
+online use in the internal market (OJ L 84, 20.3.2014, p. 72–98).
+EN 14 EN
+which do not conflict with the normal exploitation of the works or other subject-matter
+and do not unreasonably prejudice the legitimate interests of the rightholders.
+(7) The protection of technological measures established in Directive 2001/29/EC remains
+essential to ensure the protection and the effective exercise of the rights granted to
+authors and to other rightholders under Union law. This protection should be
+maintained while ensuring that the use of technological measures does not prevent the
+enjoyment of the exceptions and the limitation established in this Directive, which are
+particularly relevant in the online environment. Rightholders should have the
+opportunity to ensure this through voluntary measures. They should remain free to
+choose the format and the modalities to provide the beneficiaries of the exceptions and
+the limitation established in this Directive with the means to benefit from them
+provided that such means are appropriate. In the absence of voluntary measures,
+Member States should take appropriate measures in accordance with the first
+subparagraph of Article 6(4) of Directive 2001/29/EC.
+(8) New technologies enable the automated computational analysis of information in
+digital form, such as text, sounds, images or data, generally known as text and data
+mining. Those technologies allow researchers to process large amounts of information
+to gain new knowledge and discover new trends. Whilst text and data mining
+technologies are prevalent across the digital economy, there is widespread
+acknowledgment that text and data mining can in particular benefit the research
+community and in so doing encourage innovation. However, in the Union, research
+organisations such as universities and research institutes are confronted with legal
+uncertainty as to the extent to which they can perform text and data mining of content.
+In certain instances, text and data mining may involve acts protected by copyright
+and/or by the sui generis database right, notably the reproduction of works or other
+subject-matter and/or the extraction of contents from a database. Where there is no
+exception or limitation which applies, an authorisation to undertake such acts would
+be required from rightholders. Text and data mining may also be carried out in relation
+to mere facts or data which are not protected by copyright and in such instances no
+authorisation would be required.
+(9) Union law already provides certain exceptions and limitations covering uses for
+scientific research purposes which may apply to acts of text and data mining.
+However, those exceptions and limitations are optional and not fully adapted to the use
+of technologies in scientific research. Moreover, where researchers have lawful access
+to content, for example through subscriptions to publications or open access licences,
+the terms of the licences may exclude text and data mining. As research is increasingly
+carried out with the assistance of digital technology, there is a risk that the Union's
+competitive position as a research area will suffer unless steps are taken to address the
+legal uncertainty for text and data mining.
+(10) This legal uncertainty should be addressed by providing for a mandatory exception to
+the right of reproduction and also to the right to prevent extraction from a database.
+The new exception should be without prejudice to the existing mandatory exception on
+temporary acts of reproduction laid down in Article 5(1) of Directive 2001/29, which
+should continue to apply to text and data mining techniques which do not involve the
+making of copies going beyond the scope of that exception. Research organisations
+should also benefit from the exception when they engage into public-private
+partnerships.
+EN 15 EN
+(11) Research organisations across the Union encompass a wide variety of entities the
+primary goal of which is to conduct scientific research or to do so together with the
+provision of educational services. Due to the diversity of such entities, it is important
+to have a common understanding of the beneficiaries of the exception. Despite
+different legal forms and structures, research organisations across Member States
+generally have in common that they act either on a not for profit basis or in the context
+of a public-interest mission recognised by the State. Such a public-interest mission
+may, for example, be reflected through public funding or through provisions in
+national laws or public contracts. At the same time, organisations upon which
+commercial undertakings have a decisive influence allowing them to exercise control
+because of structural situations such as their quality of shareholders or members,
+which may result in preferential access to the results of the research, should not be
+considered research organisations for the purposes of this Directive.
+(12) In view of a potentially high number of access requests to and downloads of their
+works or other subject-matter, rightholders should be allowed to apply measures where
+there is risk that the security and integrity of the system or databases where the works
+or other subject-matter are hosted would be jeopardised. Those measures should not
+exceed what is necessary to pursue the objective of ensuring the security and integrity
+of the system and should not undermine the effective application of the exception.
+(13) There is no need to provide for compensation for rightholders as regards uses under
+the text and data mining exception introduced by this Directive given that in view of
+the nature and scope of the exception the harm should be minimal.
+(14) Article 5(3)(a) of Directive 2001/29/EC allows Member States to introduce an
+exception or limitation to the rights of reproduction, communication to the public and
+making available to the public for the sole purpose of, among others, illustration for
+teaching. In addition, Articles 6(2)(b) and 9(b) of Directive 96/9/EC permit the use of
+a database and the extraction or re-utilization of a substantial part of its contents for
+the purpose of illustration for teaching. The scope of those exceptions or limitations as
+they apply to digital uses is unclear. In addition, there is a lack of clarity as to whether
+those exceptions or limitations would apply where teaching is provided online and
+thereby at a distance. Moreover, the existing framework does not provide for a crossborder
+effect. This situation may hamper the development of digitally-supported
+teaching activities and distance learning. Therefore, the introduction of a new
+mandatory exception or limitation is necessary to ensure that educational
+establishments benefit from full legal certainty when using works or other subjectmatter
+in digital teaching activities, including online and across borders.
+(15) While distance learning and cross-border education programmes are mostly developed
+at higher education level, digital tools and resources are increasingly used at all
+education levels, in particular to improve and enrich the learning experience. The
+exception or limitation provided for in this Directive should therefore benefit all
+educational establishments in primary, secondary, vocational and higher education to
+the extent they pursue their educational activity for a non-commercial purpose. The
+organisational structure and the means of funding of an educational establishment are
+not the decisive factors to determine the non-commercial nature of the activity.
+(16) The exception or limitation should cover digital uses of works and other subject-matter
+such as the use of parts or extracts of works to support, enrich or complement the
+teaching, including the related learning activities. The use of the works or other
+subject-matter under the exception or limitation should be only in the context of 
+EN 16 EN
+teaching and learning activities carried out under the responsibility of educational
+establishments, including during examinations, and be limited to what is necessary for
+the purpose of such activities. The exception or limitation should cover both uses
+through digital means in the classroom and online uses through the educational
+establishment's secure electronic network, the access to which should be protected,
+notably by authentication procedures. The exception or limitation should be
+understood as covering the specific accessibility needs of persons with a disability in
+the context of illustration for teaching.
+(17) Different arrangements, based on the implementation of the exception provided for in
+Directive 2001/29/EC or on licensing agreements covering further uses, are in place in
+a number of Member States in order to facilitate educational uses of works and other
+subject-matter. Such arrangements have usually been developed taking account of the
+needs of educational establishments and different levels of education. Whereas it is
+essential to harmonise the scope of the new mandatory exception or limitation in
+relation to digital uses and cross-border teaching activities, the modalities of
+implementation may differ from a Member State to another, to the extent they do not
+hamper the effective application of the exception or limitation or cross-border uses.
+This should allow Member States to build on the existing arrangements concluded at
+national level. In particular, Member States could decide to subject the application of
+the exception or limitation, fully or partially, to the availability of adequate licences,
+covering at least the same uses as those allowed under the exception. This mechanism
+would, for example, allow giving precedence to licences for materials which are
+primarily intended for the educational market. In order to avoid that such mechanism
+results in legal uncertainty or administrative burden for educational establishments,
+Member States adopting this approach should take concrete measures to ensure that
+licensing schemes allowing digital uses of works or other subject-matter for the
+purpose of illustration for teaching are easily available and that educational
+establishments are aware of the existence of such licensing schemes.
+(18) An act of preservation may require a reproduction of a work or other subject-matter in
+the collection of a cultural heritage institution and consequently the authorisation of
+the relevant rightholders. Cultural heritage institutions are engaged in the preservation
+of their collections for future generations. Digital technologies offer new ways to
+preserve the heritage contained in those collections but they also create new
+challenges. In view of these new challenges, it is necessary to adapt the current legal
+framework by providing a mandatory exception to the right of reproduction in order to
+allow those acts of preservation.
+(19) Different approaches in the Member States for acts of preservation by cultural heritage
+institutions hamper cross-border cooperation and the sharing of means of preservation
+by cultural heritage institutions in the internal market, leading to an inefficient use of
+resources.
+(20) Member States should therefore be required to provide for an exception to permit
+cultural heritage institutions to reproduce works and other subject-matter permanently
+in their collections for preservation purposes, for example to address technological
+obsolescence or the degradation of original supports. Such an exception should allow
+for the making of copies by the appropriate preservation tool, means or technology, in
+the required number and at any point in the life of a work or other subject-matter to the
+extent required in order to produce a copy for preservation purposes only.
+EN 17 EN
+(21) For the purposes of this Directive, works and other subject-matter should be
+considered to be permanently in the collection of a cultural heritage institution when
+copies are owned or permanently held by the cultural heritage institution, for example
+as a result of a transfer of ownership or licence agreements.
+(22) Cultural heritage institutions should benefit from a clear framework for the digitisation
+and dissemination, including across borders, of out-of-commerce works or other
+subject-matter. However, the particular characteristics of the collections of out-ofcommerce
+works mean that obtaining the prior consent of the individual rightholders
+may be very difficult. This can be due, for example, to the age of the works or other
+subject-matter, their limited commercial value or the fact that they were never
+intended for commercial use. It is therefore necessary to provide for measures to
+facilitate the licensing of rights in out-of-commerce works that are in the collections of
+cultural heritage institutions and thereby to allow the conclusion of agreements with
+cross-border effect in the internal market.
+(23) Member States should, within the framework provided for in this Directive, have
+flexibility in choosing the specific type of mechanism allowing for licences for out-ofcommerce
+works to extend to the rights of rightholders that are not represented by the
+collective management organisation, in accordance to their legal traditions, practices
+or circumstances. Such mechanisms can include extended collective licensing and
+presumptions of representation.
+(24) For the purpose of those licensing mechanisms, a rigorous and well-functioning
+collective management system is important. That system includes in particular rules of
+good governance, transparency and reporting, as well as the regular, diligent and
+accurate distribution and payment of amounts due to individual rightholders, as
+provided for by Directive 2014/26/EU. Additional appropriate safeguards should be
+available for all rightholders, who should be given the opportunity to exclude the
+application of such mechanisms to their works or other subject-matter. Conditions
+attached to those mechanisms should not affect their practical relevance for cultural
+heritage institutions.
+(25) Considering the variety of works and other subject-matter in the collections of cultural
+heritage institutions, it is important that the licensing mechanisms introduced by this
+Directive are available and can be used in practice for different types of works and
+other subject-matter, including photographs, sound recordings and audiovisual works.
+In order to reflect the specificities of different categories of works and other subjectmatter
+as regards modes of publication and distribution and to facilitate the usability of
+those mechanisms, specific requirements and procedures may have to be established
+by Member States for the practical application of those licensing mechanisms. It is
+appropriate that Member States consult rightholders, users and collective management
+organisations when doing so.
+(26) For reasons of international comity, the licensing mechanisms for the digitisation and
+dissemination of out-of-commerce works provided for in this Directive should not
+apply to works or other subject-matter that are first published or, in the absence of
+publication, first broadcast in a third country or, in the case of cinematographic or
+audiovisual works, to works the producer of which has his headquarters or habitual
+residence in a third country. Those mechanisms should also not apply to works or
+other subject-matter of third country nationals except when they are first published or,
+in the absence of publication, first broadcast in the territory of a Member State or, in 
+EN 18 EN
+the case of cinematographic or audiovisual works, to works of which the producer's
+headquarters or habitual residence is in a Member State.
+(27) As mass digitisation projects can entail significant investments by cultural heritage
+institutions, any licences granted under the mechanisms provided for in this Directive
+should not prevent them from generating reasonable revenues in order to cover the
+costs of the licence and the costs of digitising and disseminating the works and other
+subject-matter covered by the licence.
+(28) Information regarding the future and ongoing use of out-of-commerce works and other
+subject-matter by cultural heritage institutions on the basis of the licensing
+mechanisms provided for in this Directive and the arrangements in place for all
+rightholders to exclude the application of licences to their works or other subjectmatter
+should be adequately publicised. This is particularly important when uses take
+place across borders in the internal market. It is therefore appropriate to make
+provision for the creation of a single publicly accessible online portal for the Union to
+make such information available to the public for a reasonable period of time before
+the cross-border use takes place. Under Regulation (EU) No 386/2012 of the European
+Parliament and of the Council33, the European Union Intellectual Property Office is
+entrusted with certain tasks and activities, financed by making use of its own
+budgetary measures, aiming at facilitating and supporting the activities of national
+authorities, the private sector and Union institutions in the fight against, including the
+prevention of, infringement of intellectual property rights. It is therefore appropriate to
+rely on that Office to establish and manage the European portal making such
+information available.
+(29) On-demand services have the potential to play a decisive role in the dissemination of
+European works across the European Union. However, agreements on the online
+exploitation of such works may face difficulties related to the licensing of rights. Such
+issues may, for instance, appear when the holder of the rights for a given territory is
+not interested in the online exploitation of the work or where there are issues linked to
+the windows of exploitation.
+(30) To facilitate the licensing of rights in audiovisual works to video-on-demand
+platforms, this Directive requires Member States to set up a negotiation mechanism
+allowing parties willing to conclude an agreement to rely on the assistance of an
+impartial body. The body should meet with the parties and help with the negotiations
+by providing professional and external advice. Against that background, Member
+States should decide on the conditions of the functioning of the negotiation
+mechanism, including the timing and duration of the assistance to negotiations and the
+bearing of the costs. Member States should ensure that administrative and financial
+burdens remain proportionate to guarantee the efficiency of the negotiation forum.
+(31) A free and pluralist press is essential to ensure quality journalism and citizens' access
+to information. It provides a fundamental contribution to public debate and the proper
+functioning of a democratic society. In the transition from print to digital, publishers
+of press publications are facing problems in licensing the online use of their
+publications and recouping their investments. In the absence of recognition of
+
+33 Regulation (EU) No 386/2012 of the European Parliament and of the Council of 19 April 2012 on
+entrusting the Office for Harmonization in the Internal Market (Trade Marks and Designs) with tasks
+related to the enforcement of intellectual property rights, including the assembling of public and
+private-sector representatives as a European Observatory on Infringements of Intellectual Property
+Rights (OJ L 129, 16.5.2012, p. 1–6).
+EN 19 EN
+publishers of press publications as rightholders, licensing and enforcement in the
+digital environment is often complex and inefficient.
+(32) The organisational and financial contribution of publishers in producing press
+publications needs to be recognised and further encouraged to ensure the sustainability
+of the publishing industry. It is therefore necessary to provide at Union level a
+harmonised legal protection for press publications in respect of digital uses. Such
+protection should be effectively guaranteed through the introduction, in Union law, of
+rights related to copyright for the reproduction and making available to the public of
+press publications in respect of digital uses.
+(33) For the purposes of this Directive, it is necessary to define the concept of press
+publication in a way that embraces only journalistic publications, published by a
+service provider, periodically or regularly updated in any media, for the purpose of
+informing or entertaining. Such publications would include, for instance, daily
+newspapers, weekly or monthly magazines of general or special interest and news
+websites. Periodical publications which are published for scientific or academic
+purposes, such as scientific journals, should not be covered by the protection granted
+to press publications under this Directive. This protection does not extend to acts of
+hyperlinking which do not constitute communication to the public.
+(34) The rights granted to the publishers of press publications under this Directive should
+have the same scope as the rights of reproduction and making available to the public
+provided for in Directive 2001/29/EC, insofar as digital uses are concerned. They
+should also be subject to the same provisions on exceptions and limitations as those
+applicable to the rights provided for in Directive 2001/29/EC including the exception
+on quotation for purposes such as criticism or review laid down in Article 5(3)(d) of
+that Directive.
+(35) The protection granted to publishers of press publications under this Directive should
+not affect the rights of the authors and other rightholders in the works and other
+subject-matter incorporated therein, including as regards the extent to which authors
+and other rightholders can exploit their works or other subject-matter independently
+from the press publication in which they are incorporated. Therefore, publishers of
+press publications should not be able to invoke the protection granted to them against
+authors and other rightholders. This is without prejudice to contractual arrangements
+concluded between the publishers of press publications, on the one side, and authors
+and other rightholders, on the other side.
+(36) Publishers, including those of press publications, books or scientific publications,
+often operate on the basis of the transfer of authors' rights by means of contractual
+agreements or statutory provisions. In this context, publishers make an investment
+with a view to the exploitation of the works contained in their publications and may in
+some instances be deprived of revenues where such works are used under exceptions
+or limitations such as the ones for private copying and reprography. In a number of
+Member States compensation for uses under those exceptions is shared between
+authors and publishers. In order to take account of this situation and improve legal
+certainty for all concerned parties, Member States should be allowed to determine that,
+when an author has transferred or licensed his rights to a publisher or otherwise
+contributes with his works to a publication and there are systems in place to
+compensate for the harm caused by an exception or limitation, publishers are entitled
+to claim a share of such compensation, whereas the burden on the publisher to
+substantiate his claim should not exceed what is required under the system in place.
+EN 20 EN
+(37) Over the last years, the functioning of the online content marketplace has gained in
+complexity. Online services providing access to copyright protected content uploaded
+by their users without the involvement of right holders have flourished and have
+become main sources of access to content online. This affects rightholders'
+possibilities to determine whether, and under which conditions, their work and other
+subject-matter are used as well as their possibilities to get an appropriate remuneration
+for it.
+(38) Where information society service providers store and provide access to the public to
+copyright protected works or other subject-matter uploaded by their users, thereby
+going beyond the mere provision of physical facilities and performing an act of
+communication to the public, they are obliged to conclude licensing agreements with
+rightholders, unless they are eligible for the liability exemption provided in Article 14
+of Directive 2000/31/EC of the European Parliament and of the Council34
+.
+In respect of Article 14, it is necessary to verify whether the service provider plays an
+active role, including by optimising the presentation of the uploaded works or subjectmatter
+or promoting them, irrespective of the nature of the means used therefor.
+In order to ensure the functioning of any licensing agreement, information society
+service providers storing and providing access to the public to large amounts of
+copyright protected works or other subject-matter uploaded by their users should take
+appropriate and proportionate measures to ensure protection of works or other subjectmatter,
+such as implementing effective technologies. This obligation should also apply
+when the information society service providers are eligible for the liability exemption
+provided in Article 14 of Directive 2000/31/EC.
+(39) Collaboration between information society service providers storing and providing
+access to the public to large amounts of copyright protected works or other subjectmatter
+uploaded by their users and rightholders is essential for the functioning of
+technologies, such as content recognition technologies. In such cases, rightholders
+should provide the necessary data to allow the services to identify their content and the
+services should be transparent towards rightholders with regard to the deployed
+technologies, to allow the assessment of their appropriateness. The services should in
+particular provide rightholders with information on the type of technologies used, the
+way they are operated and their success rate for the recognition of rightholders'
+content. Those technologies should also allow rightholders to get information from the
+information society service providers on the use of their content covered by an
+agreement.
+(40) Certain rightholders such as authors and performers need information to assess the
+economic value of their rights which are harmonised under Union law. This is
+especially the case where such rightholders grant a licence or a transfer of rights in
+return for remuneration. As authors and performers tend to be in a weaker contractual
+position when they grant licences or transfer their rights, they need information to
+assess the continued economic value of their rights, compared to the remuneration
+received for their licence or transfer, but they often face a lack of transparency.
+Therefore, the sharing of adequate information by their contractual counterparts or
+their successors in title is important for the transparency and balance in the system that
+governs the remuneration of authors and performers.
+
+34 Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal
+aspects of information society services, in particular electronic commerce, in the Internal Market (OJ L
+178, 17.7.2000, p. 1–16).
+EN 21 EN
+(41) When implementing transparency obligations, the specificities of different content
+sectors and of the rights of the authors and performers in each sector should be
+considered. Member States should consult all relevant stakeholders as that should help
+determine sector-specific requirements. Collective bargaining should be considered as
+an option to reach an agreement between the relevant stakeholders regarding
+transparency. To enable the adaptation of current reporting practices to the
+transparency obligations, a transitional period should be provided for. The
+transparency obligations do not need to apply to agreements concluded with collective
+management organisations as those are already subject to transparency obligations
+under Directive 2014/26/EU.
+(42) Certain contracts for the exploitation of rights harmonised at Union level are of long
+duration, offering few possibilities for authors and performers to renegotiate them with
+their contractual counterparts or their successors in title. Therefore, without prejudice
+to the law applicable to contracts in Member States, there should be a remuneration
+adjustment mechanism for cases where the remuneration originally agreed under a
+licence or a transfer of rights is disproportionately low compared to the relevant
+revenues and the benefits derived from the exploitation of the work or the fixation of
+the performance, including in light of the transparency ensured by this Directive. The
+assessment of the situation should take account of the specific circumstances of each
+case as well as of the specificities and practices of the different content sectors. Where
+the parties do not agree on the adjustment of the remuneration, the author or performer
+should be entitled to bring a claim before a court or other competent authority.
+(43) Authors and performers are often reluctant to enforce their rights against their
+contractual partners before a court or tribunal. Member States should therefore provide
+for an alternative dispute resolution procedure that addresses claims related to
+obligations of transparency and the contract adjustment mechanism.
+(44) The objectives of this Directive, namely the modernisation of certain aspects of the
+Union copyright framework to take account of technological developments and new
+channels of distribution of protected content in the internal market, cannot be
+sufficiently achieved by Member States but can rather, by reason of their scale, effects
+and cross-border dimension, be better achieved at Union level. Therefore, the Union
+may adopt measures in accordance with the principle of subsidiarity as set out in
+Article 5 of the Treaty on European Union. In accordance with the principle of
+proportionality, as set out in that Article, this Directive does not go beyond what is
+necessary in order to achieve those objectives.
+(45) This Directive respects the fundamental rights and observes the principles recognised
+in particular by the Charter of Fundamental Rights of the European Union.
+Accordingly, this Directive should be interpreted and applied in accordance with those
+rights and principles.
+(46) Any processing of personal data under this Directive should respect fundamental
+rights, including the right to respect for private and family life and the right to
+protection of personal data under Articles 7 and 8 of the Charter of Fundamental
+Rights of the European Union and must be in compliance with Directive 95/46/EC of
+the European Parliament and of the Council35 and Directive 2002/58/EC of the
+European Parliament and of the Council36
+.
+
+35 Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the
+protection of individuals with regard to the processing of personal data and on the free movement of 
+EN 22 EN
+(47) In accordance with the Joint Political Declaration of 28 September 2011 of Member
+States and the Commission on explanatory documents37, Member States have
+undertaken to accompany, in justified cases, the notification of their transposition
+measures with one or more documents explaining the relationship between the
+components of a directive and the corresponding parts of national transposition
+instruments. With regard to this Directive, the legislator considers the transmission of
+such documents to be justified,
+HAVE ADOPTED THIS DIRECTIVE:
+
+such data (OJ L 281, 23.11.1995, p. 31–50). This Directive is repealed with effect from 25 May 2018
+and shall be replaced by Regulation (EU) 2016/679 of the European Parliament and of the Council of
+27 April 2016 on the protection of natural persons with regard to the processing of personal data and on
+the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+(OJ L 119, 4.5.2016, p. 1–88).
+36 Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the
+processing of personal data and the protection of privacy in the electronic communications sector
+(Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37–47), called, as
+amended by Directives 2006/24/EC and 2009/136/EC, the “e-Privacy Directive”.
+37 OJ C 369, 17.12.2011, p. 14.
+EN 23 EN
+TITLE I
+GENERAL PROVISIONS
+Article 1
+Subject matter and scope
+1. This Directive lays down rules which aim at further harmonising the Union law
+applicable to copyright and related rights in the framework of the internal market,
+taking into account in particular digital and cross-border uses of protected content. It
+also lays down rules on exceptions and limitations, on the facilitation of licences as
+well as rules aiming at ensuring a well-functioning marketplace for the exploitation
+of works and other subject-matter.
+2. Except in the cases referred to in Article 6, this Directive shall leave intact and shall
+in no way affect existing rules laid down in the Directives currently in force in this
+area, in particular Directives 96/9/EC, 2001/29/EC, 2006/115/EC, 2009/24/EC,
+2012/28/EU and 2014/26/EU.
+Article 2
+Definitions
+For the purposes of this Directive, the following definitions shall apply:
+(1) ‘research organisation’ means a university, a research institute or any other
+organisation the primary goal of which is to conduct scientific research or to conduct
+scientific research and provide educational services:
+(a) on a non-for-profit basis or by reinvesting all the profits in its scientific
+research; or
+(b) pursuant to a public interest mission recognised by a Member State;
+in such a way that the access to the results generated by the scientific research cannot
+be enjoyed on a preferential basis by an undertaking exercising a decisive influence
+upon such organisation;
+(2) ‘text and data mining’ means any automated analytical technique aiming to analyse
+text and data in digital form in order to generate information such as patterns, trends
+and correlations;
+(3) ‘cultural heritage institution’ means a publicly accessible library or museum, an
+archive or a film or audio heritage institution;
+(4) ‘press publication’ means a fixation of a collection of literary works of a journalistic
+nature, which may also comprise other works or subject-matter and constitutes an
+individual item within a periodical or regularly-updated publication under a single
+title, such as a newspaper or a general or special interest magazine, having the
+purpose of providing information related to news or other topics and published in any
+media under the initiative, editorial responsibility and control of a service provider.
+EN 24 EN
+TITLE II
+MEASURES TO ADAPT EXCEPTIONS AND LIMITATIONS TO THE
+DIGITAL AND CROSS-BORDER ENVIRONMENT
+Article 3
+Text and data mining
+1. Member States shall provide for an exception to the rights provided for in Article 2
+of Directive 2001/29/EC, Articles 5(a) and 7(1) of Directive 96/9/EC and Article
+11(1) of this Directive for reproductions and extractions made by research
+organisations in order to carry out text and data mining of works or other subjectmatter
+to which they have lawful access for the purposes of scientific research.
+2. Any contractual provision contrary to the exception provided for in paragraph 1 shall
+be unenforceable.
+3. Rightholders shall be allowed to apply measures to ensure the security and integrity
+of the networks and databases where the works or other subject-matter are hosted.
+Such measures shall not go beyond what is necessary to achieve that objective.
+4. Member States shall encourage rightholders and research organisations to define
+commonly-agreed best practices concerning the application of the measures referred
+to in paragraph 3.
+Article 4
+Use of works and other subject-matter in digital and cross-border teaching activities
+1. Member States shall provide for an exception or limitation to the rights provided for
+in Articles 2 and 3 of Directive 2001/29/EC, Articles 5(a) and 7(1) of Directive
+96/9/EC, Article 4(1) of Directive 2009/24/EC and Article 11(1) of this Directive in
+order to allow for the digital use of works and other subject-matter for the sole
+purpose of illustration for teaching, to the extent justified by the non-commercial
+purpose to be achieved, provided that the use:
+(a) takes place on the premises of an educational establishment or through a secure
+electronic network accessible only by the educational establishment's pupils or
+students and teaching staff;
+(b) is accompanied by the indication of the source, including the author's name,
+unless this turns out to be impossible.
+2. Member States may provide that the exception adopted pursuant to paragraph 1 does
+not apply generally or as regards specific types of works or other subject-matter, to
+the extent that adequate licences authorising the acts described in paragraph 1 are
+easily available in the market.
+Member States availing themselves of the provision of the first subparagraph shall
+take the necessary measures to ensure appropriate availability and visibility of the
+licences authorising the acts described in paragraph 1 for educational establishments.
+3. The use of works and other subject-matter for the sole purpose of illustration for
+teaching through secure electronic networks undertaken in compliance with the
+provisions of national law adopted pursuant to this Article shall be deemed to occur
+solely in the Member State where the educational establishment is established.
+EN 25 EN
+4. Member States may provide for fair compensation for the harm incurred by the
+rightholders due to the use of their works or other subject-matter pursuant to
+paragraph 1.
+Article 5
+Preservation of cultural heritage
+Member States shall provide for an exception to the rights provided for in Article 2 of
+Directive 2001/29/EC, Articles 5(a) and 7(1) of Directive 96/9/EC, Article 4(1)(a) of
+Directive 2009/24/EC and Article 11(1) of this Directive, permitting cultural heritage
+institutions, to make copies of any works or other subject-matter that are permanently in their
+collections, in any format or medium, for the sole purpose of the preservation of such works
+or other subject-matter and to the extent necessary for such preservation.
+Article 6
+Common provisions
+Article 5(5) and the first, third and fifth subparagraphs of Article 6(4) of Directive
+2001/29/EC shall apply to the exceptions and the limitation provided for under this Title.
+EN 26 EN
+TITLE III
+MEASURES TO IMPROVE LICENSING PRACTICES AND ENSURE
+WIDER ACCESS TO CONTENT
+CHAPTER 1
+Out-of-commerce works
+Article 7
+Use of out-of-commerce works by cultural heritage institutions
+1. Member States shall provide that when a collective management organisation, on
+behalf of its members, concludes a non-exclusive licence for non-commercial
+purposes with a cultural heritage institution for the digitisation, distribution,
+communication to the public or making available of out-of-commerce works or other
+subject-matter permanently in the collection of the institution, such a non-exclusive
+licence may be extended or presumed to apply to rightholders of the same category
+as those covered by the licence who are not represented by the collective
+management organisation, provided that:
+(a) the collective management organisation is, on the basis of mandates from
+rightholders, broadly representative of rightholders in the category of works or
+other subject-matter and of the rights which are the subject of the licence;
+(b) equal treatment is guaranteed to all rightholders in relation to the terms of the
+licence;
+(c) all rightholders may at any time object to their works or other subject-matter
+being deemed to be out of commerce and exclude the application of the licence
+to their works or other subject-matter.
+2. A work or other subject-matter shall be deemed to be out of commerce when the
+whole work or other subject-matter, in all its translations, versions and
+manifestations, is not available to the public through customary channels of
+commerce and cannot be reasonably expected to become so.
+Member States shall, in consultation with rightholders, collective management
+organisations and cultural heritage institutions, ensure that the requirements used to
+determine whether works and other subject-matter can be licensed in accordance
+with paragraph 1 do not extend beyond what is necessary and reasonable and do not
+preclude the possibility to determine the out-of-commerce status of a collection as a
+whole, when it is reasonable to presume that all works or other subject-matter in the
+collection are out of commerce.
+3. Member States shall provide that appropriate publicity measures are taken regarding:
+(a) the deeming of works or other subject-matter as out of commerce;
+(b) the licence, and in particular its application to unrepresented rightholders;
+(c) the possibility of rightholders to object, referred to in point (c) of paragraph 1;
+including during a reasonable period of time before the works or other subject-matter
+are digitised, distributed, communicated to the public or made available.
+EN 27 EN
+4. Member States shall ensure that the licences referred to in paragraph 1 are sought
+from a collective management organisation that is representative for the Member
+State where:
+(a) the works or phonograms were first published or, in the absence of publication,
+where they were first broadcast, except for cinematographic and audiovisual
+works;
+(b) the producers of the works have their headquarters or habitual residence, for
+cinematographic and audiovisual works; or
+(c) the cultural heritage institution is established, when a Member State or a third
+country could not be determined, after reasonable efforts, according to points
+(a) and (b).
+5. Paragraphs 1, 2 and 3 shall not apply to the works or other subject-matter of third
+country nationals except where points (a) and (b) of paragraph 4 apply.
+Article 8
+Cross-border uses
+1. Works or other subject-matter covered by a licence granted in accordance with
+Article 7 may be used by the cultural heritage institution in accordance with the
+terms of the licence in all Member States.
+2. Member States shall ensure that information that allows the identification of the
+works or other subject-matter covered by a licence granted in accordance with
+Article 7 and information about the possibility of rightholders to object referred to in
+Article 7(1)(c) are made publicly accessible in a single online portal for at least six
+months before the works or other subject-matter are digitised, distributed,
+communicated to the public or made available in Member States other than the one
+where the licence is granted, and for the whole duration of the licence.
+3. The portal referred to in paragraph 2 shall be established and managed by the
+European Union Intellectual Property Office in accordance with Regulation (EU) No
+386/2012.
+Article 9
+Stakeholder dialogue
+Member States shall ensure a regular dialogue between representative users' and rightholders'
+organisations, and any other relevant stakeholder organisations, to, on a sector-specific basis,
+foster the relevance and usability of the licensing mechanisms referred to in Article 7(1),
+ensure the effectiveness of the safeguards for rightholders referred to in this Chapter, notably
+as regards publicity measures, and, where applicable, assist in the establishment of the
+requirements referred to in the second subparagraph of Article 7(2).
+CHAPTER 2
+Access to and availability of audiovisual works on video-on-demand
+platforms
+Article 10
+Negotiation mechanism
+Member States shall ensure that where parties wishing to conclude an agreement for the
+purpose of making available audiovisual works on video-on-demand platforms face
+difficulties relating to the licensing of rights, they may rely on the assistance of an impartial 
+EN 28 EN
+body with relevant experience. That body shall provide assistance with negotiation and help
+reach agreements.
+No later than [date mentioned in Article 21(1)] Member States shall notify to the Commission
+the body referred to in paragraph 1.
+EN 29 EN
+TITLE IV
+MEASURES TO ACHIEVE A WELL-FUNCTIONING MARKETPLACE
+FOR COPYRIGHT
+CHAPTER 1
+Rights in publications
+Article 11
+Protection of press publications concerning digital uses
+1. Member States shall provide publishers of press publications with the rights provided
+for in Article 2 and Article 3(2) of Directive 2001/29/EC for the digital use of their
+press publications.
+2. The rights referred to in paragraph 1 shall leave intact and shall in no way affect any
+rights provided for in Union law to authors and other rightholders, in respect of the
+works and other subject-matter incorporated in a press publication. Such rights may
+not be invoked against those authors and other rightholders and, in particular, may
+not deprive them of their right to exploit their works and other subject-matter
+independently from the press publication in which they are incorporated.
+3. Articles 5 to 8 of Directive 2001/29/EC and Directive 2012/28/EU shall apply
+mutatis mutandis in respect of the rights referred to in paragraph 1.
+4. The rights referred to in paragraph 1 shall expire 20 years after the publication of the
+press publication. This term shall be calculated from the first day of January of the
+year following the date of publication.
+Article 12
+Claims to fair compensation
+Member States may provide that where an author has transferred or licensed a right to a
+publisher, such a transfer or a licence constitutes a sufficient legal basis for the publisher to
+claim a share of the compensation for the uses of the work made under an exception or
+limitation to the transferred or licensed right.
+CHAPTER 2
+Certain uses of protected content by online services
+Article 13
+Use of protected content by information society service providers storing and giving access to
+large amounts of works and other subject-matter uploaded by their users
+1. Information society service providers that store and provide to the public access to
+large amounts of works or other subject-matter uploaded by their users shall, in
+cooperation with rightholders, take measures to ensure the functioning of agreements
+concluded with rightholders for the use of their works or other subject-matter or to
+prevent the availability on their services of works or other subject-matter identified
+by rightholders through the cooperation with the service providers. Those measures,
+such as the use of effective content recognition technologies, shall be appropriate and
+proportionate. The service providers shall provide rightholders with adequate
+information on the functioning and the deployment of the measures, as well as, when 
+EN 30 EN
+relevant, adequate reporting on the recognition and use of the works and other
+subject-matter.
+2. Member States shall ensure that the service providers referred to in paragraph 1 put
+in place complaints and redress mechanisms that are available to users in case of
+disputes over the application of the measures referred to in paragraph 1.
+3. Member States shall facilitate, where appropriate, the cooperation between the
+information society service providers and rightholders through stakeholder dialogues
+to define best practices, such as appropriate and proportionate content recognition
+technologies, taking into account, among others, the nature of the services, the
+availability of the technologies and their effectiveness in light of technological
+developments.
+CHAPTER 3
+Fair remuneration in contracts of authors and performers
+Article 14
+Transparency obligation
+1. Member States shall ensure that authors and performers receive on a regular basis
+and taking into account the specificities of each sector, timely, adequate and
+sufficient information on the exploitation of their works and performances from
+those to whom they have licensed or transferred their rights, notably as regards
+modes of exploitation, revenues generated and remuneration due.
+2. The obligation in paragraph 1 shall be proportionate and effective and shall ensure an
+appropriate level of transparency in every sector. However, in those cases where the
+administrative burden resulting from the obligation would be disproportionate in
+view of the revenues generated by the exploitation of the work or performance,
+Member States may adjust the obligation in paragraph 1, provided that the obligation
+remains effective and ensures an appropriate level of transparency.
+3. Member States may decide that the obligation in paragraph 1 does not apply when
+the contribution of the author or performer is not significant having regard to the
+overall work or performance.
+4. Paragraph 1 shall not be applicable to entities subject to the transparency obligations
+established by Directive 2014/26/EU.
+Article 15
+Contract adjustment mechanism
+Member States shall ensure that authors and performers are entitled to request additional,
+appropriate remuneration from the party with whom they entered into a contract for the
+exploitation of the rights when the remuneration originally agreed is disproportionately low
+compared to the subsequent relevant revenues and benefits derived from the exploitation of
+the works or performances.
+Article 16
+Dispute resolution mechanism
+Member States shall provide that disputes concerning the transparency obligation under
+Article 14 and the contract adjustment mechanism under Article 15 may be submitted to a
+voluntary, alternative dispute resolution procedure.
+EN 31 EN
+TITLE V
+FINAL PROVISIONS
+Article 17
+Amendments to other directives
+1. Directive 96/9/EC is amended as follows:
+(a) In Article 6(2), point (b) is replaced by the following:
+"(b) where there is use for the sole purpose of illustration for teaching or
+scientific research, as long as the source is indicated and to the extent justified
+by the non-commercial purpose to be achieved, without prejudice to the
+exceptions and the limitation provided for in Directive [this Directive];"
+(b) In Article 9, point (b) is replaced by the following:
+"(b) in the case of extraction for the purposes of illustration for teaching or
+scientific research, as long as the source is indicated and to the extent justified
+by the non-commercial purpose to be achieved, without prejudice to the
+exceptions and the limitation provided for in Directive [this Directive];"
+2. Directive 2001/29/EC is amended as follows:
+(a) In Article 5(2), point (c) is replaced by the following:
+"(c) in respect of specific acts of reproduction made by publicly accessible
+libraries, educational establishments or museums, or by archives, which are not
+for direct or indirect economic or commercial advantage, without prejudice to
+the exceptions and the limitation provided for in Directive [this Directive];"
+(b) In Article 5(3), point (a) is replaced by the following:
+"(a) use for the sole purpose of illustration for teaching or scientific research, as
+long as the source, including the author's name, is indicated, unless this turns
+out to be impossible and to the extent justified by the non-commercial purpose
+to be achieved, without prejudice to the exceptions and the limitation provided
+for in Directive [this Directive];"
+(c) In Article 12(4), the following points are added:
+"(e) to examine the impact of the transposition of Directive [this Directive] on
+the functioning of the internal market and to highlight any transposition
+difficulties;
+(f) to facilitate the exchange of information on the relevant developments in
+legislation and case law as well as on the practical application of the measures
+taken by Member States to implement Directive [this Directive];
+(g) to discuss any other questions arising from the application of Directive [this
+Directive]."
+Article 18
+Application in time
+1. This Directive shall apply in respect of all works and other subject-matter which are
+protected by the Member States' legislation in the field of copyright on or after [the
+date mentioned in Article 21(1)].
+EN 32 EN
+2. The provisions of Article 11 shall also apply to press publications published before
+[the date mentioned in Article 21(1)].
+3. This Directive shall apply without prejudice to any acts concluded and rights
+acquired before [the date mentioned in Article 21(1)].
+Article 19
+Transitional provision
+Agreements for the licence or transfer of rights of authors and performers shall be subject to
+the transparency obligation in Article 14 as from [one year after the date mentioned in Article
+21(1)].
+Article 20
+Protection of personal data
+The processing of personal data carried out within the framework of this Directive shall be
+carried out in compliance with Directives 95/46/EC and 2002/58/EC.
+Article 21
+Transposition
+1. Member States shall bring into force the laws, regulations and administrative
+provisions necessary to comply with this Directive by [12 months after entry into
+force] at the latest. They shall forthwith communicate to the Commission the text of
+those provisions.
+When Member States adopt those provisions, they shall contain a reference to this
+Directive or be accompanied by such a reference on the occasion of their official
+publication. Member States shall determine how such reference is to be made.
+2. Member States shall communicate to the Commission the text of the main provisions
+of national law which they adopt in the field covered by this Directive.
+Article 22
+Review
+1. No sooner than [five years after the date mentioned in Article 21(1)], the
+Commission shall carry out a review of this Directive and present a report on the
+main findings to the European Parliament, the Council and the European Economic
+and Social Committee.
+2. Member States shall provide the Commission with the necessary information for the
+preparation of the report referred to in paragraph 1.
+Article 23
+Entry into force
+This Directive shall enter into force on the twentieth day following that of its publication in
+the Official Journal of the European Union.
+EN 33 EN
+Article 24
+Addressees
+This Directive is addressed to the Member States.
+Done at Brussels,
+For the European Parliament For the Council
+The President The President
