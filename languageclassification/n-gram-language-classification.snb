@@ -32,7 +32,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "5AEA5BEEBE1C40E092C3E5047A2B40B7"
     },
     "cell_type" : "code",
@@ -54,11 +54,11 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "717AFDC8FC7E41F48D347CD679151568"
     },
     "cell_type" : "code",
-    "source" : "def ngrams(str: String): Seq[String] = {\n  val cleaned = str.toLowerCase.replaceAll(\"[^A-zÀ-ÿ'’]+\", \"_\").reverse.dropWhile(_ == '_').reverse\n    \n  def _ngram(n:Int) : Seq[String] = {\n    if (n == 1) {\n      cleaned.collect{case c if c != '_' => c.toString}\n    } else {\n      val padding = Seq.fill(n - 1)(\"_\").mkString(\"\")\n      val padded = \"_\" + cleaned + padding \n      padded.sliding(n,1).toSeq\n    }\n  }\n  (1 to Math.min(cleaned.size, 5)).flatMap(i => _ngram(i))\n}",
+    "source" : "def ngrams(str: String): Seq[String] = {\n  ???\n}",
     "outputs" : [ ]
   }, {
     "metadata" : {
@@ -70,7 +70,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "BD3AD2AD45364D88863C5905219FEE6F"
     },
     "cell_type" : "code",
@@ -80,7 +80,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "B84BA03733584C3788439F96F760DDB3"
     },
     "cell_type" : "code",
@@ -90,7 +90,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "B84BA03733584C3788439F96F760DDB3"
     },
     "cell_type" : "code",
@@ -100,7 +100,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "3CEDA5F0EB6242A7B12F44443A3660AD"
     },
     "cell_type" : "code",
@@ -110,7 +110,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "B84BA03733584C3788439F96F760DDB3"
     },
     "cell_type" : "code",
@@ -126,7 +126,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "972FC34C458D451684639781F0DA02BA"
     },
     "cell_type" : "code",
@@ -136,7 +136,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "337874E93D944AD78EDD1A011FBC6A97"
     },
     "cell_type" : "code",
@@ -146,7 +146,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "16B3433D34A646BD8228926C0D615B60"
     },
     "cell_type" : "code",
@@ -162,7 +162,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab34508451-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -176,7 +176,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "838E0DFE209147148FFB931889ACDC1B"
     },
     "cell_type" : "code",
@@ -195,7 +195,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "D51C9D94C3D44ABDA629FC599987D5A5"
     },
     "cell_type" : "code",
@@ -205,7 +205,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "60957B06324E499D85284E923E290925"
     },
     "cell_type" : "code",
@@ -215,7 +215,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "47B0BF8EED2E42858541608C812412D4"
     },
     "cell_type" : "code",
@@ -231,7 +231,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "CC945DCAE7C9441D80A1AD04CAA36DCC"
     },
     "cell_type" : "code",
@@ -241,7 +241,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab198841366-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -261,7 +261,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "CF83DFCB586F4E008AF260C4D5B08C01"
     },
     "cell_type" : "code",
@@ -277,7 +277,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "A8AC9E31E2DC4ADC8FF52D482D509C70"
     },
     "cell_type" : "code",
@@ -293,7 +293,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab489323878-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -307,7 +307,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "F4DE2804778E43B2B9899F846016ACF0"
     },
     "cell_type" : "code",
@@ -317,7 +317,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "0F59DB11C7B8428D8297AD7AE190FCE4"
     },
     "cell_type" : "code",
@@ -327,7 +327,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab65780306-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -350,7 +350,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "D006282402E54FB59381D67F01A7CD08"
     },
     "cell_type" : "code",
@@ -360,7 +360,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "168D5C3C6948474E80A19B2A947BB85B"
     },
     "cell_type" : "code",
@@ -376,7 +376,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "47338F59E76F49428888360854472B25"
     },
     "cell_type" : "code",
@@ -392,7 +392,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "90090B0ECCAB4E388298E2A2FBC52ECF"
     },
     "cell_type" : "code",
@@ -402,7 +402,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1098532669-2\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
