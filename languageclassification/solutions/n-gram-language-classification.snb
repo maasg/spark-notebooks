@@ -1,0 +1,423 @@
+{
+  "metadata" : {
+    "name" : "n-gram-language-classification",
+    "user_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "auto_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "language_info" : {
+      "name" : "scala",
+      "file_extension" : "scala",
+      "codemirror_mode" : "text/x-scala"
+    },
+    "trusted" : true,
+    "customLocalRepo" : null,
+    "customRepos" : null,
+    "customDeps" : null,
+    "customImports" : null,
+    "customArgs" : null,
+    "customSparkConf" : null
+  },
+  "cells" : [ {
+    "metadata" : {
+      "id" : "9F0F316DF69C4F378FD88FAAFD718053"
+    },
+    "cell_type" : "markdown",
+    "source" : "#n-gram based language classification\n###This notebook implements the method described by  Cavnar and Trenkle in the paper [N-Gram-Based Text Categorization](http://odur.let.rug.nl/~vannoord/TextCat/textcat.pdf)\nn-grams are continuos segments of size 'n' taken from a given string. Given the sentence _\"cavnar and trenkle\"_, \n- bi-grams: `ca,av,vn,na,ar,r_,_a,an,nd,d_,_t,tr,re,en,nk,kl,le,e_`\n- tri-grams: `cav,avn,vna,nar,ar_,r_a,_an,and,nd_,d_t,_tr,tre,ren,enk,nkl,kle,le_`\n- quad-grams: `cavn,...`\n\nNext to the frequency of letter (one-gram) that we explored in [A naive approach to language classification](/notebooks/languageclassification/language-detection-letter-freq.snb) they also capture common letter combinations that are typical in a language. n-grams where n>1 also provide record of start and end of words, further adding features to the language classification model that we can create with it."
+  }, {
+    "metadata" : {
+      "id" : "2D7D377CAB9241C5B114A4BF3C95EC70"
+    },
+    "cell_type" : "markdown",
+    "source" : "## First, we will load some data"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "5AEA5BEEBE1C40E092C3E5047A2B40B7"
+    },
+    "cell_type" : "code",
+    "source" : "val notebooksFolder = sys.env(\"NOTEBOOKS_DIR\")\nval baseFolder = s\"$notebooksFolder/languageclassification/data\"",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "CA507D56DB514C7DB9F2A27E8A3F3B06"
+    },
+    "cell_type" : "markdown",
+    "source" : "##n-gram generation"
+  }, {
+    "metadata" : {
+      "id" : "7DB8479F3A8D4ED88F218CB67B4664EE"
+    },
+    "cell_type" : "markdown",
+    "source" : "### We need a function that creates n-grams from a `string`.\nThe rules are:\n - we normalize the text to lowercase\n - n-grams are windows over the string, with window size equal to the 'n' and a step of 1\n - n-grams keep letters and aphostrophes. Spaces and punctuation marks are replaced by underscores\n - consecutive underscores are collates in one\n - start and end of the string are padded with underscores to match `n`-1  (1-gram do not introduce `_` artifacts)\n\nWe are going to generate n-grams for 1<=n<=5"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "717AFDC8FC7E41F48D347CD679151568"
+    },
+    "cell_type" : "code",
+    "source" : "def ngrams(str: String): Seq[String] = {\n  val cleaned = str.toLowerCase.replaceAll(\"[^A-zÀ-ÿ'’]+\", \"_\").reverse.dropWhile(_ == '_').reverse\n    \n  def _ngram(n:Int) : Seq[String] = {\n    if (n == 1) {\n      cleaned.collect{case c if c != '_' => c.toString}\n    } else {\n      val padding = Seq.fill(n - 1)(\"_\").mkString(\"\")\n      val padded = \"_\" + cleaned + padding \n      padded.sliding(n,1).toSeq\n    }\n  }\n  (1 to Math.min(cleaned.size, 5)).flatMap(i => _ngram(i))\n}",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "A179A714477A4123821531902ADB4A60"
+    },
+    "cell_type" : "markdown",
+    "source" : "### Sanity check"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "BD3AD2AD45364D88863C5905219FEE6F"
+    },
+    "cell_type" : "code",
+    "source" : "require(ngrams(\"a\") == Seq(\"a\"), \"should generate ngram for a single character\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "B84BA03733584C3788439F96F760DDB3"
+    },
+    "cell_type" : "code",
+    "source" : "require(ngrams(\"abc\").toSet == Set(\"a\", \"b\", \"c\", \"_a\", \"ab\", \"bc\", \"c_\", \"_ab\", \"abc\", \"bc_\", \"c__\"), \"should generate ngram for multiple characters\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "B84BA03733584C3788439F96F760DDB3"
+    },
+    "cell_type" : "code",
+    "source" : "require(ngrams(\"ABc\").toSet == Set(\"a\", \"b\", \"c\", \"_a\", \"ab\", \"bc\", \"c_\", \"_ab\", \"abc\", \"bc_\", \"c__\"), \"should use lowercase normalization\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "3CEDA5F0EB6242A7B12F44443A3660AD"
+    },
+    "cell_type" : "code",
+    "source" : "require(ngrams(\"abc.1!!\").toSet == Set(\"a\", \"b\", \"c\", \"_a\", \"ab\", \"bc\", \"c_\", \"_ab\", \"abc\", \"bc_\", \"c__\"), \"should ignore numbers and punctuation\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "B84BA03733584C3788439F96F760DDB3"
+    },
+    "cell_type" : "code",
+    "source" : "require(ngrams(\"a'b\").toSet == Set(\"a\",\"'\",\"b\",\"_a\",\"a'\",\"'b\",\"b_\",\"_a'\",\"a'b\",\"'b_\",\"b__\"), \"should preserve apostrophe\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "C05149CBA39C4FA494549F5AC1537111"
+    },
+    "cell_type" : "markdown",
+    "source" : "###Let's generate n-gram models for our dataset per language"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "972FC34C458D451684639781F0DA02BA"
+    },
+    "cell_type" : "code",
+    "source" : "val languages = Seq(\"en\", \"es\", \"it\", \"de\", \"fr\", \"nl\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "337874E93D944AD78EDD1A011FBC6A97"
+    },
+    "cell_type" : "code",
+    "source" : "val langDataset = languages.map{lang => (lang, sparkContext.textFile(baseFolder + s\"/$lang\"))}",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "16B3433D34A646BD8228926C0D615B60"
+    },
+    "cell_type" : "code",
+    "source" : "val ngramsPerLanguage = langDataset.map{case (lang, rdd) => \n                                        val ng = rdd.flatMap(str => ngrams(str))\n                                        (lang, ng)\n                                       }",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "08E59B0F7B9B46058EDE0D992A98E42D"
+    },
+    "cell_type" : "markdown",
+    "source" : "#### Let's check some data to see how we are doing"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "presentation" : {
+        "tabs_state" : "{\n  \"tab_id\": \"#tab34508451-0\"\n}",
+        "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
+      },
+      "id" : "6B655173BF2646AF8CC32F699E7AA706"
+    },
+    "cell_type" : "code",
+    "source" : "val (lang, ng) = ngramsPerLanguage(0)\nval count= ng.count()\nng.sample(withReplacement = false, fraction = 0.007).take(20)",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "838E0DFE209147148FFB931889ACDC1B"
+    },
+    "cell_type" : "code",
+    "source" : "val ProfileCutPoint = 300\nval ngramFrequencyPerLanguage = ngramsPerLanguage.map{case (lang, ngramRDD) => \n                                                      val ngramFreq = ngramRDD.keyBy(identity)\n                                                                              .countByKey().toSeq\n                                                                              .sortBy(- _._2).take(ProfileCutPoint)\n                                                      (lang,ngramFreq)} ",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true,
+      "id" : "E3576CC498E24003BBB8213AA4EF6D00"
+    },
+    "cell_type" : "markdown",
+    "source" : "##Let's explore the profiles"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "D51C9D94C3D44ABDA629FC599987D5A5"
+    },
+    "cell_type" : "code",
+    "source" : "def visualize(languageNgrams:(String, Seq[(String, Long)])) = {\n  val (lang, ngramData) = languageNgrams\n  CustomPlotlyChart(ngramData,\n                  layout=s\"{title: 'ngram Frequency Distribution for language: ${lang}'}\",\n                  dataOptions=\"\"\"{type: 'bar'}\"\"\",\n                  dataSources=\"{x: '_1', y: '_2'}\")\n}",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "60957B06324E499D85284E923E290925"
+    },
+    "cell_type" : "code",
+    "source" : "@transient val viz1 = visualize(ngramFrequencyPerLanguage(0))\nviz1",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "47B0BF8EED2E42858541608C812412D4"
+    },
+    "cell_type" : "code",
+    "source" : "@transient val viz2 = visualize(ngramFrequencyPerLanguage(1))\nviz2",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "4FD3EE565A16475B98562286FE9C349C"
+    },
+    "cell_type" : "markdown",
+    "source" : "##Create the ngram model per language\nFollowing the paper, we do not require the frequency. Only the position is important."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "CC945DCAE7C9441D80A1AD04CAA36DCC"
+    },
+    "cell_type" : "code",
+    "source" : "val ngramModelPerLanguage = ngramFrequencyPerLanguage.map{case (lang, seqNgramFreq) => lang -> seqNgramFreq.map{case (ngram, freq) => ngram}.zipWithIndex.toMap}",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "presentation" : {
+        "tabs_state" : "{\n  \"tab_id\": \"#tab198841366-0\"\n}",
+        "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
+      },
+      "id" : "06FCC5E38EA04F8A8C2011EAA3A82C78"
+    },
+    "cell_type" : "code",
+    "source" : "val (lang, freq) = ngramModelPerLanguage(0)\nfreq.toSeq.sortBy{case (ngram, idx) => idx}",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "36732A418AA240A38D3EAD4780853EC9"
+    },
+    "cell_type" : "markdown",
+    "source" : "# Let's create a classifier using this model\n## We're going to use a custom Spark MLLib Transformer to implement our classifier\nThis integrates nicely with ML Pipelines where we would like to use the language detection as part of a larger process."
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "CF83DFCB586F4E008AF260C4D5B08C01"
+    },
+    "cell_type" : "code",
+    "source" : "import org.apache.spark.ml.UnaryTransformer\nimport org.apache.spark.ml.util.Identifiable\nimport org.apache.spark.sql.types.{DataType, DataTypes}\n\nclass NgramLanguageClassifier(override val uid: String, model: Seq[(String, Map[String,Int])]) extends UnaryTransformer[String, String, NgramLanguageClassifier] with Serializable {\n  \n  val ProfileCutPoint = 300\n\n  val ngrams: String => Seq[String] = str => {\n    val cleaned = str.toLowerCase.replaceAll(\"[^A-zÀ-ÿ'’]+\", \"_\").reverse.dropWhile(_ == '_').reverse\n\n    def _ngram(n:Int) : Seq[String] = {\n      if (n == 1) {\n        cleaned.collect{case c if c != '_' => c.toString}\n      } else {\n        val padding = Seq.fill(n - 1)(\"_\").mkString(\"\")\n        val padded = \"_\" + cleaned + padding\n        padded.sliding(n,1).toSeq\n      }\n    }\n    (1 to Math.min(cleaned.size, 5)).flatMap(i => _ngram(i))\n  }\n  \n  val ngramProfile: Seq[String] => Seq[(Int, String)] = ngrams => {\n     ngrams\n    .groupBy(identity)\n    .map{case (k, col) => k -> col.size } // do not use mapValues -> evil\n    .toSeq\n    .sortBy(- _._2)\n    .take(ProfileCutPoint)\n    .zipWithIndex\n    .map{case ((k,_),idx) => (idx,k)}\n  }\n  \n  val classifier: String => String = txt => {\n    val profile = (ngrams andThen ngramProfile)(txt)\n    val scores = model.map{case (lang, ngramMap) => \n                                  lang -> profile.map{case (idx, ngram) => \n                                                      ngramMap.get(ngram)\n                                                              .map(refIdx => Math.abs(refIdx - idx))\n                                                              .getOrElse(ProfileCutPoint)\n                                                     }.sum\n                                 }\n    scores.minBy(_._2)._1  \n  }\n\n  override protected def createTransformFunc: String => String = classifier\n  \n  override protected def outputDataType: DataType = DataTypes.StringType\n\n  override protected def validateInputType(inputType: DataType): Unit = {\n    require(inputType == DataTypes.StringType, s\"Bad input type: $inputType. Requires String.\")\n  }\n}",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "D9D56260FF2F4A22BEF38A8B9352C920"
+    },
+    "cell_type" : "markdown",
+    "source" : "###Remember the test dataset that we saved in the previous notebook?"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "A8AC9E31E2DC4ADC8FF52D482D509C70"
+    },
+    "cell_type" : "code",
+    "source" : "val testDataset = sparkSession.read.parquet(\"/tmp/testDataset\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "8B0782E51DF645A580C2455E4D012ACE"
+    },
+    "cell_type" : "markdown",
+    "source" : "####Check it out to ensure it's what we expect\n(You can never be too sure)"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "presentation" : {
+        "tabs_state" : "{\n  \"tab_id\": \"#tab489323878-0\"\n}",
+        "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
+      },
+      "id" : "F1F88D9A92E8470DAE4BEC3D7DD74A50"
+    },
+    "cell_type" : "code",
+    "source" : "testDataset.sample(withReplacement = false, fraction = 0.0007).take(20)",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "F4DE2804778E43B2B9899F846016ACF0"
+    },
+    "cell_type" : "code",
+    "source" : "val ngramClassifier = new NgramLanguageClassifier(\"meetup-3\", ngramModelPerLanguage).setInputCol(\"text\").setOutputCol(\"lang_classification\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "0F59DB11C7B8428D8297AD7AE190FCE4"
+    },
+    "cell_type" : "code",
+    "source" : "val testNgrams = ngramClassifier.transform(testDataset)",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "presentation" : {
+        "tabs_state" : "{\n  \"tab_id\": \"#tab65780306-0\"\n}",
+        "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
+      },
+      "id" : "E6AAE908164748DAAC31E3FFE4664F82"
+    },
+    "cell_type" : "code",
+    "source" : "testNgrams.sample(withReplacement = false, fraction = 0.0007).take(20)",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true,
+      "id" : "413F0F9AC72E42B78B87FE6043F9ABA9"
+    },
+    "cell_type" : "markdown",
+    "source" : "## How does it compare with out previous model?"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "D006282402E54FB59381D67F01A7CD08"
+    },
+    "cell_type" : "code",
+    "source" : "val hitCol = when($\"language\" === $\"lang_classification\", 1L).otherwise(0L)\nval hits = testNgrams.withColumn(\"hit\", hitCol).withColumn(\"counter\", lit(1))",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "168D5C3C6948474E80A19B2A947BB85B"
+    },
+    "cell_type" : "code",
+    "source" : "val hitRatio = hits.select(sum($\"hit\")/sum($\"counter\")).head.getDouble(0)",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "463C11C1AD3F4C74BE6A5FFFBDCA249B"
+    },
+    "cell_type" : "markdown",
+    "source" : "### How is the performance in relation to text length"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "47338F59E76F49428888360854472B25"
+    },
+    "cell_type" : "code",
+    "source" : "val hitRatioPerLength = hits.groupBy($\"textSize\").agg(sum($\"hit\")/sum($\"counter\")).orderBy($\"textSize\")",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "09EF9C2537244E83855D2C095462708B"
+    },
+    "cell_type" : "markdown",
+    "source" : "##Model accuracy vs sentence length"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "90090B0ECCAB4E388298E2A2FBC52ECF"
+    },
+    "cell_type" : "code",
+    "source" : "val ds = hitRatioPerLength.as[(Long, Double)]",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "presentation" : {
+        "tabs_state" : "{\n  \"tab_id\": \"#tab1098532669-2\"\n}",
+        "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
+      },
+      "id" : "B9ECD6CE59134F7CBB3CF9BD448ADEC0"
+    },
+    "cell_type" : "code",
+    "source" : "ds.collect",
+    "outputs" : [ ]
+  }, {
+    "metadata" : {
+      "id" : "495B406E742349B88B647F75398578AC"
+    },
+    "cell_type" : "markdown",
+    "source" : "#((-.-))"
+  } ],
+  "nbformat" : 4
+}
