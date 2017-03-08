@@ -32,7 +32,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "BFF3A95A5486431F944D5D66AD38CD76"
     },
     "cell_type" : "code",
@@ -48,7 +48,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "2A1476EDDD3344B98FEFF9988DB6786C"
     },
     "cell_type" : "code",
@@ -64,7 +64,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "41A6E9AA80E24EA2868949ECC6878BFD"
     },
     "cell_type" : "code",
@@ -80,7 +80,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "CEBFFF79769A4E77A11BF8DB068454E4"
     },
     "cell_type" : "code",
@@ -96,7 +96,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "DD4F41176D2B4EEFAE850DB5AF815579"
     },
     "cell_type" : "code",
@@ -112,7 +112,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "6F6D9275B5E54FFAB770F4418BDF2554"
     },
     "cell_type" : "code",
@@ -128,7 +128,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "E31D0FA9B28249F08FA7C96F64EB2429"
     },
     "cell_type" : "code",
@@ -144,7 +144,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1357868862-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -164,7 +164,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab552129050-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -179,22 +179,22 @@
       "id" : "1F8D760BD9094A1C8956F0D9EF2AEE8D"
     },
     "cell_type" : "markdown",
-    "source" : "## Let's put together these initial steps to process other languages and compare the distributions\nDefine a method `letterFreq` that takes an `RDD[String]` and produces a sequence of pairs of a letter and its relative frequency"
+    "source" : "## Let's put together these initial steps to process other languages and compare the distributions\nDefine a method `letterFreq` that takes an `RDD[String]` and produces a sequence of pairs of a letter and its relative frequency alphabetically ordered\n(hint: It brings together the steps we took before)"
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "26429C6A81D24253AF14041AEB781E0F"
     },
     "cell_type" : "code",
-    "source" : "import java.lang.Character\nimport org.apache.spark.rdd.RDD\n  \ndef letterFreq(rdd: RDD[String]): Seq[(String, Double)] = {\n  val cleanedChars = rdd.flatMap(str => str).collect{case char if Character.isAlphabetic(char) => Character.toLowerCase(char)}\n  val total = cleanedChars.count\n  val freq = cleanedChars.keyBy(identity).countByKey()\n  // here we transform characters to String to help us with limited support for 'char' in Spark Datasets\n  val ordered = freq.map{case (k,v) => (k.toString, v.toDouble/total)}.toList.sortBy{case (k,v)=> k}\n  ordered\n}",
+    "source" : "import java.lang.Character\nimport org.apache.spark.rdd.RDD\n  \ndef letterFreq(rdd: RDD[String]): Seq[(String, Double)] = {\n  ???\n}",
     "outputs" : [ ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "74CE994500F4495B9B123B94D6AB99F5"
     },
     "cell_type" : "code",
@@ -204,7 +204,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "E21E00DDADFB43649D682F2E8807DAE4"
     },
     "cell_type" : "code",
@@ -220,7 +220,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "337B9750FD2C4E6880194D2B835B2D8A"
     },
     "cell_type" : "code",
@@ -236,7 +236,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "C0AA0B4BBA274409867FBF255D234787"
     },
     "cell_type" : "code",
@@ -246,7 +246,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "393F496631B549A583C26FE8AE7F850B"
     },
     "cell_type" : "code",
@@ -256,7 +256,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "770E09E738CD472A8047D1F6CBAA32F1"
     },
     "cell_type" : "code",
@@ -272,7 +272,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "944D0547A7CD437F97DC6248A324D550"
     },
     "cell_type" : "code",
@@ -282,7 +282,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "CAB89D26080541CA9731BADBC4876794"
     },
     "cell_type" : "code",
@@ -292,7 +292,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "A22112C532A34B759772E92B8770615A"
     },
     "cell_type" : "code",
@@ -314,7 +314,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "9657B6F72C124AB1A7A37F65B64A1E08"
     },
     "cell_type" : "code",
@@ -324,7 +324,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab170395340-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -344,7 +344,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "0B2E891AEBDF45B586683CB38E20464A"
     },
     "cell_type" : "code",
@@ -354,7 +354,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab526730756-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -368,7 +368,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab761691932-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -382,7 +382,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1993981453-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -396,7 +396,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab426369280-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -410,7 +410,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab544806057-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -424,7 +424,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1670149214-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -438,7 +438,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab433869420-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -470,7 +470,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "3C2764EC04334DB2880BFB48B85C638D"
     },
     "cell_type" : "code",
@@ -486,7 +486,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "63DA0724BCB445BB88F6E4ED9870D1EC"
     },
     "cell_type" : "code",
@@ -496,7 +496,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "E5D6B059731B4233B866337879946ED6"
     },
     "cell_type" : "code",
@@ -506,7 +506,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "6900F4E571094472A152E0575EC155C3"
     },
     "cell_type" : "code",
@@ -522,7 +522,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "06E7C327B8EB46D58FFFF77ACD2F7E7C"
     },
     "cell_type" : "code",
@@ -538,7 +538,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "17DE60116B3441F5A810DBE5C311C7A1"
     },
     "cell_type" : "code",
@@ -554,7 +554,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab89721165-2\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -568,7 +568,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "C7FA096B691745908DAF2989C95E7032"
     },
     "cell_type" : "code",
@@ -584,7 +584,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "B01DFDE685CC448A80F700BE22EED85E"
     },
     "cell_type" : "code",
@@ -600,7 +600,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "D50DD2D023FF46E0AFB93BC42C9D4528"
     },
     "cell_type" : "code",
@@ -616,7 +616,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1271576044-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -636,7 +636,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "AC749C8104F8439D9375F975288F412C"
     },
     "cell_type" : "code",
@@ -646,7 +646,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "305662E192844B5BBB621DED26100CF4"
     },
     "cell_type" : "code",
@@ -665,7 +665,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "id" : "5A8E8364FBE644CEAF55AE4FEC3CA126"
     },
     "cell_type" : "code",
@@ -681,7 +681,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab187936961-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -695,7 +695,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : false,
+      "collapsed" : true,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1857371598-2\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
