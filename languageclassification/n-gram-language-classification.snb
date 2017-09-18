@@ -32,12 +32,24 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "5AEA5BEEBE1C40E092C3E5047A2B40B7"
     },
     "cell_type" : "code",
     "source" : "val notebooksFolder = sys.env(\"NOTEBOOKS_DIR\")\nval baseFolder = s\"$notebooksFolder/languageclassification/data\"",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "notebooksFolder: String = /home/maasg/playground/sparkfun/spark-notebooks\nbaseFolder: String = /home/maasg/playground/sparkfun/spark-notebooks/languageclassification/data\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 1,
+      "time" : "Took: 1 second 121 milliseconds, at 2017-3-8 20:23"
+    } ]
   }, {
     "metadata" : {
       "id" : "CA507D56DB514C7DB9F2A27E8A3F3B06"
@@ -54,12 +66,24 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "717AFDC8FC7E41F48D347CD679151568"
     },
     "cell_type" : "code",
     "source" : "def ngrams(str: String): Seq[String] = {\n  ???\n}",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "ngrams: (str: String)Seq[String]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 2,
+      "time" : "Took: 757 milliseconds, at 2017-3-8 20:23"
+    } ]
   }, {
     "metadata" : {
       "id" : "A179A714477A4123821531902ADB4A60"
@@ -70,52 +94,72 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "BD3AD2AD45364D88863C5905219FEE6F"
     },
     "cell_type" : "code",
     "source" : "require(ngrams(\"a\") == Seq(\"a\"), \"should generate ngram for a single character\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  ... 63 elided\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "B84BA03733584C3788439F96F760DDB3"
     },
     "cell_type" : "code",
     "source" : "require(ngrams(\"abc\").toSet == Set(\"a\", \"b\", \"c\", \"_a\", \"ab\", \"bc\", \"c_\", \"_ab\", \"abc\", \"bc_\", \"c__\"), \"should generate ngram for multiple characters\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  ... 63 elided\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "B84BA03733584C3788439F96F760DDB3"
     },
     "cell_type" : "code",
     "source" : "require(ngrams(\"ABc\").toSet == Set(\"a\", \"b\", \"c\", \"_a\", \"ab\", \"bc\", \"c_\", \"_ab\", \"abc\", \"bc_\", \"c__\"), \"should use lowercase normalization\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  ... 63 elided\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "3CEDA5F0EB6242A7B12F44443A3660AD"
     },
     "cell_type" : "code",
     "source" : "require(ngrams(\"abc.1!!\").toSet == Set(\"a\", \"b\", \"c\", \"_a\", \"ab\", \"bc\", \"c_\", \"_ab\", \"abc\", \"bc_\", \"c__\"), \"should ignore numbers and punctuation\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  ... 63 elided\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "B84BA03733584C3788439F96F760DDB3"
     },
     "cell_type" : "code",
     "source" : "require(ngrams(\"a'b\").toSet == Set(\"a\",\"'\",\"b\",\"_a\",\"a'\",\"'b\",\"b_\",\"_a'\",\"a'b\",\"'b_\",\"b__\"), \"should preserve apostrophe\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  ... 63 elided\n"
+    } ]
   }, {
     "metadata" : {
       "id" : "C05149CBA39C4FA494549F5AC1537111"
@@ -126,32 +170,68 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "972FC34C458D451684639781F0DA02BA"
     },
     "cell_type" : "code",
     "source" : "val languages = Seq(\"en\", \"es\", \"it\", \"de\", \"fr\", \"nl\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "languages: Seq[String] = List(en, es, it, de, fr, nl)\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 8,
+      "time" : "Took: 533 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "337874E93D944AD78EDD1A011FBC6A97"
     },
     "cell_type" : "code",
     "source" : "val langDataset = languages.map{lang => (lang, sparkContext.textFile(baseFolder + s\"/$lang\"))}",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "langDataset: Seq[(String, org.apache.spark.rdd.RDD[String])] = List((en,/home/maasg/playground/sparkfun/spark-notebooks/languageclassification/data/en MapPartitionsRDD[1] at textFile at <console>:72), (es,/home/maasg/playground/sparkfun/spark-notebooks/languageclassification/data/es MapPartitionsRDD[3] at textFile at <console>:72), (it,/home/maasg/playground/sparkfun/spark-notebooks/languageclassification/data/it MapPartitionsRDD[5] at textFile at <console>:72), (de,/home/maasg/playground/sparkfun/spark-notebooks/languageclassification/data/de MapPartitionsRDD[7] at textFile at <console>:72), (fr,/home/maasg/playground/sparkfun/spark-notebooks/languageclassification/data/fr MapPartitionsRDD[9] at textFile at <console>:72), (nl,/home/maasg/playground/sparkfun/spark-notebooks/languageclas..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 9,
+      "time" : "Took: 1 second 16 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "16B3433D34A646BD8228926C0D615B60"
     },
     "cell_type" : "code",
     "source" : "val ngramsPerLanguage = langDataset.map{case (lang, rdd) => \n                                        val ng = rdd.flatMap(str => ngrams(str))\n                                        (lang, ng)\n                                       }",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "ngramsPerLanguage: Seq[(String, org.apache.spark.rdd.RDD[String])] = List((en,MapPartitionsRDD[12] at flatMap at <console>:77), (es,MapPartitionsRDD[13] at flatMap at <console>:77), (it,MapPartitionsRDD[14] at flatMap at <console>:77), (de,MapPartitionsRDD[15] at flatMap at <console>:77), (fr,MapPartitionsRDD[16] at flatMap at <console>:77), (nl,MapPartitionsRDD[17] at flatMap at <console>:77))\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 10,
+      "time" : "Took: 725 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "id" : "08E59B0F7B9B46058EDE0D992A98E42D"
@@ -162,7 +242,7 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab34508451-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -171,17 +251,25 @@
     },
     "cell_type" : "code",
     "source" : "val (lang, ng) = ngramsPerLanguage(0)\nval count= ng.count()\nng.sample(withReplacement = false, fraction = 0.007).take(20)",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "org.apache.spark.SparkException: Job aborted due to stage failure: Task 5 in stage 0.0 failed 1 times, most recent failure: Lost task 5.0 in stage 0.0 (TID 5, localhost, executor driver): scala.NotImplementedError: an implementation is missing\n\tat scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n\tat ngrams(<console>:68)\n\tat $anonfun$1$$anonfun$2.apply(<console>:77)\n\tat $anonfun$1$$anonfun$2.apply(<console>:77)\n\tat scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:434)\n\tat scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:440)\n\tat org.apache.spark.util.Utils$.getIteratorSize(Utils.scala:1760)\n\tat org.apache.spark.rdd.RDD$$anonfun$count$1.apply(RDD.scala:1157)\n\tat org.apache.spark.rdd.RDD$$anonfun$count$1.apply(RDD.scala:1157)\n\tat org.apache.spark.SparkContext$$anonfun$runJob$5.apply(SparkContext.scala:1944)\n\tat org.apache.spark.SparkContext$$anonfun$runJob$5.apply(SparkContext.scala:1944)\n\tat org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)\n\tat org.apache.spark.scheduler.Task.run(Task.scala:99)\n\tat org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:282)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\n\tat java.lang.Thread.run(Thread.java:745)\n\nDriver stacktrace:\n  at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1435)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1423)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1422)\n  at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)\n  at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)\n  at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1422)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:802)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:802)\n  at scala.Option.foreach(Option.scala:257)\n  at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:802)\n  at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1650)\n  at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1605)\n  at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1594)\n  at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)\n  at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:628)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1918)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1931)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1944)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1958)\n  at org.apache.spark.rdd.RDD.count(RDD.scala:1157)\n  ... 63 elided\nCaused by: scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  at $anonfun$1$$anonfun$2.apply(<console>:77)\n  at $anonfun$1$$anonfun$2.apply(<console>:77)\n  at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:434)\n  at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:440)\n  at org.apache.spark.util.Utils$.getIteratorSize(Utils.scala:1760)\n  at org.apache.spark.rdd.RDD$$anonfun$count$1.apply(RDD.scala:1157)\n  at org.apache.spark.rdd.RDD$$anonfun$count$1.apply(RDD.scala:1157)\n  at org.apache.spark.SparkContext$$anonfun$runJob$5.apply(SparkContext.scala:1944)\n  at org.apache.spark.SparkContext$$anonfun$runJob$5.apply(SparkContext.scala:1944)\n  at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)\n  at org.apache.spark.scheduler.Task.run(Task.scala:99)\n  at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:282)\n  at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)\n  at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\n  at java.lang.Thread.run(Thread.java:745)\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "838E0DFE209147148FFB931889ACDC1B"
     },
     "cell_type" : "code",
     "source" : "val ProfileCutPoint = 300\nval ngramFrequencyPerLanguage = ngramsPerLanguage.map{case (lang, ngramRDD) => \n                                                      val ngramFreq = ngramRDD.keyBy(identity)\n                                                                              .countByKey().toSeq\n                                                                              .sortBy(- _._2).take(ProfileCutPoint)\n                                                      (lang,ngramFreq)} ",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "org.apache.spark.SparkException: Job aborted due to stage failure: Task 7 in stage 1.0 failed 1 times, most recent failure: Lost task 7.0 in stage 1.0 (TID 17, localhost, executor driver): scala.NotImplementedError: an implementation is missing\n\tat scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n\tat ngrams(<console>:68)\n\tat $anonfun$1$$anonfun$2.apply(<console>:77)\n\tat $anonfun$1$$anonfun$2.apply(<console>:77)\n\tat scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:434)\n\tat scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:440)\n\tat scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:408)\n\tat scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:408)\n\tat org.apache.spark.util.collection.ExternalSorter.insertAll(ExternalSorter.scala:191)\n\tat org.apache.spark.shuffle.sort.SortShuffleWriter.write(SortShuffleWriter.scala:63)\n\tat org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:96)\n\tat org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:53)\n\tat org.apache.spark.scheduler.Task.run(Task.scala:99)\n\tat org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:282)\n\tat java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)\n\tat java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\n\tat java.lang.Thread.run(Thread.java:745)\n\nDriver stacktrace:\n  at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1435)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1423)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1422)\n  at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)\n  at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)\n  at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1422)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:802)\n  at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:802)\n  at scala.Option.foreach(Option.scala:257)\n  at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:802)\n  at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1650)\n  at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1605)\n  at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1594)\n  at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)\n  at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:628)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1918)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1931)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1944)\n  at org.apache.spark.SparkContext.runJob(SparkContext.scala:1958)\n  at org.apache.spark.rdd.RDD$$anonfun$collect$1.apply(RDD.scala:935)\n  at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)\n  at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)\n  at org.apache.spark.rdd.RDD.withScope(RDD.scala:362)\n  at org.apache.spark.rdd.RDD.collect(RDD.scala:934)\n  at org.apache.spark.rdd.PairRDDFunctions$$anonfun$countByKey$1.apply(PairRDDFunctions.scala:375)\n  at org.apache.spark.rdd.PairRDDFunctions$$anonfun$countByKey$1.apply(PairRDDFunctions.scala:375)\n  at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)\n  at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)\n  at org.apache.spark.rdd.RDD.withScope(RDD.scala:362)\n  at org.apache.spark.rdd.PairRDDFunctions.countByKey(PairRDDFunctions.scala:374)\n  at $anonfun$1.apply(<console>:81)\n  at $anonfun$1.apply(<console>:79)\n  at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)\n  at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)\n  at scala.collection.immutable.List.foreach(List.scala:381)\n  at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)\n  at scala.collection.immutable.List.map(List.scala:285)\n  ... 63 elided\nCaused by: scala.NotImplementedError: an implementation is missing\n  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)\n  at ngrams(<console>:68)\n  at $anonfun$1$$anonfun$2.apply(<console>:77)\n  at $anonfun$1$$anonfun$2.apply(<console>:77)\n  at scala.collection.Iterator$$anon$12.nextCur(Iterator.scala:434)\n  at scala.collection.Iterator$$anon$12.hasNext(Iterator.scala:440)\n  at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:408)\n  at scala.collection.Iterator$$anon$11.hasNext(Iterator.scala:408)\n  at org.apache.spark.util.collection.ExternalSorter.insertAll(ExternalSorter.scala:191)\n  at org.apache.spark.shuffle.sort.SortShuffleWriter.write(SortShuffleWriter.scala:63)\n  at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:96)\n  at org.apache.spark.scheduler.ShuffleMapTask.runTask(ShuffleMapTask.scala:53)\n  at org.apache.spark.scheduler.Task.run(Task.scala:99)\n  at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:282)\n  at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)\n  at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)\n  at java.lang.Thread.run(Thread.java:745)\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
@@ -195,32 +283,52 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "D51C9D94C3D44ABDA629FC599987D5A5"
     },
     "cell_type" : "code",
     "source" : "def visualize(languageNgrams:(String, Seq[(String, Long)])) = {\n  val (lang, ngramData) = languageNgrams\n  CustomPlotlyChart(ngramData,\n                  layout=s\"{title: 'ngram Frequency Distribution for language: ${lang}'}\",\n                  dataOptions=\"\"\"{type: 'bar'}\"\"\",\n                  dataSources=\"{x: '_1', y: '_2'}\")\n}",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "visualize: (languageNgrams: (String, Seq[(String, Long)]))notebook.front.widgets.charts.CustomPlotlyChart[Seq[(String, Long)]]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 13,
+      "time" : "Took: 709 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "60957B06324E499D85284E923E290925"
     },
     "cell_type" : "code",
     "source" : "@transient val viz1 = visualize(ngramFrequencyPerLanguage(0))\nviz1",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:69: error: not found: value ngramFrequencyPerLanguage\n       @transient val viz1 = visualize(ngramFrequencyPerLanguage(0))\n                                       ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "47B0BF8EED2E42858541608C812412D4"
     },
     "cell_type" : "code",
     "source" : "@transient val viz2 = visualize(ngramFrequencyPerLanguage(1))\nviz2",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:69: error: not found: value ngramFrequencyPerLanguage\n       @transient val viz2 = visualize(ngramFrequencyPerLanguage(1))\n                                       ^\n"
+    } ]
   }, {
     "metadata" : {
       "id" : "4FD3EE565A16475B98562286FE9C349C"
@@ -231,17 +339,21 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "CC945DCAE7C9441D80A1AD04CAA36DCC"
     },
     "cell_type" : "code",
     "source" : "val ngramModelPerLanguage = ngramFrequencyPerLanguage.map{case (lang, seqNgramFreq) => lang -> seqNgramFreq.map{case (ngram, freq) => ngram}.zipWithIndex.toMap}",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:67: error: not found: value ngramFrequencyPerLanguage\n       val ngramModelPerLanguage = ngramFrequencyPerLanguage.map{case (lang, seqNgramFreq) => lang -> seqNgramFreq.map{case (ngram, freq) => ngram}.zipWithIndex.toMap}\n                                   ^\n<console>:67: error: value map is not a member of Any\n       val ngramModelPerLanguage = ngramFrequencyPerLanguage.map{case (lang, seqNgramFreq) => lang -> seqNgramFreq.map{case (ngram, freq) => ngram}.zipWithIndex.toMap}\n                                                                                                                   ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab198841366-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -250,7 +362,11 @@
     },
     "cell_type" : "code",
     "source" : "val (lang, freq) = ngramModelPerLanguage(0)\nfreq.toSeq.sortBy{case (ngram, idx) => idx}",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:67: error: not found: value ngramModelPerLanguage\n       val (lang, freq) = ngramModelPerLanguage(0)\n                          ^\n<console>:70: error: value toSeq is not a member of Any\n       freq.toSeq.sortBy{case (ngram, idx) => idx}\n            ^\n"
+    } ]
   }, {
     "metadata" : {
       "id" : "36732A418AA240A38D3EAD4780853EC9"
@@ -261,12 +377,24 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "CF83DFCB586F4E008AF260C4D5B08C01"
     },
     "cell_type" : "code",
     "source" : "import org.apache.spark.ml.UnaryTransformer\nimport org.apache.spark.ml.util.Identifiable\nimport org.apache.spark.sql.types.{DataType, DataTypes}\n\nclass NgramLanguageClassifier(override val uid: String, model: Seq[(String, Map[String,Int])]) extends UnaryTransformer[String, String, NgramLanguageClassifier] with Serializable {\n  \n  val ProfileCutPoint = 300\n\n  val ngrams: String => Seq[String] = str => {\n    val cleaned = str.toLowerCase.replaceAll(\"[^A-zÀ-ÿ'’]+\", \"_\").reverse.dropWhile(_ == '_').reverse\n\n    def _ngram(n:Int) : Seq[String] = {\n      if (n == 1) {\n        cleaned.collect{case c if c != '_' => c.toString}\n      } else {\n        val padding = Seq.fill(n - 1)(\"_\").mkString(\"\")\n        val padded = \"_\" + cleaned + padding\n        padded.sliding(n,1).toSeq\n      }\n    }\n    (1 to Math.min(cleaned.size, 5)).flatMap(i => _ngram(i))\n  }\n  \n  val ngramProfile: Seq[String] => Seq[(Int, String)] = ngrams => {\n     ngrams\n    .groupBy(identity)\n    .map{case (k, col) => k -> col.size } // do not use mapValues -> evil\n    .toSeq\n    .sortBy(- _._2)\n    .take(ProfileCutPoint)\n    .zipWithIndex\n    .map{case ((k,_),idx) => (idx,k)}\n  }\n  \n  val classifier: String => String = txt => {\n    val profile = (ngrams andThen ngramProfile)(txt)\n    val scores = model.map{case (lang, ngramMap) => \n                                  lang -> profile.map{case (idx, ngram) => \n                                                      ngramMap.get(ngram)\n                                                              .map(refIdx => Math.abs(refIdx - idx))\n                                                              .getOrElse(ProfileCutPoint)\n                                                     }.sum\n                                 }\n    scores.minBy(_._2)._1  \n  }\n\n  override protected def createTransformFunc: String => String = classifier\n  \n  override protected def outputDataType: DataType = DataTypes.StringType\n\n  override protected def validateInputType(inputType: DataType): Unit = {\n    require(inputType == DataTypes.StringType, s\"Bad input type: $inputType. Requires String.\")\n  }\n}",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import org.apache.spark.ml.UnaryTransformer\nimport org.apache.spark.ml.util.Identifiable\nimport org.apache.spark.sql.types.{DataType, DataTypes}\ndefined class NgramLanguageClassifier\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 18,
+      "time" : "Took: 945 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "id" : "D9D56260FF2F4A22BEF38A8B9352C920"
@@ -277,12 +405,24 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "A8AC9E31E2DC4ADC8FF52D482D509C70"
     },
     "cell_type" : "code",
     "source" : "val testDataset = sparkSession.read.parquet(\"/tmp/testDataset\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "testDataset: org.apache.spark.sql.DataFrame = [language: string, textSize: int ... 1 more field]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 29,
+      "time" : "Took: 1 second 350 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "id" : "8B0782E51DF645A580C2455E4D012ACE"
@@ -293,41 +433,61 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "presentation" : {
-        "tabs_state" : "{\n  \"tab_id\": \"#tab489323878-0\"\n}",
+        "tabs_state" : "{\n  \"tab_id\": \"#tab1808148994-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
       },
       "id" : "F1F88D9A92E8470DAE4BEC3D7DD74A50"
     },
     "cell_type" : "code",
     "source" : "testDataset.sample(withReplacement = false, fraction = 0.0007).take(20)",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "res42: Array[org.apache.spark.sql.Row] = Array([de,12,bestimmungen], [de,83,für die gemeinsame außen und sicherheitspolitik gelten besondere bestimmungen und v], [de,76,der verträge erlassen werden dürfen keine harmonisierung der rechtsvorschrif], [de,18,h sicherstellen da], [de,14,exartikel  egv], [de,54,des sozialen schutzes zwischen den mitgliedstaaten und], [de,62,förderung eines für die zusammenarbeit zwischen unternehmen gü], [de,35,arbeitsweise der europäischen union], [de,16,artikel  artikel], [de,45,verwaltungsdaten händler sind zur meldung von], [de,52,artikel  des vertrags über die europäische union für], [de,8,zuhalten], [de,57,daher erkennt die union die nachstehend aufgeführten rech], [fr,95,présent protocole ces dispositions sont valables quelles que soient les règles dor..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : "<div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anona9dfa68a8472ed05ebe2f7719b8dc4fe&quot;,&quot;dataInit&quot;:[],&quot;genId&quot;:&quot;1808148994&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tabs'], \n      function(playground, _magictabs) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictabs,\n    \"o\": {}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n      <div>\n        <ul class=\"nav nav-tabs\" id=\"ul1808148994\"><li>\n              <a href=\"#tab1808148994-0\"><i class=\"fa fa-table\"/></a>\n            </li><li>\n              <a href=\"#tab1808148994-1\"><i class=\"fa fa-cubes\"/></a>\n            </li></ul>\n\n        <div class=\"tab-content\" id=\"tab1808148994\"><div class=\"tab-pane\" id=\"tab1808148994-0\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anond840801af75890b533bad9733a628560&quot;,&quot;dataInit&quot;:[{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:12,&quot;text&quot;:&quot;bestimmungen&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:83,&quot;text&quot;:&quot;für die gemeinsame außen und sicherheitspolitik gelten besondere bestimmungen und v&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:76,&quot;text&quot;:&quot;der verträge erlassen werden dürfen keine harmonisierung der rechtsvorschrif&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:18,&quot;text&quot;:&quot;h sicherstellen da&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:14,&quot;text&quot;:&quot;exartikel  egv&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:54,&quot;text&quot;:&quot;des sozialen schutzes zwischen den mitgliedstaaten und&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:62,&quot;text&quot;:&quot;förderung eines für die zusammenarbeit zwischen unternehmen gü&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:35,&quot;text&quot;:&quot;arbeitsweise der europäischen union&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:16,&quot;text&quot;:&quot;artikel  artikel&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:45,&quot;text&quot;:&quot;verwaltungsdaten händler sind zur meldung von&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:52,&quot;text&quot;:&quot;artikel  des vertrags über die europäische union für&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:8,&quot;text&quot;:&quot;zuhalten&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:57,&quot;text&quot;:&quot;daher erkennt die union die nachstehend aufgeführten rech&quot;},{&quot;language&quot;:&quot;fr&quot;,&quot;textSize&quot;:95,&quot;text&quot;:&quot;présent protocole ces dispositions sont valables quelles que soient les règles dorigine appliqu&quot;},{&quot;language&quot;:&quot;fr&quot;,&quot;textSize&quot;:39,&quot;text&quot;:&quot;la belgique précise que en vertu de son&quot;},{&quot;language&quot;:&quot;fr&quot;,&quot;textSize&quot;:1,&quot;text&quot;:&quot;t&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:57,&quot;text&quot;:&quot;c repartirse los mercados o las fuentes de abastecimiento&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:27,&quot;text&quot;:&quot;miento del mercado interior&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:47,&quot;text&quot;:&quot;numeración anterior del tratado constitutivo de&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:33,&quot;text&quot;:&quot;título relativo a los transportes&quot;}],&quot;genId&quot;:&quot;120596902&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/tableChart'], \n      function(playground, _magictableChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magictableChart,\n    \"o\": {\"headers\":[\"language\",\"textSize\",\"text\"],\"width\":600,\"height\":400}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n      <span class=\"chart-total-item-count\"><p data-bind=\"text: value\"><script data-this=\"{&quot;valueId&quot;:&quot;anon17b6771296fafcb4c634db92c7fcfe77&quot;,&quot;initialValue&quot;:&quot;20&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId, initialValue)\n    },\n    this\n  );\n});\n        /*]]>*/</script></p> entries total</span>\n      <span class=\"chart-sampling-warning\"><p data-bind=\"text: value\"><script data-this=\"{&quot;valueId&quot;:&quot;anon7ac4d0e34ea04725a9719bd09933635f&quot;,&quot;initialValue&quot;:&quot;&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId, initialValue)\n    },\n    this\n  );\n});\n        /*]]>*/</script></p></span>\n      <div>\n      </div>\n    </div></div>\n            </div><div class=\"tab-pane\" id=\"tab1808148994-1\">\n            <div>\n      <script data-this=\"{&quot;dataId&quot;:&quot;anon313d24d3419b6e408d9d68a73cdbf7d0&quot;,&quot;dataInit&quot;:[{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:12,&quot;text&quot;:&quot;bestimmungen&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:83,&quot;text&quot;:&quot;für die gemeinsame außen und sicherheitspolitik gelten besondere bestimmungen und v&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:76,&quot;text&quot;:&quot;der verträge erlassen werden dürfen keine harmonisierung der rechtsvorschrif&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:18,&quot;text&quot;:&quot;h sicherstellen da&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:14,&quot;text&quot;:&quot;exartikel  egv&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:54,&quot;text&quot;:&quot;des sozialen schutzes zwischen den mitgliedstaaten und&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:62,&quot;text&quot;:&quot;förderung eines für die zusammenarbeit zwischen unternehmen gü&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:35,&quot;text&quot;:&quot;arbeitsweise der europäischen union&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:16,&quot;text&quot;:&quot;artikel  artikel&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:45,&quot;text&quot;:&quot;verwaltungsdaten händler sind zur meldung von&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:52,&quot;text&quot;:&quot;artikel  des vertrags über die europäische union für&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:8,&quot;text&quot;:&quot;zuhalten&quot;},{&quot;language&quot;:&quot;de&quot;,&quot;textSize&quot;:57,&quot;text&quot;:&quot;daher erkennt die union die nachstehend aufgeführten rech&quot;},{&quot;language&quot;:&quot;fr&quot;,&quot;textSize&quot;:95,&quot;text&quot;:&quot;présent protocole ces dispositions sont valables quelles que soient les règles dorigine appliqu&quot;},{&quot;language&quot;:&quot;fr&quot;,&quot;textSize&quot;:39,&quot;text&quot;:&quot;la belgique précise que en vertu de son&quot;},{&quot;language&quot;:&quot;fr&quot;,&quot;textSize&quot;:1,&quot;text&quot;:&quot;t&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:57,&quot;text&quot;:&quot;c repartirse los mercados o las fuentes de abastecimiento&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:27,&quot;text&quot;:&quot;miento del mercado interior&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:47,&quot;text&quot;:&quot;numeración anterior del tratado constitutivo de&quot;},{&quot;language&quot;:&quot;es&quot;,&quot;textSize&quot;:33,&quot;text&quot;:&quot;título relativo a los transportes&quot;}],&quot;genId&quot;:&quot;925568409&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/req(['../javascripts/notebook/playground','../javascripts/notebook/magic/pivotChart'], \n      function(playground, _magicpivotChart) {\n        // data ==> data-this (in observable.js's scopedEval) ==> this in JS => { dataId, dataInit, ... }\n        // this ==> scope (in observable.js's scopedEval) ==> this.parentElement ==> div.container below (toHtml)\n\n        playground.call(data,\n                        this\n                        ,\n                        {\n    \"f\": _magicpivotChart,\n    \"o\": {\"width\":600,\"height\":400,\"derivedAttributes\":{},\"extraOptions\":{}}\n  }\n  \n                        \n                        \n                      );\n      }\n    );/*]]>*/</script>\n    <div>\n      <span class=\"chart-total-item-count\"><p data-bind=\"text: value\"><script data-this=\"{&quot;valueId&quot;:&quot;anon4f5e6fb98be0c243e820030188c33bee&quot;,&quot;initialValue&quot;:&quot;20&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId, initialValue)\n    },\n    this\n  );\n});\n        /*]]>*/</script></p> entries total</span>\n      <span class=\"chart-sampling-warning\"><p data-bind=\"text: value\"><script data-this=\"{&quot;valueId&quot;:&quot;anon7a23faa18fa76b27a140ebff7bb67519&quot;,&quot;initialValue&quot;:&quot;&quot;}\" type=\"text/x-scoped-javascript\">/*<![CDATA[*/\nreq(\n['observable', 'knockout'],\nfunction (O, ko) {\n  ko.applyBindings({\n      value: O.makeObservable(valueId, initialValue)\n    },\n    this\n  );\n});\n        /*]]>*/</script></p></span>\n      <div>\n      </div>\n    </div></div>\n            </div></div>\n      </div>\n    </div></div>"
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 30,
+      "time" : "Took: 1 second 230 milliseconds, at 2017-3-8 20:24"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "F4DE2804778E43B2B9899F846016ACF0"
     },
     "cell_type" : "code",
     "source" : "val ngramClassifier = new NgramLanguageClassifier(\"meetup-3\", ngramModelPerLanguage).setInputCol(\"text\").setOutputCol(\"lang_classification\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:73: error: not found: value ngramModelPerLanguage\n       val ngramClassifier = new NgramLanguageClassifier(\"meetup-3\", ngramModelPerLanguage).setInputCol(\"text\").setOutputCol(\"lang_classification\")\n                                                                     ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "0F59DB11C7B8428D8297AD7AE190FCE4"
     },
     "cell_type" : "code",
     "source" : "val testNgrams = ngramClassifier.transform(testDataset)",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:72: error: not found: value ngramClassifier\n       val testNgrams = ngramClassifier.transform(testDataset)\n                        ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab65780306-0\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -336,7 +496,11 @@
     },
     "cell_type" : "code",
     "source" : "testNgrams.sample(withReplacement = false, fraction = 0.0007).take(20)",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:72: error: not found: value testNgrams\n       testNgrams.sample(withReplacement = false, fraction = 0.0007).take(20)\n       ^\n<console>:72: error: not found: value withReplacement\n       testNgrams.sample(withReplacement = false, fraction = 0.0007).take(20)\n                         ^\n<console>:72: error: not found: value fraction\n       testNgrams.sample(withReplacement = false, fraction = 0.0007).take(20)\n                                                  ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
@@ -350,22 +514,30 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "D006282402E54FB59381D67F01A7CD08"
     },
     "cell_type" : "code",
     "source" : "val hitCol = when($\"language\" === $\"lang_classification\", 1L).otherwise(0L)\nval hits = testNgrams.withColumn(\"hit\", hitCol).withColumn(\"counter\", lit(1))",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:71: error: not found: value testNgrams\n       val hits = testNgrams.withColumn(\"hit\", hitCol).withColumn(\"counter\", lit(1))\n                  ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "168D5C3C6948474E80A19B2A947BB85B"
     },
     "cell_type" : "code",
     "source" : "val hitRatio = hits.select(sum($\"hit\")/sum($\"counter\")).head.getDouble(0)",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:70: error: not found: value hits\n       val hitRatio = hits.select(sum($\"hit\")/sum($\"counter\")).head.getDouble(0)\n                      ^\n"
+    } ]
   }, {
     "metadata" : {
       "id" : "463C11C1AD3F4C74BE6A5FFFBDCA249B"
@@ -376,12 +548,16 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "47338F59E76F49428888360854472B25"
     },
     "cell_type" : "code",
     "source" : "val hitRatioPerLength = hits.groupBy($\"textSize\").agg(sum($\"hit\")/sum($\"counter\")).orderBy($\"textSize\")",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:70: error: not found: value hits\n       val hitRatioPerLength = hits.groupBy($\"textSize\").agg(sum($\"hit\")/sum($\"counter\")).orderBy($\"textSize\")\n                               ^\n"
+    } ]
   }, {
     "metadata" : {
       "id" : "09EF9C2537244E83855D2C095462708B"
@@ -392,17 +568,21 @@
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "id" : "90090B0ECCAB4E388298E2A2FBC52ECF"
     },
     "cell_type" : "code",
     "source" : "val ds = hitRatioPerLength.as[(Long, Double)]",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:70: error: not found: value hitRatioPerLength\n       val ds = hitRatioPerLength.as[(Long, Double)]\n                ^\n"
+    } ]
   }, {
     "metadata" : {
       "trusted" : true,
       "input_collapsed" : false,
-      "collapsed" : true,
+      "collapsed" : false,
       "presentation" : {
         "tabs_state" : "{\n  \"tab_id\": \"#tab1098532669-2\"\n}",
         "pivot_chart_state" : "{\n  \"hiddenAttributes\": [],\n  \"menuLimit\": 200,\n  \"cols\": [],\n  \"rows\": [],\n  \"vals\": [],\n  \"exclusions\": {},\n  \"inclusions\": {},\n  \"unusedAttrsVertical\": 85,\n  \"autoSortUnusedAttrs\": false,\n  \"inclusionsInfo\": {},\n  \"aggregatorName\": \"Count\",\n  \"rendererName\": \"Table\"\n}"
@@ -411,7 +591,11 @@
     },
     "cell_type" : "code",
     "source" : "ds.collect",
-    "outputs" : [ ]
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:72: error: not found: value ds\n       ds.collect\n       ^\n"
+    } ]
   }, {
     "metadata" : {
       "id" : "495B406E742349B88B647F75398578AC"
