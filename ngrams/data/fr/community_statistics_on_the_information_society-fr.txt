@@ -1,0 +1,312 @@
+RÈGLEMENT (CE) No 808/2004 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 21 avril 2004
+concernant les statistiques communautaires sur la société de l'information
+(Texte présentant de l'intérêt pour l'EEE)
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE
+L'UNION EUROPÉENNE,
+vu le traité instituant la Communauté européenne, et notam-
+ment son article 285, paragraphe 1,
+vu la proposition de la Commission,
+statuant conformément à la procédure prévue à l'article 251
+du traité (1),
+considérant ce qui suit:
+(1) Le Conseil européen de Lisbonne de mars 2000 a fixé à
+l'Europe l'objectif de devenir dans un délai de dix ans
+l'économie fondée sur la connaissance la plus compéti-
+tive et la plus dynamique du monde.
+(2) Le plan d'action eEurope 2002 — adopté par le Conseil
+européen de Feira de juin 2000 — établit une méthode
+de définition d'objectifs et d'évaluation comparative
+visant à mettre l'Europe aussi rapidement que possible
+en ligne.
+(3) Le Conseil européen de Séville de juin 2002 a marqué
+son accord sur les objectifs du plan d'action eEurope
+2005, visant à l'établissement d'une base juridique per-
+mettant la collecte régulière de données comparables
+dans les États membres ainsi qu'un usage plus intensif
+des statistiques officielles sur la société de l'information.
+(4) Les indicateurs structurels utilisés dans le rapport annuel
+de printemps au Conseil européen nécessitent des indi-
+cateurs basés sur des informations statistiques cohéren-
+tes dans le domaine de la société de l'information.
+(5) La méthode d'évaluation comparative de l'Europe en
+ligne dans le cadre de la mise en œuvre des plans d'ac-
+tion eEurope requiert des indicateurs basés sur des infor-
+mations statistiques cohérentes dans le domaine de la
+société de l'information.
+(6) Les services de la Commission ont besoin annuellement
+de statistiques harmonisées sur l'utilisation des technolo-
+gies de l'information et de la communication (TIC) par
+les entreprises.
+(7) Les services de la Commission ont besoin annuellement
+de statistiques harmonisées sur l'utilisation des TIC par
+les particuliers et les ménages.
+(8) En raison des évolutions rapides dans le domaine de la
+société de l'information, les statistiques produites doivent
+s'adapter aux nouveaux développements. Ceci peut être
+réalisé en recourant à des modules d'une durée fixe et
+en permettant d'introduire des modifications par des
+mesures d'application, tenant compte des ressources des
+États membres et de la charge imposée aux répondants
+ainsi que de la faisabilité technique et méthodologique
+et de la fiabilité des résultats.
+(9) La production de statistiques communautaires spécifi-
+ques est régie par les règles fixées par le règlement (CE)
+no 322/97 du Conseil du 17 février 1997 relatif à la sta-
+tistique communautaire (2).
+(10) Étant donné que l'objectif de l'action envisagée, à savoir
+l'établissement d'un cadre commun pour la production
+systématique de statistiques communautaires sur la
+société de l'information, ne peut pas être réalisé de
+manière suffisante par les États membres et peut donc,
+en raison des dimensions ou des effets de l'action, être
+mieux réalisé au niveau communautaire, la Commu-
+nauté peut prendre des mesures conformément au prin-
+cipe de subsidiarité consacré à l'article 5 du traité.
+Conformément au principe de proportionnalité tel
+qu'énoncé audit article, le présent règlement n'excède
+pas ce qui est nécessaire pour atteindre cet objectif.
+(11) Les mesures requises pour la mise en œuvre du présent
+règlement devraient être adoptées conformément à la
+décision 1999/468/CE du Conseil du 28 juin 1999
+fixant les modalités de l'exercice des compétences d'exé-
+cution conférées à la Commission (3).
+(12) Le comité du programme statistique, établi par la déci-
+sion 89/382/CEE, Euratom du Conseil (4), a été consulté
+conformément à l'article 3 de celle-ci,
+(1) Avis du Parlement européen du 29 janvier 2004 (non encore paru
+au Journal officiel) et décision du Conseil du 16 avril 2004.
+(2) JO L 52 du 22.2.1997, p. 1. Règlement modifié par le règlement
+(CE) no 1882/2003 du Parlement européen et du Conseil (JO L 284
+du 31.10.2003, p. 1).
+(3) JO L 184 du 17.7.1999, p. 23.
+(4) JO L 181 du 28.6.1989, p. 47.
+30.4.2004 L 143/49Journal officiel de l'Union européenneFR
+ONT ARRÊTÉ LE PRÉSENT RÈGLEMENT:
+Article premier
+Objectif
+L'objectif du présent règlement est l'établissement d'un cadre
+commun pour la production systématique de statistiques com-
+munautaires sur la société de l'information.
+Article 2
+Définitions
+Aux fins du présent règlement, on entend par:
+a) «statistiques communautaires»: la signification donnée à
+cette expression à l'article 2 du règlement (CE) no 322/97;
+b) «production de statistiques»: la signification donnée à cette
+expression à l'article 2 du règlement (CE) no 322/97;
+c) «période d'observation»: la période à laquelle les données
+font référence;
+d) «année d'observation»: une période d'observation d'une
+année civile;
+e) «période de collecte»: une période, spécifiée dans les mesu-
+res d'application, durant laquelle il est procédé à une col-
+lecte de données.
+Article 3
+Portée
+1. Les statistiques à élaborer incluent des informations
+requises pour le processus d'évaluation comparative d'eEurope
+et utiles pour les indicateurs structurels ainsi que d'autres infor-
+mations nécessaires pour fournir une base uniforme à l'effet
+d'analyser la société de l'information.
+2. Les statistiques sont regroupées en modules, définis dans
+les annexes I et II.
+Article 4
+Modules
+Les modules prévus par le présent règlement couvrent les
+domaines suivants:
+— les entreprises et la société de l'information, selon la défini-
+tion figurant à l'annexe I,
+— les particuliers, les ménages et la société de l'information,
+selon la définition figurant à l'annexe II.
+Article 5
+Manuel méthodologique
+En étroite collaboration avec les États membres, la Commission
+établit, et actualise en fonction des besoins créés par de nouvel-
+les mesures d'application, un manuel méthodologique conte-
+nant les orientations recommandées en ce qui concerne les sta-
+tistiques communautaires produites en application du présent
+règlement.
+Article 6
+Transmission des données
+1. Les États membres transmettent à la Commission (Euro-
+stat) les données agrégées et les métadonnées requises par le
+présent règlement et ses mesures d'application, y compris les
+données agrégées confidentielles, conformément aux disposi-
+tions communautaires en vigueur concernant la transmission
+de données soumises à la confidentialité statistique. Ces dispo-
+sitions communautaires s'appliquent au traitement des résultats
+dans la mesure où ceux-ci incluent des données confidentielles.
+2. Les États membres transmettent les données et les méta-
+données requises par le présent règlement sous forme électroni-
+que, selon une norme d'échange convenue entre la Commis-
+sion et les États membres.
+Article 7
+Critères de qualité et rapports
+1. La Commission (Eurostat) évalue la qualité des données
+transmises.
+2. En étroite collaboration avec les États membres, la Com-
+mission (Eurostat) élabore des normes communes recomman-
+dées visant à garantir la qualité des données fournies (confor-
+mément aux critères de qualité standard d'Eurostat). Ces nor-
+mes sont publiées dans le manuel méthodologique.
+3. Les États membres prennent toutes les mesures nécessai-
+res pour assurer la qualité des données transmises.
+4. Dans un délai déterminé, courant à compter de la date
+limite de transmission des résultats finals, les États membres
+communiquent à la Commission (Eurostat) un rapport sur la
+qualité des données transmises conformément aux normes
+visées au paragraphe 2. Les rapports spécifient les cas dans les-
+quels les normes susvisées n'ont pas été respectées. Ce délai est
+convenu dans le cadre de l'élaboration des mesures d'applica-
+tion.
+L 143/50 30.4.2004Journal officiel de l'Union européenneFR
+Article 8
+Mesures d'application
+1. Les mesures d'application des modules prévus par le pré-
+sent règlement concernent les éléments suivants: sélection et
+spécification, adaptation ainsi que modification des thèmes et
+de leurs caractéristiques, couverture, périodes d'observation et
+ventilations des caractéristiques, périodicité et calendrier de
+communication des données ainsi que délais de transmission
+des résultats.
+2. Les mesures d'application, y compris les mesures d'adap-
+tation et de mise à jour pour tenir compte de changements
+économiques et techniques, sont fixées conformément à la pro-
+cédure visée à l'article 9, paragraphe 2, en tenant compte des
+ressources des États membres et de la charge imposée aux
+répondants ainsi que de la faisabilité technique et méthodologi-
+que et de la fiabilité des résultats.
+3. Les mesures d'application sont établies au moins neuf
+mois avant le début d'une période de collecte des données.
+Article 9
+Comité
+1. La Commission est assistée par le comité du programme
+statistique établi par la décision 89/382/CEE, Euratom, ci-après
+dénommé «comité».
+2. Dans le cas où il est fait référence au présent paragraphe,
+les articles 5 et 7 de la décision 1999/468/CE s'appliquent,
+dans le respect des dispositions de l'article 8 de celle-ci.
+La période prévue à l'article 5, paragraphe 6, de la décision
+1999/468/CE est fixée à trois mois.
+Article 10
+Financement
+1. Au moins pour la première année durant laquelle les sta-
+tistiques communautaires prévues par les mesures d'application
+adoptées en vertu du présent règlement sont produites par les
+États membres, la Commission apporte une contribution finan-
+cière aux États membres afin de les aider à couvrir les coûts
+qu'ils ont supportés pour la production, le traitement et la
+transmission de ces statistiques. Le montant de la contribution
+financière ne dépasse pas 90 % de ces coûts.
+2. Les conditions et procédures d'octroi de la contribution
+financière ainsi que de paiement et de contrôle de cette contri-
+bution sont conformes au règlement (CE, Euratom) no
+1605/2002 du Conseil du 25 juin 2002 portant règlement
+financier applicable au budget général des Communautés euro-
+péennes (1).
+3. Si les conditions budgétaires le permettent, la Commis-
+sion continue à octroyer une contribution financière aux États
+membres afin d'aider à compenser les coûts de la fourniture de
+ces statistiques durant les années suivantes.
+4. L'autorité budgétaire autorise les crédits disponibles pour
+ladite contribution financière dans le cadre des procédures bud-
+gétaires annuelles des Communautés européennes.
+Article 11
+Entrée en vigueur
+Le présent règlement entre en vigueur le vingtième jour suivant
+celui de sa publication au Journal officiel de l'Union européenne.
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans
+tout État membre.
+Fait à Strasbourg, le 21 avril 2004.
+Par le Parlement européen
+Le président
+P. COX
+Par le Conseil
+Le président
+D. ROCHE
+(1) JO L 248 du 16.9.2002, p. 1.
+30.4.2004 L 143/51Journal officiel de l'Union européenneFR
+ANNEXE I
+Module 1: les entreprises et la société de l'information
+a) Objectifs
+L'objectif du présent module est la fourniture en temps utile de statistiques sur les entreprises et la société de l'infor-
+mation. Le présent module fournit un cadre pour les exigences en matière de couverture, de durée et de périodicité,
+de thèmes couverts, de ventilations des données et d'études pilotes qui se révéleraient nécessaires.
+b) Couverture
+Le présent module couvre les activités des entreprises relevant des sections D à K et de la division 92 de la nomen-
+clature statistique des activités économiques dans la Communauté européenne (NACE Rév. 1.1). La section J sera
+ajoutée en fonction des résultats d'études pilotes préliminaires.
+Les statistiques seront élaborées pour des unités de type «entreprise».
+c) Durée et périodicité de la fourniture de données
+Les statistiques seront fournies annuellement pour un maximum de cinq années d'observation à partir de la date
+d'entrée en vigueur du présent règlement. Toutes les caractéristiques ne seront pas nécessairement fournies chaque
+année, la périodicité de la fourniture de chaque caractéristique sera spécifiée et convenue dans le cadre des mesures
+d'application visées à l'article 8.
+d) Thèmes couverts
+Les caractéristiques à fournir seront tirées de la liste de thèmes suivante:
+— les systèmes TIC et leur utilisation dans les entreprises,
+— l'utilisation d'Internet et d'autres réseaux électroniques par les entreprises,
+— le commerce en ligne et l'e-Business,
+— les compétences dans l'entreprise en matière de TIC et la demande de qualification en TIC,
+— les obstacles au recours aux TIC, à Internet et aux autres réseaux électroniques, au commerce électronique et à
+l'e-Business,
+— les dépenses et investissements en TIC,
+— la sécurité dans les TIC,
+— les effets perçus de l'utilisation des TIC sur les entreprises.
+Tous les thèmes ne seront pas nécessairement couverts chaque année.
+e) Ventilations des données
+Toutes les ventilations ne seront pas nécessairement fournies chaque année; les ventilations requises seront tirées de
+la liste suivante et convenues dans le cadre des mesures d'application:
+— par classe de taille,
+— par poste de la NACE,
+— par région: les ventilations régionales seront limitées à trois groupements au plus.
+L 143/52 30.4.2004Journal officiel de l'Union européenneFR
+f) Études pilotes
+Chaque fois que de nouvelles exigences importantes en matière de données sont identifiées ou qu'une qualité insuf-
+fisante des données est prévue, la Commission déterminera les études pilotes à réaliser sur une base volontaire par
+les États membres avant toute collecte de données. Ces études pilotes seront exécutées afin d'évaluer la faisabilité de
+la collecte des données en question, compte tenu des avantages que la disponibilité de celles-ci offrirait par rapport
+aux coûts de la collecte et à la charge imposée aux répondants.
+30.4.2004 L 143/53Journal officiel de l'Union européenneFR
+ANNEXE II
+Module 2: les particuliers, les ménages et la société de l'information
+a) Objectifs
+L'objectif du présent module est la fourniture en temps utile de statistiques sur les particuliers, les ménages et la
+société de l'information. Le présent module fournit un cadre pour les exigences en matière de couverture, de durée
+et de périodicité, de thèmes couverts, de ventilations des données et d'études pilotes qui se révéleraient nécessaires.
+b) Couverture
+Le présent module couvre les statistiques relatives aux particuliers et aux ménages.
+c) Durée et périodicité de la fourniture de données
+Ces statistiques seront fournies annuellement pour un maximum de cinq années d'observation à partir de la date
+d'entrée en vigueur du présent règlement. Toutes les caractéristiques ne seront pas nécessairement fournies chaque
+année, la périodicité de la fourniture de chaque caractéristique sera spécifiée et convenue dans le cadre des mesures
+d'application visées à l'article 8.
+d) Thèmes couverts
+Les caractéristiques à fournir seront tirées de la liste de thèmes suivante:
+— l'accès aux systèmes TIC et leur utilisation par les particuliers et/ou dans les ménages,
+— l'utilisation d'Internet à différentes fins par les particuliers et/ou dans les ménages,
+— la sécurité dans les TIC,
+— les compétences en matière de TIC,
+— les obstacles au recours aux TIC et à Internet,
+— les effets perçus de l'utilisation des TIC sur les particuliers et/ou les ménages.
+Tous les thèmes ne seront pas nécessairement couverts chaque année.
+e) Ventilations des données
+Toutes les ventilations ne seront pas nécessairement fournies chaque année, les ventilations requises seront tirées de
+la liste suivante et convenues dans le cadre des mesures d'application:
+A. En ce qui concerne les statistiques fournies pour les ménages:
+— par type de ménage
+B. En ce qui concerne les statistiques fournies pour les particuliers:
+— par classe d'âge,
+— par sexe,
+— par niveau d'éducation,
+— par situation d'emploi,
+— par région.
+L 143/54 30.4.2004Journal officiel de l'Union européenneFR
+f) Études pilotes
+Chaque fois que de nouvelles exigences importantes en matière de données sont identifiées ou qu'une qualité insuf-
+fisante des données est prévue, la Commission déterminera les études pilotes à réaliser sur une base volontaire par
+les États membres avant toute collecte de données. De telles études pilotes seront exécutées afin d'évaluer la faisabi-
+lité de la collecte des données en question, compte tenu des avantages que la disponibilité de celles-ci offrirait par
+rapport aux coûts de la collecte et à la charge imposée aux répondants.
+30.4.2004 L 143/55Journal officiel de l'Union européenneFR

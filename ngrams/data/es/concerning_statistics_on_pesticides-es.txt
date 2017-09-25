@@ -1,0 +1,1043 @@
+ 
+ES    ES 
+ 
+ 
+ 
+COMISIÓN 
+EUROPEA  
+Bruselas, 3.3.2017  
+COM(2017) 109 final 
+  
+INFORME DE LA COMISIÓN AL PARLAMENTO EUROPEO Y AL CONSEJO 
+sobre la aplicación del Reglamento (CE) n.º 1185/2009 del Parlamento Europeo y del 
+Consejo, de 25 de noviembre de 2009, relativo a las estadísticas de plaguicidas 
+ 
+ 
+2 
+ 
+1. INTRODUCCIÓN 
+El artículo 7 del Reglamento (CE) n.º 1185/2009 del Parlamento Europeo y del Consejo, 
+relativo a las estadísticas de plaguicidas (en lo sucesivo, «el Reglamento»)
+1
+, dispone lo 
+siguiente: 
+«La Comisión presentará un informe sobre la aplicación del presente Reglamento al 
+Parlamento Europeo y al Consejo cada cinco años. El informe evaluará sobre todo la calidad 
+de los datos transmitidos, tal como se establece en el artículo 4, los métodos de recogida de 
+datos, la carga para las empresas, las explotaciones agrícolas y las administraciones 
+nacionales y la utilidad de estas estadísticas en el contexto de la estrategia temática sobre el 
+uso sostenible de los plaguicidas, principalmente en relación con los objetivos fijados en el 
+artículo 1. El informe incluirá, si procede, propuestas para potenciar la mejora de la calidad 
+de los datos y de los métodos de recogida de datos, y así mejorar la cobertura y 
+comparabilidad de estos y reducir la carga para las empresas, las explotaciones agrícolas y las 
+administraciones nacionales. El primer informe se presentará a más tardar el 31 de diciembre 
+de 2016». 
+ 
+2. ALCANCE Y CONTENIDO 
+Con arreglo al artículo 2, letra a), del Reglamento, se entenderá por «plaguicidas» «los 
+productos fitosanitarios, tal como se definen en el artículo 2, apartado 1, del Reglamento 
+(CE) n.º 1107/2009»2 o «los biocidas, tal como se definen en el artículo 2, apartado 1, de la 
+Directiva 98/8/CE»3. El Reglamento establece que los Estados miembros deben transmitir 
+anualmente a la Comisión sus datos estadísticos relativos a los plaguicidas comercializados 
+cada año (estadísticas sobre la comercialización de plaguicidas). Asimismo, deben 
+proporcionar estadísticas quinquenales sobre los plaguicidas utilizados en la agricultura 
+(estadísticas sobre la utilización de plaguicidas). La información facilitada debe incluir los 
+datos confidenciales. Por otro lado, los Estados miembros también deben presentar a la 
+Comisión informes sobre la calidad de los datos transmitidos, cuya calidad ha de evaluar, a su 
+vez, la Comisión. 
+ 
+2.1. Estadísticas sobre la comercialización de plaguicidas 
+Por lo que respecta a los plaguicidas comercializados, el período de referencia es el año 
+natural. El primer período de referencia fue el segundo año natural siguiente al 30 de 
+diciembre de 2009. Los datos deben enviarse dentro de los doce meses siguientes al fin del 
+                                                            
+1 DO L 324 de 10.12.2009, p. 4. 
+2  Reglamento (CE) n.º 1107/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, 
+relativo a la comercialización de productos fitosanitarios y por el que se derogan las 
+Directivas 79/117/CEE y 91/414/CEE del Consejo (DO L 309 de 24.11.2009, p. 1). 
+3  DO L 123 de 24.4.1998, p. 1. La Directiva 98/8/CE ha sido derogada, con efectos a partir del 1 de 
+septiembre de 2013, por el Reglamento (UE) n.º 528/2012 del Parlamento Europeo y del Consejo, de 
+22 de mayo de 2012, relativo a la comercialización y el uso de los biocidas (DO L 167 de 27.6.2012, 
+p. 1). 
+Las referencias a la Directiva derogada se entenderán hechas al Reglamento (UE) n.º 528/2012. 
+ 
+ 
+3 
+ 
+año de referencia, mientras que los informes de calidad pueden presentarse hasta tres meses 
+después. Los datos y los informes de calidad transmitidos hasta la fecha abarcan los años de 
+referencia de 2011 a 2014, ambos inclusive. 
+ 
+2.2. Estadísticas sobre la utilización de plaguicidas 
+En cuanto a las estadísticas sobre la utilización de plaguicidas en la agricultura, el período de 
+referencia ha de ser un período de un máximo de doce meses dentro de cada quinquenio. El 
+primer quinquenio comenzó con el primer año natural siguiente al 30 de diciembre de 2009. 
+Estos datos e informes de calidad deben presentarse dentro de los doce meses siguientes al fin 
+de cada quinquenio. Por tanto, el plazo de transmisión de los datos e informes de calidad del 
+primer quinquenio (años de referencia de 2010 a 2014, ambos inclusive) finalizó en 
+diciembre de 2015. 
+ 
+La Comisión (Eurostat) debe agregar los datos de ambos conjuntos antes de publicarlos, 
+garantizando debidamente la protección de la información confidencial de los Estados 
+miembros, lo que implica que no puede confeccionar estadísticas específicas sobre las 
+distintas sustancias activas. 
+ 
+Los siguientes capítulos ofrecen una evaluación general de la calidad de los datos 
+transmitidos por los Estados miembros con respecto a la comercialización de plaguicidas. 
+Dicha evaluación ha sido elaborada a partir de los informes de calidad presentados por los 
+Estados miembros de conformidad con el artículo 4 del Reglamento. Los criterios de calidad 
+aplicados son los previstos en el artículo 12 (Calidad estadística), apartado 1, del Reglamento 
+(CE) n.º 223/2009
+4
+. Los informes de calidad de las estadísticas sobre la utilización de 
+plaguicidas no se han incluido en el análisis porque aún no ha finalizado su validación. 
+ 
+2.3. Métodos de recogida de datos y fuentes 
+En la mayoría de los veintiocho Estados miembros y Noruega, todos los datos primarios que 
+componen las estadísticas sobre la comercialización de plaguicidas proceden de fuentes 
+administrativas de comunicación obligatoria con arreglo a la legislación. Todos los países 
+salvo Dinamarca, Eslovenia y Noruega consideran confidencial toda la información relativa a 
+las personas encuestadas. La mayoría de los países carecen de bases de datos públicas y 
+suelen proporcionar datos agregados en publicaciones estadísticas o páginas web. En Bélgica 
+y Noruega pueden consultarse datos individuales previa solicitud. En cuanto a Suiza, disfruta 
+de una excepción y no hay informes de calidad disponibles. Para más información, véase el 
+anexo I. 
+                                                            
+4  Reglamento (CE) n.º 223/2009 del Parlamento Europeo y del Consejo, de 11 de marzo de 2009, 
+relativo a la estadística europea y por el que se deroga el Reglamento (CE, Euratom) n.º 1101/2008 
+relativo a la transmisión a la Oficina Estadística de las Comunidades Europeas de las informaciones 
+amparadas por el secreto estadístico, el Reglamento (CE) n.º 322/97 del Consejo sobre la estadística 
+comunitaria y la Decisión 89/382/CEE, Euratom del Consejo por la que se crea un Comité del 
+programa estadístico de las Comunidades Europeas (DO L 87 de 31.3.2009, p. 164). 
+ 
+ 
+4 
+ 
+ 
+2.4. Calidad de los datos transmitidos 
+Todos los Estados miembros, Suiza y Noruega cumplen los requisitos de cobertura y 
+actualidad de los datos transmitidos. La mayoría de los países presentan sus conjuntos de 
+datos puntualmente y responden con una actitud positiva de cooperación cuando se solicitan 
+nuevas comprobaciones o correcciones. 
+ 
+En cuanto a los principios de precisión, fiabilidad y comparabilidad, casi todos los países 
+afirmaron que, puesto que sus datos primarios sobre la comercialización de plaguicidas se 
+habían recabado a partir de fuentes administrativas o de titulares de autorizaciones, 
+consideraban que los datos comunicados eran precisos. Asimismo, los errores de muestreo no 
+eran pertinentes, ya que solo se recogían los valores administrativos reales y no se utilizaban 
+estimaciones ni muestras. No obstante, se empleaban distintos métodos de recogida de datos. 
+ 
+Así pues, la Comisión considera que al no haberse efectuado cálculos ni estimaciones de los 
+valores que las estadísticas debían medir, todos los datos primarios relativos a la 
+comercialización de plaguicidas son precisos y fiables y, por consiguiente, los datos 
+agregados sobre la comercialización de plaguicidas también se consideran precisos y fiables. 
+ 
+En general, la mayoría de los países declararon que habían tomado las siguientes medidas 
+cautelares para garantizar que sus datos tuvieran la calidad estadística exigida: 
+• revisiones y actualizaciones frecuentes de los cuestionarios utilizados; 
+• consideración de los problemas notificados y las recomendaciones formuladas por 
+las personas encuestadas en años anteriores; 
+• empleo de un directorio completo de productos autorizados; 
+• sometimiento de los datos a procesos internos de control de calidad; 
+• almacenamiento de los datos en entornos seguros siempre que estén amparados 
+por el secreto estadístico. 
+ 
+Los datos sobre la comercialización de plaguicidas ofrecen una estimación de calidad sobre la 
+cantidad total de productos plaguicidas comercializados a escala nacional y pueden mostrar 
+las tendencias en cuanto a nuevos tipos de plaguicidas, las cantidades de productos a lo largo 
+del tiempo y los consiguientes riesgos para las personas y el medio ambiente. Estas 
+estimaciones se podrían mejorar en un futuro haciendo una distinción entre autorizaciones 
+profesionales y de «uso doméstico y jardinería» (es decir, para fines agrícolas y no agrícolas, 
+respectivamente). También se podría contemplar la realización de controles adicionales de 
+calidad de los datos relativos a los volúmenes de existencias remanentes. Para más 
+información, véase el anexo II. 
+ 
+ 
+5 
+ 
+3. PERTINENCIA: UTILIDAD DE LOS DATOS ESTADÍSTICOS Y DIFUSIÓN 
+3.1. Información recibida de las partes interesadas 
+En las consultas con los servicios y agencias competentes de la Comisión se han expuesto las 
+siguientes líneas de reflexión fundamentales: 
+ 
+ Toda legislación en materia de estadísticas de plaguicidas debería incluir unos 
+indicadores armonizados de riesgo, que la Comisión ha de establecer con arreglo al 
+artículo 15 de la Directiva sobre el uso sostenible de los plaguicidas5, así como 
+facilitar el cálculo de tales indicadores «utilizando los datos estadísticos recogidos». 
+La tarea de recoger los datos estadísticos relativos a los plaguicidas no puede 
+considerarse totalmente independiente de la tarea de utilizar estos datos para calcular 
+el riesgo. Lo lógico sería que primero se conocieran los indicadores de riesgo, antes 
+de tomar ninguna decisión sobre los datos que han de recogerse a tal efecto. Se 
+considera necesario celebrar más debates y también se deberá consultar a los Estados 
+miembros en el contexto del grupo de trabajo de la Directiva sobre el uso sostenible 
+de los plaguicidas. 
+ Las partes interesadas proponen adaptar la legislación de modo que puedan publicarse 
+las cifras agregadas en un nivel inferior, ya que podrían ser necesarias para calcular 
+los indicadores de riesgo. Se han reconocido la dificultad y los costes que supone para 
+los Estados miembros recabar datos significativos sobre la utilización de plaguicidas 
+de los agricultores, así como la dificultad de acordar a escala de la UE los cultivos que 
+resultan pertinentes, puesto que pueden variar en gran medida entre las distintas zonas 
+climáticas de Europa. 
+ 
+ Los plaguicidas son una causa de contaminación y tienen consecuencias directas 
+especialmente en el estado de la biodiversidad, las masas de agua y los suelos. A fin 
+de garantizar que estas consecuencias se aborden de forma adecuada, es fundamental 
+que los responsables políticos puedan cuantificar el riesgo y el nivel de contaminación 
+por plaguicidas. Ello contribuiría asimismo a una mejor aplicación de los 
+instrumentos de política medioambiental vigentes y serviría para identificar las 
+lagunas existentes en ellos con objeto de hacer frente a las presiones 
+medioambientales ocasionadas por los plaguicidas. En la actualidad, las políticas 
+afectadas por las necesidades de datos son la Estrategia de la UE sobre la 
+Biodiversidad hasta 2020, la política agrícola común (PAC), la Directiva Marco del 
+Agua y la Estrategia temática para la protección del suelo.  
+ 
+ Las estadísticas de plaguicidas se encuentran demasiado agregadas para orientar 
+eficazmente la evaluación del riesgo medioambiental. Un análisis riguroso de los 
+efectos de la aplicación de plaguicidas en los ecosistemas requeriría disponer de datos 
+                                                            
+5  Directiva 2009/128/CE del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por la que se 
+establece el marco de la actuación comunitaria para conseguir un uso sostenible de los plaguicidas. 
+(DO L 309 de 24.11.2009, p. 71) 
+ 
+6 
+ 
+sobre las sustancias activas específicas que contienen los plaguicidas y los cultivos 
+concretos a los que se aplican, así como acerca de los tipos de ecosistemas en los que 
+se ubican tales cultivos. Los datos sobre las características peligrosas, como, por 
+ejemplo, las propiedades ecotoxicológicas, son específicos de las sustancias activas. 
+Por tanto, la única forma de combinar de manera eficaz los datos sobre las 
+características peligrosas y los datos sobre la exposición a fin de determinar el riesgo 
+es disponer de datos sobre las dosis empleadas de cada una de las sustancias activas 
+contenidas en los plaguicidas por cultivo, zona y tipo de ecosistema. Asimismo, sería 
+necesario aplicar métodos de evaluación del riesgo acumulativo que permitan 
+comprender cómo interactúan las mezclas de sustancias activas, protectores y 
+sinergistas para generar efectos combinados en los plaguicidas.  
+ 
+ El Reglamento no exige a los Estados miembros que proporcionen información sobre 
+el tipo de ecosistema en el que se aplican las sustancias. El impacto de las mezclas de 
+sustancias activas en el ecosistema que aloja un determinado cultivo depende de las 
+características de dicho ecosistema, incluidos los factores bióticos y abióticos. El 
+proyecto de cartografía y evaluación de los ecosistemas y sus servicios6 ofrece una 
+tipología acordada de ecosistemas, que podría servir de base a los Estados miembros 
+para la elaboración de informes sobre la aplicación de plaguicidas por tipo de 
+ecosistema y enriquecer nuestra comprensión de los riesgos que entrañan los 
+plaguicidas para el medio ambiente. En este sentido, es preciso llevar a cabo un 
+análisis riguroso de dichos riesgos que respalde la evaluación comparativa de 
+sustancias candidatas a la sustitución prevista en el artículo 50 del Reglamento (CE) 
+n.º 1107/2009, relativo a la comercialización de productos fitosanitarios, pero ello no 
+es posible con los datos de que se dispone en la actualidad. 
+ 
+ Si se presentaran unas estadísticas de plaguicidas lo suficientemente detalladas, 
+podrían resultar de suma utilidad para efectuar evaluaciones retrospectivas de los 
+niveles reales de riesgo que plantea la utilización general de plaguicidas en la UE, 
+tanto para la salud humana y animal como para el medio ambiente. Esto permitiría 
+que la estimación de las tendencias basadas en el riesgo complementara las basadas en 
+las ventas. Puesto que cada sustancia activa de los plaguicidas presenta un grado 
+diferente de toxicidad y de probabilidad de exposición, las tendencias basadas en el 
+riesgo que entrañan estas sustancias para la salud humana y animal y los distintos 
+grupos de organismos a los que no se destinan podrían resultar extremadamente útiles 
+para fundamentar las políticas de la UE en materia de salud pública, protección de los 
+consumidores, salud animal y protección del medio ambiente. Tales evaluaciones 
+complementarían las evaluaciones anuales del riesgo para los consumidores a partir 
+de los niveles de residuos de plaguicidas sometidos a control por los Estados 
+miembros. 
+ 
+                                                            
+6  http://biodiversity.europa.eu/maes 
+ 
+7 
+ 
+ El estudio de diferentes opciones de agregación, por ejemplo en función del grado de 
+toxicidad y de las modalidades de uso, permitiría alcanzar el equilibrio entre la 
+confidencialidad y la pertinencia o utilidad de los datos. Por consiguiente, se propone 
+celebrar un diálogo entre los servicios de la Comisión, las autoridades competentes y 
+las demás partes interesadas para estudiar las opciones que podrían ayudar a lograr la 
+máxima pertinencia y utilidad de los datos en el futuro. 
+ 
+3.2. Estudios sobre la utilización de plaguicidas fuera de la agricultura 
+Si bien la agricultura es probablemente el mayor y más evidente sector profesional que 
+emplea plaguicidas, hay otros usuarios profesionales o aficionados que también pueden 
+contribuir en mayor o menor medida a la cantidad total de plaguicidas utilizados. El informe 
+de calidad que acompañará los datos sobre la utilización de plaguicidas en la agricultura 
+prevé una comparación entre las cantidades de plaguicidas utilizados en la agricultura y la 
+cantidad total de plaguicidas comercializados. El Reglamento comprende tanto estadísticas 
+anuales sobre la comercialización de plaguicidas como estadísticas sobre la utilización de 
+plaguicidas en la agricultura. Sin embargo, existe una falta de coherencia entre ambos 
+conjuntos de datos, ya que no se dispone de información sobre los plaguicidas destinados a 
+usos no agrícolas. Este aspecto se señaló asimismo en las negociaciones previas a la 
+aprobación del Reglamento, lo que dio lugar a la adición del siguiente guion en el anexo II, 
+sección 6 (Informe de calidad), del Reglamento: «– una descripción breve de los usos 
+comerciales no agrícolas de los plaguicidas obtenida en el marco de los estudios piloto que 
+lleve a cabo la Comisión». 
+ 
+Figura 1. Resumen de los diferentes usos de los plaguicidas 
+ 
+ 
+ 
+ 
+ 
+En 2011 la Comisión concedió subvenciones a estudios piloto para determinar los usos no 
+agrícolas comerciales y no comerciales de los plaguicidas. Las subvenciones fueron 
+solicitadas por cinco países (Bélgica, Italia, Lituania, Letonia y Rumanía). Además, la 
+Comisión tiene conocimiento de que los Países Bajos y el Reino Unido han llevado a cabo 
+dichos estudios. 
+ 
+Todos los usos de los plaguicidas 
+Usos profesionales  Usos no profesionales 
+Usos agrícolas Usos no agrícolas 
+ 
+8 
+ 
+Los estudios piloto se centraron en sectores tales como: 
+- zonas ajardinadas o jardines, zonas de recreo al aire libre, parques; 
+- zonas e instalaciones deportivas y de recreo; 
+- ferrocarriles; 
+- carreteras y autopistas; 
+- aeropuertos y puertos marítimos; 
+- yacimientos arqueológicos; 
+- horticultores y aficionados a la agricultura; 
+- bosques públicos; 
+- parques y jardines; 
+- otros. 
+ 
+A continuación se exponen las principales conclusiones extraídas de los estudios piloto y de 
+actuaciones anteriores: 
+1. existe una enorme variedad de modalidades de uso no agrícola de los plaguicidas 
+entre los Estados miembros e incluso entre distintas regiones nacionales; 
+2. pueden identificarse una serie de sectores principales de uso, que comparten la 
+mayoría de los Estados miembros; 
+3. los usos predominantes se asocian a una lista limitada de sustancias activas; 
+4. los distintos sectores de uso requieren diferentes métodos de recogida de datos o 
+una combinación de métodos. 
+ 
+Aparte de la aparente diversidad de situaciones nacionales o regionales, hay una serie de 
+agentes importantes que están presentes en todos los Estados miembros y que deberían ser la 
+base de todos los estudios sobre la utilización de plaguicidas en sectores no agrícolas. Estos 
+son: 
+1. las zonas residenciales (incluidos el uso doméstico y la jardinería); 
+2. los espacios públicos (incluidos los campos de golf); 
+3. los polígonos industriales; 
+4. las infraestructuras; 
+5. los bosques. 
+ 
+Dichos sectores de actividad deberían constituir ámbitos prioritarios de actuación y servir de 
+base para la comparación de estadísticas sobre los usos no agrícolas de los plaguicidas entre 
+Estados miembros o regiones. 
+ 
+3.3. Ampliación del ámbito de aplicación del Reglamento 
+El considerando 5 del Reglamento anticipa que su ámbito de aplicación se ampliará para 
+incluir los biocidas. En su informe7 sobre el uso sostenible de los biocidas, la Comisión ha 
+sostenido que no parece apropiado simplemente ampliar a los biocidas el ámbito de 
+                                                            
+7 COM (2016) 151 
+(http://ec.europa.eu/health/biocides/docs/2016_report_sustainableuse_biocides_en.pdf.) 
+ 
+9 
+ 
+aplicación de la Directiva sobre el uso sostenible de los plaguicidas. Por este motivo, la 
+Comisión también considera innecesario ampliar el ámbito de aplicación del Reglamento a 
+los biocidas, aunque esta fuera la intención inicial. 
+ 
+4. COSTES Y CARGA 
+Los costes y la carga administrativa que suponen los estudios dependen en gran medida del 
+método escogido para su realización. 
+ 
+Las estadísticas sobre la comercialización de plaguicidas de muchos Estados miembros se 
+basan en los datos administrativos que obran en poder de las autoridades competentes en 
+materia de plaguicidas o de los titulares de autorizaciones (véase el anexo I). Esto quiere 
+decir que los costes están ligados al contacto con las autoridades o con el frecuentemente 
+escaso número de titulares de autorizaciones para solicitar los datos pertinentes y al posterior 
+tratamiento de estos datos. Si bien no todos los Estados miembros disponen de cifras reales, 
+se ha informado de que el número de días hábiles dedicados a estas tareas y los costes 
+efectivos conexos son casi siempre bastante bajos. Según la información facilitada, los costes 
+y la carga que asumen las unidades declarantes son bastante razonables, ya que los datos 
+solicitados han de registrarse de todos modos con arreglo a lo dispuesto en el Reglamento 
+(CE) n.º 1107/2009.  
+ 
+Las estadísticas sobre la utilización de plaguicidas exigen que la información se registre en 
+las explotaciones agrícolas, lo que genera una mayor carga. Ello implica la creación de una 
+muestra, la elaboración de cuestionarios y el envío de cartas o de encuestadores a domicilio 
+en caso de no disponer de un sistema electrónico de recogida de datos. Los costes totales 
+dependen en gran medida del método escogido, como también pone de manifiesto la 
+información transmitida a la Comisión. Los informes no permiten extraer conclusiones 
+directas sobre los costes ocasionados porque no aportan información suficientemente 
+detallada a tal efecto.  
+ 
+Como ya se ha explicado anteriormente, en la mayoría de los países la información procede 
+directamente de los agricultores. En virtud del Reglamento (CE) n.º 1107/2009, los usuarios 
+profesionales (agricultores o empresarios) deben llevar un registro de la utilización de 
+plaguicidas, de modo que deberían poder acceder fácilmente a esta información cuando 
+tengan que responder a las preguntas del encuestador o rellenar el cuestionario 
+correspondiente. Esto se refleja en los informes de calidad, de los que en muchos casos se 
+desprende que las explotaciones agrícolas necesitan poco tiempo —entre quince minutos y un 
+par de horas por encuesta (cada cinco años)— para realizar la encuesta. 
+ 
+5. EXPERIENCIA DEL PRIMER QUINQUENIO 
+Los datos sobre la comercialización de plaguicidas llevan transmitiéndose anualmente desde 
+diciembre de 2012 (datos de 2011). Pese a los problemas técnicos experimentados al 
+ 
+10 
+ 
+principio en la Comisión, los procesos han madurado y ya funcionan correctamente. Los 
+primeros datos sobre la utilización de plaguicidas en la agricultura se transmitieron a la 
+Comisión a finales de 2015. Dado el ingente volumen de datos complejos, hasta la fecha no 
+ha sido posible concluir su tratamiento, por lo que aún no se han puesto a disposición de los 
+usuarios y, por consiguiente, no se ha podido llevar a cabo ninguna evaluación de su utilidad. 
+Pese a ello, más adelante se exponen algunas deficiencias observadas y se formulan una serie 
+de recomendaciones al respecto. 
+ 
+5.1. Disponibilidad de datos detallados sobre los plaguicidas 
+El Reglamento prohíbe la divulgación de datos sobre sustancias activas concretas. De 
+conformidad con el artículo 3, apartado 4: «Por motivos de confidencialidad, antes de 
+publicar los datos, la Comisión (Eurostat) los agregará con arreglo a la clasificación química 
+o a las categorías de productos que se indican en el anexo III, teniendo debidamente en 
+cuenta el nivel de protección de la información confidencial en el Estado miembro interesado. 
+Las autoridades nacionales y la Comisión (Eurostat) únicamente podrán utilizar los datos 
+confidenciales para la elaboración de estadísticas, de conformidad con el artículo 20 del 
+Reglamento (CE) n.º 223/2009». 
+ 
+Por tanto, la Comisión no puede publicar datos sobre las distintas sustancias activas. Además, 
+los datos agregados no siempre pueden difundirse si existe un riesgo directo o indirecto de 
+que se identifiquen las unidades estadísticas, ya que la norma general en estadística es 
+proteger la confidencialidad de los datos. 
+ 
+Si las estadísticas sobre la comercialización se elaborasen a partir de datos recabados de los 
+minoristas, habría un elevado número de unidades estadísticas, lo que daría escasos motivos 
+para preocuparse por la confidencialidad de la información. Sin embargo, se ha observado 
+que casi todos los Estados miembros recaban los datos directamente de los titulares de 
+autorizaciones, ya sea en forma de datos administrativos transmitidos a las autoridades 
+competentes en materia de plaguicidas o a través de un cuestionario. En la mayoría de los 
+casos, esto da lugar a la existencia de un único proveedor de datos sobre sustancias activas, lo 
+que hace que la información sea de carácter confidencial. El hecho de que haya numerosas 
+categorías para un número reducido de sustancias o de que muchas sustancias de un 
+determinado grupo tengan un mismo productor o importador ha provocado que una cantidad 
+significativa de los datos agregados en niveles superiores también sean confidenciales. La 
+Comisión considera que los países recogen de forma satisfactoria y le trasmiten los datos de 
+comercialización que exige legalmente el Reglamento. Asimismo, considera que la calidad 
+general de los datos es buena. No obstante, la aplicación de las normas de confidencialidad a 
+una parte considerable de los datos resta valor a la información estadística proporcionada a 
+los usuarios. Así pues, no cabe asumir que el Reglamento satisfaga adecuadamente las 
+necesidades de los usuarios. 
+ 
+11 
+ 
+5.2. Estadísticas sobre la comercialización de plaguicidas 
+Comparar las ventas de plaguicidas entre los distintos países y a lo largo de los años no es 
+una tarea sencilla, ya que factores externos como las condiciones climáticas, el estado de los 
+suelos y los métodos de producción pueden ejercer una gran influencia en los tipos y 
+volúmenes de plaguicidas necesarios. 
+ 
+El lugar en que se vende un producto puede no coincidir con el lugar en que finalmente se 
+aplica, y los minoristas de países vecinos también pueden vender plaguicidas directamente a 
+los agricultores. Puede que estos casos representen una pequeña fracción de la venta total de 
+plaguicidas, pero estas cantidades no se reflejan correctamente en las estadísticas sobre la 
+comercialización. Por otro lado, puede transcurrir cierto tiempo entre la venta del plaguicida 
+y su utilización, dependiendo de si se compra para reponer existencias o para uso directo. 
+ 
+A muchos usuarios les gustaría obtener datos detallados sobre los volúmenes vendidos de 
+cada sustancia activa, pero ni la Comisión ni los institutos nacionales de estadística pueden 
+facilitar esta información sin contravenir el Reglamento y las normas de confidencialidad. 
+ 
+Tal como se ha descrito anteriormente, el Reglamento es muy restrictivo en cuanto a la forma 
+en que la Comisión puede difundir los datos. Todos ellos han de agregarse en categorías y 
+grupos, independientemente de si los Estados miembros los consideran confidenciales o no. 
+Además, la Comisión no puede desviarse de la clasificación prevista en el anexo III del 
+Reglamento.  
+ 
+Dado que los usuarios suelen interesarse por determinadas sustancias activas o grupos de 
+sustancias que se apartan de la clasificación preestablecida, el Reglamento podría 
+considerarse demasiado restrictivo y no permite llevar a cabo los análisis oportunos. Un buen 
+ejemplo son los recientes debates sobre los neonicotinoides, el grupo de plaguicidas que 
+pueden resultar perjudiciales para las abejas. No todas las sustancias activas contenidas en 
+estos plaguicidas pertenecen a la misma clasificación química del anexo III, por lo que la 
+Comisión no ha podido proporcionar todos los datos pertinentes a los responsables políticos.  
+ 
+El Reglamento estipula que la única magnitud que debe utilizarse es la masa, pero los 
+plaguicidas biológicos no deben expresarse en unidades de masa sino en «unidades 
+formadoras de colonias». Esta situación resulta problemática tanto para los proveedores de 
+datos como para sus usuarios, pues los datos facilitados carecen de sentido o deben 
+transformarse antes de poder ser transmitidos y utilizados. Se trata de un aspecto puramente 
+técnico que ha de abordarse en mayor profundidad. 
+ 
+5.3. Estadísticas sobre la utilización de plaguicidas 
+El Reglamento dispone que, por lo que respecta a las estadísticas sobre la utilización de 
+plaguicidas en la agricultura, cada Estado miembro determinará la selección de cultivos que 
+deba quedar cubierta durante el quinquenio y dicha selección deberá ser representativa de los 
+ 
+12 
+ 
+cultivos del Estado miembro y de las sustancias utilizadas. Asimismo, la selección 
+comprenderá los cultivos más pertinentes en los planes de acción nacionales sobre 
+plaguicidas. Sin embargo, como los planes de acción nacionales no siempre contienen 
+referencias a los cultivos más pertinentes, la elección de cultivos ha sido bastante diversa, por 
+lo que existe el riesgo de que no se puedan comparar plenamente los datos relativos a la 
+utilización de plaguicidas en cultivos entre los distintos países.   
+ 
+El período de referencia ha de ser un período de un máximo de doce meses que comprenda 
+todos los tratamientos fitosanitarios asociados directa o indirectamente al cultivo durante el 
+quinquenio correspondiente. Los Estados miembros podrán escoger como período de 
+referencia cualquier período dentro del quinquenio y la elección podrá hacerse de forma 
+independiente para cada cultivo seleccionado. Esto ha dado lugar a la elección de diferentes 
+períodos de referencia en cada país, lo que probablemente imposibilitará la comparación de 
+los datos facilitados por los distintos países con respecto al mismo año, y la determinación de 
+resultados a escala de la UE. 
+ 
+6. PROPUESTAS DE FUTURAS MEJORAS 
+Habida cuenta de la opinión de las partes interesadas pertinentes, la Comisión considera 
+importante seguir adaptando la legislación relativa a la comercialización de plaguicidas con el 
+fin de que todos los datos que no sean confidenciales puedan ponerse a disposición del 
+público tanto con respecto a cada sustancia activa como en diferentes formas de agregación.  
+ 
+La Comisión concede la misma importancia a seguir adaptando la legislación relativa a las 
+estadísticas sobre la utilización de plaguicidas con miras a garantizar un planteamiento y una 
+cobertura más coherentes entre los Estados miembros. En este sentido, podrían establecerse 
+unos períodos de referencia comunes y unos requisitos claros de cobertura con respecto a los 
+cultivos que deban examinarse. Las normas de cobertura podrían basarse en las estadísticas 
+de producción de cultivos (se podría abarcar un determinado porcentaje de cultivos herbáceos 
+y permanentes) y en los análisis de los posibles riesgos para el medio ambiente y la salud 
+humana, en función de las ventas de sustancias activas. Estas normas se formularían en 
+estrecha colaboración entre los servicios y agencias competentes de la Comisión y expertos 
+nacionales. 
+ 
+Por último, la Comisión ha elaborado junto a las partes interesadas una estrategia en materia 
+de estadísticas agrícolas para 2020 y años posteriores8, que propone agrupar todas las 
+estadísticas agrícolas, salvo las cuentas económicas de la agricultura, en dos reglamentos 
+marco. La Comisión recomienda encarecidamente que las estadísticas de plaguicidas se 
+fusionen también con los demás ámbitos de las estadísticas agrícolas.  
+                                                            
+8  Estrategia en materia de estadísticas agrícolas para 2020 y años posteriores – Final (inglés). 
+ 
+13 
+ 
+ANEXO I 
+La información contenida en el presente anexo se basa en los informes de calidad 
+nacionales presentados por los distintos países de conformidad con el Reglamento. 
+ 
+AUTORIDADES NACIONALES 
+COMPETENTES EN MATERIA DE 
+COMERCIALIZACIÓN DE 
+PLAGUICIDAS 
+MÉTODOS DE RECOGIDA DE DATOS RELATIVOS A LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+BE 
+Servicio Público Federal de Salud 
+Pública, Seguridad de la Cadena 
+Alimentaria y Medio Ambiente 
+Datos administrativos; se exige a los titulares de 
+autorizaciones (productores, importadores y exportadores) 
+que declaren las cantidades comercializadas. 
+BG 
+Ministerio de Agricultura y 
+Alimentación 
+Datos administrativos basados en las declaraciones 
+presentadas por los distribuidores autorizados. 
+CZ Oficina Estadística Checa 
+Datos administrativos; los empresarios que comercializan 
+productos o los almacenan para su exportación a terceros 
+países tienen la obligación de informar al Instituto Central 
+de Inspección y Examen Agrícolas (ÚKZÚZ). La recogida de 
+datos se efectúa por vía telemática o mediante 
+cuestionarios impresos.  
+DK 
+Agencia para la Protección del 
+Medio Ambiente, Ministerio de 
+Medio Ambiente y Alimentación 
+Datos administrativos; los titulares de autorizaciones 
+daneses están obligados a presentar informes por vía 
+telemática y los extranjeros por correo electrónico. 
+DE 
+Oficina Federal de Protección del 
+Consumidor y Seguridad 
+Alimentaria (BVL) 
+Datos administrativos; se exige a los titulares de 
+autorizaciones (incluidos los titulares de permisos de 
+comercio paralelo), fabricantes y distribuidores que 
+declaren las cantidades vendidas a escala nacional o 
+exportadas, incluidas las ventas para situaciones de 
+emergencia. 
+EE Oficina de Estadísticas de Estonia 
+Encuesta censal a todos los importadores y proveedores 
+mediante aplicación web o encuesta por correo postal. 
+IE 
+Ministerio de Agricultura, 
+Alimentación y Medio Marino 
+Los datos se recogen a través de censos. Los datos 
+administrativos proceden de todos los titulares de 
+autorizaciones de productos y empresas comercializadoras. 
+EL 
+Autoridad Estadística Helénica 
+(ELSTAT) 
+Encuesta estadística por correo postal o electrónico 
+realizada por el Ministerio de Desarrollo Rural y 
+Alimentación a todos los vendedores del territorio nacional. 
+Desde 2014, los vendedores tienen la obligación de registrar 
+los datos en línea.  
+ 
+14 
+ 
+ 
+AUTORIDADES NACIONALES 
+COMPETENTES EN MATERIA DE 
+COMERCIALIZACIÓN DE 
+PLAGUICIDAS 
+MÉTODOS DE RECOGIDA DE DATOS RELATIVOS A LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+ES 
+Ministerio de Agricultura y Pesca, 
+Alimentación y Medio Ambiente 
+Cuestionario o encuesta por vía electrónica (dentro o fuera 
+del territorio nacional) a los titulares de autorizaciones y a 
+los cesionarios de derechos de comercialización. Los datos 
+administrativos son facilitados por la Subdirección General 
+de Sanidad e Higiene Vegetal y Forestal. 
+FR 
+Ministerio de Agricultura, 
+Alimentación y Bosques 
+Datos administrativos; los distribuidores tienen la obligación 
+de declarar sus ventas a las sociedades de aguas y estos 
+datos son posteriormente tratados por el Ministerio de 
+Medio Ambiente. 
+HR Instituto Croata de Estadística  
+Datos administrativos; corresponde al Ministerio de 
+Agricultura recabar datos de los distribuidores y puntos de 
+venta. 
+IT 
+Instituto Nacional de Estadística 
+de Italia (ISTAT) 
+Encuesta censal por correo postal a todos los distribuidores.  
+CY 
+Servicio Estadístico de Chipre 
+(CYSTAT) 
+Cuestionario o encuesta por correo postal o electrónico a 
+los proveedores.   Los datos administrativos son facilitados 
+por el Ministerio de Agricultura. 
+LV 
+Servicio Fitosanitario Estatal de 
+Letonia (VAAD) 
+Encuesta general (en papel o en formato electrónico) a 
+todos los distribuidores. 
+LT Oficina de Estadísticas de Lituania 
+Encuesta general a todos los productores y titulares de 
+autorizaciones. 
+LU 
+Instituto Nacional de Estadísticas 
+y Estudios Económicos (STATEC) 
+Censo de vendedores (minoristas o mayoristas) y 
+cooperativas. 
+HU 
+Oficina Central de Estadística de 
+Hungría 
+La Oficina Nacional de Seguridad de la Cadena Alimentaria 
+(Ministerio de Desarrollo Rural) recoge los datos de los 
+titulares de autorizaciones.  
+MT 
+Instituto Nacional de Estadística 
+(NSO) 
+Encuesta censal en línea a los importadores autorizados. 
+NL 
+Oficina Central de Estadística de 
+los Países Bajos 
+Datos administrativos obtenidos de la Oficina de Sanidad 
+Vegetal (NVWA). 
+ 
+15 
+ 
+ 
+AUTORIDADES NACIONALES 
+COMPETENTES EN MATERIA DE 
+COMERCIALIZACIÓN DE 
+PLAGUICIDAS 
+MÉTODOS DE RECOGIDA DE DATOS RELATIVOS A LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+AT 
+Oficina de Estadísticas de Austria 
+(STAT), Agencia Austriaca de 
+Salud y Seguridad Alimentaria 
+(AGES) 
+Autorización; los titulares de autorizaciones y los 
+distribuidores tienen la obligación de comunicar los datos a 
+la Oficina Federal Austriaca de Seguridad Alimentaria. 
+PL Oficina Central de Estadística 
+Encuesta general llevada a cabo en cooperación con el 
+Ministerio de Agricultura y Desarrollo Rural y con el 
+Instituto de Sanidad Vegetal – Instituto Nacional de 
+Investigación. 
+PT 
+Instituto Nacional de Estadística 
+(INE), Dirección General de 
+Alimentación y Veterinaria 
+(DGAV) 
+Los datos administrativos se obtienen de la Dirección 
+General de Alimentación y Veterinaria (Direção Geral de 
+Alimentação e Veterinária, DGAV).  
+RO Instituto Nacional de Estadística 
+Encuesta censal basada en entrevistas personales y llevada 
+a cabo en cooperación con el Ministerio de Agricultura y 
+Desarrollo Rural (Agencia Nacional Fitosanitaria). Abarca 
+unidades de venta certificadas, agentes económicos y 
+personas físicas. 
+SI 
+Oficina Estadística de la República 
+de Eslovenia 
+Los datos administrativos se comunican a la Administración 
+de la República de Eslovenia para la Seguridad Alimentaria, 
+la Medicina Veterinaria y la Sanidad Vegetal (UVHVVR). 
+SK 
+Oficina Estadística de la República 
+Eslovaca (ŠÚSR) 
+Datos administrativos; el Instituto Central de Inspección y 
+Examen Agrícolas (ÚKSÚP) recaba datos de los titulares de 
+autorizaciones o de los titulares de permisos de comercio 
+paralelo. 
+FI 
+Agencia Finlandesa de Seguridad 
+y Sustancias Químicas (Tukes) 
+La Agencia Finlandesa de Seguridad y Sustancias Químicas 
+(Tukes) recaba datos por correo postal o electrónico de los 
+titulares de autorizaciones o sus representantes. 
+SE 
+Agencia Sueca de Inspección de 
+Sustancias Químicas (KEMI) 
+La Agencia recaba datos de los titulares de autorizaciones. 
+UK 
+Dirección de Reglamentación de 
+Sustancias Químicas 
+Censo electrónico de empresas, de carácter voluntario, 
+llevado a cabo por el Consejo Británico de Producción 
+Vegetal (British Crop Production Council), en nombre del 
+Instituto Nacional de Estadística ONS). 
+ 
+16 
+ 
+ 
+AUTORIDADES NACIONALES 
+COMPETENTES EN MATERIA DE 
+COMERCIALIZACIÓN DE 
+PLAGUICIDAS 
+MÉTODOS DE RECOGIDA DE DATOS RELATIVOS A LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+NO 
+Autoridad Noruega de Seguridad 
+Alimentaria 
+Datos administrativos recabados de importadores y 
+productores. 
+ 
+  
+ 
+17 
+ 
+ANEXO II 
+La información contenida en el presente anexo se basa en los informes de calidad 
+nacionales presentados por los distintos países de conformidad con el Reglamento.  
+ 
+CALIDAD DE LOS DATOS TRANSMITIDOS 
+SOBRE LA COMERCIALIZACIÓN DE 
+PLAGUICIDAS  
+UTILIDAD DE LAS ESTADÍSTICAS SOBRE LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+BE 
+No se exigen estimaciones y es muy poco 
+probable que se produzcan 
+sobrestimaciones debido a la relación entre 
+datos declarados y tasas aplicadas. 
+Los datos se emplean para calcular la tasa anual 
+de comercialización de plaguicidas, así como para 
+estimar las cantidades totales utilizadas a escala 
+nacional y los consiguientes riesgos para las 
+personas y el medio ambiente.  
+BG 
+Los datos son exhaustivos y comprenden 
+todas las exportaciones e importaciones 
+disponibles. 
+Los datos son específicos, ya que el número de 
+posibles usuarios es reducido. 
+CZ 
+Las fuentes abarcan todas las unidades 
+obligadas por ley a declarar y todos los 
+productos comercializados. 
+Los datos son utilizados principalmente por el 
+ÚKZÚZ a efectos de control fitosanitario, 
+planificación y comprobaciones del cumplimiento 
+de los distribuidores.  
+DK 
+El volumen de ventas se declara como 
+cantidad total vendida de cada producto. 
+Los usuarios son los políticos, los agricultores, las 
+ONG y el público en general.  
+Entre los usos de los datos figuran el seguimiento 
+del objetivo de reducir la carga de plaguicidas en 
+un 40 % para finales de 2015 con respecto a los 
+valores de 2011 (Estrategia sobre la utilización de 
+plaguicidas en Dinamarca 2013-2015, prorrogada 
+un año más). 
+DE 
+La precisión general de los datos se 
+considera satisfactoria, aunque la falta de 
+respuesta debida principalmente a errores 
+en los datos de contacto de empresas de 
+comercio paralelo podría suponer un 
+problema. No es posible calcular la falta de 
+cobertura a causa del comercio ilegal.  
+La Oficina Federal de Protección del Consumidor 
+y Seguridad Alimentaria (BVL) utiliza los datos 
+para actividades internas de seguimiento 
+posterior al registro. Los datos se publican 
+también en el Anuario Estadístico alemán de 
+Alimentación, Agricultura y Silvicultura y en el 
+Boletín Federal (Bundesanzeiger). También recibe 
+estos datos el Julius Kühn Institut (JKI), centro 
+federal de investigación de plantas cultivadas. 
+Otras autoridades, como la Agencia Federal de 
+Medio Ambiente (UBA) o centros de 
+investigación, reciben datos sobre la 
+comercialización de sustancias concretas previa 
+solicitud.  
+ 
+18 
+ 
+ 
+CALIDAD DE LOS DATOS TRANSMITIDOS 
+SOBRE LA COMERCIALIZACIÓN DE 
+PLAGUICIDAS  
+UTILIDAD DE LAS ESTADÍSTICAS SOBRE LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+EE 
+La calidad de las estadísticas es bastante 
+elevada porque abarcan todas las empresas 
+vendedoras y la tasa de respuesta es alta. 
+Entre los usuarios figuran el Consejo de 
+Agricultura, el Centro de Investigación Agrícola, el 
+Ministerio de Asuntos Rurales, otros ministerios, 
+instituciones de investigación y enseñanza, los 
+medios de comunicación, otras organizaciones y 
+empresas, y particulares.  
+IE 
+Los datos facilitados por los titulares de 
+autorizaciones de productos y empresas 
+comercializadoras son las cifras reales que se 
+utilizan. Por consiguiente, la calidad de los 
+datos se considera elevada. 
+Hasta la fecha solo se ha recibido un pequeño 
+número de solicitudes relativas a estos datos. Las 
+empresas y los titulares de autorizaciones tienen 
+acceso al registro pertinente y pueden consultar 
+información sobre cada producto.  
+EL 
+La implantación del sistema en línea ha 
+mejorado la calidad general. En particular, 
+ha incrementado las tasas de respuesta con 
+respecto a los bajos niveles observados en el 
+pasado. 
+El Ministerio de Desarrollo Rural y Alimentación, 
+el Gobierno, la prensa y los demás medios de 
+comunicación, así como los investigadores 
+académicos, utilizan estos datos para reducir los 
+riesgos asociados a los plaguicidas. 
+ES 
+Los datos se someten a un proceso de 
+coherencia interno. 
+Se utilizan para evaluar el impacto de las políticas 
+públicas y calcular los indicadores de salud 
+pertinentes y los riesgos medioambientales 
+conexos.  
+FR 
+El sistema de declaración comprende las 
+ventas a usuarios finales (o compras en el 
+extranjero por usuarios finales), lo que evita 
+el recuento doble derivado de las 
+transferencias de autorización o de la 
+presencia de intermediarios en la cadena de 
+comercialización.  
+Actualmente no estamos al tanto de ninguna 
+necesidad específica de los usuarios. 
+HR El país no ha facilitado información. 
+Entre los usuarios de los datos figuran entidades 
+estatales y locales, así como personas físicas y 
+jurídicas.  
+IT Bastante satisfactoria 
+Los datos son utilizados principalmente por el 
+Instituto Superior de Protección e Investigación 
+Ambientales (ISPRA) y el Ministerio de Agricultura 
+para evaluar los riesgos para las personas y el 
+medio ambiente. 
+ 
+19 
+ 
+ 
+CALIDAD DE LOS DATOS TRANSMITIDOS 
+SOBRE LA COMERCIALIZACIÓN DE 
+PLAGUICIDAS  
+UTILIDAD DE LAS ESTADÍSTICAS SOBRE LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+CY 
+Dado que el número de proveedores en el 
+país es reducido, la encuesta fue exhaustiva 
+y su cobertura fue total. 
+Los datos satisfacen las necesidades del 
+Ministerio de Agricultura. 
+LV 
+En general, la calidad de los resultados 
+estadísticos se considera buena. El principal 
+punto fuerte del proceso es que la recogida 
+de datos tiene una base legislativa. 
+La mayoría de las partes interesadas en los datos 
+pertenecen a las comunidades científica y 
+estudiantil y a los medios de comunicación. La 
+información estadística satisface someramente 
+las necesidades de los usuarios nacionales. 
+LT 
+Los datos se recaban de fuentes fiables que 
+aplican estrictas normas metodológicas. 
+Los principales usuarios son entidades estatales y 
+municipales, organizaciones internacionales, los 
+medios de comunicación y las comunidades 
+investigadora, empresarial y estudiantil. Los 
+datos se emplean para determinar los posibles 
+riesgos para salud humana y el medio ambiente. 
+LU 
+Se invita a los encuestados a que indiquen 
+también los porcentajes de proveedores o 
+intermediarios nacionales y extranjeros al 
+objeto de evitar un posible recuento doble 
+entre mayoristas nacionales. 
+Las estadísticas sobre la comercialización podrían 
+resultar de interés para los responsables 
+políticos, el Ministerio de Agricultura, el 
+Ministerio de Medio Ambiente, los grupos 
+ecologistas y la comunidad investigadora. 
+HU 
+Las cantidades comercializadas se comparan 
+y cotejan con los datos de años anteriores en 
+materia de productos. 
+El país no ha facilitado información. 
+MT 
+La calidad general es buena. La recogida de 
+datos es exhaustiva y se aplican procesos 
+minuciosos de validación y análisis de datos. 
+El principal usuario es la Comisión Europea. 
+NL 
+La calidad de los datos se examina 
+periódicamente con arreglo a un marco 
+basado en la definición de calidad del 
+Sistema Estadístico Europeo. 
+Los datos se utilizan para evaluar la política 
+pública. 
+AT El país no ha facilitado información. Supervisión y control  
+ 
+20 
+ 
+ 
+CALIDAD DE LOS DATOS TRANSMITIDOS 
+SOBRE LA COMERCIALIZACIÓN DE 
+PLAGUICIDAS  
+UTILIDAD DE LAS ESTADÍSTICAS SOBRE LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+PL 
+Encuesta de carácter obligatorio a 
+productores, distribuidores nacionales e 
+importadores mediante cuestionarios 
+electrónicos. 
+Entre los usuarios de los datos figuran los 
+organismos centrales, los institutos científicos y 
+de investigación, la comunidad estudiantil y las 
+empresas dedicadas al sector agrícola. Los datos 
+pueden utilizarse para evaluar las condiciones y 
+los costes de la producción agrícola y el impacto 
+medioambiental.  
+PT 
+Las validaciones se basan en comparaciones 
+de datos agregados con los correspondientes 
+a años anteriores.  
+Los datos son utilizados por la autoridad nacional 
+para evaluar el mercado y su relación con las 
+autorizaciones de comercialización concedidas. 
+RO El país no ha facilitado información. 
+Entre los usuarios figuran el Ministerio de 
+Agricultura y Desarrollo Rural, la Agencia 
+Fitosanitaria Nacional, las Unidades 
+Fitosanitarias, la Academia de Ciencias Agrícolas y 
+Forestales, el Instituto Nacional de Investigación 
+y Desarrollo en materia de Ecología Industrial, el 
+Centro de Bioquímica Aplicada y Biotecnología, el 
+Ministerio de Medio Ambiente, Aguas y Bosques 
+y el Instituto de Investigación y Desarrollo en 
+materia Fitosanitaria. 
+SI 
+Los datos comprenden los mayoristas 
+establecidos en territorio nacional, pero no 
+pueden desglosarse en unidades territoriales 
+más pequeñas ni permiten extraer 
+conclusiones acerca de dónde tienen lugar la 
+venta al por menor y el uso real. 
+Se emplean como indicadores de las cantidades 
+de sustancias activas utilizadas en la agricultura. 
+SK 
+Los datos son de buena calidad y suficiente 
+precisión e integridad. 
+El principal usuario es la Comisión Europea. 
+FI 
+La calidad de los datos se puede considerar 
+buena.  
+Los usuarios de los datos son las autoridades 
+agrícolas, medioambientales, sanitarias y de 
+seguridad alimentaria, así como los institutos de 
+investigación y los medios de comunicación. Se 
+han facilitado datos detallados previa solicitud a 
+efectos de investigación y control.  
+ 
+21 
+ 
+ 
+CALIDAD DE LOS DATOS TRANSMITIDOS 
+SOBRE LA COMERCIALIZACIÓN DE 
+PLAGUICIDAS  
+UTILIDAD DE LAS ESTADÍSTICAS SOBRE LA 
+COMERCIALIZACIÓN DE PLAGUICIDAS 
+SE 
+Los datos abarcan todos los productos 
+comercializados y se tratan manualmente, 
+por lo que pueden existir errores de cálculo. 
+Disponemos de muy poca información sobre los 
+usuarios. A menudo las tendencias son más 
+interesantes que los datos propiamente dichos. 
+UK 
+La medida cualitativa de la precisión se 
+considera aceptable. Según los informes 
+presentados, una multinacional que 
+representa cerca de un 8 % del volumen del 
+mercado británico se ha negado 
+sistemáticamente a suministrar datos. Otras 
+faltas de respuesta no se han considerado 
+significativas, ya que la mayoría de los 
+encuestados que no han respondido figuran 
+entre los operadores más pequeños del 
+mercado. 
+Unos posibles usuarios nacionales podrían ser los 
+miembros de la asociación británica de 
+protección de cultivos, la Crop Protection 
+Association, integrada por empresas dedicadas a 
+la fabricación, formulación, desarrollo y 
+distribución nacional de plaguicidas y productos 
+fitosanitarios para agricultura, silvicultura, 
+horticultura, jardinería doméstica, instalaciones 
+industriales y oficinas de las entidades locales. 
+NO 
+La calidad de los datos se considera muy 
+buena. Todas las importaciones y la 
+producción deben ser declaradas y 
+confirmadas por los contables de las 
+empresas. No se exigen estimaciones de 
+datos. 
+Los datos se utilizan como base para el cálculo 
+del impuesto medioambiental. Entre los usuarios 
+figuran organismos públicos, asociaciones de 
+agricultores, ONG, la industria, etc. Se dispone de 
+datos relativos tanto a las sustancias activas 
+como a los productos. De los comentarios de los 
+usuarios se desprende la necesidad de disponer 
+de datos a escala regional y no solo a escala 
+nacional, aunque esto no es viable debido a la 
+forma en que se recogen los datos. 
+ 
+ 
+ 

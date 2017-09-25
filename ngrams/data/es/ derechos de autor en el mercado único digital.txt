@@ -1,0 +1,1481 @@
+ES ES
+COMISIÓN
+EUROPEA
+Bruselas, 14.9.2016
+COM(2016) 593 final
+2016/0280 (COD)
+Propuesta de
+DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+sobre los derechos de autor en el mercado único digital
+(Texto pertinente a efectos del EEE)
+{SWD(2016) 301 final}
+{SWD(2016) 302 final}
+ES 2 ES
+EXPOSICIÓN DE MOTIVOS
+1. CONTEXTO DE LA PROPUESTA
+• Motivación y objetivos de la propuesta
+La evolución de las tecnologías digitales ha transformado la manera en que se crean,
+producen, distribuyen y explotan las obras y otras prestaciones protegidas. Han surgido
+nuevos usos, así como nuevos intervinientes y nuevos modelos de negocio. En el entorno
+digital, se han intensificado también los usos transfronterizos, y han surgido nuevas
+oportunidades para que los consumidores puedan acceder a contenidos protegidos por
+derechos de autor. Aunque los objetivos y principios establecidos por el marco de la UE sobre
+derechos de autor siguen siendo válidos, es preciso adaptar ese marco a estas nuevas
+realidades. Además, debe intervenirse a nivel de la UE para evitar la fragmentación del
+mercado interior. En este contexto, la Estrategia para el Mercado Único Digital1
+, adoptada en
+mayo de 2015, destaca la necesidad de «reducir las diferencias entre los regímenes de
+derechos de propiedad intelectual nacionales y permitir un mayor acceso en línea a las obras
+por parte de los usuarios de toda la UE». La Comunicación subrayaba la importancia de
+mejorar el acceso transfronterizo a servicios de contenidos protegidos por derechos de autor,
+facilitar nuevos usos en la investigación y la educación y aclarar el papel de los servicios en
+línea en la distribución de obras y otras prestaciones. En diciembre de 2015, la Comisión
+publicó la Comunicación Hacia un marco moderno y más europeo de los derechos de autor2
+.
+En esa Comunicación se presenta una serie de acciones concretas y una visión a largo plazo
+para modernizar las normas sobre derechos de autor de la UE. La presente propuesta es una de
+las medidas destinadas a abordar las cuestiones específicas destacadas en dicha
+Comunicación.
+Las excepciones y limitaciones a los derechos de autor y derechos afines están armonizadas
+en la UE. Algunas de esas excepciones tienen por objeto la consecución de objetivos de
+política pública, como la investigación o la educación. Habida cuenta, sin embargo, de que
+recientemente han surgido nuevos tipos de usos, cabe preguntarse si esas excepciones siguen
+siendo adecuadas para lograr un justo equilibrio entre los derechos e intereses de los autores y
+otros titulares de derechos, por una parte, y los usuarios, por otra. Además, esas excepciones
+siguen siendo de ámbito nacional, y la seguridad jurídica en relación con los usos
+transfronterizos no está garantizada. En este contexto, la Comisión ha identificado tres
+ámbitos de intervención: usos digitales y transfronterizos en la educación; minería de textos y
+datos en el campo de la investigación científica; y conservación del patrimonio cultural. Lo
+que se pretende es garantizar la legalidad de determinados tipos de usos en estos ámbitos, en
+particular a través de las fronteras. Como consecuencia de la modernización del marco de
+excepciones y limitaciones, los investigadores disfrutarán de un espacio jurídico más claro
+para el uso de herramientas innovadoras de investigación en minería de textos y datos, los
+profesores y alumnos podrán explotar todos los beneficios de las tecnologías digitales en
+todos los niveles de enseñanza, y las instituciones de patrimonio cultural (es decir, las
+bibliotecas o los museos accesibles al público, los archivos o los organismos de conservación
+del patrimonio cinematográfico o sonoro) recibirán apoyo en sus esfuerzos de conservación
+del patrimonio cultural en beneficio, en última instancia, de los ciudadanos de la UE.
+A pesar de que las tecnologías digitales tendrían que facilitar el acceso transfronterizo a obras
+y otras prestaciones, todavía persisten obstáculos, en particular en relación con los usos y las
+
+1 COM(2015) 192 final.
+2 COM(2015) 626 final.
+ES 3 ES
+obras en que la adquisición de derechos resulta compleja. Esto ocurre en el caso de las
+instituciones de conservación del patrimonio cultural que desean ofrecer un acceso en línea,
+incluso a través de las fronteras, a las obras fuera del circuito comercial que figuran en sus
+catálogos. Como consecuencia de estos obstáculos, los ciudadanos europeos pierden
+oportunidades de acceso al patrimonio cultural. La propuesta intenta solucionar estos
+problemas introduciendo un mecanismo específico para facilitar la concesión de licencias para
+la difusión por parte de las instituciones de conservación del patrimonio cultural de obras
+fuera del circuito comercial. Por lo que se refiere a las obras audiovisuales, a pesar de la
+importancia creciente de las plataformas de vídeo a la carta, las obras audiovisuales de la UE
+solo constituyen una tercera parte de las obras a disposición de los consumidores en esas
+plataformas. En este caso también, esta falta de disponibilidad se debe, en parte, a la
+complejidad del proceso de adquisición de derechos. La presente propuesta prevé medidas
+destinadas a facilitar el proceso de concesión de licencias y adquisición de derechos. Así, al
+final, se facilitará a los consumidores el acceso transfronterizo a contenidos protegidos por
+derechos de autor.
+La evolución de las tecnologías digitales ha provocado la aparición de nuevos modelos de
+negocio y ha reforzado el papel de internet como mercado principal para la distribución y
+acceso a contenidos protegidos por derechos de autor. En este nuevo marco, los titulares de
+derechos se enfrentan a dificultades cuando intentan conceder bajo licencia sus derechos y
+obtener una remuneración por la distribución en línea de sus obras. Esas dificultades podrían
+poner en peligro el desarrollo de la creatividad europea y la producción de contenidos
+creativos. Es necesario, por tanto, garantizar que los autores y los titulares de derechos reciban
+una parte equitativa del valor que se obtiene por la utilización de sus obras y demás
+prestaciones. En este contexto, la presente propuesta prevé medidas destinadas a mejorar la
+posición de los titulares de derechos para negociar y ser remunerados por la explotación de
+sus contenidos por parte de servicios en línea que permiten acceder a contenidos cargados por
+los usuarios. Es necesario también que el valor se reparta de una manera equitativa para
+garantizar la sostenibilidad del sector de las editoriales de prensa. Estas se enfrentan a
+dificultades a la hora de conceder licencias de sus publicaciones en línea y obtener una parte
+equitativa del valor que estas generan. En última instancia, eso podría afectar al acceso de los
+ciudadanos a la información. La presente propuesta establece un nuevo derecho para las
+editoriales de prensa con el objetivo de facilitar la concesión de licencias de sus publicaciones
+en línea, la recuperación de su inversión y el respeto de sus derechos. Intenta, además,
+resolver el problema de la inseguridad jurídica previendo la posibilidad de que todas las
+editoriales reciban un porcentaje de la indemnización por el uso de obras en el marco de una
+excepción. Por último, los autores y artistas intérpretes o ejecutantes suelen tener una posición
+negociadora débil en sus relaciones contractuales a la hora de conceder licencias de sus
+derechos. Además, la transparencia sobre los ingresos generados por la utilización de sus
+obras o prestaciones sigue siendo escasa en muchos casos. En última instancia, esto afecta a la
+remuneración de autores y artistas intérpretes y ejecutantes. La presente propuesta incluye
+medidas destinadas a aumentar la transparencia y a equilibrar mejor las relaciones
+contractuales entre los autores y artistas intérpretes o ejecutantes y las personas a quienes
+ceden sus derechos. En general, se espera que las medidas propuestas en el título IV de la
+propuesta para garantizar un funcionamiento correcto del mercado para los derechos de autor
+puedan tener, a medio plazo, un efecto positivo sobre la producción y la disponibilidad de
+contenidos, así como sobre el pluralismo de los medios de comunicación, en beneficio, en
+última instancia, de los consumidores.
+ES 4 ES
+• Coherencia con las disposiciones existentes en la misma política sectorial
+La Estrategia para el Mercado Único Digital presenta una serie de iniciativas con el objetivo
+de crear un mercado interior de contenidos y servicios digitales. En diciembre de 2015 se dio
+un primer paso con la adopción por parte de la Comisión de una propuesta de Reglamento del
+Parlamento Europeo y del Consejo por el que se garantiza la portabilidad transfronteriza de
+los servicios de contenidos en línea en el mercado interior3
+.
+La presente propuesta tiene por objeto abordar varias de las acciones específicas expuestas en
+la Comunicación titulada Hacia un marco moderno y más europeo de los derechos de autor.
+Otras acciones descritas en la presente Comunicación se exponen en la propuesta de
+Reglamento del Parlamento Europeo y del Consejo por el que se establecen las normas sobre
+el ejercicio de los derechos de autor y determinados derechos afines a los derechos de autor
+aplicables a determinadas transmisiones en línea de los organismos de radiodifusión y a las
+retransmisiones de programas de radio y televisión4
+, en la Propuesta de Reglamento del
+Parlamento Europeo y del Consejo sobre el intercambio transfronterizo entre la Unión y
+terceros países de ejemplares en formato accesible de determinadas obras y otras prestaciones
+protegidas por derechos de autor y derechos afines en favor de personas ciegas, con
+discapacidad visual o con otras dificultades para acceder al texto impreso5
+, y en la Propuesta
+de Directiva del Parlamento Europeo y del Consejo sobre determinados usos permitidos de
+obras y otras prestaciones protegidas por derechos de autor y derechos afines en favor de
+personas ciegas, con discapacidad visual o con otras dificultades para acceder al texto impreso
+y por la que se modifica la Directiva 2001/29/CE, relativa a la armonización de determinados
+aspectos de los derechos de autor y derechos afines a los derechos de autor en la sociedad de
+la información6
+, adoptados en la misma fecha que la presente propuesta de Directiva.
+La presente propuesta es coherente con el actual marco jurídico sobre derechos de autor de la
+UE. Se basa en las disposiciones establecidas en la Directiva 96/9/CE7
+, la Directiva
+2001/29/CE8
+, la Directiva 2006/115/CE9
+, la Directiva 2009/24/CE10, la Directiva
+2012/28/UE11 y la Directiva 2014/26/UE12, y las completa. Esas Directivas, así como la
+presente propuesta, contribuyen al funcionamiento del mercado interior, garantizan un nivel
+elevado de protección para los titulares de los derechos y facilitan la adquisición de derechos.
+
+3 COM(2015) 627 final.
+4 COM(2016) 594 final.
+5 COM(2016) 595 final.
+6 COM(2016) 596 final.
+7 Directiva 96/9/CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996, sobre la protección
+jurídica de las bases de datos (DO L 77 de 27.3.1996, pp. 20-28).
+8 Directiva 2001/29/CE del Parlamento Europeo y del Consejo, de 22 de mayo de 2001, relativa a la
+armonización de determinados aspectos de los derechos de autor y derechos afines a los derechos de
+autor en la sociedad de la información (DO L 167 de 22.6.2001, pp. 10-19).
+9 Directiva 2006/115/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, sobre
+derechos de alquiler y préstamo y otros derechos afines a los derechos de autor en el ámbito de la
+propiedad intelectual (DO L 376 de 27.12.2006, pp. 28-35).
+10 Directiva 2009/24/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, sobre la
+protección jurídica de programas de ordenador (DO L 111 de 5.5.2009, pp. 16-22).
+11 Directiva 2012/28/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre ciertos
+usos autorizados de las obras huérfanas (DO L 299 de 27.10.2012, pp. 5-12).
+12 Directiva 2014/26/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, relativa a la
+gestión colectiva de los derechos de autor y derechos afines y a la concesión de licencias
+multiterritoriales de derechos sobre obras musicales para su utilización en línea en el mercado interior
+(DO L 84 de 20.3.2014, pp. 72-98).
+ES 5 ES
+La presente propuesta complementa la Directiva 2010/13/UE13 y la propuesta14 que la
+modifica.
+• Coherencia con otras políticas de la Unión
+La presente propuesta facilitará la educación y la investigación, mejorará la difusión de las
+culturas europeas y tendrá repercusiones positivas sobre la diversidad cultural. La presente
+Directiva es, pues, coherente con los artículos 165, 167 y 179 del Tratado de Funcionamiento
+de la Unión Europea (TFUE). Además, contribuye a promover los intereses de los
+consumidores, de conformidad con las políticas de la UE en el ámbito de la protección de los
+consumidores y con el artículo 169 del TFUE, al permitir un acceso y un uso más amplios de
+contenidos protegidos por derechos de autor.
+2. BASE JURÍDICA, SUBSIDIARIEDAD Y PROPORCIONALIDAD
+• Base jurídica
+La propuesta se basa en el artículo 114 del TFUE. Ese artículo confiere a la UE competencias
+para adoptar medidas que tengan por objeto el establecimiento y el funcionamiento del
+mercado interior.
+• Subsidiariedad (en el caso de competencia no exclusiva)
+Puesto que las excepciones y limitaciones a los derechos de autor y derechos afines están
+armonizadas a nivel de la UE, los Estados miembros tienen poco margen de maniobra a la
+hora de crearlas o adaptarlas. Por otra parte, la intervención a nivel nacional no sería
+suficiente, habida cuenta de la naturaleza transfronteriza de los problemas detectados. La
+intervención de la UE es necesaria, por tanto, para lograr la plena seguridad jurídica en lo que
+se refiere a los usos transfronterizos en los ámbitos de la investigación, la educación y el
+patrimonio cultural.
+Ya se han desarrollado algunas iniciativas nacionales para facilitar el acceso a obras fuera del
+circuito comercial y su difusión. No obstante, tales iniciativas solo se han adoptado en
+algunos Estados miembros y son aplicables exclusivamente en el territorio nacional. Por
+consiguiente, la intervención de la UE es necesaria para que en todos los Estados miembros se
+establezcan mecanismos de concesión de licencias que permitan el acceso y difusión de obras
+fuera del circuito comercial y para garantizar su efecto transfronterizo. Por lo que se refiere a
+la explotación en línea de obras audiovisuales, para potenciar la disponibilidad de obras
+europeas en las plataformas de vídeo a la carta en toda la UE es necesario facilitar las
+negociaciones de los acuerdos de licencia en todos los Estados miembros.
+La distribución en línea de contenidos protegidos por derechos de autor tiene un carácter
+intrínsecamente transfronterizo. Los mecanismos decididos a nivel europeo son los únicos que
+podrían garantizar el funcionamiento correcto del mercado para la distribución de obras y
+otras prestaciones y la sostenibilidad del sector editorial ante los retos que plantea el entorno
+digital. Por último, los autores y artistas intérpretes o ejecutantes deben poder disfrutar, en
+todos los Estados miembros, del alto nivel de protección establecido en la legislación de la
+UE. A tal fin, y para evitar discrepancias entre los Estados miembros, es necesario definir un
+
+13 Directiva 2010/13/UE del Parlamento Europeo y del Consejo, de 10 de marzo de 2010, sobre la
+coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados
+miembros relativas a la prestación de servicios de comunicación audiovisual (Directiva de servicios de
+comunicación audiovisual) (DO L 95 de 15.4.2010, pp. 1–24).
+14 COM(2016) 287 final.
+ES 6 ES
+enfoque común de la UE respecto a los requisitos de transparencia y mecanismos que
+permitan la adaptación de los contratos en determinados casos, así como la resolución de
+litigios.
+• Proporcionalidad
+La propuesta prevé excepciones obligatorias que han de aplicar los Estados miembros. Esas
+excepciones se dirigen a objetivos y usos clave de política pública con una dimensión
+transfronteriza. Las excepciones también contienen condiciones que garantizan el
+mantenimiento de los mercados que funcionan y la protección de los intereses de los titulares
+de derechos y de los incentivos para la creación y la inversión. En los casos pertinentes, y
+velando al mismo tiempo por el cumplimiento de los objetivos de la Directiva, se ha dejado
+margen para las decisiones nacionales.
+La propuesta exige a los Estados miembros que establezcan mecanismos que faciliten la
+adquisición de derechos de autor y derechos afines en el ámbito de las obras fuera del circuito
+comercial y de la explotación en línea de obras audiovisuales. El objetivo de la propuesta es
+garantizar un acceso y una difusión más amplios de contenidos y, al mismo tiempo, proteger
+los derechos de los autores y otros titulares de derechos. Se han establecido varias
+salvaguardias a tal efecto (por ejemplo, posibilidades de exclusión voluntaria, mantenimiento
+de las posibilidades de concesión de licencias, participación voluntaria en el foro de
+negociación, etc.). La propuesta no va más allá de lo necesario para alcanzar el objetivo que
+se persigue, deja un margen suficiente a los Estados miembros para tomar decisiones en lo
+que se refiere a la particularidades de esos mecanismos y no impone costes
+desproporcionados.
+La propuesta impone obligaciones a algunos servicios de la sociedad de la información. Esas
+obligaciones, sin embargo, son razonables, habida cuenta de la naturaleza de los servicios a
+los que se aplican, del gran impacto que tienen esos servicios en el mercado de los contenidos
+en línea y de la gran cantidad de contenidos protegidos por derechos de autor que esos
+servicios almacenan. La introducción de un derecho afín a los derechos de autor para las
+editoriales de prensa reforzará la seguridad jurídica y la posición negociadora de esos
+editores, que es el objetivo perseguido. La propuesta es proporcionada, puesto que solo se
+aplica a los usos digitales y a las publicaciones de prensa. Además, no afectará
+retroactivamente a los actos realizados o a los derechos adquiridos antes de la fecha de
+transposición. La obligación de transparencia prevista en la propuesta solo pretende
+reequilibrar las relaciones contractuales entre los creadores y las partes con las que celebran
+contratos, respetando, al mismo tiempo, la libertad contractual.
+• Elección del instrumento
+La propuesta está vinculada a directivas existentes que, en algunos casos, modifica. Cuando
+resulta conveniente, y teniendo en cuenta el objetivo que pretende alcanzar, deja a los Estados
+miembros margen de maniobra, garantizando al mismo tiempo la consecución del objetivo de
+lograr un mercado interior que funcione. Por consiguiente, el instrumento adecuado es la
+directiva.
+3. RESULTADOS DE LAS EVALUACIONES EX POST, DE LAS CONSULTAS
+CON LAS PARTES INTERESADAS Y DE LAS EVALUACIONES DE
+IMPACTO
+• Evaluaciones ex post / control de calidad de la legislación existente
+Entre 2013 y 2016, la Comisión llevó a cabo una revisión de la normativa vigente sobre
+derechos de autor, con el objetivo de «asegurar que los derechos de autor y las prácticas 
+ES 7 ES
+conexas [...] sean los idóneos para este nuevo contexto digital»15. Aunque se inició antes de la
+adopción, en mayo de 2015, del Programa de Mejora de la Legislación16, este proceso de
+revisión se llevó a cabo en el espíritu de las directrices para la mejora de la legislación. El
+proceso de revisión destacó, en particular, la existencia de problemas con la aplicación de
+determinadas excepciones y la ausencia de efectos transfronterizos de algunas de ellas17
+, y
+puso de manifiesto una serie de dificultades en la utilización de contenidos protegidos por
+derechos de autor, en particular en el contexto digital y transfronterizo que ha surgido en los
+últimos años.
+• Consultas con las partes interesadas
+La Comisión celebró varias consultas públicas. La consulta sobre la revisión de las normas
+relativas a los derechos de autor de la UE efectuada entre el 5 de diciembre de 2013 y el 5 de
+marzo de 201418 proporcionó a la Comisión una visión de conjunto de las opiniones de las
+partes interesadas sobre esta cuestión, en particular en relación con las excepciones y
+limitaciones y con la remuneración de los autores y de los artistas intérpretes o ejecutantes. La
+consulta pública que se llevó a cabo entre el 24 de septiembre de 2015 y el 6 de enero de 2016
+sobre el marco regulador para las plataformas, los intermediarios en línea, los datos y la
+computación en nube y la economía colaborativa19 sirvió para obtener argumentos y puntos de
+vista de todos los interesados sobre el papel de los intermediarios en la distribución en línea
+de obras y otras prestaciones. Por último, entre el 23 de marzo de 2016 y el 15 de junio de
+2016 se llevó a cabo otra consulta pública en relación con el papel de las editoriales en la
+cadena de valor de los derechos de autor y con la excepción «libertad de panorama». Esa
+consulta permitió recabar opiniones, especialmente sobre la posible introducción en la
+legislación de la UE de un nuevo derecho afín para las editoriales.
+Además, entre 2014 y 2016, la Comisión mantuvo conversaciones con las partes interesadas
+pertinentes sobre los distintos temas abordados en la propuesta.
+• Obtención y uso de asesoramiento especializado
+Se ha realizado una serie de estudios jurídicos20 y económicos21 sobre la aplicación de la
+Directiva 2001/29/CE, sobre los efectos económicos de la adaptación de algunas excepciones
+
+15 COM(2012) 789 final.
+16 COM(2015) 215 final.
+17 Esos problemas se refieren, respectivamente, a la excepción aplicable a la ilustración con fines
+educativos o de investigación (porque esta vinculada a la minería de textos y datos) y a la aplicable a
+actos específicos de reproducción (porque está relacionada con la conservación).
+18 Los informes sobre las respuestas a la consulta pueden consultarse en la siguiente dirección:
+http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/contributions/consultationreport_en.pdf
+19 Los primeros resultados están disponibles en la siguiente dirección: https://ec.europa.eu/digital-singlemarket/news/first-brief-results-public-consultation-regulatory-environment-platforms-onlineintermediaries
+20 Study on the application of Directive 2001/29/EC on copyright and related rights in the information
+society: http://ec.europa.eu/internal_market/copyright/studies/index_en.htm; Study on the legal
+framework of text and data mining:
+http://ec.europa.eu/internal_market/copyright/docs/studies/1403_study2_en.pdf; Study on the making
+available right and its relationship with the reproduction right in cross-border digital transmissions:
+http://ec.europa.eu/internal_market/copyright/docs/studies/141219-study_en.pdf; Study on the
+remuneration of authors and performers for the use of their works and the fixation of their
+performances: https://ec.europa.eu/digital-single-market/en/news/commission-gathers-evidenceremuneration-authors-and-performers-use-their-works-and-fixations;
+Study on the remuneration of
+authors of books and scientific journals, translators, journalists and visual artists for the use of their
+works: [hipervínculo por añadir – pendiente de publicación]
+ES 8 ES
+y limitaciones, sobre el marco jurídico de la minería de textos y datos y sobre la remuneración
+de los autores y de los artistas intérpretes y ejecutantes.
+• Evaluación de impacto
+Se ha realizado una evaluación del impacto de la presente propuesta22. El 22 de julio de 2016,
+el Comité de Control Reglamentario emitió un dictamen favorable, entendiendo que la
+evaluación de impacto iba a mejorarse23. La evaluación de impacto definitiva tiene en cuenta
+las observaciones formuladas en ese dictamen.
+En la evaluación de impacto se analizan las hipótesis de referencia, las opciones de actuación
+y sus impactos en relación con ocho temas reagrupados en tres capítulos, a saber: i) garantizar
+un amplio acceso a los contenidos, ii) adaptar las excepciones al entorno digital y
+transfronterizo y iii) lograr un mercado para los derechos de autor que funcione
+correctamente. Se analizaron las repercusiones de cada opción de actuación para las distintas
+partes interesadas; teniendo especialmente en cuenta la predominancia de las pymes en el
+sector creativo, el análisis llega a la conclusión de que no es conveniente introducir un
+régimen especial, pues ello se opondría a la finalidad de la intervención. A continuación se
+describen brevemente las opciones de actuación en relación con cada tema.
+Acceso y disponibilidad de obras audiovisuales en plataformas de vídeo a la carta: se descartó
+una opción no legislativa (opción 1), que consistía en organizar un diálogo entre las partes
+interesadas sobre cuestiones relativas a la concesión de licencias, ya que se consideró
+insuficiente para resolver casos concretos de bloqueo; la opción elegida (opción 2) combina la
+organización de un diálogo entre las partes interesadas y la obligación de los Estados
+miembros de establecer un mecanismo de negociación.
+Obras fuera del circuito comercial: la opción 1 consistía en exigir a los Estados miembros que
+aplicaran mecanismos jurídicos, con efecto transfronterizo, para facilitar los acuerdos de
+licencia sobre libros y revistas especializadas fuera del circuito comercial y para organizar un
+diálogo entre las partes interesadas a nivel nacional con vistas a facilitar la aplicación de ese
+mecanismo; la opción 2 iba más allá, puesto que se aplicaba a todos los tipos de obras fuera
+del circuito comercial; esa ampliación se consideró necesaria para abordar la concesión de
+licencias de obras que estén fuera del circuito comercial en todos los sectores; por
+consiguiente, se eligió la opción 2.
+Utilización de obras y otras prestaciones en actividades pedagógicas digitales y
+transfronterizas: la opción 1 consistía en proporcionar orientación a los Estados miembros
+sobre la aplicación de la excepción para fines educativos existente en el entorno digital y en la
+organización de un diálogo entre las partes interesadas; esa opción se consideró insuficiente
+para garantizar la seguridad jurídica, en particular en relación con las aplicaciones
+transfronterizas; la opción 2 preveía la introducción de una excepción obligatoria con efectos
+transfronterizos aplicable a usos digitales y en línea; la opción 3 es similar a la opción 2, pero
+concede cierta flexibilidad a los Estados miembros, que pueden decidir aplicar la excepción
+
+21 Assessing the economic impacts of adapting certain limitations and exceptions to copyright and related
+rights in the EU: http://ec.europa.eu/internal_market/copyright/docs/studies/131001-study_en.pdf y
+Assessing the economic impacts of adapting certain limitations and exceptions to copyright and related
+rights in the EU – Analysis of specific policy options:
+http://ec.europa.eu/internal_market/copyright/docs/studies/140623-limitations-economic-impactsstudy_en.pdf
+22 Añadir el enlace a la evaluación de impacto y al resumen.
+23 Añadir el enlace al dictamen del Comité de Control Reglamentario.
+ES 9 ES
+en función de la disponibilidad de licencias; se consideró que esa opción era la más
+proporcionada.
+Minería de textos y datos: la opción 1 consistía en iniciativas de autorregulación por parte del
+sector; otras opciones se basaban en la introducción de una excepción obligatoria aplicable a
+la minería de textos y datos; en la opción 2, la excepción solo era aplicable a los usos con
+fines no comerciales de investigación científica; la opción 3 autorizaba usos con fines
+comerciales de investigación científica, pero limitaba los beneficios de la excepción a algunos
+beneficiarios; la opción 4 iba más allá, ya que no restringía los beneficiarios; se consideró que
+la opción 3 era la más proporcionada.
+Conservación del patrimonio cultural: la opción 1 consistía en facilitar a los Estados
+miembros orientaciones acerca del funcionamiento de la excepción aplicable a actos
+específicos de reproducción con fines de conservación; esa opción se descartó por
+considerarse insuficiente para lograr la seguridad jurídica en este ámbito; se eligió la opción 2,
+consistente en una excepción obligatoria con fines de conservación por parte de instituciones
+de patrimonio cultural.
+Utilización de contenidos protegidos por derechos de autor por parte de servicios de la
+sociedad de la información que almacenan y dan acceso a grandes cantidades de obras y otras
+prestaciones cargadas por sus usuarios: la opción 1 consistía en organizar un diálogo entre las
+partes interesadas; ese planteamiento se rechazó porque habría tenido un impacto limitado
+sobre la posibilidad de que los titulares de derechos determinaran las condiciones de uso de
+sus obras y otras prestaciones; la opción elegida (opción 2) va más allá, pues establece la
+obligación de que ciertos proveedores de servicios implanten tecnologías adecuadas, y
+fomenta la celebración de acuerdos con los titulares de derechos.
+Derechos sobre publicaciones: la opción 1 consistía en organizar un diálogo entre las partes
+interesadas con objeto de encontrar soluciones en relación con la difusión de contenidos de
+editoriales de prensa; esa opción se descartó por considerarse insuficiente para lograr
+seguridad jurídica en toda la UE; la opción 2 consistía en introducir un derecho afín sobre los
+usos digitales de las publicaciones de prensa; además de eso, en la opción 3 se deja en manos
+de los Estados miembros la posibilidad de permitir a las editoriales a las que un autor haya
+cedido sus derechos o les haya concedido una licencia reclamar una parte de la indemnización
+por los usos en el marco de una excepción; esta última opción ha sido la elegida, porque
+aborda todos los problemas pertinentes.
+Remuneración justa de los autores y de los artistas intérpretes o ejecutantes en los contratos:
+la opción 1 consistía en dirigir una recomendación a los Estados miembros y en organizar un
+diálogo entre las partes interesadas; esa opción se descartó por no resultar suficientemente
+eficaz; la opción 2 preveía la imposición de obligaciones en materia de transparencia a las
+partes con las que los creadores celebran contratos; además de eso, en la opción 3 se proponía
+introducir un mecanismo de adaptación de las remuneraciones y un mecanismo de resolución
+de litigios; esa opción fue la elegida, porque la opción 2 no habría concedido a los creadores
+medios de ejecución para hacer cumplir la obligación de transparencia.
+• Adecuación y simplificación de la reglamentación
+En relación con los usos amparados por las excepciones, la propuesta permitirá a las
+instituciones de investigación de interés público, los centros de enseñanza y las instituciones
+de conservación del patrimonio cultural reducir los costes de transacción. Esta reducción de
+los costes de transacción no implica necesariamente que los titulares de derechos vayan a 
+ES 10 ES
+sufrir una pérdida de retribuciones o de ingresos por licencias: el alcance y las condiciones de
+las excepciones garantizan a los titulares de derechos que el perjuicio sea mínimo. Las
+repercusiones en las pymes en estos ámbitos (en particular, las editoriales de obras científicas
+y educativas) y en sus modelos de negocio deben, por tanto, ser limitadas.
+Los mecanismos destinados a mejorar las prácticas de concesión de licencias pueden reducir
+los costes de transacción e incrementar los ingresos que obtienen los titulares por las licencias.
+Esto puede beneficiar a las pymes que operan en esos ámbitos (productores, distribuidores,
+editores, etc.) y a otras partes interesadas, como las plataformas de vídeo a la carta. La
+propuesta incluye también varias medidas (la obligación de transparencia para quienes firman
+contratos con titulares de derechos, la introducción de un nuevo derecho para las editoriales
+de prensa y la obligación impuesta a algunos servicios en línea) que pueden reforzar la
+posición negociadora de los titulares de derechos y el control que ejercen sobre la utilización
+de sus obras y otras prestaciones. Se espera que esas medidas tengan un impacto positivo en
+los ingresos de los titulares de derechos.
+La propuesta impone nuevas obligaciones a algunos servicios en línea y a aquellos a quienes
+los autores y artistas intérpretes o ejecutantes ceden sus derechos. Esas obligaciones pueden
+suponer unos costes adicionales. No obstante, la propuesta garantiza que los costes serán
+proporcionados y que, si resulta necesario, algunos intervinientes no estarán sujetos a esa
+obligación. Por ejemplo, la obligación de transparencia no se aplicará cuando los costes
+administrativos que conlleve sean desproporcionados con respecto a los ingresos obtenidos.
+Por lo que respecta a la obligación impuesta a los servicios en línea, solo es aplicable a los
+servicios de la sociedad de la información que almacenan y dan acceso a grandes cantidades
+de contenidos protegidos por derechos de autor cargados por sus usuarios.
+La propuesta exige a los Estados miembros que apliquen mecanismos de negociación y
+resolución de litigios. Esta obligación les impone unos costes de adecuación. Los Estados
+miembros, sin embargo, pueden recurrir en la mayoría de los casos a estructuras existentes,
+con lo cual pueden limitar esos costes. La excepción para fines educativos puede suponer
+también algunos costes para los Estados miembros en relación con las medidas que deben
+adoptar para garantizar la disponibilidad y proyección de las licencias para centros de
+enseñanza.
+Se han examinado detenidamente los nuevos avances tecnológicos. La propuesta incluye
+varias excepciones cuyo fin es facilitar el uso de contenidos protegidos por derechos de autor
+mediante las nuevas tecnologías. La presente propuesta incluye asimismo medidas para
+allanar el acceso a los contenidos, en particular a través de redes digitales. Por último,
+garantiza a todos los intervinientes en el entorno digital una posición negociadora equilibrada.
+• Derechos fundamentales
+Al reforzar la posición negociadora de autores y artistas intérpretes o ejecutantes y el control
+que ejercen los titulares de derechos sobre la utilización de sus contenidos protegidos por
+derechos de autor, la propuesta tendrá un impacto positivo sobre esos derechos en tanto que
+derechos de propiedad, protegidos por el artículo 17 de la Carta de los Derechos
+Fundamentales de la Unión Europea (en lo sucesivo, «la Carta»). Ese impacto positivo se verá
+reforzado por las medidas destinadas a mejorar las prácticas de concesión de licencias y, en
+última instancia, los ingresos de los titulares de derechos. El hecho de aplicar nuevas
+excepciones que reduzcan en cierta medida el monopolio de los titulares de derechos está
+justificado por otros objetivos de interés público. Es probable que esas excepciones puedan
+tener un impacto positivo en el derecho a la educación y la diversidad cultural. Por último, la 
+ES 11 ES
+Directiva tiene un impacto limitado en la libertad de empresa y en la libertad de expresión y
+de información, reconocidas, respectivamente, en los artículos 16 y 11 de la Carta, debido a
+las medidas de atenuación aplicadas y a un enfoque equilibrado con respecto a las
+obligaciones impuestas a las partes interesadas pertinentes.
+4. REPERCUSIONES PRESUPUESTARIAS
+La propuesta no tiene incidencia alguna en el presupuesto de la Unión Europea.
+5. OTROS ELEMENTOS
+• Planes de ejecución y modalidades de seguimiento, evaluación e información
+De conformidad con lo dispuesto en el artículo 22, la Comisión debe llevar a cabo una
+revisión de la Directiva como muy pronto [cinco] años después de la fecha de [transposición].
+• Documentos explicativos
+De conformidad con el considerando 48 de la propuesta, los Estados miembros deberán
+adjuntar documentos explicativos a la notificación a la Comisión de sus medidas de
+transposición. Esto es necesario debido a la complejidad de las normas establecidas en la
+propuesta y a la importancia de mantener un enfoque armonizado respecto a las normas
+aplicables al entorno digital y transfronterizo.
+• Explicación detallada de las disposiciones específicas de la propuesta
+El título I establece disposiciones generales que i) especifican el objeto y el ámbito de
+aplicación de la Directiva y ii) ofrecen definiciones que deben interpretarse de una manera
+uniforme en la Unión.
+El título II contiene medidas para adaptar las excepciones y limitaciones al entorno digital y
+transfronterizo. Este título consta de tres artículos, que exigen a los Estados miembros que
+prevean excepciones obligatorias o una limitación que permitan i) la minería de textos y datos
+realizada por organismos de investigación a efectos de investigación científica (artículo 3); ii)
+los usos digitales de obras u otras prestaciones únicamente a efectos de ilustración con fines
+educativos (artículo 4); y iii) a las instituciones de patrimonio cultural, reproducir las obras y
+otras prestaciones que figuran con carácter permanente en sus colecciones en la medida que
+sea necesario para su conservación (artículo 5). El artículo 6 establece disposiciones comunes
+para el título sobre excepciones y limitaciones.
+El título III prevé medidas para mejorar las prácticas de concesión de licencias y garantizar un
+mayor acceso a los contenidos. El artículo 7 exige a los Estados miembros que establezcan un
+mecanismo jurídico que facilite los acuerdos de licencia de obras y otras prestaciones fuera
+del circuito comercial. El artículo 8 garantiza el efecto transfronterizo de esos acuerdos de
+licencia. El artículo 9 obliga a los Estados miembros a mantener un diálogo entre las partes
+interesadas sobre cuestiones relativas a los artículos 7 y 8. El artículo 10 obliga a los Estados
+miembros a implantar un mecanismo de negociación para facilitar las negociaciones sobre la
+explotación en línea de obras audiovisuales.
+El título IV contiene medidas encaminadas a lograr un correcto funcionamiento del mercado
+de los derechos de autor. Los artículos 11 y 12 i) amplían los derechos previstos en el
+artículo 2 y el artículo 3, apartado 2, de la Directiva 2001/29/CE a las editoriales de
+publicaciones de prensa para el uso digital de sus publicaciones y ii) prevén que los Estados 
+ES 12 ES
+miembros puedan conceder a todas las editoriales la posibilidad de reclamar una parte de la
+indemnización por los usos realizados en el marco de una excepción. El artículo 13 obliga a
+los proveedores de servicios de la sociedad de información que almacenan y dan acceso a
+grandes cantidades de obras y otras prestaciones cargadas por sus usuarios a tomar medidas
+adecuadas y proporcionadas para garantizar el funcionamiento de los acuerdos celebrados con
+titulares de los derechos y para impedir la disponibilidad en sus servicios de contenidos
+identificados por los titulares de derechos en colaboración con los proveedores de servicios.
+El artículo 14 exige a los Estados miembros que establezcan obligaciones de transparencia a
+favor de los autores y de los artistas intérpretes o ejecutantes. El artículo 15 obliga a los
+Estados miembros a establecer un mecanismo de adaptación del contrato, en apoyo de la
+obligación prevista en el artículo 14. El artículo 16 dispone que los Estados miembros
+establezcan un mecanismo de resolución de litigios en relación con cuestiones derivadas de la
+aplicación de los artículos 14 y 15.
+El título V contiene disposiciones finales sobre las modificaciones introducidas en otras
+directivas, el calendario de aplicación, las disposiciones transitorias, la protección de los datos
+personales, la transposición, la revisión y la entrada en vigor.
+2016/0280 (COD)
+Propuesta de
+DIRECTIVA DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+sobre los derechos de autor en el mercado único digital
+(Texto pertinente a efectos del EEE)
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+Visto el Tratado de Funcionamiento de la Unión Europea, y en particular su artículo 114,
+Vista la propuesta de la Comisión Europea,
+Previa transmisión del proyecto de acto legislativo a los parlamentos nacionales,
+Visto el dictamen del Comité Económico y Social Europeo24
+,
+Visto el dictamen del Comité de las Regiones25
+,
+De conformidad con el procedimiento legislativo ordinario,
+Considerando lo siguiente:
+(1) El Tratado prevé la creación de un mercado interior y la implantación de un sistema
+que impida el falseamiento de la competencia en dicho mercado. La armonización de
+las legislaciones de los Estados miembros sobre los derechos de autor y derechos
+afines ha de contribuir a la consecución de esos objetivos.
+(2) Las directivas que se han adoptado en el ámbito de los derechos de autor y derechos
+afines garantizan un elevado nivel de protección a los titulares de derechos y
+
+24 DO C de , p. .
+25 DO C de , p. .
+ES 13 ES
+establecen un marco para la explotación de obras u otras prestaciones protegidas. Este
+marco jurídico armonizado contribuye al buen funcionamiento del mercado interior;
+estimula la innovación, la creatividad, la inversión y la producción de nuevos
+contenidos, en el entorno digital inclusive. La protección que depara este marco
+jurídico también contribuye al objetivo de la Unión de respetar y promover la
+diversidad cultural, situando al mismo tiempo en primer plano al patrimonio cultural
+común europeo. El artículo 167, apartado 4, del Tratado de Funcionamiento de la
+Unión Europea establece que la Unión ha de tener en cuenta los aspectos culturales en
+su actuación.
+(3) La rápida evolución tecnológica transforma sin cesar la manera en que se crean,
+producen, distribuyen y explotan las obras y otras prestaciones. Siguen surgiendo
+nuevos modelos de negocio y nuevos intervinientes. Los objetivos y los principios
+establecidos por el marco de la Unión en materia de derechos de autor continúan
+siendo sólidos. Con todo, persiste cierta inseguridad jurídica, tanto para los titulares de
+derechos como para los usuarios, en lo que se refiere a determinados usos, entre ellos
+los de carácter transfronterizo, de las obras y otras prestaciones en el entorno digital.
+Tal como señala la Comunicación de la Comisión titulada Hacia un marco moderno y
+más europeo de los derechos de autor26, en algunos ámbitos es necesario adaptar y
+completar el actual marco de la Unión en materia de derechos de autor. La presente
+Directiva establece normas para adaptar determinadas excepciones y limitaciones a los
+entornos digital y transfronterizo, así como medidas destinadas a facilitar determinadas
+prácticas de concesión de licencias en lo que respecta a la difusión de obras que están
+fuera del circuito comercial y la disponibilidad en línea de obras audiovisuales en
+plataformas de vídeo a la carta con miras a garantizar un mayor acceso a los
+contenidos. A fin de lograr un correcto funcionamiento del mercado de los derechos de
+autor, también deberían existir normas sobre los derechos de edición, sobre el uso de
+obras y otras prestaciones por parte de los proveedores de servicios en línea que
+almacenan y facilitan acceso a los contenidos cargados por los usuarios, y sobre la
+transparencia de los contratos de autores y artistas intérpretes o ejecutantes.
+(4) La presente Directiva está basada en las normas establecidas en las Directivas
+actualmente vigentes en este ámbito y las complementa, en particular la Directiva
+96/9/CE del Parlamento Europeo y del Consejo27, la Directiva 2001/29/CE del
+Parlamento Europeo y del Consejo28, la Directiva 2006/115/CE del Parlamento
+Europeo y del Consejo29, la Directiva 2009/24/CE del Parlamento Europeo y del
+Consejo30, la Directiva 2012/28/UE del Parlamento Europeo y del Consejo31 y la
+Directiva 2014/26/UE del Parlamento Europeo y del Consejo32
+.
+
+26 COM(2015) 626 final.
+27 Directiva 96/9/CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996, sobre la protección
+jurídica de las bases de datos (DO L 77 de 27.3.1996, pp. 20-28).
+28 Directiva 2001/29/CE del Parlamento Europeo y del Consejo, de 22 de mayo de 2001, relativa a la
+armonización de determinados aspectos de los derechos de autor y derechos afines a los derechos de
+autor en la sociedad de la información (DO L 167 de 22.6.2001, pp. 10-19).
+29 Directiva 2006/115/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, sobre
+derechos de alquiler y préstamo y otros derechos afines a los derechos de autor en el ámbito de la
+propiedad intelectual (DO L 376 de 27.12.2006, pp. 28-35).
+30 Directiva 2009/24/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, sobre la
+protección jurídica de programas de ordenador (DO L 111 de 5.5.2009, pp. 16-22).
+31 Directiva 2012/28/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre ciertos
+usos autorizados de las obras huérfanas (DO L 299 de 27.10.2012, pp. 5-12).
+32 Directiva 2014/26/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, relativa a la
+gestión colectiva de los derechos de autor y derechos afines y a la concesión de licencias 
+ES 14 ES
+(5) En los ámbitos de la investigación, la educación y la conservación del patrimonio
+cultural, las tecnologías digitales permiten nuevos tipos de usos que no están
+claramente enmarcados por las normas vigentes de la Unión sobre excepciones y
+limitaciones. Por otra parte, el carácter optativo de las excepciones y limitaciones
+previstas en las Directivas 2001/29/CE, 96/9/CE y 2009/24/CE en esos ámbitos
+pueden afectar negativamente al funcionamiento del mercado interior, especialmente
+en el caso de los usos transfronterizos, que ocupan un lugar cada vez más importante
+en el entorno digital. Por consiguiente, procede evaluar de nuevo en función de esos
+nuevos usos las excepciones y limitaciones vigentes establecidas por el Derecho de la
+Unión que sean pertinentes para la investigación científica, la enseñanza y la
+conservación del patrimonio cultural. Es conveniente establecer excepciones o
+limitaciones obligatorias con respecto a los usos de tecnologías de minería de textos y
+datos en los campos de la investigación científica, la ilustración con fines educativos
+en el entorno digital y la conservación del patrimonio cultural. Los usos no cubiertos
+por las excepciones o la limitación previstas en la presente Directiva deben seguir
+sujetos a las excepciones y limitaciones establecidas en el Derecho de la Unión.
+Procede adaptar las Directivas 96/9/CE y 2001/29/CE.
+(6) Las excepciones y la limitación previstas en la presente Directiva tienen por objeto
+lograr un justo equilibrio entre los derechos e intereses de los autores y otros titulares
+de derechos, por una parte, y los usuarios, por otra. Únicamente pueden aplicarse en
+determinados casos especiales que no sean incompatibles con la normal explotación de
+las obras u otras prestaciones y no perjudiquen injustificadamente a los intereses
+legítimos de los titulares de derechos.
+(7) La protección que deparan las medidas tecnológicas establecidas en la Directiva
+2001/29/CE sigue siendo esencial para garantizar la protección y el ejercicio efectivo
+de los derechos reconocidos a los autores y otros titulares de derechos por el Derecho
+de la Unión. Es necesario mantener dicha protección, garantizando al mismo tiempo
+que el uso de medidas tecnológicas no impida el disfrute de las excepciones ni de la
+limitación establecidas en la presente Directiva, que revisten especial importancia en
+el entorno en línea. Los titulares de derechos deben tener la oportunidad de garantizar
+ese disfrute mediante medidas voluntarias. Han de poder elegir el formato y las
+modalidades para proporcionar a los beneficiarios de las excepciones y la limitación
+establecidas en la presente Directiva los medios para sacar partido de ellas, siempre
+que tales medios sean adecuados. A falta de medidas voluntarias, los Estados
+miembros deben tomar las medidas adecuadas de conformidad con el artículo 6,
+apartado 4, párrafo primero, de la Directiva 2001/29/CE.
+(8) Las nuevas tecnologías hacen posible el análisis computacional automatizado de
+información en formato digital, por ejemplo de textos, sonidos, imágenes o datos, al
+que generalmente se denomina «minería de textos y datos». Estas tecnologías permiten
+a los investigadores tratar grandes cantidades de información para obtener nuevos
+conocimientos y descubrir nuevas tendencias. Aun cuando las tecnologías de este tipo
+estén muy extendidas en la economía digital, se reconoce generalmente que la minería
+de textos y datos puede beneficiar especialmente a la comunidad de investigadores,
+impulsando de este modo la innovación. No obstante, los organismos de investigación
+de la Unión, como las universidades y los institutos de investigación, se enfrentan a
+cierta inseguridad jurídica a la hora de determinar hasta qué punto pueden llevar a
+cabo actividades de minería de textos y datos de contenidos. En determinados casos, la
+
+multiterritoriales de derechos sobre obras musicales para su utilización en línea en el mercado interior
+(DO L 84 de 20.3.2014, pp. 72-98).
+ES 15 ES
+minería de textos y datos puede comportar actos protegidos por derechos de autor o
+por el derecho sui generis sobre las bases de datos, en particular la reproducción de
+obras u otras prestaciones o la extracción de contenidos de una base de datos. Cuando
+no existe ninguna excepción o limitación aplicable, debe solicitarse una autorización a
+los titulares de derechos para llevar a cabo tales actos. La minería de textos y datos
+también puede tener por objeto meros hechos o datos que no están protegidos por
+derechos de autor y, en tales casos, no ha de ser necesaria una autorización.
+(9) El Derecho de la Unión ya prevé determinadas excepciones y limitaciones con
+respecto a los usos para fines de investigación científica que pueden aplicarse a los
+actos de minería de textos y datos. Con todo, esas excepciones y limitaciones tienen
+carácter optativo y no están plenamente adaptadas al uso de las tecnologías en la
+investigación científica. Por otra parte, en los casos en que los investigadores pueden
+acceder lícitamente a los contenidos —por ejemplo, a través de suscripciones a
+publicaciones o licencias de acceso abierto—, las condiciones de las licencias pueden
+excluir la minería de textos y datos. La creciente utilización de las tecnologías
+digitales en las actividades de investigación puede afectar a la posición competitiva de
+la Unión como espacio de investigación, a menos que se tomen medidas para eliminar
+la inseguridad jurídica existente en materia de minería de textos y datos.
+(10) Esa inseguridad jurídica debe subsanarse estableciendo una excepción obligatoria
+respecto del derecho de reproducción, así como del derecho de prohibir la extracción
+de una base de datos. La nueva excepción debe entenderse sin perjuicio de la actual
+excepción obligatoria aplicable a los actos de reproducción provisional, prevista en el
+artículo 5, apartado 1, de la Directiva 2001/29/CE, que debe seguir aplicándose a las
+técnicas de minería de textos y datos que no requieran la realización de copias más allá
+del alcance de dicha excepción. Los organismos de investigación también han de
+poder acogerse a la excepción cuando participen en asociaciones público-privadas.
+(11) Los organismos de investigación de la Unión abarcan una amplia variedad de
+entidades cuyo principal objetivo es la investigación científica, combinada o no con la
+prestación de servicios educativos. Debido a la diversidad de tales entidades, es
+importante disponer de una definición común de los beneficiarios de la excepción. A
+pesar de las diversas formas y estructuras jurídicas, los organismos de investigación de
+los Estados miembros suelen llevar a cabo sus actividades sobre una base no lucrativa
+o en el contexto de una misión de interés público reconocida por el Estado. Dicha
+misión puede quedar reflejada, por ejemplo, a través de la financiación pública o de
+disposiciones de la legislación nacional o de los contratos públicos. Al mismo tiempo,
+no han de considerarse organismos de investigación a los efectos de la presente
+Directiva aquellos organismos sobre los que las empresas comerciales tienen una
+influencia decisiva que les permite ejercer el control debido a situaciones estructurales
+tales como la calidad de sus accionistas o socios, lo cual puede dar lugar a un acceso
+preferente a los resultados de la investigación.
+(12) Habida cuenta del número potencialmente elevado de solicitudes de acceso y
+descargas de sus obras u otras prestaciones, es conveniente autorizar a los titulares de
+derechos a aplicar medidas cuando exista el riesgo de que la seguridad e integridad de
+la red o las bases de datos que contengan las obras u otras prestaciones puedan verse
+comprometidas. Estas medidas no deben exceder de lo necesario para alcanzar el
+objetivo de garantizar la seguridad e integridad de la red y no han de menoscabar la
+aplicación efectiva de la excepción.
+ES 16 ES
+(13) No es necesario prever una indemnización para los titulares de derechos por los usos
+en el marco de la excepción aplicable a la minería de textos y datos establecida en la
+presente Directiva por cuanto el perjuicio debería ser mínimo, habida cuenta de la
+naturaleza y el ámbito de aplicación de la excepción.
+(14) El artículo 5, apartado 3, letra a), de la Directiva 2001/29/CE autoriza a los Estados
+miembros a establecer una excepción o limitación a los derechos de reproducción,
+comunicación al público y puesta a disposición al público únicamente a efectos de
+ilustración con fines educativos. Además, el artículo 6, apartado 2, letra b), y el
+artículo 9, letra b), de la Directiva 96/9/CE autorizan el uso de una base de datos y la
+extracción o reutilización de una parte sustancial de su contenido a efectos de
+ilustración con fines educativos. El ámbito de aplicación de estas excepciones o
+limitaciones a los usos digitales no está claro. Tampoco lo está si dichas excepciones o
+limitaciones deben aplicarse cuando la enseñanza se ofrece en línea y, por
+consiguiente, a distancia. Por otra parte, el marco actual no prevé los efectos
+transfronterizos. Esta situación puede obstaculizar el desarrollo de las actividades de
+enseñanza con soporte digital y de la formación a distancia. Por consiguiente, es
+preciso establecer una nueva excepción o limitación obligatoria para garantizar que los
+centros de enseñanza disfruten de plena seguridad jurídica cuando utilicen obras u
+otras prestaciones en actividades pedagógicas digitales, incluidas las actividades en
+línea y transfronterizas.
+(15) La formación a distancia y los programas educativos transfronterizos se han
+desarrollado primordialmente en la enseñanza superior, si bien se aprecia un creciente
+uso de herramientas y recursos digitales en todos los niveles educativos, en particular
+con el fin de mejorar y enriquecer la experiencia de aprendizaje. La excepción o
+limitación prevista en la presente Directiva debe beneficiar por ende a todos los
+centros de enseñanza de primaria, secundaria, formación profesional y educación
+superior, en la medida en que desarrollen su actividad docente con fines no
+comerciales. La estructura organizativa y los medios de financiación de un centro de
+enseñanza no son factores decisivos para determinar el carácter no comercial de la
+actividad.
+(16) La excepción o limitación debe cubrir los usos digitales de obras y otras prestaciones
+tales como el uso de partes o extractos de obras para apoyar, enriquecer o
+complementar la enseñanza, incluidas las actividades de aprendizaje correspondientes.
+La utilización de las obras u otras prestaciones al amparo de la excepción o limitación
+debe tener lugar exclusivamente en el contexto de las actividades de enseñanza y
+aprendizaje realizadas bajo la responsabilidad de los centros de enseñanza, en
+particular durante el desarrollo de los exámenes, y limitarse a lo estrictamente
+necesario para los fines de tales actividades. La excepción o limitación debe abarcar
+ambos usos con medios digitales en el aula y en línea a través de la red electrónica
+segura del centro de enseñanza, el acceso a la cual ha de estar protegido, en particular
+mediante procedimientos de autentificación. Debe quedar entendido que la excepción
+o limitación cubre las necesidades de accesibilidad específicas de las personas con
+discapacidad en el contexto de la ilustración con fines educativos.
+(17) En algunos Estados miembros se han adoptado diversas disposiciones, basadas en la
+aplicación de la excepción prevista en la Directiva 2001/29/CE o en acuerdos de
+licencia que abarcan otros usos, con el fin de facilitar los usos didácticos de las obras y
+otras prestaciones. Tales disposiciones se han concebido generalmente en función de
+las necesidades de los centros de enseñanza y los distintos niveles educativos. Es
+esencial armonizar el ámbito de aplicación de la nueva excepción o limitación 
+ES 17 ES
+obligatoria en relación con los usos y las actividades pedagógicas digitales
+transfronterizos, si bien las modalidades de aplicación pueden diferir de un Estado
+miembro a otro, siempre que no obstaculicen la aplicación efectiva de la excepción o
+limitación o los usos transfronterizos. Ello permitiría a los Estados miembros basarse
+en los acuerdos vigentes suscritos a escala nacional. En particular, los Estados
+miembros pueden decidir subordinar la aplicación de la excepción o limitación, total o
+parcialmente, a la disponibilidad de licencias adecuadas que cubran al menos los
+mismos usos que los autorizados en el marco de la excepción. Gracias a este
+mecanismo se podría, por ejemplo, conceder prioridad a las licencias para materiales
+principalmente destinados al mercado de la enseñanza. A fin de evitar que este
+mecanismo genere inseguridad jurídica o represente una carga administrativa para los
+centros de enseñanza, es necesario que los Estados miembros que opten por este
+planteamiento adopten medidas concretas para garantizar que los sistemas de licencia
+que autorizan usos digitales de obras u otras prestaciones a efectos de ilustración con
+fines educativos estén fácilmente disponibles y que los centros de enseñanza conozcan
+su existencia.
+(18) Un acto de conservación puede requerir la reproducción de una obra u otra prestación
+de la colección de una institución responsable del patrimonio cultural y, en
+consecuencia, la autorización de los titulares de los derechos correspondientes. Las
+instituciones de patrimonio cultural se dedican a la conservación de sus colecciones
+para las futuras generaciones. Las tecnologías digitales abren nuevas vías para
+preservar el patrimonio conservado en dichas colecciones, pero también plantean
+nuevos desafíos. En vista de estos nuevos desafíos, es necesario adaptar el actual
+marco jurídico estableciendo una excepción obligatoria al derecho de reproducción
+para hacer posibles esos actos de conservación.
+(19) Los diversos planteamientos adoptados por los Estados miembros con respecto a los
+actos de conservación de las instituciones de patrimonio cultural dificultan la
+cooperación transfronteriza y la puesta en común de los medios de conservación entre
+las instituciones de patrimonio cultural en el mercado interior, dando lugar a un uso
+ineficiente de los recursos.
+(20) Por tanto, es menester que los Estados miembros establezcan una excepción por la que
+se autorice a las instituciones de patrimonio cultural a reproducir obras y otras
+prestaciones que se hallen con carácter permanente en sus colecciones con fines de
+conservación, por ejemplo para hacer frente a la obsolescencia tecnológica o la
+degradación de los soportes originales. Dicha excepción ha de permitir la realización
+de copias mediante las herramientas, medios o tecnologías de conservación adecuados,
+en la cantidad necesaria y en cualquier momento de la vida de una obra u otra
+prestación, en la medida necesaria para obtener una copia exclusivamente con fines de
+conservación.
+(21) A los efectos de la presente Directiva, debe considerarse que las obras y otras
+prestaciones se hallan de forma permanente en la colección de una institución de
+patrimonio cultural cuando son propiedad de dicha institución u obran en su poder de
+manera permanente, por ejemplo como consecuencia de una transmisión de la
+propiedad o de acuerdos de licencia.
+(22) Las instituciones de patrimonio cultural han de contar con un marco claro para la
+digitalización y difusión, en particular a través de las fronteras, de las obras u otras
+prestaciones que están fuera del circuito comercial. No obstante, dadas las especiales
+características de las colecciones de obras que están fuera del circuito comercial, 
+ES 18 ES
+puede resultar extremadamente difícil obtener el consentimiento previo de los titulares
+de derechos individuales. Ello puede deberse, por ejemplo, a la antigüedad de las obras
+u otras prestaciones, a su limitado valor comercial o al hecho de que nunca estuvieron
+destinadas a usos comerciales. Por consiguiente, es necesario establecer medidas para
+facilitar la concesión de licencias de derechos sobre obras que están fuera del circuito
+comercial y se encuentran en las colecciones de instituciones de patrimonio cultural y,
+de este modo, hacer posible la celebración de acuerdos con efectos transfronterizos en
+el mercado interior.
+(23) El marco establecido por la presente Directiva debe ofrecer flexibilidad a los Estados
+miembros para elegir el tipo específico de mecanismo que permita ampliar las
+licencias de las obras que están fuera del circuito comercial a los derechos de los
+titulares de derechos que no estén representados por la entidad de gestión colectiva, de
+conformidad con sus tradiciones, prácticas o circunstancias jurídicas. Tales
+mecanismos pueden incluir la concesión de licencias colectivas ampliadas y las
+presunciones de representación.
+(24) A los efectos de esos mecanismos de licencia, es importante contar con un sistema de
+gestión colectiva riguroso y eficaz. Dicho sistema debe incluir, en particular, normas
+en materia de buena gobernanza, transparencia e información, y garantizar la
+distribución y el pago regulares, diligentes y exactos de los importes adeudados a los
+titulares de derechos individuales, de conformidad con lo dispuesto en la Directiva
+2014/26/UE. Procede poner garantías adicionales adecuadas a disposición de todos los
+titulares de derechos, quienes deben tener la posibilidad de excluir la aplicación de
+tales mecanismos a sus obras u otras prestaciones. Las condiciones vinculadas a estos
+mecanismos no han de afectar a su relevancia práctica para las instituciones de
+patrimonio cultural.
+(25) Habida cuenta de la gran variedad de obras y otras prestaciones que poseen las
+colecciones de las instituciones de patrimonio cultural, es importante que los
+mecanismos de concesión de licencias establecidos por la presente Directiva estén
+disponibles y puedan utilizarse en la práctica para diferentes tipos de obras y otras
+prestaciones, entre ellas las fotografías, las grabaciones sonoras y las obras
+audiovisuales. Atendiendo a las particularidades de las distintas categorías de obras y
+otras prestaciones en lo que respecta a los modos de publicación y distribución y a fin
+de facilitar la utilización de esos mecanismos, tal vez sea necesario que los Estados
+miembros establezcan requisitos y procedimientos específicos para la aplicación
+práctica de esos mecanismos de licencia. Es conveniente que, cuando lo hagan, los
+Estados miembros consulten a los titulares de derechos, a los usuarios y a las entidades
+de gestión colectiva.
+(26) Por motivos de cortesía internacional, resulta oportuno que los mecanismos de
+concesión de licencias para la digitalización y la difusión de obras que están fuera del
+circuito comercial previstos en la presente Directiva no se apliquen a obras u otras
+prestaciones cuya primera publicación o, a falta de publicación, cuya primera emisión
+haya tenido lugar en un tercer país o, en el caso de las obras cinematográficas o
+audiovisuales, a obras cuyo productor tenga su sede o residencia habitual en un tercer
+país. Estos mecanismos no deben aplicarse a obras u otras prestaciones de nacionales
+de terceros países, excepto cuando su primera publicación o, a falta de publicación, su
+primera emisión haya tenido lugar en el territorio de un Estado miembro o, en el caso
+de las obras cinematográficas o audiovisuales, a obras cuyo productor tenga su sede o
+residencia habitual en un Estado miembro.
+ES 19 ES
+(27) Dado que los proyectos de digitalización a gran escala pueden suponer inversiones
+considerables a las instituciones de patrimonio cultural, las licencias concedidas en el
+marco de los mecanismos previstos en la presente Directiva no han de impedir que
+generen ingresos suficientes para cubrir los costes de la licencia y los costes de
+digitalización y difusión de las obras y otras prestaciones amparadas por la licencia.
+(28) Es conveniente dar la publicidad adecuada a la información sobre el uso actual y
+futuro de las obras y otras prestaciones que están fuera del circuito comercial por parte
+de las instituciones de patrimonio cultural sobre la base de los mecanismos de licencia
+previstos en la presente Directiva y las disposiciones vigentes para todos los titulares
+de derechos para excluir la aplicación de licencias a sus obras u otras prestaciones. Esa
+publicidad es especialmente importante en el caso de los usos transfronterizos en el
+mercado interior. Por consiguiente, resulta adecuado prever la creación de un portal en
+línea único de acceso público para toda la Unión a fin de poner dicha información a
+disposición de los ciudadanos durante un período de tiempo suficiente antes de que
+tenga lugar el uso transfronterizo. En virtud del Reglamento (UE) n.º 386/2012 del
+Parlamento Europeo y del Consejo33, la Oficina de Propiedad Intelectual de la Unión
+Europea se encarga de determinadas tareas y actividades, financiadas con sus propios
+recursos presupuestarios, que tienen por objeto facilitar y apoyar las actividades de las
+autoridades nacionales, el sector privado y las instituciones de la Unión en la lucha
+contra la vulneración de los derechos de propiedad intelectual, incluyendo su
+prevención. Conviene por tanto encomendar a la Oficina el establecimiento y la
+gestión del portal europeo que facilite esa información.
+(29) Los servicios a la carta pueden desempeñar un papel decisivo en la difusión de obras
+europeas en toda la Unión Europea. No obstante, los acuerdos sobre la explotación en
+línea de esas obras pueden enfrentarse a dificultades relacionadas con la concesión de
+licencias de derechos. Tales dificultades pueden surgir, por ejemplo, cuando el titular
+de los derechos para un territorio determinado no está interesado en la explotación en
+línea de la obra o cuando se plantean problemas relacionados con las ventanas de
+explotación.
+(30) Con el fin de facilitar la concesión de licencias de derechos sobre obras audiovisuales
+a las plataformas de vídeo a la carta, la presente Directiva dispone que los Estados
+miembros han de crear un mecanismo de negociación que permita a las partes que
+deseen celebrar un acuerdo recurrir a la ayuda de un organismo imparcial. Dicho
+organismo deberá reunirse con las partes y contribuir a las negociaciones aportando
+asesoramiento profesional y externo. En este contexto, los Estados miembros deben
+decidir cuáles han de ser las condiciones de funcionamiento del mecanismo de
+negociación, incluyendo el calendario y duración de la asistencia a las negociaciones y
+el reparto de costes. Los Estados miembros deben velar por que las cargas
+administrativas y financieras sean proporcionadas a fin de garantizar la eficiencia del
+foro de negociación.
+(31) Una prensa libre y plural es esencial para garantizar un periodismo de calidad y el
+acceso de los ciudadanos a la información. Su contribución al debate público y al
+correcto funcionamiento de una sociedad democrática es fundamental. En la transición
+de la prensa en papel a la edición digital, las editoriales de publicaciones de prensa se
+
+33 Reglamento (UE) n.º 386/2012 del Parlamento Europeo y del Consejo, de 19 de abril de 2012, por el
+que se encomiendan a la Oficina de Armonización del Mercado Interior (Marcas, Dibujos y Modelos)
+funciones relacionadas con el respeto de los derechos de propiedad intelectual, entre otras la de
+congregar a representantes de los sectores público y privado en un Observatorio Europeo de las
+Vulneraciones de los Derechos de Propiedad Intelectual (DO L 129 de 16.5.2012, pp. 1-6).
+ES 20 ES
+enfrentan a problemas a la hora de obtener licencias para la explotación en línea de sus
+publicaciones y recuperar sus inversiones. Al no estar las editoriales de publicaciones
+de prensa reconocidas como titulares de derechos, la concesión de licencias y la
+observancia en el entorno digital resultan a menudo complejas e ineficientes.
+(32) Debe reconocerse y potenciarse la contribución organizativa y financiera de las
+editoriales a la producción de publicaciones de prensa para asegurar la sostenibilidad
+del sector. Por consiguiente, es necesario deparar en toda la Unión una protección
+jurídica armonizada a las publicaciones de prensa en relación con los usos digitales.
+Dicha protección debe garantizarse efectivamente mediante la introducción, en el
+Derecho de la Unión, de derechos afines a los derechos de autor para la reproducción y
+puesta a disposición del público de publicaciones de prensa en relación con los usos
+digitales.
+(33) A los efectos de la presente Directiva, es necesario definir el concepto de publicación
+de prensa de modo que solamente englobe las publicaciones periodísticas, publicadas
+por un proveedor de servicios, que se actualizan periódica o regularmente en cualquier
+soporte, para fines de información o entretenimiento. Entre esas publicaciones se
+cuentan, por ejemplo, los periódicos de publicación diaria, las revistas semanales o
+mensuales de interés general o especial y los sitios web de noticias. Las publicaciones
+periódicas que se publican con fines científicos o académicos, como las revistas
+científicas, no han de estar cubiertas por la protección que se brinda a a las
+publicaciones de prensa en el marco de la presente Directiva. Esta protección no se
+extiende a actos de hiperenlace que no constituyan una comunicación al público.
+(34) Los derechos reconocidos a las editoriales de publicaciones de prensa en virtud de la
+presente Directiva deben tener el mismo alcance que los derechos de reproducción y
+puesta a disposición del público previstos en la Directiva 2001/29/CE en la medida en
+que se refieran a usos digitales. También deben estar sujetos a las mismas
+disposiciones sobre excepciones y limitaciones que las aplicables a los derechos
+previstos en la Directiva 2001/29/CE, incluida la excepción relativa a las citas con
+fines tales como la crítica o la reseña a que se refiere el artículo 5, apartado 3, letra d),
+de dicha Directiva.
+(35) La protección deparada a las editoriales de publicaciones de prensa en virtud de la
+presente Directiva debe entenderse sin perjuicio de los derechos de los autores y otros
+titulares de derechos sobre las obras y otras prestaciones incorporadas a ellas, incluso
+en lo que se refiere a la medida en que los autores y otros titulares de derechos puedan
+explotar sus obras u otras prestaciones independientemente de la publicación de prensa
+a la que se incorporan. Por lo tanto, las editoriales de publicaciones de prensa no han
+de poder invocar la protección que se les brinda frente a autores y otros titulares de
+derechos. Esta disposición se entiende sin perjuicio de los acuerdos contractuales
+celebrados entre las editoriales de publicaciones de prensa, por una parte, y los autores
+y otros titulares de derechos, por otra.
+(36) Las editoriales, entre ellas las de publicaciones de prensa, libros o publicaciones
+científicas, actúan a menudo sobre la base de la cesión de los derechos de autor a
+través de acuerdos contractuales o disposiciones legales. En este contexto, las
+editoriales realizan una inversión con vistas a la explotación de las obras que figuran
+en sus publicaciones y en algunos casos pueden verse privadas de ingresos cuando
+dichas obras se utilizan al amparo de excepciones o limitaciones, como las aplicables
+en materia de copia privada y reprografía. En algunos Estados miembros la
+indemnización por los usos en el marco de esas excepciones se reparte entre autores y 
+ES 21 ES
+editoriales. Habida cuenta de esta situación y de la necesidad de ofrecer mayor
+seguridad jurídica a todas las partes interesadas, procede autorizar a los Estados
+miembros a determinar que, cuando un autor haya cedido o concedido licencias de sus
+derechos a una editorial o contribuya de otro modo con sus obras a una publicación y
+existan sistemas para indemnizar el perjuicio causado por una excepción o limitación,
+las editoriales tengan derecho a reclamar una parte de esa indemnización y la carga
+que se les imponga para justificar su reclamación no exceda de lo exigido con arreglo
+al sistema vigente.
+(37) En los últimos años, el funcionamiento del mercado de contenidos en línea ha
+adquirido mayor complejidad. Los servicios en línea que facilitan acceso a contenidos
+protegidos por derechos de autor cargados por sus usuarios sin intervención de los
+titulares de los derechos se han generalizado, convirtiéndose en las principales fuentes
+de acceso a los contenidos en línea. Esta situación reduce las posibilidades de que los
+titulares de derechos averigüen si sus obras y otras prestaciones se están utilizando y
+en qué condiciones, así como sus posibilidades de obtener una remuneración adecuada
+por ese uso.
+(38) Cuando los proveedores de servicios de la sociedad de la información almacenan y
+facilitan el acceso público a obras u otras prestaciones protegidas por derechos de
+autor cargadas por sus usuarios, actividad que no se limita a la mera puesta a
+disposición de instalaciones materiales y constituye un acto de comunicación al
+público, están obligados a suscribir acuerdos de licencia con los titulares de derechos,
+a menos que puedan acogerse a la exención de responsabilidad prevista en el
+artículo 14 de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo34
+.
+En lo que se refiere al artículo 14, es preciso comprobar si el proveedor de servicios
+desempeña un papel activo, en particular optimizando la presentación de las obras o
+prestaciones cargadas o promocionándolas, independientemente de la naturaleza de los
+medios utilizados a tal fin.
+En aras del correcto funcionamiento de los acuerdos de licencia, los proveedores de
+servicios de la sociedad de la información que almacenen y faciliten el acceso público
+a grandes cantidades de obras u otras prestaciones protegidas por derechos de autor
+cargadas por sus usuarios deben adoptar medidas adecuadas y proporcionadas para
+garantizar la protección de las obras u otras prestaciones, entre ellas la aplicación de
+tecnologías eficaces. Esta obligación también ha de ser aplicable cuando los
+proveedores de servicios de la sociedad de la información pueden acogerse a la
+exención de responsabilidad prevista en el artículo 14 de la Directiva 2000/31/CE.
+(39) La colaboración entre los proveedores de servicios de la sociedad de la información
+que almacenan y facilitan el acceso público a grandes cantidades de obras u otras
+prestaciones protegidas por derechos de autor cargadas por sus usuarios y los titulares
+de derechos reviste esencial importancia para el funcionamiento de tecnologías tales
+como las técnicas de reconocimiento de contenidos. En tales casos, los titulares de
+derechos han de facilitar los datos necesarios para que los servicios puedan identificar
+sus contenidos y los servicios deben ser transparentes para con los titulares de
+derechos en lo que respecta a las tecnologías desplegadas para así hacer posible la
+evaluación de su idoneidad. Los servicios deben, en particular, proporcionar a los
+titulares de derechos información sobre el tipo de tecnologías empleadas, la forma en
+
+34 Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a
+determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el
+comercio electrónico en el mercado interior (DO L 178 de 17.7.2000, pp. 1-16).
+ES 22 ES
+que se utilizan y su tasa de éxito en el reconocimiento de los contenidos de los titulares
+de los derechos. Esas tecnologías también han de permitir a los titulares de derechos
+obtener información de los proveedores de servicios de la sociedad de la información
+sobre el uso de sus contenidos amparados por un acuerdo.
+(40) Algunos titulares de derechos, como los autores o los artistas intérpretes o ejecutantes,
+han de disponer de información para poder evaluar el valor económico de sus
+derechos, que están armonizados por el Derecho de la Unión. Así ocurre
+especialmente cuando dichos titulares de derechos conceden una licencia o ceden
+derechos a cambio de una remuneración. Los autores y los artistas intérpretes o
+ejecutantes suelen estar en una posición contractual más débil cuando conceden
+licencias o ceden sus derechos, por lo que necesitan información para poder evaluar el
+valor económico constante de sus derechos con respecto a la remuneración recibida
+por su licencia o cesión, pero a menudo se enfrentan a dificultades derivadas de la falta
+de transparencia. Por consiguiente, es importante que las otras partes contratantes o
+sus derechohabientes den a conocer la información adecuada con el fin de garantizar la
+transparencia y el equilibrio en el sistema que regula la remuneración de los autores y
+los artistas intérpretes o ejecutantes.
+(41) A la hora de aplicar las obligaciones en materia de transparencia deben tenerse
+presentes las características específicas de los distintos sectores de contenidos y de los
+derechos de los autores y los artistas intérpretes o ejecutantes en cada uno de estos
+sectores. Es oportuno que los Estados miembros consulten a todas las partes
+interesadas pertinentes, pues ello contribuirá a determinar los requisitos sectoriales. La
+negociación colectiva debe considerarse una opción posible para alcanzar un acuerdo
+entre las partes interesadas pertinentes en materia de transparencia. Procede prever un
+período transitorio para facilitar la adaptación de las actuales prácticas en materia de
+información a las obligaciones de transparencia. No es menester aplicar las
+obligaciones de transparencia a los acuerdos celebrados con entidades de gestión
+colectiva, que ya están sometidas a obligaciones de transparencia en virtud de la
+Directiva 2014/26/UE.
+(42) Algunos contratos de explotación de derechos armonizados a escala de la Unión son
+de larga duración y ofrecen a los autores y artistas intérpretes o ejecutantes pocas
+posibilidades de renegociarlos con las otras partes contratantes o sus derechohabientes.
+Por consiguiente, sin perjuicio de la legislación aplicable a los contratos en los Estados
+miembros, conviene prever un mecanismo de adaptación de remuneraciones para los
+casos en que la remuneración inicialmente acordada en el marco de una licencia o una
+cesión de derechos sea desproporcionadamente baja en comparación con los ingresos
+pertinentes y los beneficios derivados de la explotación de la obra o de la grabación de
+la interpretación o ejecución, incluso a la luz de la transparencia que garantiza la
+presente Directiva. La evaluación de la situación debe tener en cuenta las
+circunstancias específicas de cada caso, así como las peculiaridades y prácticas de los
+distintos sectores de contenidos. En caso de que las partes no lleguen a un acuerdo
+sobre la adaptación de la remuneración, el autor o el artista intérprete o ejecutante debe
+tener derecho a recurrir ante un tribunal u otra autoridad competente.
+(43) Los autores y artistas intérpretes o ejecutantes suelen ser reacios a hacer valer sus
+derechos frente a sus socios contractuales ante un órgano jurisdiccional. Por
+consiguiente, los Estados miembros deben establecer un procedimiento alternativo de
+resolución de litigios con respecto a las reclamaciones relativas a las obligaciones de
+transparencia y al mecanismo de adaptación del contrato.
+ES 23 ES
+(44) Los objetivos de la presente Directiva —a saber, la modernización de determinados
+aspectos del marco de derechos de autor de la Unión atendiendo a los avances
+tecnológicos y los nuevos canales de distribución de contenidos protegidos en el
+mercado interior— no pueden ser alcanzados de manera suficiente por los Estados
+miembros, sino que pueden lograrse mejor a nivel de la Unión debido a su alcance, sus
+efectos y su dimensión transfronteriza. La UE puede, pues, adoptar medidas con
+arreglo al principio de subsidiariedad establecido en el artículo 5 del Tratado de la
+Unión Europea. De conformidad con el principio de proporcionalidad establecido en el
+mismo artículo, la presente Directiva no excede de lo necesario para alcanzar dichos
+objetivos.
+(45) La presente Directiva respeta los derechos fundamentales y se atiene a los principios
+reconocidos, en particular, en la Carta de los Derechos Fundamentales de la Unión
+Europea. En consecuencia, la presente Directiva debe interpretarse y aplicarse de
+acuerdo con esos derechos y principios.
+(46) Cualquier tratamiento de datos personales en el marco de la presente Directiva debe
+respetar los derechos fundamentales, incluidos el derecho al respeto de la vida privada
+y familiar y el derecho a la protección de los datos de carácter personal con arreglo a
+los artículos 7 y 8 de la Carta de los Derechos Fundamentales de la Unión Europea, y
+ajustarse a la Directiva 95/46/CE del Parlamento Europeo y del Consejo35 y a la
+Directiva 2002/58/CE del Parlamento Europeo y del Consejo36
+.
+(47) De conformidad con la Declaración política conjunta, de 28 de septiembre de 2011, de
+los Estados miembros y de la Comisión sobre los documentos explicativos37, los
+Estados miembros se han comprometido a adjuntar a la notificación de sus medidas de
+transposición, en aquellos casos en que esté justificado, uno o varios documentos que
+expliquen la relación entre los elementos de una directiva y las partes correspondientes
+de los instrumentos nacionales de transposición. Por lo que respecta a la presente
+Directiva, el legislador considera que la transmisión de tales documentos está
+justificada.
+HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+35 Directiva 95/46/CE del Parlamento Europeo y del Consejo, de 24 de octubre de 1995, relativa a la
+protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre
+circulación de estos datos (DO L 281 de 23.11.1995, pp. 31-50). Esta Directiva quedará derogada con
+efecto a partir del 25 de mayo de 2018 y será sustituida por el Reglamento (UE) 2016/679 del
+Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas
+físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por
+el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (DO L 119 de
+4.5.2016, pp. 1-88).
+36 Directiva 2002/58/CE del Parlamento Europeo y del Consejo, de 12 de julio de 2002, relativa al
+tratamiento de los datos personales y a la protección de la intimidad en el sector de las comunicaciones
+electrónicas (Directiva sobre la privacidad y las comunicaciones electrónicas) (DO L 201 de 31.7.2002,
+pp. 37-47), denominada, en su versión modificada por las Directivas 2006/24/CE y 2009/136/CE,
+«Directiva sobre la privacidad electrónica».
+37 DO C 369 de 17.12.2011, p. 14.
+ES 24 ES
+TÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1
+Objeto y ámbito de aplicación
+1. La presente Directiva establece normas destinadas a una mayor armonización del
+Derecho de la Unión aplicable a los derechos de autor y derechos afines en el
+mercado interior, teniendo especialmente en cuenta los usos digitales y
+transfronterizos de los contenidos protegidos. Establece asimismo normas sobre
+excepciones y limitaciones y sobre facilitación de licencias, así como normas
+encaminadas a garantizar el correcto funcionamiento del mercado de explotación de
+obras y otras prestaciones.
+2. Salvo en los casos mencionados en el artículo 6, la presente Directiva no modificará
+en absoluto ni afectará en modo alguno a las disposiciones vigentes establecidas en
+las Directivas actualmente en vigor en la materia, en particular las Directivas
+96/9/CE, 2001/29/CE, 2006/115/CE, 2009/24/CE, 2012/28/UE y 2014/26/UE.
+Artículo 2
+Definiciones
+A los efectos de la presente Directiva, se entenderá por:
+1) «organismo de investigación», una universidad, un instituto de investigación o
+cualquier otra organización cuyo principal objetivo sea realizar investigaciones
+científicas o realizar investigaciones científicas y prestar servicios educativos
+a) sin ánimo de lucro o reinvirtiendo todos los beneficios en sus investigaciones
+científicas, o
+b) en el marco de una misión de interés público reconocida por un Estado
+miembro,
+de tal manera que una empresa que ejerza una influencia decisiva en dicho
+organismo no pueda disfrutar de acceso preferente a los resultados generados por la
+investigación científica;
+2) «minería de textos y datos», cualquier técnica analítica automatizada para analizar
+textos y datos en formato digital a fin de generar información sobre pautas,
+tendencias o correlaciones;
+3) «institución de patrimonio cultural», una biblioteca o un museo accesibles al público,
+un archivo o una institución responsable del patrimonio cinematográfico o sonoro;
+4) «publicación de prensa», la fijación de una colección de obras literarias de carácter
+periodístico, que también puede incluir otras obras o prestaciones y constituye un
+elemento unitario dentro de una publicación periódica o actualizada regularmente
+bajo un único título, como un periódico o una revista de interés general o
+especial, cuya finalidad sea suministrar información sobre noticias u otros temas y se
+publique en cualquier medio de comunicación por iniciativa y bajo la responsabilidad
+editorial y el control de un proveedor de servicios.
+ES 25 ES
+TÍTULO II
+MEDIDAS PARA ADAPTAR LAS EXCEPCIONES Y LIMITACIONES
+AL ENTORNO DIGITAL Y TRANSFRONTERIZO
+Artículo 3
+Minería de textos y datos
+1. Los Estados miembros establecerán una excepción a los derechos previstos en el
+artículo 2 de la Directiva 2001/29/CE, el artículo 5, letra a), y el artículo 7, apartado
+1, de la Directiva 96/9/CE, y el artículo 11, apartado 1, de la presente Directiva con
+respecto a las reproducciones y extracciones realizadas por organismos de
+investigación con el fin de proceder a la minería de textos y datos de obras u otras
+prestaciones a las que tengan acceso legítimo con fines de investigación científica.
+2. Será inaplicable toda disposición contractual contraria a la excepción prevista en el
+apartado 1.
+3. Los titulares de derechos estarán autorizados a aplicar medidas para garantizar la
+seguridad e integridad de las redes y bases de datos en que estén almacenadas las
+obras u otras prestaciones. Dichas medidas no irán más allá de lo necesario para
+lograr ese objetivo.
+4. Los Estados miembros alentarán a los titulares de derechos y organismos de
+investigación a establecer las mejores prácticas comunes para la aplicación de las
+medidas contempladas en el apartado 3.
+Artículo 4
+Utilización de obras y otras prestaciones en actividades pedagógicas digitales y
+transfronterizas
+1. Los Estados miembros establecerán una excepción o limitación a los derechos
+previstos en los artículos 2 y 3 de la Directiva 2001/29/CE, el artículo 5, letra a), y el
+artículo 7, apartado 1, de la Directiva 96/9/CE, el artículo 4, apartado 1, de la
+Directiva 2009/24/CE y el artículo 11, apartado 1, de la presente Directiva a fin de
+autorizar el uso digital de obras y otras prestaciones únicamente con fines ilustrativos
+de enseñanza, en la medida en que ello esté justificado por la finalidad no comercial
+perseguida, siempre que el uso:
+a) tenga lugar en los locales de un centro de enseñanza o a través de una red
+electrónica segura a la que solo puedan acceder los alumnos o estudiantes y el
+personal docente del centro;
+b) vaya acompañado de la indicación de la fuente, con inclusión del nombre del
+autor, salvo que ello resulte imposible.
+2. Los Estados miembros podrán establecer que la excepción adoptada con arreglo al
+apartado 1 no sea aplicable en general o con respecto a determinados tipos de obras u
+otras prestaciones, en la medida en que estén fácilmente disponibles en el mercado
+licencias adecuadas que autoricen los actos descritos en el apartado 1.
+Los Estados miembros que hagan uso de lo dispuesto en el párrafo primero adoptarán
+las medidas necesarias para garantizar la adecuada disponibilidad y visibilidad de las
+licencias que autorizan los actos descritos en el apartado 1 para los centros de
+enseñanza.
+ES 26 ES
+3. Se considerará que el uso de obras y otras prestaciones únicamente con fines
+ilustrativos de enseñanza a través de redes electrónicas seguras hecho en
+cumplimiento de las disposiciones de Derecho nacional adoptadas en virtud del
+presente artículo únicamente tiene lugar en el Estado miembro en que está
+establecido el centro de enseñanza.
+4. Los Estados miembros podrán prever una indemnización justa para los titulares de
+derechos por el perjuicio que les haya causado el uso de sus obras u otras
+prestaciones con arreglo a lo dispuesto en el apartado 1.
+Artículo 5
+Conservación del patrimonio cultural
+Los Estados miembros establecerán una excepción a los derechos previstos en el artículo 2 de
+la Directiva 2001/29/CE, el artículo 5, letra a), y el artículo 7, apartado 1, de la Directiva
+96/9/CE, el artículo 4, apartado 1, letra a), de la Directiva 2009/24/CE y el artículo 11,
+apartado 1, de la presente Directiva por la que se autorice a las instituciones de patrimonio
+cultural a efectuar copias de las obras u otras prestaciones que se hallen de forma permanente
+en sus colecciones, en cualquier formato y en cualquier soporte, con la única finalidad de
+conservar tales obras u otras prestaciones y en la medida necesaria para esa conservación.
+Artículo 6
+Disposiciones comunes
+El artículo 5, apartado 5, y los párrafos primero, tercero y quinto del artículo 6, apartado 4, de
+la Directiva 2001/29/CE serán aplicables a las excepciones y la limitación previstas en el
+presente título.
+ES 27 ES
+TÍTULO III
+MEDIDAS PARA MEJORAR LAS PRÁCTICAS DE CONCESIÓN DE
+LICENCIAS Y GARANTIZAR UN MAYOR ACCESO A LOS
+CONTENIDOS
+CAPÍTULO 1
+Obras que están fuera del circuito comercial
+Artículo 7
+Uso de obras que están fuera del circuito comercial por parte de las instituciones de
+patrimonio cultural
+1. Los Estados miembros garantizarán que, cuando una entidad de gestión colectiva
+acuerde en nombre de sus miembros una licencia no exclusiva para fines no
+comerciales con una institución de patrimonio cultural para la digitalización,
+distribución, comunicación al público o puesta a disposición de obras u otras
+prestaciones que están fuera del circuito comercial y se hallan de forma permanente
+en la colección de la institución, dicha licencia no exclusiva pueda hacerse extensiva
+o pueda suponerse aplicable a los titulares de derechos de la misma categoría que los
+amparados por la licencia que no estén representados por la entidad de gestión
+colectiva, siempre que:
+a) la entidad de gestión colectiva, sobre la base de mandatos de los titulares de
+derechos, sea ampliamente representativa de los titulares de derechos en la
+categoría de obras u otras prestaciones y de los derechos objeto de la licencia;
+b) se garantice la igualdad de trato a todos los titulares de derechos en relación
+con las condiciones de la licencia;
+c) todos los titulares de derechos puedan en cualquier momento oponerse a que se
+considere que sus obras u otras prestaciones están fuera del circuito comercial e
+impedir que se aplique la licencia a sus obras u otras prestaciones.
+2. Se considerará que una obra u otra prestación está fuera del circuito comercial
+cuando la totalidad de la obra u otra prestación, en todas sus traducciones, versiones
+y manifestaciones, no está a disposición del público a través de los canales
+comerciales habituales y no pueda esperarse razonablemente que lo esté.
+Los Estados miembros, en consulta con los titulares de derechos, las entidades de
+gestión colectiva y las instituciones de patrimonio cultural, garantizarán que los
+requisitos que se apliquen para determinar si las obras y otras prestaciones pueden
+ser objeto de licencias con arreglo al apartado 1 no sean más estrictos de lo que es
+necesario y razonable y no excluyan la posibilidad de determinar que una colección
+está fuera del circuito comercial en su conjunto, cuando sea razonable presuponer
+que todas las obras u otras prestaciones de la colección están fuera del circuito
+comercial.
+3. Los Estados miembros velarán por que se tomen las medidas adecuadas en materia
+de publicidad por lo que respecta a:
+a) la consideración de las obras u otras prestaciones como fuera del circuito
+comercial,
+ES 28 ES
+b) la licencia, y, en particular, su aplicación a los titulares de derechos no
+representados,
+c) la posibilidad de que los titulares de los derechos manifiesten su oposición,
+contemplada en el apartado 1, letra c),
+incluso durante un período de tiempo razonable antes de que las obras u otras
+prestaciones sean digitalizadas, distribuidas, comunicadas al público o puestas a
+disposición.
+4. Los Estados miembros garantizarán que las licencias contempladas en el apartado 1
+se obtengan de una entidad de gestión colectiva que sea representativa del Estado
+miembro donde:
+a) las obras o los fonogramas se publicaron por primera vez o, a falta de
+publicación, donde se emitieron por primera vez, excepto en el caso de las
+obras cinematográficas y audiovisuales,
+b) los productores de las obras tengan su sede o residencia habitual, en el caso de
+las obras cinematográficas y audiovisuales, o
+c) esté establecida la institución de patrimonio cultural, cuando, tras esfuerzos
+razonables, según las letras a) y b), no haya podido determinarse un Estado
+miembro o un tercer país.
+5. Los apartados 1, 2 y 3 no se aplicarán a las obras u otras prestaciones de nacionales
+de terceros países, excepto cuando sean aplicables las letras a) y b) del apartado 4.
+Artículo 8
+Usos transfronterizos
+1. Una institución de patrimonio cultural podrá utilizar las obras u otras prestaciones
+amparadas por una licencia concedida de conformidad con el artículo 7 de acuerdo
+con las condiciones de la licencia en todos los Estados miembros.
+2. Los Estados miembros velarán por que la información necesaria para identificar las
+obras u otras prestaciones amparadas por una licencia concedida de conformidad con
+el artículo 7 y la información sobre la posibilidad de que los titulares de derechos
+manifiesten su oposición mencionada en el artículo 7, apartado 1, letra c), sean
+accesibles al público en un portal en línea único durante seis meses como mínimo
+antes de que las obras u otras prestaciones se digitalicen, distribuyan, comuniquen al
+público o pongan a disposición en Estados miembros distintos de aquel en que se
+haya concedido la licencia, y durante todo el período de vigencia de la licencia.
+3. El portal contemplado en el apartado 2 será creado y gestionado por la Oficina de
+Propiedad Intelectual de la Unión Europea, de conformidad con el Reglamento (UE)
+n.º 386/2012.
+Artículo 9
+Diálogo entre las partes interesadas
+Los Estados miembros garantizarán un diálogo regular entre las organizaciones de usuarios y
+titulares de derechos representativas, así como con otras organizaciones de partes interesadas
+pertinentes, con el fin de fomentar sobre una base sectorial la relevancia y facilidad de uso de
+los mecanismos de concesión de licencias contemplados en el artículo 7, apartado 1, velarán
+por la eficacia de las salvaguardias para los titulares de los derechos a que se refiere el
+presente capítulo, especialmente en lo que se refiere a las medidas de publicidad, y, en su 
+ES 29 ES
+caso, prestarán su asistencia en el establecimiento de los requisitos mencionados en el
+artículo 7, apartado 2, párrafo segundo.
+CAPÍTULO 2
+Acceso y disponibilidad de obras audiovisuales en plataformas de vídeo a la
+carta
+Artículo 10
+Mecanismo de negociación
+Los Estados miembros velarán por que las partes que deseen suscribir un acuerdo para poner a
+disposición obras audiovisuales en plataformas de vídeo a la carta y se enfrenten a
+dificultades relacionadas con la concesión de licencias de derechos puedan contar con la
+asistencia de un organismo imparcial con la experiencia pertinente. Dicho organismo deberá
+prestar asistencia en las negociaciones y contribuir a la consecución de acuerdos.
+A más tardar el [fecha mencionada en el artículo 21, apartado 1], los Estados miembros
+notificarán a la Comisión el organismo mencionado en el apartado 1.
+ES 30 ES
+TÍTULO IV
+MEDIDAS PARA GARANTIZAR EL CORRECTO FUNCIONAMIENTO
+DEL MERCADO DE DERECHOS DE AUTOR
+CAPÍTULO 1
+Derechos sobre publicaciones
+Artículo 11
+Protección de las publicaciones de prensa en lo relativo a los usos digitales
+1. Los Estados miembros reconocerán a las editoriales de publicaciones de prensa los
+derechos previstos en el artículo 2 y en el artículo 3, apartado 2, de la Directiva
+2001/29/CE para el uso digital de sus publicaciones de prensa.
+2. Los derechos contemplados en el apartado 1 no modificarán en absoluto ni afectarán
+en modo alguno a los derechos que la normativa de la Unión establece para los
+autores y otros titulares de derechos, en relación con las obras y otras prestaciones
+incorporadas a una publicación de prensa. Tales derechos no podrán invocarse frente
+a los autores y otros titulares de derechos y, en particular, no podrán privarles del
+derecho a explotar sus obras y otras prestaciones con independencia de la
+publicación de prensa a la que se incorporen.
+3. Se aplicarán mutatis mutandis los artículos 5 a 8 de la Directiva 2001/29/CE y de la
+Directiva 2012/28/UE en lo que respecta a los derechos mencionados en el
+apartado 1.
+4. Los derechos contemplados en el apartado 1 expirarán a los veinte años de la
+aparición en la publicación de prensa. Este plazo se calculará a partir del primer día
+del mes de enero del año siguiente a la fecha de publicación.
+Artículo 12
+Reclamaciones de indemnización justa
+Los Estados miembros podrán establecer que, cuando un autor haya cedido o concedido una
+licencia de un derecho a una editorial, tal cesión o licencia constituye una base jurídica
+suficiente para que la editorial reclame una parte de la indemnización por los usos de la obra
+que hayan tenido lugar en el marco de una excepción o limitación del derecho cedido u objeto
+de licencia.
+CAPÍTULO 2
+Ciertos usos de contenidos protegidos por servicios en línea
+Artículo 13
+Uso de contenidos protegidos por parte de proveedores de servicios de la sociedad de la
+información que almacenen y faciliten acceso a grandes cantidades de obras y otras
+prestaciones cargadas por sus usuarios
+1. Los proveedores de servicios de la sociedad de la información que almacenen y
+faciliten acceso público a grandes cantidades de obras u otras prestaciones cargadas
+por sus usuarios adoptarán, en cooperación con los titulares de derechos, las medidas
+pertinentes para asegurar el correcto funcionamiento de los acuerdos celebrados con
+los titulares de derechos para el uso de sus obras u otras prestaciones o para impedir
+que estén disponibles en sus servicios obras u otras prestaciones identificadas por los 
+ES 31 ES
+titulares de los derechos en cooperación con los proveedores de servicios. Esas
+medidas, como el uso de técnicas efectivas de reconocimiento de contenidos, serán
+adecuadas y proporcionadas. Los proveedores de servicios proporcionarán a los
+titulares de derechos información adecuada sobre el funcionamiento y el despliegue
+de las medidas, así como, en su caso, información adecuada sobre el reconocimiento
+y uso de las obras y otras prestaciones.
+2. Los Estados miembros velarán por que los proveedores de servicios contemplados en
+el apartado 1 implanten mecanismos de reclamación y recurso a los que puedan
+acceder los usuarios en caso de litigio sobre la aplicación de las medidas a que se
+refiere el apartado 1.
+3. Los Estados miembros facilitarán, cuando proceda, la cooperación entre los
+proveedores de servicios de la sociedad de la información y los titulares de derechos
+a través de diálogos entre las partes interesadas para determinar las mejores prácticas
+como, por ejemplo, las técnicas de reconocimiento de contenidos adecuadas y
+proporcionadas, teniendo en cuenta, en particular, la naturaleza de los servicios, la
+disponibilidad de las tecnologías y su eficacia a la luz de la evolución tecnológica.
+CAPÍTULO 3
+Remuneración justa de los autores y artistas intérpretes o ejecutantes en los
+contratos
+Artículo 14
+Obligación de transparencia
+1. Los Estados miembros se asegurarán de que los autores y los artistas intérpretes o
+ejecutantes reciban periódicamente, teniendo en cuenta las características específicas
+de cada sector, información oportuna, adecuada y suficiente sobre la explotación de
+sus obras e interpretaciones por parte de aquellos a quienes hayan concedido
+licencias o cedido sus derechos, especialmente en lo que se refiere a los modos de
+explotación, los ingresos generados y la remuneración correspondiente.
+2. La obligación prevista en el apartado 1 será proporcionada y efectiva y garantizará
+un nivel adecuado de transparencia en cada sector. No obstante, en los casos en que
+la carga administrativa derivada de la obligación sea desproporcionada en relación
+con los ingresos generados por la explotación de la obra o interpretación, los Estados
+miembros podrán adaptar la obligación prevista en el apartado 1, siempre que la
+obligación siga existiendo y asegure un nivel adecuado de transparencia.
+3. Los Estados miembros podrán decidir que la obligación prevista en el apartado 1 no
+sea aplicable cuando la contribución del autor o artista intérprete o ejecutante no sea
+significativa en relación con la obra o interpretación en su conjunto.
+4. El apartado 1 no será aplicable a las entidades sujetas a las obligaciones de
+transparencia previstas en la Directiva 2014/26/UE.
+Artículo 15
+Mecanismo de adaptación de contratos
+Los Estados miembros velarán por que los autores y los artistas intérpretes o ejecutantes
+tengan derecho a solicitar una remuneración adecuada a la parte con la que hayan suscrito un
+contrato para la explotación de los derechos en caso de que la remuneración inicialmente
+pactada sea desproporcionadamente baja en comparación con las ingresos y beneficios
+subsiguientes derivados de la explotación de las obras o interpretaciones.
+ES 32 ES
+Artículo 16
+Mecanismo de resolución de litigios
+Los Estados miembros dispondrán que los litigios relativos a la obligación de transparencia
+prevista en el artículo 14 y el mecanismo de adaptación de contratos establecido en el
+artículo 15 puedan someterse a un procedimiento alternativo de resolución de litigios de
+carácter voluntario.
+ES 33 ES
+TÍTULO V
+DISPOSICIONES FINALES
+Artículo 17
+Modificación de otras Directivas
+1. La Directiva 96/9/CE se modifica como sigue:
+a) En el artículo 6, apartado 2, la letra b) se sustituye por el texto siguiente:
+«b) cuando la utilización se haga únicamente con fines ilustrativos de
+enseñanza o de investigación científica, siempre que indique la fuente y en la
+medida justificada por el objetivo no comercial que se persiga, sin perjuicio de
+las excepciones y la limitación previstas en la Directiva [la presente
+Directiva];».
+b) En el artículo 9, la letra b) se sustituye por el texto siguiente:
+«b) cuando se trate de una extracción con fines ilustrativos de enseñanza o de
+investigación científica, siempre que indique la fuente y en la medida
+justificada por el objetivo no comercial que se persiga, sin perjuicio de las
+excepciones y la limitación previstas en la Directiva [la presente Directiva];».
+2. La Directiva 2001/29/CE se modifica como sigue:
+a) En el artículo 5, apartado 2, la letra c) se sustituye por el texto siguiente:
+«c) en relación con actos específicos de reproducción efectuados por
+bibliotecas accesibles al público, centros de enseñanza o museos, o por
+archivos, que no tengan intención de obtener un beneficio económico o
+comercial directo o indirecto, sin perjuicio de las excepciones y la limitación
+previstas en la Directiva [la presente Directiva];».
+b) En el artículo 5, apartado 3, la letra a) se sustituye por el texto siguiente:
+«a) cuando el uso tenga únicamente por objeto la ilustración con fines
+educativos o de investigación científica, siempre que, salvo en los casos en que
+resulte imposible, se indique la fuente, con inclusión del nombre del autor, y en
+la medida en que esté justificado por la finalidad no comercial perseguida, sin
+perjuicio de las excepciones y la limitación previstas en la Directiva [la
+presente Directiva];».
+c) En el artículo 12, apartado 4, se añaden las siguientes letras:
+«e) examinar las repercusiones de la transposición de la Directiva [la presente
+Directiva] en el funcionamiento del mercado interior y señalar las dificultades
+de transposición que puedan surgir;
+f) facilitar el intercambio de información sobre los aspectos pertinentes de la
+evolución de la legislación y la jurisprudencia, así como sobre la puesta en
+práctica de las medidas adoptadas por los Estados miembros para aplicar la
+Directiva [la presente Directiva];
+g) examinar cualquier otro asunto relacionado con la aplicación de la Directiva
+[la presente Directiva].».
+ES 34 ES
+Artículo 18
+Ámbito de aplicación temporal
+1. La presente Directiva se aplicará con respecto a todas las obras y otras prestaciones
+que estén protegidas por la legislación de los Estados miembros en materia de
+derechos de autor a [fecha mencionada en el artículo 21, apartado 1] o en fecha
+posterior.
+2. Las disposiciones del artículo 11 se aplicarán también a las publicaciones de prensa
+publicadas antes del [fecha mencionada en el artículo 21, apartado 1].
+3. La presente Directiva se aplicará sin perjuicio de los actos celebrados y de los
+derechos adquiridos antes del [fecha mencionada en el artículo 21, apartado 1].
+Artículo 19
+Disposición transitoria
+Los acuerdos de licencia o cesión de derechos de autores y artistas intérpretes o ejecutantes
+estarán sujetos a la obligación de transparencia establecida en el artículo 14 a partir del [un
+año después de la fecha mencionada en el artículo 21, apartado 1].
+Artículo 20
+Protección de datos de carácter personal
+El tratamiento de datos personales efectuado en el marco de la presente Directiva se llevará a
+cabo de conformidad con las Directivas 95/46/CE y 2002/58/CE.
+Artículo 21
+Transposición
+1. Los Estados miembros adoptarán las disposiciones legales, reglamentarias y
+administrativas necesarias para dar cumplimiento a lo dispuesto en la presente
+Directiva a más tardar el [12 meses después de su entrada en vigor]. Comunicarán
+inmediatamente a la Comisión el texto de dichas disposiciones.
+Cuando los Estados miembros adopten dichas disposiciones, estas harán referencia a
+la presente Directiva o irán acompañadas de dicha referencia en su publicación
+oficial. Los Estados miembros establecerán las modalidades de la mencionada
+referencia.
+2. Los Estados miembros comunicarán a la Comisión el texto de las principales
+disposiciones de Derecho interno que adopten en el ámbito regulado por la presente
+Directiva.
+Artículo 22
+Revisión
+1. En un plazo de como mínimo [cinco años a partir de la fecha mencionada en el
+artículo 21, apartado 1], la Comisión llevará a cabo una revisión de la presente
+Directiva y presentará un informe sobre las principales conclusiones al Parlamento
+Europeo, al Consejo y al Comité Económico y Social Europeo.
+2. Los Estados miembros facilitarán a la Comisión la información necesaria para la
+elaboración del informe mencionado en el apartado 1.
+Artículo 23
+Entrada en vigor
+La presente Directiva entrará en vigor a los veinte días de su publicación en el Diario Oficial
+de la Unión Europea.
+ES 35 ES
+Artículo 24
+Destinatarios
+Los destinatarios de la presente Directiva serán los Estados miembros.
+Hecho en Bruselas, el
+Por el Parlamento Europeo Por el Consejo
+El Presidente El Presidente

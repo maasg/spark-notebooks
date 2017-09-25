@@ -1,0 +1,323 @@
+REGLAMENTO (CE) No 808/2004 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+de 21 de abril de 2004
+relativo a estadísticas comunitarias de la sociedad de la información
+(Texto pertinente a efectos del EEE)
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE
+LA UNIÓN EUROPEA,
+Visto el Tratado constitutivo de la Comunidad Europea, y en
+particular el primer apartado de su artículo 285,
+Vista la propuesta de la Comisión,
+De conformidad con el procedimiento establecido en el artí-
+culo 251 del Tratado (1),
+Considerando lo siguiente:
+(1) En marzo de 2000, en el Consejo Europeo de Lisboa, se
+fijó el objetivo de convertir Europa, en un plazo de diez
+años, en la economía del conocimiento más competitiva
+y dinámica del mundo.
+(2) A través del plan de acción eEurope 2002 —aprobado
+en el Consejo Europeo de Feira en junio de 2000—, se
+estableció un procedimiento de fijación de objetivos y
+evaluación comparativa para poner a Europa en línea lo
+antes posible.
+(3) En junio de 2002, en el Consejo Europeo de Sevilla, se
+aprobaron los objetivos del plan de acción eEurope
+2005, que requerían el establecimiento de una base jurí-
+dica para garantizar que en los Estados miembros se
+facilitan datos periódicos y comparables y permitir que
+se extienda el uso de estadísticas oficiales de la sociedad
+de la información.
+(4) Los indicadores estructurales que se utilizan en el
+Informe anual de primavera al Consejo Europeo requie-
+ren indicadores basados en información estadística cohe-
+rente procedente del ámbito de la sociedad de la infor-
+mación.
+(5) El procedimiento de evaluación comparativa eEurope
+como parte de la aplicación de los planes de acción eEu-
+rope requiere indicadores basados en información esta-
+dística coherente procedente del ámbito de la sociedad
+de la información.
+(6) Los servicios de la Comisión necesitan estadísticas armo-
+nizadas anuales sobre el uso de las tecnologías de la
+información y comunicación (TIC) en las empresas.
+(7) Los servicios de la Comisión necesitan estadísticas armo-
+nizadas anuales sobre el uso de las TIC por parte de las
+personas y en los hogares.
+(8) La velocidad a la que tienen lugar los cambios en el
+ámbito de la sociedad de la información hace necesario
+que las estadísticas que se van produciendo se adapten a
+los nuevos desarrollos. Ello puede lograrse si se estable-
+cen módulos con una duración fija y se permiten las
+modificaciones a través de medidas de aplicación que
+tengan en cuenta los recursos de los Estados miembros
+y la carga que pesa sobre los encuestados, la viabilidad
+técnica y metodológica y la fiabilidad de los resultados.
+(9) La producción de estadísticas comunitarias específicas se
+rige por las normas establecidas en el Reglamento (CE)
+no 322/97 del Consejo, de 17 de febrero de 1997, sobre
+la estadística comunitaria (2).
+(10) Dado que los objetivos de la acción pretendida, a saber,
+el establecimiento de un marco común para la produc-
+ción sistemática de estadísticas comunitarias de la socie-
+dad de la información, no pueden ser alcanzados de
+manera suficiente por los Estados miembros y, por con-
+siguiente, pueden lograrse mejor, debido a las dimensio-
+nes o los efectos de la acción contemplada, a nivel
+comunitario, la Comunidad puede adoptar medidas, de
+acuerdo con el principio de subsidiariedad consagrado
+en el artículo 5 del Tratado. De conformidad con el
+principio de proporcionalidad enunciado en dicho artí-
+culo, el presente Reglamento no excede de lo necesario
+para alcanzar estos objetivos.
+(11) Las medidas necesarias para la aplicación del presente
+Reglamento deben aprobarse con arreglo a la Decisión
+1999/468/CE del Consejo, de 28 de junio de 1999, por
+la que se establecen los procedimientos para el ejercicio
+de las competencias de ejecución atribuidas a la Comi-
+sión (3).
+(12) De conformidad con el artículo 3 de la Decisión del
+Consejo 89/382/CEE, Euratom (4), se ha consultado al
+Comité del programa estadístico, creado por ella.
+(1) Dictamen del Parlamento Europeo de 29 de enero de 2004 (no
+publicado aún en el Diario Oficial) y Decisión del Consejo de 16 de
+abril de 2004.
+(2) DO L 52 de 22.2.1997, p. 1; Reglamento modificado por el Regla-
+mento (CE) no 1882/2003 del Parlamento Europeo y del Consejo
+(DO L 284 de 31.10.2003, p. 1).
+(3) DO L 184 de 17.7.1999, p. 23.
+(4) DO L 181 de 28.6.1989, p. 47.
+30.4.2004 L 143/49Diario Oficial de la Unión EuropeaES
+HAN ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Objetivo
+El objetivo del presente Reglamento es crear un marco común
+para la producción sistemática de estadísticas comunitarias de
+la sociedad de la información.
+Artículo 2
+Definiciones
+A efectos del presente Reglamento,
+a) «Estadísticas comunitarias» tendrá el mismo significado que
+se le atribuye en el artículo 2 del Reglamento (CE) no
+322/97.
+b) «Producción de estadísticas» tendrá el mismo significado
+que se le atribuye en el artículo 2 del Reglamento (CE) no
+322/97.
+c) Se entenderá por «período de referencia» el período al que
+se refieren los datos.
+d) Se entenderá por «año de referencia» el período de referen-
+cia que tenga una duración de un año natural.
+e) Se entenderá por «período de recogida» el período especifi-
+cado en las medidas de aplicación durante el cual tiene
+lugar la recogida de datos.
+Artículo 3
+Ámbito de aplicación
+1. Las estadísticas que se han de recoger incluirán la infor-
+mación necesaria para el procedimiento de evaluación compa-
+rativa eEurope y que sea de utilidad para los indicadores
+estructurales, así como otros datos necesarios para proporcio-
+nar una base uniforme sobre la cual analizar la sociedad de la
+información.
+2. Las estadísticas se agruparán en módulos, tal y como vie-
+nen definidos en los anexos I y II del presente Reglamento.
+Artículo 4
+Módulos
+Los módulos del presente Reglamento cubrirán los siguientes
+ámbitos:
+— empresas y sociedad de la información, tal que definido en
+el anexo I,
+— personas, hogares y sociedad de la información, tal que
+definido en el anexo II.
+Artículo 5
+Manual metodológico
+La Comisión, en estrecha colaboración con los Estados miem-
+bros, elaborará (y actualizará, a medida que sea necesario, a
+través de nuevas medidas de aplicación) un manual metodoló-
+gico que contenga las directrices que se recomiendan relativas
+a las estadísticas comunitarias producidas con arreglo al pre-
+sente Reglamento.
+Artículo 6
+Transmisión de datos
+1. Los Estados miembros enviarán los datos agregados y los
+metadatos exigidos por el presente Reglamento y sus medidas
+de aplicación, incluidos los datos agregados confidenciales, a la
+Comisión (Eurostat) de conformidad con las disposiciones
+comunitarias vigentes relativas a la transmisión de datos sujetos
+a confidencialidad estadística. Dichas disposiciones comunita-
+rias serán aplicables al tratamiento de los resultados en la
+medida en que incluyan los datos confidenciales.
+2. Los Estados miembros enviarán los datos y metadatos
+exigidos por el presente Reglamento en forma electrónica, con
+arreglo a una norma de intercambio acordada entre la Comi-
+sión y los Estados miembros.
+Artículo 7
+Criterios de calidad e informes
+1. La Comisión (Eurostat) evaluará la calidad de los datos
+enviados.
+2. La Comisión (Eurostat), en estrecha colaboración con los
+Estados miembros, establecerá normas comunes recomendadas
+diseñadas para garantizar la calidad de los datos facilitados (de
+acuerdo con los criterios de calidad estándar de Eurostat).
+Dichas normas se publicarán en el manual metodológico.
+3. Los Estados miembros adoptarán todas las medidas nece-
+sarias para garantizar la calidad de los datos transmitidos.
+4. Tras el vencimiento del plazo de transmisión de los resul-
+tados finales, los Estados miembros facilitarán a la Comisión
+(Eurostat), en un plazo establecido, un informe sobre la calidad
+de los datos enviados, basándose en las normas a las que se
+refiere el apartado 2. En los informes se incluirán ejemplos
+específicos en los que no se hayan cumplido dichas normas. El
+plazo se establecerá en el transcurso del desarrollo de las medi-
+das de aplicación.
+L 143/50 30.4.2004Diario Oficial de la Unión EuropeaES
+Artículo 8
+Medidas de aplicación
+1. Las medidas para la aplicación de los módulos del pre-
+sente Reglamento harán referencia a la selección y especifica-
+ción, el ajuste y la modificación de las cuestiones y sus caracte-
+rísticas, la cobertura, los períodos de referencia y los desgloses
+de las características, la frecuencia y el ritmo del suministro de
+datos y los plazos para el envío de los resultados.
+2. Las medidas de aplicación, incluidas las medidas de ajuste
+y actualización destinadas a reflejar los cambios económicos y
+técnicos, se establecerán de acuerdo con el procedimiento a
+que se refiere apartado 2 del artículo 9 y se tendrán en cuenta
+los recursos de los Estados miembros y la carga que pesa sobre
+los encuestados, la viabilidad técnica y metodológica y la fiabi-
+lidad de los resultados.
+3. Las medidas de aplicación se elaborarán, como mínimo,
+nueve meses antes del comienzo del período de recogida de
+datos.
+Artículo 9
+Comité
+1. La Comisión estará asistida por el Comité del programa
+estadístico, creado en virtud de la Decisión 89/382/CEE, Eura-
+tom, denominado en lo sucesivo «el Comité».
+2. En los casos en que se haga referencia al presente aparta-
+do, serán de aplicación los artículos 5 y 7 de la Decisión
+1999/468/CE, observando lo dispuesto en su artículo 8.
+El plazo contemplado en el apartado 6 del artículo 5 de la
+Decisión 1999/468/CE queda fijado en tres meses.
+Artículo 10
+Financiación
+1. Al menos durante el primer año en que los Estados
+miembros produzcan las estadísticas comunitarias, tal y como
+se prevé en las medidas adoptadas en aplicación del presente
+Reglamento, la Comisión les aportará una contribución finan-
+ciera para ayudarles a sufragar los costes en los que incurran
+como consecuencia de la producción, el tratamiento y el envío
+de dichas estadísticas. El importe de la contribución financiera
+no superará el 90 % de dichos costes.
+2. Las condiciones y los procedimientos para la aportación
+de la contribución financiera, así como para su pago y control,
+serán conformes con el Reglamento (CE, Euratom) no
+1605/2002 del Consejo, de 25 de junio de 2002, por el que se
+aprueba el Reglamento financiero aplicable al presupuesto
+general de las Comunidades Europeas (1).
+3. Si las condiciones presupuestarias lo permiten, la Comi-
+sión seguirá aportando una contribución financiera a los Esta-
+dos miembros con objeto de ayudarles a sufragar los gastos
+derivados del suministro de las estadísticas mencionadas
+durante los años siguientes.
+4. La autoridad presupuestaria autorizará el importe de los
+fondos disponibles para dicha contribución financiera en el
+marco de los procedimientos presupuestarios anuales de las
+Comunidades Europeas.
+Artículo 11
+Entrada en vigor
+El presente Reglamento entrará en vigor a los veinte días de su
+publicación en el Diario Oficial de la Unión Europea.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en
+cada Estado miembro.
+Hecho en Estrasburgo, el 21 de abril de 2004.
+Por el Parlamento Europeo
+El Presidente
+P. COX
+Por el Consejo
+El Presidente
+D. ROCHE
+(1) DO L 248 de 16.9.2002, p. 1.
+30.4.2004 L 143/51Diario Oficial de la Unión EuropeaES
+ANEXO I
+Módulo 1: Empresas y sociedad de la información
+a) Objetivos
+El objetivo del presente módulo es el suministro puntual de estadísticas relativas a las empresas y a la sociedad de
+la información. El presente módulo proporciona un marco para todo lo necesario en términos de cobertura, dura-
+ción y periodicidad, cuestiones tratadas y desglose de los datos proporcionados, así como para los estudios piloto
+que puedan ser necesarios.
+b) Ámbito
+El presente módulo engloba las actividades comerciales de las secciones D a K, así como la división 92, de la
+nomenclatura estadística de actividades económicas de la Comunidad Europea (NACE REV. 1.1). La sección J se
+incluirá en función del éxito que tengan los estudios piloto que se realizarán previamente.
+La compilación de estadísticas se hará por unidades empresariales.
+c) Duración y frecuencia del suministro de datos
+Las estadísticas serán suministradas anualmente durante los cinco años de referencia a partir de la fecha de entrada
+en vigor del presente Reglamento. No será necesario facilitar todas las características cada año, sino que se especifi-
+cará la frecuencia para cada una de las características y se llegará a un acuerdo, que se incluirá como parte de las
+medidas de aplicación establecidas en el artículo 8.
+d) Cuestiones tratadas
+Las características que deberán facilitarse se extraerán de la siguiente lista:
+— sistemas TIC y su utilización en las empresas,
+— utilización de Internet y de otras redes electrónicas por parte de las empresas,
+— procedimientos de comercio electrónico (e-commerce) y negocio electrónico (e-business),
+— conocimientos y experiencia requerida en materia de TIC en la unidad empresarial,
+— barreras para la utilización de las TIC, Internet y otras redes electrónicas, así como de los procedimientos de
+comercio y negocio electrónicos,
+— gasto e inversión en TIC,
+— seguridad de las TIC,
+— efectos percibidos a raíz de la utilización de las TIC en las empresas.
+No se tratarán necesariamente todas las cuestiones cada año.
+e) Desgloses de los datos proporcionados
+No será necesario facilitar todos los desgloses cada año; los desgloses necesarios se extraerán de la siguiente lista y
+se llegará a un acuerdo, que se incluirá como parte de las medidas de aplicación:
+— por grupos de tamaño,
+— por partida de la NACE,
+— por región; los desgloses por región se limitarán a un máximo de tres grupos.
+L 143/52 30.4.2004Diario Oficial de la Unión EuropeaES
+f) Estudios piloto
+Cuando se considere la necesidad de obtener nuevos datos significativos o cuando se prevea una calidad insuficiente
+de los datos, la Comisión establecerá unos estudios piloto que los Estados miembros efectuarán sobre una base
+voluntaria antes de toda recopilación de datos. Dichos estudios piloto se realizarán para evaluar la viabilidad de la
+recopilación de datos correspondiente, teniendo en cuenta las ventajas de la disponibilidad de los datos en compara-
+ción con los costes de recogida y la carga que pesa sobre los encuestados.
+30.4.2004 L 143/53Diario Oficial de la Unión EuropeaES
+ANEXO II
+Módulo 2: Personas, hogares y sociedad de la información
+a) Objetivos
+El objetivo del presente módulo es el suministro puntual de estadísticas relativas a las personas, los hogares y la
+sociedad de la información. El presente módulo proporciona un marco para todos los requisitos necesarios en tér-
+minos de cobertura, duración y periodicidad, cuestiones tratadas y desglose de los datos proporcionados, así como
+para los estudios piloto que puedan ser necesarios.
+b) Ámbito
+El presente módulo engloba estadísticas relativas a las personas y los hogares.
+c) Duración y frecuencia del suministro de datos
+Las estadísticas serán suministradas anualmente durante los cinco años de referencia a partir de la fecha de entrada
+en vigor del presente Reglamento. No será necesario facilitar todas las características cada año, sino que se especifi-
+cará la frecuencia para cada una de las características y se llegará a un acuerdo, que se incluirá como parte de las
+medidas de aplicación establecidas en el artículo 8.
+d) Cuestiones tratadas
+Las características que deberán facilitarse se extraerán de la siguiente lista:
+— acceso a las TIC y utilización por parte de personas y en los hogares,
+— utilización de Internet con fines diferentes por parte de personas y en los hogares,
+— seguridad de las TIC,
+— conocimiento de las TIC,
+— barreras para la utilización de las TIC y de Internet,
+— efectos percibidos a raíz de la utilización de las TIC por parte de personas y en los hogares.
+No se tratarán necesariamente todas las cuestiones cada año.
+e) Desgloses de los datos proporcionados
+No será necesario facilitar todos los desgloses cada año; los desgloses necesarios se extraerán de la siguiente lista y
+se llegará a un acuerdo, que se incluirá como parte de las medidas de aplicación:
+A. En el caso de las estadísticas relativas a los hogares:
+— por tipo de hogar.
+B. En el caso de las estadísticas relativas a las personas:
+— por grupos de edad,
+— por sexo,
+— por nivel de estudios,
+— por situación laboral,
+— por región.
+L 143/54 30.4.2004Diario Oficial de la Unión EuropeaES
+f) Estudios piloto
+Cuando se considere la necesidad de obtener nuevos datos significativos o cuando se prevea una calidad insuficiente
+de los datos, la Comisión establecerá unos estudios piloto que los Estados miembros efectuarán sobre una base
+voluntaria antes de toda recopilación de datos. Dichos estudios piloto se realizarán para evaluar la viabilidad de la
+recopilación de datos correspondiente, teniendo en cuenta las ventajas de la disponibilidad de los datos en compara-
+ción con los costes de recogida y la carga que pesa sobre los encuestados.
+30.4.2004 L 143/55Diario Oficial de la Unión EuropeaES

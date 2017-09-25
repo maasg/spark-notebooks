@@ -1,0 +1,747 @@
+ACTES ADOPTÉS PAR DES INSTANCES CRÉÉES PAR DES 
+ACCORDS INTERNATIONAUX 
+DÉCISION No 1/2017 
+du 1er mars 2017 
+du comité mixte institué en vertu de l'article 14 de l'accord de reconnaissance mutuelle entre la 
+Communauté européenne et les États-Unis d'Amérique, modifiant l'annexe sectorielle sur les 
+bonnes pratiques de fabrication des produits pharmaceutiques [2017/382] 
+LE COMITÉ MIXTE, 
+vu l'accord de reconnaissance mutuelle conclu entre la Communauté européenne et les États-Unis d'Amérique (ci-après 
+l'«accord») en 1998, et notamment ses articles 14 et 21, et 
+considérant que le comité mixte doit prendre une décision pour modifier l'annexe sectorielle sur les bonnes pratiques de 
+fabrication des produits pharmaceutiques conformément à l'article 21, paragraphe 2, de l'accord, 
+DÉCIDE:  
+1. L'annexe A de la présente décision est l'annexe sectorielle modifiée sur les bonnes pratiques de fabrication des 
+produits pharmaceutiques entre les États-Unis et l'Union européenne (ci-après l'«annexe sectorielle modifiée») qui 
+modifie l'annexe sectorielle sur les bonnes pratiques de fabrication des produits pharmaceutiques conclue en 1998 et 
+la remplace par une version consolidée.  
+2. L'annexe A a été convenue entre les parties.   
+La présente décision, établie en double exemplaire, est signée par les représentants du comité mixte qui 
+sont autorisés, en vertu de l'article 21, paragraphe 2, de l'accord, à agir au nom des parties aux fins de la 
+modification des annexes. Elle prend effet à la date de la dernière signature.  
+Signé à Washington DC, le 19 janvier 2017. 
+Au nom des États-Unis d'Amérique 
+Michael B. G. FORMAN  
+Signé à Bruxelles, le 1er mars 2017. 
+Au nom de l'Union européenne 
+Cecilia MALMSTRÖM    
+4.3.2017 L 58/36 Journal officiel de l'Union européenne FR     
+ANNEXE A 
+Annexe sectorielle modifiée sur les bonnes pratiques de fabrication des produits pharmaceutiques 
+entre les États-Unis et l'Union européenne 
+PRÉAMBULE 
+La présente annexe constitue une annexe sectorielle de l'accord de reconnaissance mutuelle entre l'Union européenne et 
+les États-Unis d'Amérique, modifiant l'annexe sectorielle sur les bonnes pratiques de fabrication des produits pharmaceu­
+tiques établie en 1998. 
+CHAPITRE 1 
+DÉFINITIONS, OBJET ET CHAMP D'APPLICATION ET PRODUITS COUVERTS 
+Article premier 
+Définitions 
+Aux fins de la présente annexe, on entend par:  
+1) «évaluation réalisée conformément à la présente annexe»: 
+pour l'Union européenne (UE), une évaluation de l'équivalence; pour 
+les États-Unis, une évaluation de la compétence. 
+Toute évaluation réalisée conformément à la présente annexe comprend une réévaluation;  
+2) «autorité reconnue»: 
+pour l'Union européenne, une autorité équivalente; pour 
+les États-Unis, une autorité compétente.  
+3) «autorité compétente»: une autorité jugée compétente par la Food and Drug Administration (ci-après la «FDA») 
+conformément aux critères et procédures spécifiés dans l'appendice 4 et mentionnés dans les dispositions 
+législatives, réglementaires et administratives des États-Unis qui sont énumérées dans l'appendice 1. Il est entendu 
+que lorsqu'une autorité de réglementation est jugée «compétente», ladite autorité n'est pas tenue d'appliquer des 
+procédures identiques à celles de la FDA pour effectuer des inspections et contrôler des sites de fabrication; 
+4) «autorité équivalente»: une autorité vis-à-vis de laquelle l'Union européenne a rendu une décision positive d'équi­
+valence conformément aux critères et procédures spécifiés dans l'appendice 4 et mentionnés dans les dispositions 
+législatives, réglementaires et administratives énumérées dans l'appendice 1;  
+5) «équivalence»: le fait que le système réglementaire auquel se conforme une autorité est suffisamment comparable 
+pour garantir que les inspections effectuées et les documents officiels connexes en matière de bonnes pratiques de 
+fabrication des produits pharmaceutiques fournissent des informations permettant de déterminer si les dispositions 
+législatives et réglementaires respectives sont respectées. Il est entendu qu'en vertu de l'équivalence, les systèmes 
+réglementaires respectifs ne sont pas tenus de prévoir des procédures identiques;  
+6) «application effective»: les mesures prises par les autorités pour protéger leur population contre les produits dont la 
+qualité, la sécurité ou l'efficacité sont douteuses et pour garantir que les produits sont fabriqués dans le respect des 
+dispositions législatives et réglementaires, des normes et des engagements souscrits dans le cadre de leur 
+autorisation de mise sur le marché;  
+7) «bonnes pratiques de fabrication» (ci-après dénommées les «BPF»): les systèmes qui garantissent la conception, la 
+surveillance et le contrôle appropriés des processus et sites de fabrication, dont le respect garantit la composition, 
+l'efficacité, la qualité et la pureté des produits pharmaceutiques. Les BPF comprennent les systèmes robustes de 
+gestion de la qualité, l'obtention de matières premières (y compris des matières de départ) et de matériaux de 
+conditionnement de qualité satisfaisante, la mise en place de bonnes procédures opératoires, la détection et la 
+recherche d'écarts de qualité du produit et le maintien de laboratoires d'essais fiables; 
+4.3.2017 L 58/37 Journal officiel de l'Union européenne FR     
+8) «inspection»: une évaluation sur place d'un site de fabrication afin de s'assurer du respect des bonnes pratiques de 
+fabrication et/ou des engagements souscrits dans le cadre de l'autorisation de mise sur le marché d'un produit;  
+9) «rapport d'inspection»: un rapport rédigé par un enquêteur ou un inspecteur d'une autorité visée à l'appendice 2 
+concernant l'inspection d'un site de fabrication effectuée par l'enquêteur ou l'inspecteur qui décrit l'objet et la portée 
+d'une inspection, ainsi que les observations et constatations écrites portant sur le respect par le site de fabrication 
+des exigences applicables en matière de BPF exposées dans les procédures législatives, réglementaires et adminis­
+tratives énumérées à l'appendice 1, et tout engagement souscrit dans le cadre de l'autorisation de mise sur le marché 
+d'un produit;  
+10) «document officiel en matière de bonnes pratiques de fabrication»: un document délivré par une autorité visée à 
+l'appendice 2, à la suite de l'inspection d'un site de fabrication. Au nombre des documents officiels en matière de 
+BPF figurent notamment les rapports d'inspection, les certificats délivrés par une autorité attestant du respect des 
+BPF par un site de fabrication, une déclaration de non-respect des BPF délivrée par des autorités de l'Union 
+européenne, et une note d'observations, des lettres d'observations, des lettres d'avertissement, et des alertes à 
+l'importation délivrées par la FDA;  
+11) «produits pharmaceutiques»: les produits pharmaceutiques et les médicaments définis dans les dispositions 
+législatives et réglementaires énumérées dans l'appendice 1;  
+12) «inspections après homologation»: les inspections de contrôle des BPF effectuées après la mise sur le marché des 
+produits;  
+13) «inspections avant homologation»: les inspections de sites de fabrication de produits pharmaceutiques se trouvant 
+sur le territoire d'une partie, réalisées dans le cadre de l'examen d'une demande avant l'octroi d'une autorisation de 
+mise sur le marché;  
+14) «système réglementaire»: l'ensemble des exigences légales relatives aux bonnes pratiques de fabrication, aux 
+inspections et aux mesures de mise en œuvre qui sont de nature à garantir la protection de la santé publique et 
+l'autorité légale requise pour faire respecter ces exigences. 
+Article 2 
+Objet 
+La présente annexe facilite l'échange, entre les parties, de documents officiels relatifs aux BPF et la prise en considération 
+des constatations factuelles figurant dans ces documents. La présente annexe vise à faciliter les échanges commerciaux et 
+à favoriser la santé publique en permettant aux parties de mobiliser et de réaffecter leurs moyens d'inspection, y compris 
+en évitant la répétition des inspections, de façon à améliorer le contrôle des sites de fabrication, de mieux tenir compte 
+des risques de qualité et de prévenir les effets néfastes sur la santé. 
+Article 3 
+Champ d'application 
+1. Les dispositions de la présente annexe s'appliquent aux inspections des sites de fabrication de produits pharmaceu­
+tiques, effectuées sur le territoire de l'une des parties pendant la mise sur le marché des produits (ci-après dénommées les 
+«inspections après homologation») et, dans les limites de l'article 11, avant leur mise sur le marché (ci-après dénommées 
+les «inspections avant homologation»), ainsi que, dans les limites de l'article 8, paragraphe 3, aux inspections de sites de 
+fabrication de produits pharmaceutiques effectuées en dehors du territoire de l'une ou l'autre des parties. 
+2. L'appendice 1 précise les dispositions législatives, réglementaires et administratives applicables à ces inspections et 
+aux exigences concernant les BPF. 
+3. L'appendice 2 donne la liste des autorités chargées de contrôler les sites qui fabriquent des produits relevant de la 
+présente annexe. 
+4. Les articles 6, 7, 8, 9, 10 et 11 de l'accord ne s'appliquent pas à la présente annexe. 
+4.3.2017 L 58/38 Journal officiel de l'Union européenne FR     
+Article 4 
+Produits couverts 
+1. Les présentes dispositions s'appliquent aux produits pharmaceutiques à usage humain ou vétérinaire, finis et mis 
+sur le marché, aux produits intermédiaires (pour l'Union européenne, tels que définis dans la législation de l'Union 
+européenne) et aux «in-process materials» (pour les États-Unis, tels que définis dans la législation américaine), à certains 
+produits biologiques à usage humain mis sur le marché et aux principes actifs à usage pharmaceutique, uniquement dans 
+la mesure où ils sont réglementés par les autorités des deux parties visées à l'appendice 2 et sous réserve des dispositions 
+de l'article 20. 
+2. Le sang, le plasma, les tissus et les organes humains sont exclus du champ d'application de la présente annexe, de 
+même que les médicaments immunologiques à usage vétérinaire. 
+3. L'appendice 3 contient la liste des produits couverts par la présente annexe. 
+CHAPITRE 2 
+DÉTERMINATION DE LA RECONNAISSANCE 
+Article 5 
+Évaluations 
+1. Chaque partie procède à des évaluations des autorités visées à l'appendice 2 conformément à la présente annexe, à 
+la demande de l'autre partie et dans les meilleurs délais, y compris en ce qui concerne les autorités ajoutées à l'appendice 
+2 après la date d'entrée en vigueur de la présente annexe et en ce qui concerne les produits dont la liste est établie à 
+l'appendice 3 (y compris ceux qui sont inclus dans le champ d'application de la présente annexe conformément à 
+l'article 20 après la date de la présente annexe). 
+2. Chaque partie utilise les critères et la procédure mentionnés à l'appendice 4 pour effectuer les évaluations 
+conformément à la présente annexe. 
+Article 6 
+Participation aux évaluations et réalisation des évaluations 
+En ce qui concerne les autorités visées à l'appendice 2, chaque partie assume sa part de la procédure décrite dans 
+l'appendice 4. Chaque partie s'efforce, de bonne foi, d'achever les évaluations conformément à la présente annexe, et ce 
+dans les meilleurs délais. À cette fin: 
+a)  l'Union européenne achève une évaluation de la FDA pour les produits pharmaceutiques à usage humain 
+conformément à la présente annexe au plus tard le 1er juillet 2017; 
+b)  la FDA achève une évaluation réalisée conformément à la présente annexe de chacune des autorités des États 
+membres de l'Union européenne responsables des produits pharmaceutiques à usage humain visées à l'appendice 2, 
+conformément aux dispositions de l'appendice 5. 
+Article 7 
+Reconnaissance des autorités 
+1. Les parties décident de reconnaître ou non une autorité selon les critères mentionnés dans l'appendice 4. Les 
+parties informent rapidement le comité mixte sectoriel de toute décision de reconnaître une autorité de l'autre partie. Le 
+comité mixte sectoriel tient à jour une liste des autorités reconnues. Les parties rendent la liste publique. 
+4.3.2017 L 58/39 Journal officiel de l'Union européenne FR     
+2. La partie qui procède à l'évaluation informe rapidement l'autre partie et l'autorité compétente de toute irrégularité 
+relevée au cours de l'évaluation. En cas de décision négative, la partie qui procède à l'évaluation informe l'autre partie et 
+l'autorité compétente des raisons de cette décision et fournit suffisamment d'informations pour permettre à l'autorité de 
+comprendre les mesures correctives qui doivent être prises pour obtenir une décision positive. Une partie peut demander 
+à l'autre partie de procéder à une réévaluation de toute autorité vis-à-vis de laquelle l'autre partie a rendu une décision 
+négative une fois que l'autorité a pris les mesures correctives nécessaires conformément à l'article 5. 
+3. Une partie qui procède à l'évaluation, à la demande de l'autre partie, examine dans les plus brefs délais avec l'autre 
+partie, au sein du comité mixte sectoriel, les raisons d'une décision négative. En cas de décision négative, le comité mixte 
+sectoriel s'efforce d'examiner dans un délai de trois mois le calendrier approprié et les mesures exactes qui doivent être 
+prises pour réévaluer l'autorité concernée. 
+CHAPITRE 3 
+ASPECTS OPÉRATIONNELS 
+Article 8 
+Reconnaissance des inspections 
+1. Les parties reconnaissent les inspections effectuées dans le secteur pharmaceutique et acceptent les documents 
+officiels en matière de BPF délivrés par une autorité reconnue de l'autre partie pour des sites de fabrication situés sur le 
+territoire de l'autorité de délivrance, sous réserve des dispositions du paragraphe 2. 
+2. Les parties peuvent, dans certaines circonstances, choisir de ne pas accepter un document officiel en matière de 
+BPF délivré par une autorité reconnue de l'autre partie pour des sites de fabrication situés sur le territoire de l'autorité de 
+délivrance. Ces circonstances peuvent inclure une indication d'incohérences ou d'insuffisances importantes dans un 
+rapport d'inspection, des manquements en matière de qualité détectés dans la surveillance après mise sur le marché ou 
+d'autres éléments de preuve spécifiques traduisant une vive préoccupation par rapport à la qualité du produit ou à la 
+sécurité du consommateur. Une partie qui choisit de ne pas accepter un document officiel en matière de BPF délivré par 
+une autorité reconnue de l'autre partie informe l'autre partie et l'autorité compétente des raisons pour lesquelles elle 
+a refusé le document et peut demander des éclaircissements à cette autorité. L'autorité s'efforce de répondre à la 
+demande d'éclaircissements dans les meilleurs délais et apporte normalement ces éclaircissements en se fondant sur l'avis 
+d'un ou de plusieurs membres de l'équipe d'inspection. 
+3. Les parties peuvent accepter des documents officiels en matière de BPF délivrés par une autorité reconnue de 
+l'autre partie pour des sites de fabrication situés en dehors du territoire de l'autorité de délivrance. 
+4. Chaque partie détermine les conditions dans lesquelles elle accepte des documents officiels en matière de BPF 
+délivrés conformément au paragraphe 3. 
+5. Aux fins de la présente annexe, le fait d'accepter un document officiel en matière de BPF revient à prendre en 
+considération les constatations factuelles figurant dans ce document. 
+Article 9 
+Essais par lots 
+Dans l'Union européenne, comme le prévoit l'article 51, paragraphe 2, de la directive 2001/83/CE du Parlement 
+européen et du Conseil (1) et l'article 55, paragraphe 2, de la directive 2001/82/CE du Parlement européen et du 
+Conseil (2), la personne qualifiée peut être relevée de la responsabilité de la réalisation des contrôles visés à l'article 51, 
+paragraphe 1, de la directive 2001/83/CE et à l'article 55, paragraphe 1, de la directive 2001/82/CE, à condition que ces 
+contrôles aient été effectués aux États-Unis, que le produit ait été fabriqué aux États-Unis et que chaque lot soit 
+accompagné d'un certificat de lot (conformément au système de certification de l'OMS sur la qualité des médicaments) 
+délivré par le fabriquant, attestant que le produit est conforme aux exigences de l'autorisation de mise sur le marché et 
+portant la signature de la personne habilitée à autoriser la livraison du lot. 
+4.3.2017 L 58/40 Journal officiel de l'Union européenne FR     
+(1) Directive 2001/83/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux 
+médicaments à usage humain (JO L 311 du 28.11.2001, p. 67). 
+(2) Directive 2001/82/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire relatif aux 
+médicaments vétérinaires (JO L 311 du 28.11.2001, p. 1). 
+Article 10 
+Transmission de documents officiels en matière de BPF 
+Si une partie importatrice demande à une autorité reconnue de l'autre partie un document officiel en matière de BPF 
+après homologation, l'autorité reconnue transmet le document à la partie concernée dans un délai de 30 jours civils à 
+compter de la date de la demande. Si, sur la base de ce document, la partie importatrice détermine qu'il est nécessaire de 
+procéder à une nouvelle inspection du site de fabrication, elle en informe l'autorité reconnue de l'autre partie et 
+demande à celle-ci de procéder à une nouvelle inspection, conformément à l'article 11. 
+Article 11 
+Demandes d'inspections avant et après homologation 
+1. Une partie ou une autorité reconnue d'une partie peut demander par écrit qu'une autorité reconnue de l'autre 
+partie effectue une inspection avant ou après homologation d'un site de fabrication. La demande doit préciser la raison 
+de la demande et énumérer les points précis à examiner lors de l'inspection ainsi que le calendrier demandé pour 
+achever l'inspection et transmettre les documents officiels en matière de BPF. 
+2. Dans l'Union européenne, les demandes sont envoyées directement à l'autorité reconnue compétente, avec copie à 
+l'Agence européenne des médicaments (EMA). 
+3. Dans un délai de 15 jours civils à compter de la réception de la demande, l'autorité reconnue accuse réception de 
+la demande et confirme si elle procédera à l'inspection selon le calendrier demandé. Lorsque l'autorité qui reçoit la 
+demande est d'avis que les documents officiels en matière de BPF qui se rapportent à la demande sont déjà disponibles 
+ou qu'ils sont en voie de l'être, elle en informe l'autorité à l'origine de la demande et partage ces documents sur 
+demande. 
+4. Il est entendu que si l'autorité reconnue fait savoir qu'elle ne procédera pas à l'inspection, l'autorité à l'origine de la 
+demande a le droit d'effectuer sa propre inspection du site de fabrication et l'autorité saisie a le droit de participer à 
+l'inspection. 
+Article 12 
+Entretien 
+Les parties assurent les activités courantes pour veiller à ce que les autorités reconnues sur leur territoire continuent de 
+satisfaire aux critères de reconnaissance. Aux fins de ces activités de contrôle, les parties s'en remettent à des 
+programmes établis qui prévoient des contrôles ou des évaluations d'autorités organisés régulièrement sur la base des 
+critères énoncés à l'appendice 4. La fréquence et la nature de ces activités sont conformes aux bonnes pratiques interna­
+tionales. Une partie peut inviter l'autre partie à participer à ces activités de contrôle, aux frais de l'autre partie. Chaque 
+partie informe l'autre partie de toute modification significative apportée à ses programmes de contrôle. 
+Article 13 
+Suspension d'une autorité reconnue 
+1. Chaque partie a le droit de suspendre la reconnaissance d'une autorité reconnue de l'autre partie. Ce droit s'exerce 
+sur présentation à l'autre partie et à l'autorité reconnue d'une communication écrite dûment et objectivement motivée. 
+2. Une partie qui suspend la reconnaissance d'une autorité reconnue de l'autre partie examine dans les meilleurs 
+délais, à la demande de l'autre partie ou de l'autorité dont la reconnaissance a été suspendue, au sein du comité mixte 
+sectoriel, la suspension, la raison de cette dernière et les mesures correctives qui devraient être prises pour que la 
+suspension puisse être levée. 
+4.3.2017 L 58/41 Journal officiel de l'Union européenne FR     
+3. Après la suspension d'une autorité précédemment mentionnée comme une autorité reconnue, les parties ne sont 
+plus tenues d'accepter les documents officiels en matière de BPF de l'autorité suspendue. Les parties continuent 
+d'accepter les documents officiels en matière de BPF établis avant la suspension, sauf décision contraire du destinataire, 
+justifiée par des raisons de santé ou de sécurité. La suspension est effective jusqu'au moment où les parties décident de 
+lever la suspension ou jusqu'à ce que soit rendue une décision positive de reconnaissance conformément à l'article 7 
+dans le cadre d'une réévaluation. 
+CHAPITRE 4 
+COMITÉ MIXTE SECTORIEL 
+Article 14 
+Rôle et composition du comité mixte sectoriel 
+1. Il est institué un comité mixte sectoriel chargé de contrôler les activités réalisées au titre de la présente annexe. 
+2. Le comité est coprésidé par un représentant de la FDA pour les États-Unis d'Amérique et un représentant de 
+l'Union européenne, qui y disposent chacun d'une voix. Le comité mixte sectoriel rend ses décisions à l'unanimité. Il 
+établit ses propres règles et procédures. 
+3. Son rôle consiste notamment à: 
+a)  compléter et mettre à jour la liste des autorités reconnues, en précisant toute limitation par type d'inspection ou par 
+produit, et la liste des autorités visées dans l'appendice 2, et les transmettre à l'ensemble des autorités visées dans 
+l'appendice 2 et au comité mixte; 
+b)  constituer un forum de discussion pour aborder les questions qui peuvent se poser en ce qui concerne la mise en 
+œuvre de la présente annexe, y compris les désaccords relatifs aux décisions de reconnaissance ou de suspension et 
+aux calendriers proposés pour achever les évaluations réalisées conformément à la présente annexe des autorités dont 
+la liste est établie dans l'appendice 2; 
+c)  conformément à l'article 20 et à l'appendice 3, examiner le statut des produits mentionnés à l'article 20 et prendre 
+des décisions relatives à leur inclusion; et 
+d)  adopter, si nécessaire, des dispositions techniques et administratives complémentaires appropriées pour la mise en 
+œuvre effective de la présente annexe. 
+4. Le comité mixte sectoriel se réunit à la demande de l'une ou l'autre des parties pour examiner des questions 
+relatives aux désaccords concernant les décisions de reconnaissance ou de suspension et, pour d'autres raisons, aux dates 
+convenues par les parties. Le comité mixte sectoriel peut se réunir en personne ou par d'autres moyens. 
+CHAPITRE 5 
+COLLABORATION RÉGLEMENTAIRE ET ÉCHANGE D'INFORMATIONS 
+Article 15 
+Coopération réglementaire 
+Les parties s'informent et se consultent, dans le respect de leurs législations respectives, sur les propositions visant à 
+introduire de nouveaux contrôles, à modifier les règles techniques ou à apporter des modifications significatives aux 
+procédures d'inspection existantes dans le secteur pharmaceutique et se donnent la possibilité de présenter des 
+observations à cet égard. 
+Article 16 
+Échange d'informations 
+Les parties déterminent les modalités appropriées, y compris l'accès aux bases de données pertinentes, pour échanger des 
+documents officiels en matière de BPF et d'autres informations pertinentes liées à l'inspection d'un site de fabrication et 
+échanger des informations sur les problèmes confirmés, les mesures correctives, les rappels, les refus d'importation et 
+autres problèmes de réglementation et d'application effective liés aux produits couverts par la présente annexe. 
+4.3.2017 L 58/42 Journal officiel de l'Union européenne FR     
+Article 17 
+Système d'alerte 
+Les parties maintiennent un système d'alerte qui permet aux autorités de l'autre partie d'être informées au préalable et en 
+temps utile des cas de défaut de fabrication, de rappels, de produits contrefaits ou falsifiés, ou d'éventuelles pénuries 
+graves ainsi que des autres problèmes de qualité ou de non-respect des BPF, qui pourraient nécessiter d'autres contrôles 
+ou la suspension de la distribution des produits concernés. 
+CHAPITRE 6 
+CLAUSE DE SAUVEGARDE 
+Article 18 
+Clause de sauvegarde 
+1. Les parties reconnaissent que le pays d'importation a le droit d'assumer ses responsabilités légales en prenant les 
+mesures nécessaires pour garantir le niveau de protection de la santé des personnes et des animaux qu'il juge approprié. 
+Les autorités des parties ont le droit de procéder à leur propre inspection d'un site de fabrication situé sur le territoire de 
+l'autre partie. 
+2. Lorsqu'une autorité d'une partie décide d'effectuer sa propre inspection d'un site de fabrication situé sur le territoire 
+de l'autre partie, cette décision doit être une exception à la pratique habituelle d'une partie à compter de la date d'appli­
+cation des articles mentionnés à l'article 19.2. 
+3. Avant de procéder à une inspection conformément au paragraphe 1, une autorité d'une partie avise l'autre partie 
+par écrit et l'autorité de l'autre partie a le droit de participer à l'inspection effectuée par la partie. 
+CHAPITRE 7 
+DISPOSITIONS FINALES 
+Article 19 
+Entrée en vigueur 
+1. La présente annexe entre en vigueur à la date à laquelle les parties se sont confirmé par échange de lettres l'accom­
+plissement de toute procédure respective pour l'entrée en vigueur de la présente annexe. 
+2. Par dérogation au paragraphe 1, les articles 8, 10, 11 et 12 de la présente annexe ne s'appliquent pas avant le 
+1er novembre 2017, sous réserve des dispositions du paragraphe 4. 
+3. Par dérogation au paragraphe 1, l'article 9 de la présente annexe ne s'applique pas avant la date à laquelle 
+l'ensemble des autorités des États membres de l'Union européenne responsables des produits pharmaceutiques à usage 
+humain visées dans l'appendice 2 ont été reconnues par la FDA. 
+4. Si, la FDA n'a pas achevé les évaluations réalisées conformément à la présente annexe concernant au moins huit 
+autorités des États membres responsables des produits pharmaceutiques à usage humain visées dans l'appendice 2 pour 
+le 1er novembre 2017 au plus tard, même si elle a reçu des dossiers complets d'évaluation de la compétence de ces 
+autorités comme indiqué au paragraphe II.A.1 de l'appendice 4 conformément au calendrier établi à l'appendice 5, 
+l'application des articles mentionnés au paragraphe 2 est reportée à la date à laquelle la FDA aura achevé les évaluations 
+d'au moins huit de ces autorités. 
+Article 20 
+Dispositions transitoires 
+1. Au plus tard le 15 juillet 2019, le comité mixte sectoriel se prononce sur la question de savoir s'il convient 
+d'inclure les produits à usage vétérinaire dans les produits couverts par la présente annexe. Le comité mixte sectoriel 
+procède à un échange de vues sur l'organisation de l'évaluation des autorités respectives pour le 15 décembre 2017 au 
+plus tard. 
+4.3.2017 L 58/43 Journal officiel de l'Union européenne FR     
+2. Le 15 juillet 2022 au plus tard, le comité mixte sectoriel examine s'il convient d'inclure les vaccins à usage humain 
+et les produits pharmaceutiques dérivés du plasma dans les produits couverts par la présente annexe. Sans préjudice de 
+cet examen, à compter de la date d'entrée en vigueur de la présente annexe, une partie informe au préalable l'autorité 
+compétente de l'autre partie de la réalisation d'une inspection après homologation d'un site de fabrication desdits 
+produits situé sur le territoire de la partie et donne à l'autorité la possibilité de participer à l'inspection. Pour pouvoir 
+soutenir l'inclusion des vaccins à usage humain et des produits pharmaceutiques dérivés du plasma dans les produits 
+couverts par la présente annexe, le comité mixte sectoriel tient compte, en particulier, de l'expérience acquise au moyen 
+de ces inspections conjointes. 
+3. Le 15 juillet 2019 au plus tard, le comité mixte sectoriel passe en revue l'expérience acquise pour décider si les 
+dispositions relatives aux inspections avant homologation prévues par l'article 11 doivent être révisées. 
+4. Les produits mentionnés aux paragraphes 1 et 2 sont inclus dans les produits couverts par la présente annexe 
+uniquement après que le comité mixte sectoriel en a décidé ainsi conformément aux paragraphes 1 et 2. 
+5. Lorsque la FDA estime qu'il est nécessaire de procéder à une inspection après homologation d'un site de fabrication 
+situé sur le territoire de l'autorité d'un État membre dont l'évaluation au titre de la présente annexe est en cours ou que 
+la FDA n'a pas reconnue, la FDA en informe ladite autorité et l'EMA par écrit. 
+a)  Dans les 30 jours civils suivant la date à laquelle elle reçoit une notification conformément au paragraphe 5, 
+l'autorité sur le territoire de laquelle se situe le site de fabrication, ou l'EMA au nom de ladite autorité, informe la 
+FDA si elle a choisi de demander à une autorité reconnue de l'Union européenne de procéder à l'inspection et, le cas 
+échéant, si cette autorité reconnue de l'Union européenne effectuera l'inspection dans le délai précisé dans la 
+notification. L'autorité sur le territoire de laquelle se situe le site de fabrication est autorisée à participer à l'inspection. 
+b)  Dans le cas où une autorité reconnue de l'Union européenne procède à l'inspection, l'autorité reconnue, ou l'EMA au 
+nom de cette autorité, informe la FDA de la (des) date(s) à laquelle (auxquelles) elle effectuera l'inspection et soumet 
+les documents officiels en matière de BPF en rapport avec l'inspection à la FDA et à l'autorité du territoire sur lequel 
+l'inspection a été effectuée dans le délai précisé dans la notification conformément aux dispositions législatives, 
+réglementaires et administratives applicables énumérées dans l'appendice 1. La FDA a la possibilité de participer à 
+l'inspection. 
+c)  Dans le cas où une autorité reconnue de l'Union européenne ne procède pas à l'inspection, mais que la FDA s'en 
+charge, l'autorité du territoire sur lequel l'inspection a été effectuée a le droit de participer à l'inspection et la FDA 
+soumet à cette autorité les documents officiels en matière de bonnes pratiques en rapport avec l'inspection. 
+Article 21 
+Résiliation 
+1. L'annexe est résiliée le 15 juillet 2019 si, à cette date, la FDA n'a pas achevé les évaluations réalisées conformément 
+à la présente annexe de l'ensemble des autorités des États membres de l'Union européenne responsables des produits 
+pharmaceutiques à usage humain qui sont visées dans l'appendice 2, pour autant que la FDA ait reçu des dossiers 
+complets d'évaluation de la compétence tels que mentionnés dans le paragraphe II.A.1 de l'appendice 4 de l'ensemble 
+des autorités des États membres conformément au calendrier exposé dans l'appendice 5. 
+2. La date indiquée au paragraphe 1 est prolongée de 90 jours civils pour chaque autorité qui fournit un dossier 
+complet d'évaluation de la compétence comme indiqué au paragraphe II.A.1 de l'appendice 4 après le délai applicable 
+fixé à l'appendice 5, mais dans tous les cas avant le 15 juillet 2019. 
+3. Sur demande, la FDA examine au sein du comité mixte sectoriel tout désaccord soulevé par l'Union européenne 
+concernant une évaluation. Si le comité mixte sectoriel ne parvient pas à un accord sur le règlement du désaccord, 
+l'Union européenne peut informer la FDA par écrit de son désaccord formel et l'annexe est résiliée trois mois après la 
+date de notification ou à une autre date fixée par le comité mixte sectoriel.  
+4.3.2017 L 58/44 Journal officiel de l'Union européenne FR     
+Appendice 1 
+Liste des dispositions législatives, réglementaires et administratives applicables 
+POUR LES ÉTATS-UNIS D'AMÉRIQUE 
+Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et seq. et plus particulièrement les dispositions suivantes: 21 USC 
+351(a)(2)(B) (altération des médicaments s'ils ne sont pas fabriqués conformément aux bonnes pratiques de fabrication 
+en vigueur); 21 U.S.C. 355(d)(3); 21 U.S.C. 355(j)(4)(A) (homologation des médicaments à usage humain subordonnée 
+au caractère satisfaisant des méthodes, des installations, et des contrôles de la fabrication, du traitement et du condition­
+nement pour préserver la composition, l'efficacité, la qualité et la pureté des médicaments); 21 U.S.C. 360b(c)(2)(A)(i); 
+360b(d)(1)(C) (homologation des médicaments à usage vétérinaire subordonnée au caractère satisfaisant des méthodes, 
+des installations, et des contrôles de la fabrication, du traitement et du conditionnement pour préserver la composition, 
+l'efficacité, la qualité et la pureté des médicaments); 21 U.S.C. 374 (autorité de contrôle); 21 U.S.C. 384(e) 
+(reconnaissance des inspections effectuées par des gouvernements étrangers) 
+Public Health Service Act Section 351, 42 U.S.C. 262. Les dispositions suivantes revêtent un intérêt particulier: 42 U.S.C. 
+262(a)(2)(C)(i)(II) (autorisation de produits biologiques subordonnée à la preuve que le site sur lequel ils sont fabriqués, 
+traités, conditionnés ou stockés satisfait aux normes établies pour préserver la sécurité, la pureté et l'efficacité du 
+produit); 42 U.S.C. 262(j) (application du Federal Food, Drug, and Cosmetic Act aux produits biologiques) 
+21 CFR Part 210 (bonnes pratiques de fabrication en vigueur en matière de fabrication, de traitement, de condition­
+nement ou de stockage des médicaments; dispositions générales) 
+21 CFR Part 211 (bonnes pratiques de fabrication en vigueur pour les produits pharmaceutiques finis) 
+21 CFR Part 600, Subpart B (normes d'établissement); Subpart C (inspection d'établissement) 
+POUR L'UNION EUROPÉENNE 
+Directive 2001/83/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire 
+relatif aux médicaments à usage humain; 
+Directive 2001/82/CE du Parlement européen et du Conseil du 6 novembre 2001 instituant un code communautaire 
+relatif aux médicaments vétérinaires; 
+Directive 2001/20/CE du Parlement européen et du Conseil du 4 avril 2001 concernant le rapprochement des 
+dispositions législatives, réglementaires et administratives des États membres relatives à l'application de bonnes pratiques 
+cliniques dans la conduite d'essais cliniques de médicaments à usage humain; 
+Règlement (UE) no 536/2014 du 16 avril 2014 relatif aux essais cliniques de médicaments à usage humain et abrogeant 
+la directive 2001/20/CE; 
+Règlement (CE) no 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures 
+communautaires pour l'autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage 
+vétérinaire, et instituant une Agence européenne des médicaments; 
+Directive 2003/94/CE de la Commission du 8 octobre 2003 établissant les principes et lignes directrices de bonnes 
+pratiques de fabrication concernant les médicaments à usage humain et les médicaments expérimentaux à usage humain; 
+Directive 91/412/CEE de la Commission, du 23 juillet 1991, établissant les principes et lignes directrices de bonnes 
+pratiques de fabrication pour les médicaments vétérinaires; 
+Règlement délégué (UE) no 1252/2014 de la Commission du 28 mai 2014 complétant la directive 2001/83/CE du 
+Parlement européen et du Conseil en ce qui concerne les principes et lignes directrices de bonnes pratiques de 
+fabrication des substances actives des médicaments à usage humain; 
+Version en vigueur du Guide de bonnes pratiques de fabrication des médicaments contenu dans le volume IV de la 
+Réglementation des médicaments dans l'Union européenne, et de la compilation des procédures communautaires 
+relatives aux inspections et à l'échange d'informations.  
+4.3.2017 L 58/45 Journal officiel de l'Union européenne FR     
+Appendice 2 
+LISTE DES AUTORITÉS 
+ÉTATS-UNIS D'AMÉRIQUE 
+Food and Drug Administration 
+UNION EUROPÉENNE 
+Pays Pour les médicaments à usage humain Pour les médicaments à usage vétérinaire 
+Autriche Agence autrichienne de la santé et de la sé­
+curité alimentaire/Österreichische Agentur 
+für Gesundheit und Ernährungssicherheit 
+GmbH 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Belgique Agence fédérale des médicaments et pro­
+duits de santé/Federaal Agentschap voor ge­
+neesmiddelen en gezondheidsproducten/ 
+Agence fédérale des médicaments et pro­
+duits de santé 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Bulgarie Agence bulgare des médicaments/ИЗПЪЛ­
+НИТЕЛНА АГЕНЦИЯ ПО ЛЕКАРСТВАТА 
+Agence bulgare de la sécurité des aliments/ 
+Българска агенция по безопасност на храните 
+Chypre Ministère de la Santé — Services pharma­
+ceutiques/Φαρμακευτικές Υπηρεσίες, Υπουρ­
+γείο Υγείας 
+Ministère de l'agriculture, du Développement 
+rural et de l'Environnement — Services vété­
+rinaires/Κτηνιατρικές Υπηρεσίες- Υπουργείο 
+Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλ­
+λοντος 
+République tchèque Institut national de contrôle des médica­
+ments/Státní ústav pro kontrolu léčiv (SÚKL) 
+Institut de contrôle national des produits bio­
+logiques et des médicaments à usage vétéri­
+naire/Ústav pro státní kontrolu veterinárních 
+biopreparátů a léčiv (ÚSKVBL) 
+Croatie Agence des médicaments et des dispositifs 
+médicaux/Agencija za lijekove i medicinske 
+proizvode (HALMED) 
+Ministère de l'agriculture, direction de la sécu­
+rité des aliments et des produits vétérinaires/ 
+Ministarstvo Poljoprivrede, Uprava za veteri­
+narstvo i sigurnost hrane 
+Danemark Agence danoise des médicaments/Laegemid­
+delstyrelsen 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Allemagne Institut fédéral des médicaments et des dis­
+positifs médicaux/Bundesinstitut für Arznei­
+mittel und Medizinprodukte (BfArM) 
+Paul-Ehrlich-Institut (PEI), Institut fédéral des 
+vaccins et des médicaments biologiques/ 
+Bundesinstitut für Impfstoffe und biomedizi­
+nische Arzneimittel 
+Ministère fédéral de la Santé/Bundesministe­
+rium für Gesundheit (BMG)/Zentralstelle der 
+Länder für Gesundheitsschutz bei Arznei­
+mitteln und Medizinprodukten (ZLG) (1) 
+Bureau fédéral de la protection des consom­
+mateurs et de la sécurité des aliments/Bunde­
+samt für Verbraucherschutz und Lebensmit­
+telsicherheit (BVL) 
+Ministère fédéral de l'Alimentation et de 
+l'agriculture, Bundesministerium für Ernäh­
+rung und Landwirtschaft 
+4.3.2017 L 58/46 Journal officiel de l'Union européenne FR     
+Pays Pour les médicaments à usage humain Pour les médicaments à usage vétérinaire 
+Estonie Agence nationale des médicaments/Ravimia­
+met 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Grèce Organe national chargé des médicaments/ 
+Ethnikos Organismos Farmakon (EOF) — 
+(ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΦΑΡΜΑΚΩΝ)] 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Espagne Agence espagnole des médicaments et des 
+dispositifs médicaux/Agencia Española de 
+Medicamentos y Productos Sanitarios (2) 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Finlande Agence finlandaise des médicaments/Lääkea­
+lan turvallisuus- ja kehittämiskeskus (FIMEA) 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+France Agence nationale de sécurité du médicament 
+et des produits de santé (ANSM) 
+Agence nationale de sécurité sanitaire de l'ali­
+mentation, de l'environnement et du travail, 
+Agence nationale du médicament vétérinaire 
+(Anses-ANMV) 
+Hongrie Országos Gyógyszerészeti és Élelmezés- 
+egészségügyi Intézet/Institut national de 
+pharmacie et de nutrition 
+Bureau national de la sécurité de la chaîne ali­
+mentaire, direction des médicaments vétéri­
+naires/Nemzeti Élelmiszerlánc-biztonsági Hi­
+vatal, Állatgyógyászati Termékek Igazgatósága 
+(ÁTI) 
+Irlande Autorité de réglementation des produits de 
+santé/Health Products Regulatory Authority 
+(HPRA) 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Italie Agence italienne des médicaments/Agenzia 
+Italiana del Farmaco 
+Direction générale de la santé et des médica­
+ments vétérinaires 
+Ministero della Salute, Direzione Generale 
+della Sanità Animale e dei Farmaci Veterinari 
+Lettonie Agence nationale des médicaments/Zāļu 
+valsts aģentūra 
+Section de l'évaluation et de l'enregistrement 
+du Service de l'alimentation et de la médecine 
+vétérinaire/Pārtikas un veterinārā dienesta No­
+vērtēšanas un reģistrācijas departaments 
+Lituanie Agence nationale de contrôle des médica­
+ments/Valstybinė vaistų kontrolės tarnyba 
+Service national de l'alimentation et de la mé­
+decine vétérinaire/Valstybinės maisto ir veteri­
+narijos tarnyba 
+Luxembourg Ministère de la Santé, Division de la phar­
+macie et des médicaments 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Malte Autorité de réglementation des médicaments Section des médicaments vétérinaires et de la 
+nutrition des animaux (Direction de la régle­
+mentation des produits vétérinaires) au sein 
+du Ministère de la réglementation des pro­
+duits vétérinaires et phytosanitaires 
+4.3.2017 L 58/47 Journal officiel de l'Union européenne FR     
+Pays Pour les médicaments à usage humain Pour les médicaments à usage vétérinaire 
+Pays-Bas Inspectorat de la santé/Inspectie voor de Ge­
+zondheidszorg (IGZ) 
+Commission d'évaluation des médicaments/ 
+Bureau Diergeneesmiddelen, College ter 
+Beoordeling van Geneesmiddelen (CBG) 
+Pologne Inspectorat principal des produits pharma­
+ceutiques/Główny Inspektorat Farmaceu­
+tyczny (GIF) 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Portugal Autorité nationale des médicaments et des 
+produits de santé/INFARMED, I.P Autoridade 
+Nacional do Medicamento e Produtos de 
+Saúde, I.P 
+Direction générale de l'alimentation et de la 
+médecine vétérinaire/DGAV — Direção Geral 
+de Alimentação e Veterinária (PT) 
+Roumanie Agence nationale des médicaments et des 
+appareils médicaux/Agenţia Naţională a Me­
+dicamentului şi a Dispozitivelor Medicale 
+Autorité nationale de santé vétérinaire et de 
+sécurité des aliments/Autoritatea Națională 
+Sanitară Veterinară și pentru Siguranța Ali­
+mentelor 
+Suède Agence des produits médicaux/Läkemedels­
+verket 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+Slovénie Agence des médicaments et des dispositifs 
+médicaux de la République de Slovénie 
+Javna agencija Republike Slovenije za zdra­
+vila in medicinske pripomočke (JAZMP) 
+Voir l'autorité responsable des médicaments à 
+usage humain 
+République slovaque 
+(Slovaquie) 
+Institut national de contrôle des médica­
+ments/Štátny ústav pre kontrolu liečiv 
+(ŠÚKL) 
+Institut de contrôle national des produits bio­
+logiques et des médicaments à usage vétéri­
+naire/Ústav štátnej kontroly veterinárnych 
+biopreparátov a liečiv (USKVBL) 
+Royaume-Uni Agence de réglementation des médicaments 
+et des produits de santé/Medicines and 
+Healthcare products Regulatory Agency 
+Direction des médicaments vétérinaires/Vete­
+rinary Medicines Directorate 
+(1)  Aux fins de la présente annexe, et sans préjudice de la répartition interne des compétences en Allemagne sur des questions relevant 
+du champ d'application de la présente annexe, «ZLG» s'entend comme couvrant toutes les autorités compétentes des Laender qui dé­
+livrent des documents en matière de bonnes pratiques de fabrication et effectuent des inspections dans le secteur pharmaceutique. 
+(2)  Aux fins de la présente annexe, et sans préjudice de la répartition interne des compétences en Espagne sur des questions relevant du 
+champ d'application de la présente annexe, «Agencia Española de Medicamentos y Productos Sanitarios» s'entend comme couvrant 
+toutes les autorités régionales compétentes qui délivrent des documents en matière de BPF et effectuent des inspections dans le sec­
+teur pharmaceutique.   
+4.3.2017 L 58/48 Journal officiel de l'Union européenne FR     
+Appendice 3 
+LISTE DES PRODUITS COUVERTS PAR L'ANNEXE 
+Les parties, reconnaissant qu'une définition précise des médicaments et des produits pharmaceutiques figure dans les 
+dispositions législatives, réglementaires et administratives mentionnées dans l'appendice 1, établissent une liste indicative 
+des produits couverts par l'annexe. Elle s'applique au traitement, au conditionnement, à l'essai et à la stérilisation des 
+sites, y compris les sites de contractants qui remplissent ces fonctions.  
+1. Produits pharmaceutiques à usage humain, finis et mis sur le marché sous diverses formes pharmaceutiques telles que 
+des comprimés, des gélules, des pommades et des solutions injectables, dont: 
+a)  gaz médicaux; 
+b)  Produits radiopharmaceutiques ou produits biologiques radioactifs; 
+c)  produits à base de plantes (botaniques) (*); et 
+d)  produits homéopathiques.  
+2. Produits biologiques mis sur le marché: 
+a)  vaccins à usage humain (**); 
+b)  produits pharmaceutiques dérivés du plasma (**); 
+c)  produits biologiques dérivés de la biotechnologie thérapeutique; et 
+d)  produits allergènes. 
+3. Matières en exploitation (pour les États-Unis, telles que définies dans la législation des États-Unis) et produits intermé­
+diaires (pour l'Union européenne, tels que définis dans la législation de l'Union européenne).  
+4. Principes actifs pharmaceutiques ou substances médicamenteuses en vrac.  
+5. Produits de recherche (matériel d'essais cliniques) (***). et  
+6. Produits à usage vétérinaire (**): 
+a)  produits pharmaceutiques à usage vétérinaire, y compris médicaments, délivrés ou non sur ordonnance, à 
+l'exclusion des médicaments immunologiques à usage vétérinaire; 
+b)  prémélanges destinés à la préparation d'aliments médicamenteux pour animaux (Union européenne) et composés 
+médicamenteux du type A destinés à la préparation d'aliments médicaux pour animaux (États-Unis);  
+(*) Ces produits sont inclus dans la mesure où ils sont réglementés en tant que médicaments par la FDA et en tant que 
+produits pharmaceutiques par l'Union européenne. 
+(**) Ces produits sont uniquement inclus dans les produits couverts par la présente annexe dans la mesure où le comité 
+mixte sectoriel décide de les inclure conformément à l'article 20. 
+(***) La FDA ne procède pas à des inspections de routine en matière de BPF pour les médicaments de recherche. Des 
+informations relatives à l'inspection concernant ces produits seront fournies dans la mesure où elles sont 
+disponibles et où les ressources le permettent. Ces produits sont uniquement inclus dans les produits couverts par 
+la présente annexe dans la mesure où le comité mixte sectoriel décide de les inclure.  
+4.3.2017 L 58/49 Journal officiel de l'Union européenne FR     
+Appendice 4 
+CRITÈRES ET PROCÉDURES CONCERNANT LES ÉVALUATIONS RÉALISÉES CONFORMÉMENT À LA 
+PRÉSENTE ANNEXE  
+I. CRITÈRES CONCERNANT LES ÉVALUATIONS RÉALISÉES CONFORMÉMENT À LA PRÉSENTE ANNEXE 
+Les parties appliquent les critères suivants pour déterminer s'il convient de reconnaître une autorité visée à 
+l'appendice 2: 
+i)  l'autorité est une autorité légale et réglementaire compétente pour effectuer une inspection selon les critères de 
+BPF (tels que définis à l'article 1); 
+ii)  l'autorité gère les conflits d'intérêts conformément à l'éthique; 
+iii)  l'autorité est en mesure d'évaluer les risques et de les atténuer; 
+iv)  l'autorité assure une surveillance appropriée des sites de fabrication qui relèvent de sa juridiction; 
+v)  l'autorité dispose de ressources suffisantes et les utilise; 
+vi)  l'autorité emploie des inspecteurs formés et qualifiés qui disposent des qualifications et des connaissances 
+nécessaires pour repérer les pratiques de fabrication susceptibles d'entraîner un préjudice pour le patient; 
+vii)  l'autorité dispose des outils nécessaires pour prendre des mesures visant à protéger la population du préjudice 
+découlant de l'utilisation de médicaments ou de produits pharmaceutiques de mauvaise qualité;  
+II. PROCÉDURES CONCERNANT LES ÉVALUATIONS RÉALISÉES CONFORMÉMENT À LA PRÉSENTE ANNEXE 
+A.  Évaluation des autorités de l'Union européenne par la FDA 
+1.  Pour recevoir une évaluation de la compétence concernant une autorité visée dans l'appendice 2, l'autorité 
+de l'État membre soumet un dossier d'évaluation de la compétence contenant les documents suivants avant 
+que la FDA ne commence une évaluation: 
+i)  la version finale d'un rapport de contrôle effectué conformément au programme commun de contrôle, 
+pour lequel la FDA a reçu un préavis de trois mois pour intervenir en qualité d'observateur, contenant 
+le rapport complet de l'inspection observée, toute mesure corrective associée, et l'ensemble des 
+documents cités par les contrôleurs dans le rapport en ce qui concerne les indicateurs identifiés par la 
+FDA sur la liste des points à contrôler établie conformément au programme commun de contrôle 
+comme étant essentiels pour l'évaluation et concernant les indicateurs pour lesquels il était nécessaire 
+que l'autorité propose une action corrective et préventive; 
+ii)  un questionnaire sur les conflits d'intérêts établi par la FDA, rempli et signé par un responsable de 
+l'autorité; 
+iii)  un total de quatre rapports d'inspection dont le rapport des inspections observées pendant le contrôle 
+effectué dans le cadre du programme commun de contrôle; 
+iv)  les procédures opératoires standard ou une description de la manière dont l'autorité établit la version 
+finale des rapports d'inspection; 
+v)  les procédures opératoires standard relatives à la formation et aux qualifications des inspecteurs, 
+comprenant les dossiers de formation pour l'ensemble des inspecteurs ayant procédé aux inspections 
+dans les rapports communiqués à la FDA [en vertu de l'alinéa iii)]; et 
+vi)  son recensement le plus récent des sites de fabrication établis sur son territoire et relevant de la 
+juridiction de l'autorité, y compris le type de site de fabrication de produits compris dans les produits 
+couverts par la présente annexe, et sur demande, l'établissement d'un tableau fourni par la FDA 
+détaillant les types de sites de fabrication. 
+2.  Dans le cadre d'une évaluation de la compétence, la FDA peut demander à l'autorité de l'État membre des 
+informations complémentaires ou des précisions supplémentaires. 
+4.3.2017 L 58/50 Journal officiel de l'Union européenne FR     
+3.  La FDA peut renoncer à l'obligation de fournir certaines informations mentionnées dans le 
+paragraphe II.A.1 et demander d'autres informations à l'autorité de l'État membre. La décision de renoncer 
+à certains documents d'évaluation sera prise au cas par cas par la FDA. 
+4.  Dès réception de l'autorité de l'État membre de toutes les informations demandées dans le paragraphe II.A, 
+la FDA s'engage à faire traduire officiellement ces informations en anglais dans un délai raisonnable. La 
+FDA achève les évaluations et rend une décision relative à la compétence de l'autorité de l'État membre 
+dans un délai de 70 jours civils suivant la date à laquelle la FDA reçoit une traduction de toutes les 
+informations demandées dans le paragraphe II.À concernant l'autorité de l'État membre. La FDA constitue 
+deux équipes d'évaluation de la compétence; par conséquent, la FDA peut à tout moment évaluer deux 
+autorités des États membres. 
+B.  Évaluation de la FDA par l'Union européenne 
+L'Union européenne procède à l'évaluation de la FDA sur la base des éléments suivants: 
+i)  la réalisation d'un contrôle conformément aux éléments du programme commun de contrôle en tenant 
+compte des contrôles réalisés dans le cadre de la convention relative à l'inspection pharmaceutique/schéma 
+de coopération dans le domaine de l'inspection pharmaceutique et des contrôles réalisés en application de 
+l'article 111.b.1 de la directive 2001/83/CE. 
+ii)  une évaluation de l'équivalence des dispositions législatives et réglementaires en matière de BPF. 
+C.  Réévaluation des autorités 
+Dans l'éventualité où une partie ayant procédé à l'évaluation rend une décision négative ou décide de suspendre 
+une autorité de l'autre partie, elle a la possibilité de réévaluer l'autorité. La réévaluation porte sur les raisons de 
+la décision négative ou de la suspension.  
+III. MAINTIEN DE LA RECONNAISSANCE 
+Pour maintenir la reconnaissance, l'autorité doit continuer de remplir les critères énoncés dans le paragraphe I.A et 
+de se soumettre aux activités de contrôle décrites à l'article 12; en ce qui concerne les autorités des États membres, la 
+FDA prévoit un contrôle effectué dans le cadre d'un programme de contrôle (que la FDA a la possibilité d'observer) 
+de chaque autorité reconnue d'un État membre tous les cinq à six ans. Dans l'éventualité où une autorité n'a pas été 
+contrôlée pendant une période de six ans, l'autre partie a le droit de contrôler ladite autorité.  
+4.3.2017 L 58/51 Journal officiel de l'Union européenne FR     
+Appendice 5 
+CALENDRIER D'ÉVALUATION INITIALE DES AUTORITÉS DES ÉTATS MEMBRES  
+1. Les autorités des États membres responsables des produits pharmaceutiques à usage humain visées à l'appendice 2 
+soumettent des dossiers complets d'évaluation de la compétence contenant les informations mentionnées au 
+paragraphe II.A.1 de l'appendice 4 selon le calendrier suivant: 
+—  Au plus tard le 1er janvier 2017: dossiers d'évaluation de la compétence de quatre autorités des États membres 
+—  Au plus tard le 15 février 2017: dossiers d'évaluation de la compétence de trois autres autorités des États 
+membres 
+—  Au plus tard le 1er avril 2017: dossiers d'évaluation de la compétence de deux autres autorités des États membres. 
+—  Au plus tard le 15 mai 2017: dossiers d'évaluation de la compétence de deux autres autorités des États membres 
+—  Au plus tard le 15 septembre 2017: dossiers d'évaluation de la compétence de deux autres autorités des États 
+membres 
+—  Au plus tard le 15 décembre 2017: dossiers d'évaluation de la compétence de quatre autres autorités des États 
+membres 
+—  Au plus tard le 15 mars 2018: dossiers d'évaluation de la compétence de quatre autres autorités des États 
+membres 
+—  Au plus tard le 15 juin 2018: dossiers d'évaluation de la compétence de sept autres autorités des États membres  
+2. La FDA achève les évaluations réalisées conformément à la présente annexe concernant les autorités des États 
+membres responsables des produits pharmaceutiques à usage humain visées dans l'appendice 2 conformément au 
+paragraphe II.A.4 et selon le calendrier suivant, à condition que la FDA ait reçu des dossiers complets d'évaluation de 
+la compétence pour ces autorités contenant les informations mentionnées dans le paragraphe II.A.1 de l'appendice 4 
+selon le calendrier décrit au paragraphe 1: 
+—  1er novembre 2017: huit évaluations 
+—  1er mars 2018: quatre évaluations supplémentaires 
+—  1er juin 2018: deux évaluations supplémentaires 
+—  1er décembre 2018: six évaluations supplémentaires 
+—  15 juillet 2019: huit évaluations supplémentaires  
+3. Pour chaque autorité des États membres: 
+a)  l'Union européenne présente un rapport de contrôle final à la FDA au plus tard 60 jours avant la date fixée pour 
+la remise du dossier d'évaluation de la compétence concernant l'autorité; 
+b)  la FDA communique à l'autorité une liste des points à contrôler dans le dossier d'évaluation de la compétence 
+dans un délai de 20 jours suivant la réception du rapport de contrôle par la FDA; 
+c)  l'autorité soumet le dossier d'évaluation de la compétence à la FDA dans un délai de 40 jours suivant la réception 
+par l'autorité de la liste des points à contrôler dans le dossier d'évaluation de la compétence.  
+4.3.2017 L 58/52 Journal officiel de l'Union européenne FR     

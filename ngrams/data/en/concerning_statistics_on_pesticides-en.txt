@@ -1,0 +1,890 @@
+ 
+EN    EN 
+ 
+ 
+ 
+EUROPEAN 
+COMMISSION  
+Brussels, 3.3.2017  
+COM(2017) 109 final 
+  
+REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND 
+THE COUNCIL 
+on the implementation of Regulation (EC) No 1185/2009 of the European Parliament 
+and of the Council of 25 November 2009 concerning statistics on pesticides 
+ 
+ 
+2 
+ 
+1. INTRODUCTION 
+Article 7 of Regulation (EC) No 1185/2009 (hereinafter referred to as the Regulation) of the 
+European Parliament and of the Council concerning statistics on pesticides
+1
+ stipulates that: 
+‘The Commission shall submit a report on the implementation of this Regulation to the 
+European Parliament and the Council every five years. This report shall evaluate in 
+particular the quality of data transmitted, as referred to in Article 4, the data collection 
+methods, the burden on businesses, agricultural holdings and national administrations and 
+the usefulness of these statistics in the context of the Thematic Strategy on the Sustainable 
+Use of Pesticides in particular with regard to the objectives set out in Article 1. It shall, if 
+appropriate, contain proposals designed to further improve data quality and data collection 
+methods thereby improving the coverage and comparability of data and reducing the burden 
+on businesses, agricultural holdings, and national administrations. The first report shall be 
+submitted by 31 December 2016.’ 
+ 
+2. COVERAGE AND CONTENT 
+According to Article 2 (a) of the Regulation, ‘pesticides’ refer to ‘a plant protection product 
+(PPP) as defined in Article 2(1) of Regulation (EC) No 1107/20092 or to a biocidal product as 
+defined in Article 2(1) of Directive 98/8/EC’3. The Regulation stipulates that the Member 
+States have to transmit annually to the Commission their statistical data on pesticides placed 
+on the market each year (pesticide sales statistics). In addition, they have to provide statistics 
+on pesticides used in agriculture (pesticide use statistics) in five-year periods. The data should 
+include confidential data. The Member States also have to provide the Commission with 
+reports on the quality of the data transmitted, and the Commission in turn has to assess the 
+quality of this data. 
+ 
+2.1. Pesticide sales statistics 
+For pesticides placed on the market, the reference period is the calendar year. The first 
+reference period was the second calendar year following 30 December 2009. Data is to be 
+transmitted within 12 months of the end of the reference year, while the quality reports are 
+due 3 months later. The data and quality reports transmitted so far cover reference years 2011 
+to 2014 inclusive. 
+ 
+                                                            
+1 OJ L 324, 10.12.2009, p. 4. 
+2  Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 
+concerning the placing of plant protection products on the market and repealing Council Directives 
+79/117/EEC and 91/414/EEC  (OJ L 309, 24.11.2009, p.1). 
+3  OJ L 123, 24.4.1998, p. 1. Please note that Directive 98/8/EC has been repealed with effect from 1 
+September 2013 by Regulation (EU) No 528/2012 of the European Parliament and of the Council of 
+22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 
+27.6.2012, p. 1). 
+References to the repealed Directive shall be construed as references to Regulation EU) No 528/2012. 
+ 
+ 
+3 
+ 
+2.2. Pesticide use statistics 
+For statistics on the use of pesticides in agriculture, the reference period must be a period of a 
+maximum of 12 months within each five-year period. The first five-year period started in the 
+first calendar year following 30 December 2009. These data and quality reports are expected 
+within 12 months of the end of each five-year period. The transmission of the data and 
+quality reports of the first five-year period (reference years 2010-2014 inclusive) thus 
+concluded in December 2015. 
+ 
+For both sets of data, the Commission (Eurostat) must aggregate the data before publication, 
+taking due account to protect confidential data from the Member States. This means that the 
+Commission (Eurostat) cannot provide any statistics on individual active substances. 
+ 
+The following chapters provide an overall assessment of the quality of the pesticide sales data 
+transmitted by the Member States. This assessment is generated from the quality reports 
+provided by the Member States as required by Article 4 of the Regulation. The quality criteria 
+applied are laid down in Article 12(1) Statistical quality of Regulation (EC) No 223/2009
+4
+. 
+The validation of the quality reports for the pesticide use statistics has not yet been finalised, 
+and they are therefore not analysed below. 
+ 
+2.3. Data collection methods and sources 
+For most of the 28 Member States, and Norway, all underlying primary data on pesticide 
+sales are derived from administrative sources for which reporting is obligatory under law. All 
+countries except Denmark, Slovenia and Norway consider all information related to 
+individual respondents as confidential. Most countries have no public databases, and 
+aggregated data is usually available in statistical publications and/or web pages. In Belgium 
+and Norway individual data is available on request. As Switzerland has a derogation, no 
+quality reports are available. For more details, see Annex I. 
+ 
+2.4. Quality of transmitted data 
+All Member States, Switzerland and Norway are compliant on the coverage and timeliness of 
+their data. Most countries provide their data sets on time and react in a spirit of good 
+cooperation when further checks or corrections are required. 
+ 
+Concerning accuracy, reliability, and comparability, most countries stated that since their 
+primary pesticide sales data was collected from administrative sources or from the 
+                                                            
+4  Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on 
+European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament 
+and of the Council on the transmission of data subject to statistical confidentiality to the Statistical 
+Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, 
+and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of 
+the European Communities (OJ L 87, 31.3.2009, p. 164) 
+ 
+ 
+4 
+ 
+authorisation holders, they considered that the data supplied was accurate. In addition, 
+sampling errors were not relevant, since only the actual administrative values were collected 
+and estimates or samples were not used. However, different methods of data collection were 
+used. 
+ 
+The Commission therefore considers that all primary pesticide sales data is accurate and 
+reliable, since there were no computations or estimates of the values that the statistics were 
+intended to measure. As a consequence, the aggregated pesticide sales data is also considered 
+accurate and reliable. 
+ 
+In general, most countries reported taking the following precautionary measures to ensure the 
+statistical quality required of their data: 
+• frequently reviewing and updating their questionnaires; 
+• taking account of problems reported and recommendations made by respondents 
+in previous years; 
+• using a complete directory of authorised products; 
+• subjecting the data to internal quality control processes; 
+• storing the data in secure environments wherever it is protected by statistical 
+confidentiality. 
+ 
+Pesticide sales data provides a good quality estimate of the total quantity of pesticide 
+products placed on the market on a national basis. It can show trends in new types of 
+pesticides, quantities of products over time and the subsequent risks for people and the 
+environment. Such estimates could be improved in future by distinguishing between 
+professional and 'home & garden' authorisations (i.e. for agricultural and non-agricultural 
+purposes, respectively). Additional checks on data quality could also be envisaged for the 
+volumes of remaining stocks. For more information, see Annex II. 
+ 
+3. RELEVANCE — USEFULNESS OF THE STATISTICAL DATA AND DISSEMINATION 
+3.1. Information received from stakeholders 
+Consultations with relevant Commission's services and agencies have brought forward the 
+following important points for consideration: 
+ 
+ Any legislation on pesticides statistics should cater for harmonised risk indicators, 
+which the Commission has to draw up under Article 15 of the Sustainable Use 
+Directive (SUD)5, and should facilitate the calculation of risk indicators ‘by using the 
+statistical data collected’. The task of collecting the statistical data on pesticides 
+cannot be seen as completely separate from the task of using these data for calculating 
+risk. It would seem logical that the risk indicators should be known first, before any 
+                                                            
+5  Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing 
+a framework for Community action to achieve the sustainable use of pesticides. (OJ L 309, 24.11.2009, 
+p. 71) 
+ 
+5 
+ 
+decision is taken on the data to be collected for this purpose. Further discussions are 
+deemed necessary and Member States shall also be consulted in the SUD working 
+group. 
+ Stakeholders suggest to adapt the legislation so that figures aggregated at a lower 
+level can be released, as they could be needed for calculating risk indicators. The 
+difficulty of collecting meaningful data on pesticides use from farmers, and the costs 
+to Member States of doing so has been acknowledged as well as the difficulty to reach 
+an EU-wide agreement on which crops are relevant as these can differ considerably 
+between the different climatic zones in Europe. 
+ 
+ Pesticides are a cause of pollution and have a direct effect especially on the state of 
+biodiversity, water bodies, and soils. To ensure that these impacts are addressed 
+appropriately, it is essential that policymakers are able to quantify the risk and the 
+level of pesticide pollution. This would also aid the better implementation of existing 
+environmental policy tools and serve to identify the remaining policy gaps for 
+addressing the environmental pressures caused by pesticides. Currently, the policies 
+concerned by the data needs are the EU Biodiversity Strategy 2020, the common 
+agricultural policy (CAP), the Water Framework Directive, and the Thematic Strategy 
+on Soils.  
+ 
+ Pesticide statistics are too aggregated to effectively inform environmental risk 
+assessment. A robust analysis of the impacts of pesticide application on ecosystems 
+would require data on which specific active substances in pesticides are applied to 
+which crops, as well as information on the types of ecosystems in which those crops 
+are sited. Data on hazard, i.e. (eco)toxicological properties, is specific to active 
+substances. Thus, the only way to effectively combine hazard data with data on 
+exposure in order to understand risk is to have data on the application rates for 
+specific active substances in pesticides by crop, area and ecosystem type. In addition, 
+cumulative risk assessment methods, would need to be applied to provide an 
+understanding of how the mixtures of active substances, safeners and synergists 
+interact to generate combined effects in pesticides.  
+ 
+ The Regulation does not require information from the Member States on the type of 
+ecosystem where substances are applied. The impact of mixtures of active substances 
+on the ecosystem in which a crop is situated depends on the characteristics of that 
+ecosystem, including both biotic and abiotic features. The 'mapping and assessment of 
+ecosystems and their services' project6 provides an agreed typology of ecosystems. 
+This typology could serve as a basis for Member States reporting on pesticides 
+application by ecosystem type, and enrich our understanding of the risks of pesticides 
+to the environment. A robust analysis of risks to the environment associated with 
+pesticides is required to support the comparative assessment of candidates for 
+substitution as required under Article 50 of Regulation (EC) No 1107/2009 
+                                                            
+6  http://biodiversity.europa.eu/maes 
+ 
+6 
+ 
+concerning the placing of plant protection products on the market. This is not possible 
+with the data currently available. 
+ 
+ Should pesticides statistics become available at a sufficient level of detail, they could 
+be extremely useful for conducting retrospective risk assessments of the actual levels 
+of risk expected from the overall use of pesticides in the EU, for human and animal 
+health, and the environment. This would allow the estimation of trends based on risk 
+to complement those on sales. As each pesticide active substance has a different 
+toxicity and likelihood for exposure, trends based on their risk to human and animal 
+health and the different non-target organism groups could be highly valuable for 
+supporting EU policies on public health, consumer protection, animal health and 
+environmental protection. Such assessments would complement the annual 
+assessments of the risk to consumers from the levels of pesticide residues monitored 
+by the Member States. 
+ 
+ A balance between confidentiality and the relevance or usefulness of the data could be 
+achieved by exploring different aggregation options, for example based on toxicity 
+and use patterns. Consequently dialogue is suggested between the Commission's 
+services, agencies, and other relevant actors to explore options that could help 
+maximise the relevance and usefulness of the data in the future. 
+ 
+3.2. Studies on non-agricultural use of pesticides 
+Agriculture is the most obvious and probably the largest professional sector using pesticides. 
+However, other professional or amateur users may also contribute more or less significantly 
+to the total amount of pesticides used. A comparison of the quantities of pesticides used in 
+agriculture with the overall amount placed on the market is envisaged in the quality report 
+that will accompany the data on pesticide use in agriculture. The Regulation covers both 
+annual statistics on the placing on the market of pesticides and statistics on agricultural use of 
+pesticides. There is a lack of consistency between these two sets as there is no information on 
+pesticides used for non-agricultural purposes. This was also noted in the negotiations 
+preceding the approval of the Regulation, and so an indent was added in Section 6 (Quality 
+reports) of Annex II of the Regulation: ‘– a summary description of the commercial non-
+agricultural uses of pesticides obtained in the framework of pilot studies to be led by the 
+Commission’. 
+ 
+ 
+7 
+ 
+Figure 1. Overview of different uses of pesticides 
+ 
+ 
+ 
+ 
+ 
+In 2011 the Commission awarded grants for pilot studies to estimate both commercial and 
+non-commercial non-agricultural use of pesticides. Five countries (Belgium, Italy, Lithuania, 
+Latvia and Romania) applied for grants. In addition, the Commission is aware that such 
+surveys have been carried out in the Netherlands and the United Kingdom. 
+ 
+The pilot surveys focused on sectors such as: 
+- landscaped areas or gardens, outdoor leisure areas, parks; 
+- sports, leisure areas and facilities; 
+- railways; 
+- highways and roads; 
+- airports and seaports; 
+- archaeological sites; 
+- kitchen garden growers /hobby farmers; 
+- state forests; 
+- gardens and parks; 
+- others. 
+ 
+The main lessons learned from earlier action and from the pilot studies are the following: 
+1. there is a huge diversity of patterns of non-agricultural uses of pesticides among 
+the Member States or even between national regions; 
+2. predominant sectors of use can be identified and are common to most Member 
+States; 
+3. a limited list of active substances is associated with the predominant uses; 
+4. the different sectors of use require different methods of data collection or a 
+combination of methods. 
+ 
+Besides the apparent diversity of national or regional situations, certain major actors are 
+common to all Member States and should be the basis for all surveys on the use of pesticides 
+in the non-agricultural sectors. These are: 
+1. residential areas (including home & gardening); 
+All pesticide uses 
+Professional uses  Non-professional uses 
+Agricultural uses Non-agricultural uses 
+ 
+8 
+ 
+2. public areas (including golf courses); 
+3. industrial areas; 
+4. infrastructure; 
+5. forests 
+ 
+These sectors of activity should be covered as a priority and should be the basis for 
+comparing statistics on non-agricultural pesticide uses between Member States or regions. 
+ 
+3.3. Extending the scope of the Regulation 
+Recital (5) of the Regulation anticipates that the scope will be extended to cover biocidal 
+products. In its report 7 on the sustainable use of biocides, the Commission has stated that it 
+does not seem appropriate to simply extend the scope of the SUD to biocidal products. For 
+that reason, the Commission also finds it unnecessary to extend the scope of the Regulation to 
+biocidal products, even if this was the initial intention. 
+ 
+4. COST AND BURDEN 
+The costs and administrative burden of the surveys depend greatly on the survey method 
+chosen. 
+ 
+The pesticide sales statistics rely in many Member States on the administrative data kept by 
+the pesticide authorities or the authorisation holders (see Annex I). This means that the costs 
+relate to contacting the authorities or the often quite limited number of authorisation holders 
+to request the data, and then to processing it. While no actual numbers are available from all 
+Member States, both the number of working days involved and actual costs are reported to be 
+quite low in most cases. The costs and the burden to the reporting units are also reported to be 
+quite reasonable, since the data required has to be recorded anyway as stipulated in 
+Regulation (EC) No 1107/2009.  
+ 
+The pesticide use statistics require the information to be recorded at farm level, which leads 
+to a higher burden. This means that a sample has to be set up, questionnaires prepared and 
+interviewers or letters sent if an electronic collection system has not been developed. The 
+total costs are heavily dependent on the method chosen, which can also be seen from the 
+information transmitted to the Commission. No direct conclusions can be drawn from the 
+reports on the costs involved as the information is not sufficiently detailed for this purpose.  
+ 
+As explained, the information in most countries comes directly from farmers. Under 
+Regulation (EC) No 1107/2009, professional users (farmers or entrepreneurs) must keep 
+accounts of their use of pesticides. This means that the information should be readily at hand 
+when the farmer has to answer the interviewer or fill in the questionnaire. This is mirrored in 
+                                                            
+7 COM (2016) 151 
+(http://ec.europa.eu/health/biocides/docs/2016_report_sustainableuse_biocides_en.pdf.) 
+ 
+9 
+ 
+the quality reports, which in many cases show that limited time — from 15 minutes to about 
+2 hours per survey (every 5 years) — is needed on farms to complete the surveys. 
+ 
+5. EXPERIENCE FROM THE FIRST FIVE YEARS 
+Data on pesticide sales have been transmitted annually since December 2012 (2011 data). 
+Despite some initial technical issues within the Commission, the processes are now mature 
+and run well. The first data on the agricultural use of pesticides was transmitted to the 
+Commission at the end of 2015. To this date, due to the very large volume of complex data, it 
+has not been possible to fully process the data, which means it is not yet available to users. 
+Consequently, no assessment of its usefulness has been made yet. Despite this, some 
+observed weaknesses and recommendations are given below. 
+ 
+5.1. Availability of detailed pesticide data 
+The Regulation prohibits the disclosure of data on individual active substances. According to 
+Article 3(4) .: ‘For reasons of confidentiality, the Commission (Eurostat) shall aggregate the 
+data before publication in accordance with the chemical classes or categories of products 
+indicated in Annex III, taking due account of the protection of confidential data at the level of 
+individual Member State. The confidential data shall be used by national authorities and by 
+the Commission (Eurostat) exclusively for statistical purposes, in accordance with Article 20 
+of Regulation (EC) No 223/2009.’ 
+ 
+Consequently, the Commission cannot publish data on individual active substances. In 
+addition, the aggregated data cannot always be disseminated if there is a direct or indirect risk 
+of statistical units being identified, this is the general rule in statistics to protect data privacy. 
+ 
+If the sales statistics would be collected from retail sellers, there would be a high number of 
+statistical units, giving little cause for data confidentiality issues. However, it has become 
+apparent that most Member States collect the data directly from authorisation holders. This is 
+done either in the form of administrative data that have been transmitted to the pesticide 
+authorities, or through a questionnaire. For most active substances, this means that there is 
+only one data provider, which leads to the information being confidential. As there are many 
+classes with only a few substances, or the producer/importer is the same for many of the 
+substances in the group, this has led to a situation where a considerable amount of aggregated 
+data at higher levels is also confidential. The Commission considers that the sales data legally 
+required by the Regulation is being collected successfully and transmitted to the Commission 
+by the countries. It also considers that the overall quality of the data is good. However, the 
+application of the confidentiality rules to a substantial share of the data decreases the value of 
+the statistical information provided to users. It therefore cannot be assumed that users’ needs 
+are being well served by the Regulation. 
+ 
+10 
+ 
+5.2. Pesticide sales statistics 
+Comparing sales of pesticides between countries and over years is not straightforward 
+because external factors such as climatic conditions, soils and production methods can have a 
+big impact on the types and volumes of pesticides needed. 
+ 
+Where a product is sold may not be where it is ultimately applied, and pesticides may also be 
+sold directly to farmers by retail sellers in neighbouring countries. This may represent a small 
+fraction of the total pesticides sales, but these quantities are not reflected correctly in the sales 
+statistics. There can also be a delay between the sale of the pesticide and its use, depending 
+on whether it is bought for stock or for direct use. 
+ 
+Many users would like to obtain detailed data on the volumes of individual active substances 
+sold. However, neither the Commission nor the national statistics institutes can provide this 
+information as they have to comply with the Regulation and the confidentiality rules. 
+ 
+The Regulation is, as described above, very restrictive in how the Commission may 
+disseminate the data. All data has to be aggregated into classes and groups, regardless of 
+whether or not the data is deemed confidential by the Member States. Moreover, the 
+Commission cannot deviate from the classes established in Annex III to the Regulation.  
+ 
+As users are often interested in specific active substances or groups of substances that differ 
+from the predefined classes, the Regulation could be seen as too restrictive; it does not allow 
+the proper analyses to be carried out. A good example is the recent discussions on 
+neonicotinoids, the group of pesticides that are potentially causing damage to bees. The 
+active substances concerned are not all in the same chemical classes in Annex III, which 
+means that the Commission has not been able to provide all relevant data to the policy 
+makers.  
+ 
+The Regulation stipulates that the only unit to use is the weight but biological pesticides 
+should not be expressed in weight but in 'colony forming units'. This creates problems both 
+for the data providers and the users of the data, as the data provided makes no sense or have 
+to be transformed before data transmission and use. This purely technical issue needs to be 
+developed further. 
+ 
+5.3. Pesticide use statistics 
+The Regulation provides that for the statistics on agricultural use of pesticides, each Member 
+State has to decide on a selection of crops to be covered during the five-year reference period 
+that is representative of the crops cultivated in that Member State and of the substances used. 
+The selection of crops has to include those most relevant for the national pesticide action 
+plans. However, as national action plans do not always contain any reference to the most 
+relevant crops, the choice of crops has been quite diverse. This has led to a situation where 
+ 
+11 
+ 
+there is a risk that it will not be possible to fully compare data on pesticide use on crops 
+between countries.   
+ 
+The reference period has to be a maximum of 12 months covering all plant protection 
+treatments associated directly or indirectly with the crop, during a five-year period. Member 
+States may choose the reference period at any time of the five-year period and the choice can 
+be made independently for each selected crop. This has led to a situation where countries 
+have chosen different reference periods and thus it will potentially not be possible to compare 
+data for the same year between countries, nor to give any EU-level results. 
+ 
+6. PROPOSALS FOR FURTHER IMPROVEMENTS 
+The Commission, taking into account the opinion of the relevant stakeholders, considers it 
+important to further adapt the legislation on pesticides sales, so that all data that is not 
+confidential can be made available to the public both as active substance, as well as in 
+different forms of aggregation.  
+ 
+The Commission considers it equally important to adapt further the legislation on pesticides 
+use statistics to ensure a more consistent approach and coverage across the Member States. 
+This could include specified common reference periods and clear coverage requirements for 
+the crops to be surveyed. The coverage rules could be based on the crop production statistics 
+(a certain percentage of arable and permanent crops could be covered) and on analyses of the 
+potential risks to the environment and human health, based on the sales of active substances. 
+These rules would be set up in close collaboration between the relevant Commission's 
+services and agencies and with national experts. 
+ 
+Finally, the Commission has, together with stakeholders, drafted a strategy for agricultural 
+statistics for 2020 and beyond8. The strategy suggests that all agricultural statistics, except the 
+Economic Accounts for Agriculture, should be grouped under two framework regulations. 
+The Commission strongly recommends that pesticide statistics should be also merged with 
+the other agricultural statistics domains.  
+                                                            
+8  Strategy for agricultural statistics 2020 and beyond - Final. 
+ 
+12 
+ 
+ANNEX I 
+The information presented in this Annex is based on the national quality reports provided by 
+the countries according to the Regulation 
+ 
+RESPONSIBLE NATIONAL 
+AUTHORITIES FOR PESTICIDES 
+SALES 
+DATA COLLECTION METHODS FOR PESTICIDES SALES 
+BE 
+Federal Public Service of Health, 
+Food Chain Safety and 
+Environment 
+Administrative data; authorisation holders (producers, 
+importers and exporters) are required to declare the 
+amounts placed on the market 
+BG Ministry of Agriculture and Food 
+Administrative data based on declarations by the authorised 
+distributors 
+CZ Czech Statistical Office 
+Administrative data; entrepreneurs who place products on 
+the market or store them for export to third countries are 
+obliged to report to the Central Institute for Supervising and 
+Testing in Agriculture (CISTA). The data collection is done 
+online and/or through paper questionnaires  
+DK 
+Danish Environmental Protection 
+Agency, Ministry of Environment 
+and Food of Denmark 
+Administrative data. Obligatory reporting by Danish 
+authorisation holders electronically and foreign ones by 
+email 
+DE 
+Federal Office of Consumer 
+Protection and Food Safety (BVL) 
+Administrative data; authorisation holders (including 
+holders of parallel trade permits), manufacturers and 
+distributors are required to report the amounts sold 
+nationally or exported, including sales for emergency 
+situations 
+EE Statistics Estonia 
+Census survey of all importers and suppliers by web 
+application and/or through paper-based postal survey 
+IE 
+Department of Agriculture, Food 
+and the Marine 
+The data is collected on a census basis. The administrative 
+data is sourced from all the product authorisation 
+holders and marketing companies 
+EL 
+Hellenic Statistical Authority 
+(ELSTAT) 
+Statistical survey of all sellers within the national territory 
+conducted by the Ministry of Rural Development and Food, 
+by letter or email. Since 2014 sellers have been obliged to 
+record the data online  
+ES 
+Ministry of Agriculture, Food 
+and  Environment 
+Electronic questionnaire/survey (within and outside the 
+national territory) of authorised holders and respondents to 
+whom the commercialisation rights have been transferred. 
+Administrative data is provided by S.G. Sanidad Vegetal 
+ 
+13 
+ 
+ 
+RESPONSIBLE NATIONAL 
+AUTHORITIES FOR PESTICIDES 
+SALES 
+DATA COLLECTION METHODS FOR PESTICIDES SALES 
+FR 
+Ministry of Agriculture, Food and 
+Forestry 
+Administrative data; distributors are obliged to declare sales 
+to the water agencies. The sales figures are then further 
+processed by the Ministry of the Environment 
+HR Croatian Bureau of Statistics  
+Administrative data; the Ministry of Agriculture is 
+responsible for collecting data from distributors and sales 
+points 
+IT 
+Italian National Institute of 
+Statistics (ISTAT) 
+Postal census survey of all distributors  
+CY 
+Statistical Service of Cyprus 
+(CYSTAT) 
+Postal or electronic questionnaire/survey of suppliers.   
+Administrative data is provided by the Ministry of 
+Agriculture 
+LV 
+State Plant Protection Service of 
+Latvia (SPPS) 
+Full survey (paper and/or electronic) of all respondents — 
+distributors 
+LT Statistics Lithuania Full survey of all producers and authorisation holders 
+LU 
+Institut National de la Statistique 
+et des Etudes Economiques 
+(STATEC) 
+Census of vendors (retailers or wholesalers) and 
+cooperatives 
+HU 
+Hungarian Central Statistical 
+Office 
+The National Food Chain Safety Office (Ministry of Rural 
+Development) collects the data from authorisation holders  
+MT National Statistics Office (NSO) Online census survey of authorised importers 
+NL Statistics Netherlands 
+Administrative data obtained from the Plant Protection 
+Office (NVWA) 
+AT 
+Statistics Austria (STAT), Austrian 
+Agency for Health and Food 
+Safety (AGES) 
+Authorisation; approval holders and distributors are obliged 
+to report data to the Austrian Federal Office for Food Safety 
+PL Central Statistical Office 
+Full-scale survey conducted in cooperation with the Ministry 
+of Agriculture and Rural Development and with the Institute 
+of Plant Protection — National Research Institute 
+PT 
+Statistics Portugal (INE), National 
+Authority (DGAV) 
+Administrative data is obtained from the National Authority 
+Direção Geral de Alimentação e Veterinária (DGAV)  
+ 
+14 
+ 
+ 
+RESPONSIBLE NATIONAL 
+AUTHORITIES FOR PESTICIDES 
+SALES 
+DATA COLLECTION METHODS FOR PESTICIDES SALES 
+RO National Institute of Statistics 
+A census survey based on face-to-face interviews, 
+conducted in cooperation with the Ministry of Agriculture 
+and Rural Development (National Plant Protection Agency). 
+It covers certified selling units, economic operators and 
+natural persons 
+SI 
+Statistical Office of the Republic 
+of Slovenia 
+Administrative data reported to the Administration of the 
+Republic of Slovenia for Food Safety, Veterinary Medicine 
+and Plant Protection (UVHVVR) 
+SK 
+Statistical Office of the Slovak 
+Republic (SOSR) 
+Administrative data; the Central Controlling and Testing 
+Institute in Agriculture (CCTIA) collects data from 
+authorisation holders or parallel trade permit holders 
+FI 
+Finnish Safety and Chemicals 
+Agency (Tukes) 
+The Finnish Safety and Chemicals Agency (Tukes) collects 
+data by mail or email from authorisation holders or their 
+representatives 
+SE Swedish Chemicals Agency (KemI) The agency gathers data from authorisation holders 
+UK Chemicals Regulation Directorate 
+Voluntary, electronic census of businesses conducted by the 
+British Crop Production Council on behalf of the Office for 
+National Statistics (ONS) 
+NO Norwegian Food Safety Authority Administrative data from importers and producers 
+ 
+  
+ 
+15 
+ 
+ANNEX II 
+The information presented in this Annex is based on the national quality reports provided by 
+the countries according to the Regulation  
+ 
+QUALITY OF PESTICIDES SALES DATA 
+TRANSMITTED  
+USEFULNESS OF PESTICIDES SALES STATISTICS 
+BE 
+No estimates are required and 
+overestimates are rather unlikely due to the 
+association between declared data and fees 
+The data is used to calculate the annual fee for 
+placing pesticides on the market and to estimate 
+the overall quantities used at national level and 
+the subsequent risks for man and the 
+environment  
+BG 
+The data is comprehensive and covers all 
+available exports and imports 
+The data is specific, with only a few potential 
+users 
+CZ 
+The sources cover all units legally obliged to 
+report and all products placed on the market 
+The data is used mainly by CISTA for 
+phytosanitary control purposes, planning and 
+carrying out checks on distributors’ compliance  
+DK 
+The amount of sales is reported as the total 
+amount of the sale of each product 
+Users are politicians, agriculture, NGOs and the 
+public.  
+Uses of the data include monitoring the target of 
+reducing the pesticide load by 40 % by the end of 
+2015 compared with 2011 (Danish Pesticide 
+strategy 2013-2015, now prolonged by 1 year) 
+DE 
+The overall accuracy of the data is 
+considered satisfactory, although non-
+response mainly due to incorrect contact 
+details of parallel trade companies could be 
+a problem. Under-coverage due to illegal 
+trade cannot be estimated  
+The Federal Office of Consumer Protection and 
+Food Safety (BVL) uses the data for internal post-
+registration monitoring tasks. Data is also 
+published in the German Statistical Yearbook on 
+Food, Agriculture and Forestry and in the Federal 
+Gazette (‘Bundesanzeiger’). The Julius Kühn 
+Institut (JKI), the Federal Research Centre for 
+Cultivated Plants, also receives this data. Other 
+authorities, e.g. the Federal Environmental 
+Agency (UBA) or research institutions, are 
+provided with substance-specific sales data on 
+request  
+EE 
+The quality of the statistics is quite high 
+because all sales companies are covered and 
+the response rate was high 
+Users include the Agricultural Board, the 
+Agricultural Research Centre, the Ministry of 
+Agriculture, other ministries, research and 
+education institutions, the media, other 
+organisations and companies, and  private 
+individuals  
+ 
+16 
+ 
+ 
+QUALITY OF PESTICIDES SALES DATA 
+TRANSMITTED  
+USEFULNESS OF PESTICIDES SALES STATISTICS 
+IE 
+Data returned from the product 
+authorisation holders and marketing 
+companies is the actual real figure involved. 
+Consequently the quality of the data is 
+considered to be high 
+Only a few requests for this data have ever been 
+received. Companies and authorisation holders 
+have access to this register and can view 
+information for each product  
+EL 
+The implementation of the online system 
+has improved the overall quality. In 
+particular it has raised the response rates 
+from the low levels seen in the past 
+The Ministry of Rural Development and Food, the 
+government, the press, the media and academic 
+researchers use this data to reduce the risks 
+associated with pesticides 
+ES 
+The data is subjected to an internal 
+consistency process 
+To assess the impact of public policies and 
+calculate relevant health indicators and 
+associated environmental risks  
+FR 
+The declaration system covers sales to end-
+users (or purchases abroad by end-users). 
+This prevents double counting linked to 
+authorisation transfers or intermediaries in 
+the sale chain  
+We are not currently aware of any specific user 
+needs 
+HR no information provided by the country 
+Data users are state bodies, local governments 
+and legal and natural persons  
+IT Quite satisfactory 
+Data is mainly used by the Institute for 
+Environmental Protection and Research (ISPRA) 
+and the Ministry of Agriculture to assess risks to 
+man and the environment 
+CY 
+The survey was exhaustive with full coverage 
+as there were only a few suppliers in the 
+country 
+The data meets the needs of the Ministry of 
+Agriculture 
+LV 
+The overall quality of the statistical output is 
+assessed as good. The main strength of the 
+process is that the data collection is based 
+on legislation 
+Mostly scientists, students and the media have 
+shown interest in the data. The statistical 
+information superficially satisfies national user 
+needs 
+LT 
+The data is collected from reliable sources 
+applying high methodological standards 
+The main users are state and municipal 
+authorities and agencies, international 
+organisations, the media, research and business 
+communities and students. The data is used to 
+identify potential risks to human health and the 
+environment 
+ 
+17 
+ 
+ 
+QUALITY OF PESTICIDES SALES DATA 
+TRANSMITTED  
+USEFULNESS OF PESTICIDES SALES STATISTICS 
+LU 
+Respondents are also invited to indicate the 
+shares of domestic and foreign suppliers or 
+intermediaries in order to eliminate 
+potential double counting between national 
+wholesalers 
+Sales statistics might be of interest to policy 
+makers, the Ministry of Agriculture, the Ministry 
+of Environment, environmental lobby groups and 
+the research community 
+HU 
+Marketed quantities are compared to and 
+cross-checked with data from previous years 
+at product level 
+no information provided by the country 
+MT 
+The overall quality is good. The data 
+collection is exhaustive and detailed 
+processes are in place to validate and 
+analyse the data 
+The European Commission is the main user 
+NL 
+The quality of the data is routinely reviewed 
+using a framework that is based on the 
+European Statistical System definition of 
+quality 
+The data is used to evaluate government policy 
+AT no information provided by the country Supervision and control  
+PL 
+Obligatory survey of producers, national 
+distributors and importers through 
+electronic questionnaires 
+Data users include central offices, scientific and 
+research institutes, students and companies 
+operating in the agricultural sector. The data may 
+be used to assess the conditions and costs of 
+agricultural production and the environmental 
+impact  
+PT 
+Validations are based on comparisons of 
+aggregated data with previous years  
+The data is used to evaluate the market and its 
+connection with sales authorisations by the 
+national authority 
+RO no information provided by the country 
+Users include the Ministry of Agriculture and 
+Rural Development, the National Plant Protection 
+Agency, the Plant Protection Units, the Academy 
+of Agricultural and Forestry Sciences, the 
+National Institute Research and Development for 
+Industrial Ecology, the Centre of Applied 
+Biochemistry and Biotechnology, the Ministry of 
+Environment, Waters and Forest, and the 
+Institute of Research and Development for Plant 
+Protection 
+ 
+18 
+ 
+ 
+QUALITY OF PESTICIDES SALES DATA 
+TRANSMITTED  
+USEFULNESS OF PESTICIDES SALES STATISTICS 
+SI 
+The data covers wholesalers within the 
+national territory. However, the data cannot 
+be disaggregated to lower territorial units as 
+it does not allow any conclusions to be 
+drawn on where the retail and actual use 
+occurs 
+Used as a proxy for the amounts of active 
+substances used in agriculture 
+SK 
+The data is of good quality with sufficient 
+accuracy and completeness 
+The European Commission is the main user 
+FI 
+The quality of the data can be considered 
+good  
+Users of the data are agricultural, environmental, 
+food safety and health authorities, research 
+institutes, and the media. Detailed data has been 
+submitted on request for research and 
+monitoring purposes  
+SE 
+The data covers all products placed on the 
+market. The data is processed manually and 
+therefore there may be calculation errors 
+We have very little information on users. Trends 
+are often more interesting than the data itself 
+UK 
+The qualitative measure of accuracy is 
+deemed acceptable. A multinational 
+estimated to have approximately 8 % share 
+of the UK market by volume is reported to 
+have consistently refused to supply data. 
+Other missing responses were not 
+considered to be significant as most non-
+responders are among the smaller players in 
+the market 
+Potential national users may include members of 
+the Crop Protection Association. This is the UK 
+trade association of companies engaged in the 
+manufacture, formulation, development and 
+national distribution of pesticides and crop 
+protection products for agriculture, forestry, 
+horticulture, home gardening, industrial and local 
+authority outlets 
+NO 
+The data quality is considered very good. All 
+imports and production have to be reported 
+and confirmed by the companies’ 
+accountants. Data estimates are not 
+required 
+The data is used as a basis for calculating the 
+environmental tax. Users include government 
+bodies, farmers associations, NGOs, industry etc. 
+The data is available for both active substances 
+and products. Users’ comments indicate a need 
+for data at regional level, not only national level. 
+However, this is not feasible due to the way the 
+data is collected 
+ 
+ 
+ 
