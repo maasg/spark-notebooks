@@ -1,0 +1,280 @@
+{
+  "metadata" : {
+    "name" : "scrapper",
+    "user_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "auto_save_timestamp" : "1970-01-01T01:00:00.000Z",
+    "language_info" : {
+      "name" : "scala",
+      "file_extension" : "scala",
+      "codemirror_mode" : "text/x-scala"
+    },
+    "trusted" : true,
+    "customLocalRepo" : null,
+    "customRepos" : null,
+    "customDeps" : [ "org.apache.pdfbox % pdfbox % 2.0.4", "org.scalaj %% scalaj-http % 2.3.0" ],
+    "customImports" : null,
+    "customArgs" : null,
+    "customSparkConf" : null
+  },
+  "cells" : [ {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "CF9A6AADC4304E9380902BE008FE18CF"
+    },
+    "cell_type" : "code",
+    "source" : "val notebooksFolder = sys.env(\"NOTEBOOKS_DIR\")\nval targetDir = s\"$notebooksFolder/languageclassfication/data\"",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "notebooksFolder: String = /home/maasg/playground/sparkfun/spark-notebooks\ntargetDir: String = /home/maasg/playground/sparkfun/spark-notebooks/languageclassfication/data\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 1,
+      "time" : "Took: 1 second 22 milliseconds, at 2017-3-6 22:48"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "E57DDEE8244A460A824B12DA71DFC6FF"
+    },
+    "cell_type" : "code",
+    "source" : "def target(lang:String):String => String = file => s\"$targetDir/$lang/$file\" ",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "target: (lang: String)String => String\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 2,
+      "time" : "Took: 853 milliseconds, at 2017-3-6 22:48"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "6C2A139304FD495C81253DC0F3656BF4"
+    },
+    "cell_type" : "code",
+    "source" : "import java.nio.file.Files\nimport java.io._\nimport scala.collection.JavaConverters._\nimport scalaj.http._\n\ndef downloadPDF(url:String): String = {\n  val millis = System.currentTimeMillis().toString.drop(5).take(5)\n  val tmpFile = Files.createTempFile(\"pdf_temp\",millis)\n  val data = Http(url).asBytes\n  val target = new BufferedOutputStream(new FileOutputStream(tmpFile.toFile))\n  data.body.foreach(e => target.write(e))\n  target.flush()\n  target.close()\n  tmpFile.toString  \n}",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import java.nio.file.Files\nimport java.io._\nimport scala.collection.JavaConverters._\nimport scalaj.http._\ndownloadPDF: (url: String)String\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 3,
+      "time" : "Took: 826 milliseconds, at 2017-3-6 22:48"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "9C6C853C83FD42D58F1CFD8040CC7ED4"
+    },
+    "cell_type" : "code",
+    "source" : "import org.apache.pdfbox.pdmodel.PDDocument\nimport org.apache.pdfbox.text.PDFTextStripper\n\ndef extractTextFromPDF(filename: String): String = {\n  val pdf = PDDocument.load(new File(filename))\n  val text = new PDFTextStripper().getText(pdf)\n  text\n}",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "import org.apache.pdfbox.pdmodel.PDDocument\nimport org.apache.pdfbox.text.PDFTextStripper\nextractTextFromPDF: (filename: String)String\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 4,
+      "time" : "Took: 871 milliseconds, at 2017-3-6 22:49"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "7304D40D451E40118D52A8F4075A9664"
+    },
+    "cell_type" : "code",
+    "source" : "def scrapPDF(url: String): String = extractTextFromPDF(downloadPDF(url))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "scrapPDF: (url: String)String\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 5,
+      "time" : "Took: 707 milliseconds, at 2017-3-6 22:49"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "0A15DC2E0384445CB18FA08DCEF22056"
+    },
+    "cell_type" : "code",
+    "source" : "def write(file: File, str: String) = {\n  val writer = new BufferedWriter(new FileWriter(file))\n  writer.write(str)\n  writer.flush()\n  writer.close()\n}\n",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "write: (file: java.io.File, str: String)Unit\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 6,
+      "time" : "Took: 590 milliseconds, at 2017-3-6 22:49"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "750873F47C9E484484E67C10775DFCC2"
+    },
+    "cell_type" : "code",
+    "source" : "val languages = Set(\"EN\",\"DE\",\"ES\",\"IT\",\"NL\", \"FR\")",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "languages: scala.collection.immutable.Set[String] = Set(EN, ES, FR, IT, NL, DE)\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 7,
+      "time" : "Took: 719 milliseconds, at 2017-3-6 22:49"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true,
+      "id" : "F18D4E5CD8BA4849821BF72AF9ACDEDF"
+    },
+    "cell_type" : "markdown",
+    "source" : "Legal text from European Commission lib: (Sample URL)\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:202:FULL"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "5C751EFF9CEF4358B95BF4A7153FD4D0"
+    },
+    "cell_type" : "code",
+    "source" : "def urlTargets(prefix:String, suffix:String) = languages.map(lang => (lang.toLowerCase, s\"$prefix/$lang/$suffix\"))",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "urlTargets: (prefix: String, suffix: String)scala.collection.immutable.Set[(String, String)]\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 8,
+      "time" : "Took: 835 milliseconds, at 2017-3-6 22:51"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "08928F3C854A42639A69BE004AAFC181"
+    },
+    "cell_type" : "code",
+    "source" : "def download(enURL:String, name:String) = {\n  val stdName = name.toLowerCase.replaceAll(\" \", \"_\")\n  val expr = \"(.*)\\\\/EN\\\\/(.*)\".r\n  val Some(prefix::suffix::Nil) = expr.unapplySeq(enURL) \n  val targetDir = \"/home/maasg/playground/data/lang-training\"\n  val targets = urlTargets(prefix,suffix)\n  targets.foreach{case (lang, target) =>\n    val txt = scrapPDF(target)\n    val targetFile = new File(s\"$targetDir/$lang/$stdName-$lang.txt\")\n    write(targetFile, txt)\n    println(s\"$url => $targetFile\")\n  }\n}\n    ",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "<console>:106: error: not found: value url\n           println(s\"$url => $targetFile\")\n                      ^\n"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "6C05813CD27C4C68BDE1A8523B359D14"
+    },
+    "cell_type" : "code",
+    "source" : "val dataset = List(\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:202:FULL\", \"Treaty on the Functioning of the European Union\"), \n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:202:FULL\", \"Fundamental Rights of the European Union\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:203:FULL\",\"European Atomic Energy Community\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017D0382&qid=1488732939099\",\"Agreement on Mutual Recognition between the European Community and the United States of America\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=COM:2017:109:FIN&qid=1488733045121\",\"concerning statistics on pesticides\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0385&qid=1488733136334\",\"Statute of the International Renewable Energy Agency\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0222&qid=1488733136334\",\"Global Bioenergy Partnership\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32008R0452&qid=1488733259820\", \"production and development of statistics on education and lifelong learning\"),\n  (\"http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32004R0808&qid=1488733259820\",\"Community statistics on the information society\")\n)\n                   ",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "dataset: List[(String, String)] = List((http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:202:FULL,Treaty on the Functioning of the European Union), (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:202:FULL,Fundamental Rights of the European Union), (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:C:2016:203:FULL,European Atomic Energy Community), (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22017D0382&qid=1488732939099,Agreement on Mutual Recognition between the European Community and the United States of America), (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=COM:2017:109:FIN&qid=1488733045121,concerning statistics on pesticides), (http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0385&qid=1488733136..."
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 10,
+      "time" : "Took: 838 milliseconds, at 2017-3-6 22:51"
+    } ]
+  }, {
+    "metadata" : {
+      "id" : "F5D90375E82E408B9D7442C94A18673C"
+    },
+    "cell_type" : "markdown",
+    "source" : "## This method downloads all scrapped texts to the specified directory"
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : false,
+      "id" : "4FB814D83F044766AA45ED4E1E11BEE6"
+    },
+    "cell_type" : "code",
+    "source" : "dataset.foreach{case (url, title) => download(url, title)}\n",
+    "outputs" : [ {
+      "name" : "stdout",
+      "output_type" : "stream",
+      "text" : "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/treaty_on_the_functioning_of_the_european_union-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/fundamental_rights_of_the_european_union-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/european_atomic_energy_community-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/agreement_on_mutual_recognition_between_the_european_community_and_the_united_states_of_america-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/concerning_statistics_on_pesticides-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/statute_of_the_international_renewable_energy_agency-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/global_bioenergy_partnership-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/production_and_development_of_statistics_on_education_and_lifelong_learning-fr.txt\nhttp://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593&from=EN => /home/maasg/playground/data/lang-training/fr/community_statistics_on_the_information_society-fr.txt\n"
+    }, {
+      "metadata" : { },
+      "data" : {
+        "text/html" : ""
+      },
+      "output_type" : "execute_result",
+      "execution_count" : 60,
+      "time" : "Took: 11 seconds 117 milliseconds, at 2017-3-5 19:33"
+    } ]
+  }, {
+    "metadata" : {
+      "trusted" : true,
+      "input_collapsed" : false,
+      "collapsed" : true,
+      "id" : "CDFCC71AEBD24D7E8B5F8CE181548A88"
+    },
+    "cell_type" : "code",
+    "source" : "",
+    "outputs" : [ ]
+  } ],
+  "nbformat" : 4
+}

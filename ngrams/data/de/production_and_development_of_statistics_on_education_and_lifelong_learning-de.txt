@@ -1,0 +1,480 @@
+VERORDNUNG (EG) Nr. 452/2008 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 23. April 2008
+über die Erstellung und die Entwicklung von Statistiken über Bildung und lebenslanges Lernen
+(Text von Bedeutung für den EWR)
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄI-
+SCHEN UNION —
+gestützt auf den Vertrag zur Gründung der Europäischen Gemein-
+schaft, insbesondere auf Artikel 285 Absatz 1,
+auf Vorschlag der Kommission,
+nach Anhörung des Europäischen Wirtschafts- und
+Sozialausschusses,
+gemäß dem Verfahren des Artikels 251 des Vertrags (1),
+in Erwägung nachstehender Gründe:
+(1) In der Entschließung des Rates vom 5. Dezember 1994
+über die Förderung der Bildungsstatistik in der Europäi-
+schen Union (2) wurde die Kommission ersucht, in enger
+Zusammenarbeit mit den Mitgliedstaaten, den Aufbau von
+Statistiken über allgemeine und berufliche Bildung
+voranzutreiben.
+(2) Der Europäische Rat kam auf seiner Tagung am 22. und
+23. März 2005 in Brüssel überein, die Lissabonner Strate-
+gie neu zu beleben. Er kam zu dem Schluss, dass Europa
+seine Wettbewerbsbasis erneuern, sein Wachstums-
+potenzial und seine Produktivität steigern und den sozia-
+len Zusammenhalt verstärken muss, wobei das
+Hauptaugenmerk auf die Themen Wissen, Innovation und
+Optimierung des Humankapitals gelegt werden muss. In
+diesem Zusammenhang sind Beschäftigungsfähigkeit,
+Anpassungsfähigkeit und Mobilität der Bürger für Europa
+entscheidende Faktoren.
+(3) Um diese Ziele zu erreichen, müssen sich die europäischen
+Systeme der allgemeinen und beruflichen Bildung den
+Anforderungen der Wissensgesellschaft anpassen und dem
+Erfordernis eines höheren Bildungsniveaus und besserer
+Arbeitsplätze Rechnung tragen. Statistiken über die allge-
+meine und berufliche Bildung und lebenslanges Lernen
+sind als Grundlage für politische Entscheidungen von
+höchster Bedeutung.
+(4) Lebenslanges Lernen ist ein wesentliches Element beim
+Aufbau und bei der Förderung einer gut ausgebildeten, gut
+geschulten und anpassungsfähigen Arbeitnehmerschaft. In
+den Schlussfolgerungen des Vorsitzes von der Frühjahrs-
+tagung 2005 des Europäischen Rates wurde unterstrichen,
+dass „das Humankapital Europas wichtigster Aktivposten
+ist“. Die integrierten Leitlinien für Wachstum und Beschäf-
+tigung einschließlich der Leitlinien für die Beschäftigungs-
+politik der Mitgliedstaaten, die vom Rat in seiner
+Entscheidung 2005/600/EG (3) angenommen wurden, zie-
+len darauf ab, die Lissabon-Strategie stärker voranzu-
+bringen und umfassende Strategien für das lebenslange
+Lernen festzulegen.
+(5) Die Annahme des Berichts des Rates über die Ziele der Sys-
+teme der allgemeinen und beruflichen Bildung im Februar
+2001 und des Arbeitsprogramms für die Jahre 2001-2011
+im Februar 2002 als Follow-up zu diesem Bericht sind ein
+wichtiger Schritt bei der Umsetzung der Verpflichtung, die
+Systeme der allgemeinen und beruflichen Bildung in den
+Mitgliedstaaten zu modernisieren und ihre Qualität zu ver-
+bessern. Zu den Instrumenten der Methode der offenen
+Koordinierung, die für das Arbeitsprogramm „Allgemeine
+und berufliche Bildung 2010“ eine wichtige Rolle spielen,
+zählen Indikatoren und europäische Durchschnittsbezugs-
+werte („Benchmarks“). Einen entscheidenden Schritt stellte
+in diesem Zusammenhang die Einigung der für den
+Bildungsbereich zuständigen Minister im Mai 2003 auf
+fünf europäische Benchmarks dar, die bis zum Jahr 2010
+erreicht werden sollen; die Minister betonten dabei, dass
+diese Benchmarks weder eine Festlegung einzelstaatlicher
+Ziele enthalten noch den Regierungen der Mitgliedstaaten
+Entscheidungen vorschreiben.
+(6) Der Rat hat am 24. Mai 2005 Schlussfolgerungen „zu
+neuen Indikatoren im Bereich der allgemeinen und der
+beruflichen Bildung“ (4) angenommen. Darin hat er die
+Kommission aufgefordert, ihm für neun bestimmte Berei-
+che der allgemeinen und beruflichen Bildung Strategien
+und Vorschläge für die Entwicklung neuer Indikatoren zu
+unterbreiten, und dabei betont, dass die Entwicklung neuer
+Indikatoren unter uneingeschränkter Wahrung der Zustän-
+digkeit der Mitgliedstaaten für die Organisation ihrer
+Bildungssysteme erfolgen und weder zu einer ungebührli-
+chen Verwaltungs- oder Finanzlast für die betroffenen Ein-
+richtungen und Institutionen noch automatisch zu einer
+Erhöhung der Zahl der zur Fortschrittsbeurteilung verwen-
+deten Indikatoren führen solle.
+(7) Außerdem hat der Rat im November 2004 Schlussfolge-
+rungen über die europäische Zusammenarbeit bei der
+beruflichen Bildung angenommen und vereinbart, dass der
+„Verbesserung des Erfassungsbereichs, der Genauigkeit und
+Zuverlässigkeit von Statistiken im Bereich der beruflichen
+Bildung“ Priorität eingeräumt werden müsse, „damit die
+Fortschritte evaluiert werden können“.
+(1) Stellungnahme des Europäischen Parlaments vom 25. September
+2007 (noch nicht im Amtsblatt veröffentlicht) und Entscheidung des
+Rates vom 14. Februar 2008.
+(2) ABl. C 374 vom 30.12.1994, S. 4.
+(3) ABl. L 205 vom 6.8.2005, S. 21.
+(4) ABl. C 141 vom 10.6.2005, S. 7.
+4.6.2008 DE Amtsblatt der Europäischen Union L 145/227
+(8) Für die Entwicklung von Strategien im Bereich der Bildung
+und des lebenslangen Lernens und für die Beobachtung der
+Fortschritte bei ihrer Umsetzung sind vergleichbare statis-
+tische Daten auf Gemeinschaftsebene unerlässlich. Bei der
+Erstellung der Statistiken sollte zur Einrichtung eines inte-
+grierten Europäischen Statistischen Informationssystems
+zur allgemeinen und beruflichen Bildung und zum lebens-
+langen Lernen von einem Rahmen kohärenter Konzepte
+und vergleichbarer Daten ausgegangen werden.
+(9) Bei der Anwendung dieser Verordnung sollten die auf dem
+Arbeitsmarkt benachteiligten Menschen, auf die in den
+Leitlinien für beschäftigungspolitische Maßnahmen der
+Mitgliedstaaten eingegangen wird, berücksichtigt werden.
+(10) Die Kommission (Eurostat) erhebt gemäß der Verordnung
+(EG) Nr. 1552/2005 des Europäischen Parlaments und des
+Rates vom 7. September 2005 über die Statistik der
+betrieblichen Bildung (1) Daten über die betriebliche Bil-
+dung. Es ist jedoch ein umfassender gesetzlicher Rahmen
+erforderlich, um sicherzustellen, dass künftig kontinuier-
+lich Statistiken über Bildung und lebenslanges Lernen
+erstellt und weiterentwickelt werden, die mindestens alle
+relevanten bestehenden und geplanten Aktivitäten erfas-
+sen. Die Kommission (Eurostat) erhebt außerdem im Rah-
+men einer gemeinsamen Aktion mit dem Statistischen
+Institut der Unesco (UIS) und der Organisation für wirt-
+schaftliche Zusammenarbeit und Entwicklung (OECD) bei
+den Mitgliedstaaten auf freiwilliger Basis jährlich Daten zur
+Bildung (die so genannte „UOE-Datenerhebung“). Darüber
+hinaus erhebt die Kommission (Eurostat) Daten über die
+allgemeine und berufliche Bildung und das lebenslange
+Lernen im Rahmen von anderen Haushaltsbefragungen,
+beispielsweise im Rahmen der Arbeitskräfteerhebung der
+Europäischen Union (2) und der Gemeinschaftsstatistik
+über Einkommen und Lebensbedingungen (3) sowie ihrer
+Ad-hoc-Module.
+(11) Da die Konzipierung und Durchführung von Strategien im
+Bereich Bildung und lebenslanges Lernen ein dynamischer
+Prozess ist und sich wandelnden Bedingungen anpassen
+muss, sollte der Regelungsrahmen für die statistischen
+Erhebungen unter Berücksichtigung der Belastungen für
+die Befragten und die Mitgliedstaaten innerhalb bestimm-
+ter Grenzen und mit entsprechenden Kontrollen eine
+gewisse Flexibilität vorsehen.
+(12) Da das Ziel dieser Verordnung, nämlich die Festlegung
+gemeinsamer statistischer Standards für die Erstellung har-
+monisierter Daten, auf Ebene der Mitgliedstaaten nicht in
+ausreichender Weise verwirklicht werden kann und daher
+besser auf Gemeinschaftsebene zu verwirklichen ist, kann
+die Gemeinschaft im Einklang mit dem in Artikel 5 des
+Vertrags niedergelegten Subsidiaritätsprinzip tätig werden.
+Entsprechend dem in demselben Artikel niedergelegten
+Grundsatz der Verhältnismäßigkeit geht die Verordnung
+nicht über das zur Erreichung dieses Ziels notwendige Maß
+hinaus.
+(13) Die Erstellung spezifischer Gemeinschaftsstatistiken erfolgt
+gemäß der Verordnung (EG) Nr. 322/97 des Rates vom
+17. Februar 1997 über die Gemeinschaftsstatistiken (4).
+(14) Diese Verordnung garantiert die umfassende Wahrung des
+in Artikel 8 der Charta der Grundrechte der Europäischen
+Union verankerten Rechts auf Schutz personenbezogener
+Daten.
+(15) Die Übermittlung von Daten, die unter die Geheimhal-
+tungspflicht fallen, erfolgt gemäß der Verordnung (EG)
+Nr. 322/97 und der Verordnung (Euratom, EWG)
+Nr. 1588/90 des Rates vom 11. Juni 1990 über die Über-
+mittlung von unter die Geheimhaltungspflicht fallenden
+Daten an das Statistische Amt der Europäischen
+Gemeinschaften (5).
+(16) Mit der Verordnung (EG) Nr. 831/2002 der Kommission
+vom 17. Mai 2002 zur Durchführung der Verordnung (EG)
+Nr. 322/97 des Rates über die Gemeinschaftsstatistiken —
+Regelung des Zugangs zu vertraulichen Daten für wissen-
+schaftliche Zwecke (6) wurde festgelegt, unter welchen
+Bedingungen der Zugang zu den der Gemeinschafts-
+dienststelle übermittelten vertraulichen Daten gewährt
+werden kann.
+(17) Die zur Durchführung dieser Verordnung erforderlichen
+Maßnahmen sollten gemäß dem Beschluss 1999/468/EG
+des Rates vom 28. Juni 1999 zur Festlegung der Modalitä-
+ten für die Ausübung der der Kommission übertragenen
+Durchführungsbefugnisse (7) erlassen werden.
+(18) Insbesondere sollte die Kommission die Befugnis erhalten,
+die Themen der Erhebungen, deren Merkmale entspre-
+chend politischen oder technischen Erfordernissen, die
+Aufschlüsselung von Merkmalen, den Beobachtungs-
+zeitraum und die Fristen für die Übermittlung der Ergeb-
+nisse, die Qualitätsanforderungen einschließlich der
+erforderlichen Genauigkeit und den Rahmen für die
+Berichterstattung über die Qualität auszuwählen und ent-
+sprechend zu spezifizieren. Da es sich hierbei um Maßnah-
+men von allgemeiner Tragweite handelt, die eine Änderung
+nicht wesentlicher Bestimmungen dieser Verordnung, auch
+durch Ergänzung um neue nicht wesentliche Bestimmun-
+gen, bewirken, sind diese Maßnahmen nach dem
+Regelungsverfahren mit Kontrolle des Artikels 5a des
+Beschlusses 1999/468/EG zu erlassen.
+(1) ABl. L 255 vom 30.9.2005, S. 1.
+(2) Verordnung (EG) Nr. 2104/2002 der Kommission vom 28. Novem-
+ber 2002 zur Anpassung der Verordnung (EG) Nr. 577/98 des Rates
+zur Durchführung einer Stichprobenerhebung über Arbeitskräfte in
+der Gemeinschaft und der Verordnung (EG) Nr. 1575/2000 der Kom-
+mission zur Durchführung der Verordnung (EG) Nr. 577/98 des Rates
+im Hinblick auf die Liste der Variablen zur allgemeinen und berufli-
+chen Bildung und auf die ab 2003 für die Datenübermittlung zu ver-
+wendende Kodierung dieser Variablen (ABl. L 324 vom 29.11.2002,
+S. 14).
+(3) Verordnung (EG) Nr. 1983/2003 der Kommission vom 7. November
+2003 zur Durchführung der Verordnung (EG) Nr. 1177/2003 des
+Europäischen Parlaments und des Rates für die Gemeinschaftsstatistik
+über Einkommen und Lebensbedingungen (EU-SILC) im Hinblick auf
+das Verzeichnis der primären Zielvariablen (ABl. L 298 vom
+17.11.2003, S. 34).
+(4) ABl. L 52 vom 22.2.1997, S. 1. Geändert durch die Verordnung (EG)
+Nr. 1882/2003 des Europäischen Parlaments und des Rates
+(ABl. L 284 vom 31.10.2003, S. 1).
+(5) ABl. L 151 vom 15.6.1990, S. 1. Geändert durch die Verordnung (EG)
+Nr. 322/97.
+(6) ABl. L 133 vom 18.5.2002, S. 7. Zuletzt geändert durch die Verord-
+nung (EG) Nr. 1000/2007 (ABl. L 226 vom 30.8.2007, S. 7).
+(7) ABl. L 184 vom 17.7.1999, S. 23. Geändert durch den Beschluss
+2006/512/EG (ABl. L 200 vom 22.7.2006, S. 11).
+L 145/228 DE Amtsblatt der Europäischen Union 4.6.2008
+(19) Der durch den Beschluss 89/382/EWG, Euratom des
+Rates (1) eingesetzte Ausschuss für das Statistische Pro-
+gramm wurde gemäß Artikel 3 des genannten Beschlusses
+gehört —
+HABEN FOLGENDE VERORDNUNG ERLASSEN:
+Artikel 1
+Gegenstand
+Mit dieser Verordnung wird ein gemeinsamer Rahmen für die sys-
+tematische Erstellung von gemeinschaftlichen Statistiken über Bil-
+dung und lebenslanges Lernen geschaffen.
+Artikel 2
+Begriffsbestimmungen
+Im Sinne dieser Verordnung bezeichnet der Ausdruck
+a) „Gemeinschaftsstatistiken“ Gemeinschaftsstatistiken im Sinne
+des Artikels 2 erster Gedankenstrich der Verordnung (EG)
+Nr. 322/97;
+b) „Erstellung von Statistiken“ die Erstellung von Statistiken im
+Sinne des Artikels 2 zweiter Gedankenstrich der Verordnung
+(EG) Nr. 322/97;
+c) „einzelstaatliche Stellen“ einzelstaatliche Stellen im Sinne des
+Artikels 2 dritter Gedankenstrich der Verordnung (EG)
+Nr. 322/97;
+d) „Bildung“ eine organisierte und nachhaltige Kommunikation,
+die zum Lernen führen soll (2);
+e) „lebenslanges Lernen“ alles Lernen während des gesamten
+Lebens, das der Verbesserung von Wissen, Fähigkeiten und
+Kompetenzen im Rahmen einer persönlichen, staatsbürger-
+lichen, sozialen und/oder beschäftigungsbezogenen Perspek-
+tive dient (3);
+f) „Mikrodaten“ statistische Einzeldaten;
+g) „vertrauliche Daten“ Daten, die nur eine indirekte Identifizie-
+rung der betreffenden statistischen Einheiten gestatten,
+gemäß der Verordnung (EG) Nr. 322/97 und der Verordnung
+(Euratom, EWG) Nr. 1588/90.
+Artikel 3
+Bereiche
+Diese Verordnung gilt für die Erstellung von Statistiken in drei
+Bereichen:
+a) Bereich 1 erstreckt sich auf Statistiken über die Systeme der
+allgemeinen und beruflichen Bildung;
+b) Bereich 2 erstreckt sich auf Statistiken über die Beteiligung
+von Erwachsenen am lebenslangen Lernen;
+c) Bereich 3 erstreckt sich auf die sonstigen, nicht unter die
+Bereiche 1 und 2 fallenden Statistiken über Bildung und
+lebenslanges Lernen, z. B. Statistiken über Humankapital und
+über den sozialen und wirtschaftlichen Nutzen der Bildung.
+Die Erstellung von Statistiken in diesen Bereichen wird nach Maß-
+gabe des Anhangs durchgeführt.
+Artikel 4
+Statistische Maßnahmen
+(1) Gemeinschaftsstatistiken im Bereich der Bildung und des
+lebenslangen Lernens werden mit Hilfe folgender statistischer
+Einzelmaßnahmen erstellt:
+a) regelmäßige Bereitstellung von Statistiken über Bildung und
+lebenslanges Lernen durch die Mitgliedstaaten innerhalb fest-
+gelegter Fristen für die Bereiche 1 und 2;
+b) Nutzung sonstiger statistischer Informationssysteme und
+Erhebungen zur Erlangung zusätzlicher statistischer Variab-
+len und Indikatoren über Bildung und lebenslanges Lernen
+für den Bereich 3;
+c) Entwicklung, Verbesserung und Aktualisierung von Stan-
+dards und Handbüchern über den statistischen Rahmen, die
+statistischen Konzepte und Methoden;
+d) Verbesserung der Datenqualität im Zusammenhang mit dem
+Qualitätsrahmen im Hinblick auf:
+— Relevanz,
+— Genauigkeit,
+— Aktualität und Pünktlichkeit,
+— Zugänglichkeit und Klarheit,
+— Vergleichbarkeit und
+— Kohärenz.
+Dabei berücksichtigt die Kommission, welche Kapazitäten in den
+Mitgliedstaaten für die Erhebung und Verarbeitung der Daten
+sowie für die Entwicklung von Konzepten und Methoden zur Ver-
+fügung stehen.
+Gegebenenfalls werden regionale Merkmale der erhobenen Daten
+besonders beachtet und berücksichtigt. Gegebenenfalls werden die
+erhobenen Daten systematisch nach Geschlecht aufgeschlüsselt.
+(1) ABl. L 181 vom 28.6.1989, S. 47.
+(2) Nach der Fassung der Internationalen Standardklassifikation des
+Bildungswesens der Unesco (ISCED) von 1997.
+(3) Entschließung des Rates vom 27. Juni 2002 zum lebenslangen Lernen
+(ABl. C 163 vom 9.7.2002, S. 1).
+4.6.2008 DE Amtsblatt der Europäischen Union L 145/229
+(2) Die Kommission (Eurostat) arbeitet nach Möglichkeit mit
+dem UIS, der OECD und anderen internationalen Organisationen
+zusammen, um die internationale Vergleichbarkeit der Daten
+sicherzustellen und Doppelarbeit zu vermeiden; dies gilt insbe-
+sondere für die Entwicklung und Verbesserung der statistischen
+Konzepte und Methoden und die Bereitstellung von Statistiken
+durch die Mitgliedstaaten.
+(3) Im Falle eines erheblichen neuen Datenbedarfs oder wenn
+eine unzureichende Qualität der Daten festgestellt wird, leitet die
+Kommission (Eurostat) Pilotuntersuchungen ein, die von den Mit-
+gliedstaaten auf freiwilliger Basis durchgeführt werden, bevor eine
+Datenerhebung vorgenommen wird. Anhand der Pilotun-
+tersuchungen soll die Durchführbarkeit der betreffenden Daten-
+erhebung bewertet werden, wobei die Vorteile der Verfügbarkeit
+der Daten gegen die Erhebungskosten und den Meldeaufwand der
+Befragten abzuwägen sind. Pilotstudien müssen jedoch nicht
+unbedingt zu entsprechenden Umsetzungsmaßnahmen führen.
+Artikel 5
+Übermittlung von Mikrodaten über Einzelpersonen
+Soweit für die Erstellung der Gemeinschaftsstatistiken erforder-
+lich, übermitteln die Mitgliedstaaten der Kommission (Eurostat)
+vertrauliche Mikrodaten aus Stichprobenerhebungen gemäß den
+geltenden Gemeinschaftsvorschriften für die Übermittlung ver-
+traulicher Daten, die in der Verordnung (EG) Nr. 322/97 und in
+der Verordnung (Euratom, EWG) Nr. 1588/90 festgelegt sind. Die
+Mitgliedstaaten sorgen dafür, dass die übermittelten Daten keine
+direkte Identifizierung der statistischen Einheiten (Einzelpersonen)
+ermöglichen.
+Artikel 6
+Durchführungsmaßnahmen
+(1) Die folgenden Maßnahmen zur Änderung nicht wesentli-
+cher Bestimmungen dieser Verordnung durch Ergänzung, ein-
+schließlich der aufgrund der wirtschaftlichen und technischen
+Entwicklungen bei der Erhebung, Übermittlung und Verarbeitung
+der Daten erforderlichen Maßnahmen, werden nach dem in Arti-
+kel 7 Absatz 3 genannten Regelungsverfahren mit Kontrolle fest-
+gelegt, um die Übermittlung qualitativ hochwertiger Daten zu
+garantieren:
+a) die Auswahl und Beschreibung der unter die Bereiche fallen-
+den Themen und ihrer Merkmale entsprechend politischen
+oder technischen Erfordernissen,
+b) die Aufschlüsselung der Merkmale,
+c) die Festlegung des Beobachtungszeitraums und der Fristen
+für die Übermittlung der Ergebnisse,
+d) die Festlegung der Qualitätsanforderungen, einschließlich der
+erforderlichen Genauigkeit,
+e) die Festlegung des Rahmens für die Berichterstattung über die
+Qualität.
+Führen diese Maßnahmen dazu, dass die bestehenden Daten-
+sammlungen erheblich erweitert oder neue Datensammlungen
+oder -erhebungen angelegt bzw. durchgeführt werden müssen, so
+stützen sich die Durchführungsbeschlüsse auf eine Kosten-
+Nutzen-Analyse als Teil einer umfassenden Analyse der Auswir-
+kungen und Folgen, die den Nutzen dieser Maßnahmen, die
+Kosten für die Mitgliedstaaten und die Belastung der Befragten
+berücksichtigt.
+(2) Bei den Maßnahmen nach Absatz 1 wird insbesondere Fol-
+gendes berücksichtigt:
+a) für alle Bereiche: die potenzielle Belastung für Bildungsein-
+richtungen und Einzelpersonen,
+b) für alle Bereiche: die Ergebnisse der Pilotstudien nach Arti-
+kel 4 Absatz 3,
+c) für den Bereich 1: die jüngsten Vereinbarungen zwischen
+UIS, OECD und Kommission (Eurostat) über die Konzepte
+und Definitionen, das Datenerhebungsformat, die Datenver-
+arbeitung sowie die Periodizität und die Fristen für die Über-
+mittlung der Ergebnisse,
+d) für den Bereich 2: die Ergebnisse der Piloterhebung über
+Erwachsenenbildung aus den Jahren 2005 bis 2007 und
+deren Weiterentwicklungsbedarf,
+e) für den Bereich 3: die Verfügbarkeit und Eignung sowie der
+rechtliche Kontext bereits bestehender Gemeinschaftsdaten-
+quellen nach eingehender Prüfung aller vorhandenen
+Datenquellen.
+(3) Gegebenenfalls werden, sofern eine objektiv begründete
+Notwendigkeit besteht, begrenzte Ausnahmeregelungen und
+Übergangszeiten für einen oder mehr Mitgliedstaaten nach dem in
+Artikel 7 Absatz 2 genannten Regelungsverfahren verabschiedet.
+Artikel 7
+Ausschuss
+(1) Die Kommission wird durch den Ausschuss für das Statis-
+tische Programm unterstützt.
+(2) Wird auf diesen Absatz Bezug genommen, so gelten die
+Artikel 5 und 7 des Beschlusses 1999/468/EG unter Beachtung
+von dessen Artikel 8.
+Die Frist nach Artikel 5 Absatz 6 des Beschlusses 1999/468/EG
+wird auf drei Monate festgesetzt.
+(3) Wird auf diesen Absatz Bezug genommen, so gelten Arti-
+kel 5a Absätze 1 bis 4 und Artikel 7 des Beschlusses 1999/468/EG
+unter Beachtung von dessen Artikel 8.
+L 145/230 DE Amtsblatt der Europäischen Union 4.6.2008
+Artikel 8
+Inkrafttreten
+Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in
+Kraft.
+Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitgliedstaat.
+Geschehen zu Straßburg am 23. April 2008.
+Im Namen des Europäischen Parlaments
+Der Präsident
+H.-G. PÖTTERING
+Im Namen des Rates
+Der Präsident
+J. LENARČIČ
+4.6.2008 DE Amtsblatt der Europäischen Union L 145/231
+ANHANG
+BEREICHE
+Bereich 1: Systeme der allgemeinen und beruflichen Bildung
+1. Ziel
+Das Ziel dieser Datenerhebung ist die Bereitstellung vergleichbarer Daten zu wesentlichen Gesichtspunkten der Systeme
+der allgemeinen und beruflichen Bildung, vor allem über die Beteiligung an und den Abschluss von Bildungsprogrammen
+sowie zu den Kosten und der Art der Ressourcen, die für die allgemeine und berufliche Bildung bestimmt sind.
+2. Erfassungsbereich
+Die Datenerhebung soll sich auf alle inländischen Bildungstätigkeiten erstrecken, und zwar unabhängig davon, wer der
+Träger der betroffenen Einrichtungen ist oder sie finanziert (öffentlich oder privat, inländisch oder ausländisch) und wie
+sich die Vermittlung der Bildung im Einzelnen vollzieht. Infolgedessen erstreckt sich der Erfassungsbereich der Daten-
+erhebungen auf Schüler und Studenten aller Arten und Altersklassen.
+3. Behandelte Themen
+Es sind Daten zu erheben über
+a) Zahl der Schüler/Studenten einschließlich der Merkmale der Schüler/Studenten,
+b) Zugänge,
+c) Absolventen und Abschlüsse,
+d) Bildungsausgaben,
+e) Personal im Bildungsbereich,
+f) erlernte Fremdsprachen,
+g) Klassenstärken,
+auf deren Grundlage sich Indikatoren für die eingesetzten Mittel, die Verfahren und die Ergebnisse der Systeme der all-
+gemeinen und beruflichen Bildung berechnen lassen.
+Die Mitgliedstaaten übermitteln geeignete Angaben (Metadaten) zu den Besonderheiten der Systeme der allgemeinen
+beruflichen Bildung des jeweiligen Landes, deren Einordnung in internationale Systematiken und zu allen Abweichun-
+gen von den Vorgaben der Datenanforderung sowie alle anderen Angaben, die für die Interpretation der Daten und die
+Erstellung vergleichbarer Indikatoren wesentlich sind.
+4. Periodizität
+Soweit nichts anderes angegeben ist, sind die Daten und Metadaten jährlich innerhalb der Fristen zu übermitteln, die die
+Kommission (Eurostat) mit den nationalen Stellen vereinbart hat, und zwar unter Berücksichtigung der jüngsten Ver-
+einbarungen zwischen UIS, OECD und Kommission (Eurostat).
+Bereich 2: Beteiligung von Erwachsenen am lebenslangen Lernen
+1. Ziel
+Das Ziel dieser Erhebung ist es, vergleichbare Daten über die Beteiligung bzw. Nichtbeteiligung Erwachsener am lebens-
+langen Lernen bereitzustellen.
+L 145/232 DE Amtsblatt der Europäischen Union 4.6.2008
+2. Erfassungsbereich
+Die statistische Einheit ist die Einzelperson; erfasst wird mindestens die Bevölkerung im Alter von 25 bis 64 Jahren. Wer-
+den Angaben durch Befragungen erhoben, so ist die Beantwortung durch Stellvertreter nach Möglichkeit zu vermeiden.
+3. Behandelte Themen
+Bei der Erhebung werden folgende Themen erfasst:
+a) Beteiligung bzw. Nichtbeteiligung an Lerntätigkeiten,
+b) Merkmale dieser Lerntätigkeiten,
+c) Angaben der Befragten über eigene Fertigkeiten,
+d) soziodemografische Angaben.
+Daten über die Beteiligung an sozialen und kulturellen Tätigkeiten sind auf freiwilliger Basis ebenfalls zu erheben, und
+zwar als erläuternde Variable, die für die weitere Analyse der Profile von Teilnehmern bzw. Nichtteilnehmern von Nut-
+zen sind.
+4. Datenquellen und Stichprobengröße
+Als Datenquelle dient eine Stichprobenerhebung. Um die Belastung der Befragten zu verringern, können Verwaltungs-
+daten verwendet werden. Die Stichprobengröße wird nach Maßgabe der Genauigkeitsanforderungen festgelegt, die als
+effektive nationale Stichprobengröße nicht mehr als 5 000 Einzelpersonen vorsehen sollen, wobei von einer einfachen
+Zufallsauswahl auszugehen ist. Innerhalb dieser Beschränkungen wird spezifischen Untergruppen bei der Stichproben-
+auswahl besondere Beachtung geschenkt.
+5. Periodizität
+Die Daten werden alle fünf Jahre erhoben. Das erste Jahr der Anwendung ist frühestens 2010.
+Bereich 3: sonstige Statistiken über Bildung und lebenslanges Lernen
+1. Ziel
+Das Ziel dieser Datenerhebung ist die Bereitstellung weiterer vergleichbarer Daten über Bildung und lebenslanges Ler-
+nen, um besondere Strategien auf Gemeinschaftsebene zu unterstützen, die in den Bereichen 1 und 2 nicht berücksich-
+tigt sind.
+2. Erfassungsbereich
+Weitere Statistiken über Bildung und lebenslanges Lernen sollen sich auf folgende Gesichtspunkte beziehen:
+a) Statistiken über Bildung und Wirtschaft, die auf Gemeinschaftsebene zur Überwachung der Strategien in den Berei-
+chen Bildung, Forschung, Wettbewerbsfähigkeit und Wachstum benötigt werden,
+b) Statistiken über Bildung und Arbeitsmarkt, die auf Gemeinschaftsebene für die Überwachung beschäftigungs-
+politischer Maßnahmen benötigt werden,
+c) Statistiken über Bildung und soziale Eingliederung, die auf Gemeinschaftsebene für die Überwachung der Strate-
+gien in den Bereichen Armut, soziale Eingliederung und Integration von Migranten benötigt werden.
+Die für die oben aufgeführten Aspekte erforderlichen Daten werden aus vorhandenen statistischen Datenquellen der
+Gemeinschaft gewonnen.
+4.6.2008 DE Amtsblatt der Europäischen Union L 145/233

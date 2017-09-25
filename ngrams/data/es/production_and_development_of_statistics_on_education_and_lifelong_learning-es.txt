@@ -1,0 +1,467 @@
+REGLAMENTO (CE) No 452/2008 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+de 23 de abril de 2008
+relativo a la producción y al desarrollo de estadísticas sobre educación y aprendizaje permanente
+(Texto pertinente a efectos del EEE)
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+Visto el Tratado constitutivo de la Comunidad Europea y, en par-
+ticular, su artículo 285, apartado 1,
+Vista la propuesta de la Comisión,
+Previa consulta al Comité Económico y Social Europeo,
+De conformidad con el procedimiento establecido en el artí-
+culo 251 del Tratado (1),
+Considerando lo siguiente:
+(1) En la Resolución del Consejo, de 5 de diciembre de 1994,
+relativa al impulso de las estadísticas sobre educación y for-
+mación en la Unión Europea (2), se pedía a la Comisión
+que, en estrecha colaboración con los Estados miembros,
+acelerase el desarrollo de estadísticas en materia de educa-
+ción y formación.
+(2) En el Consejo Europeo celebrado en Bruselas los días 22 y
+23 de marzo de 2005 se acordó reactivar la Estrategia de
+Lisboa. En sus conclusiones se afirmaba que Europa debe
+«renovar las bases de su competitividad, aumentar su
+potencial de crecimiento y su productividad y reforzar la
+cohesión social apostando, sobre todo, por el conoci-
+miento, la innovación y la valorización del capital
+humano». A este respecto, son vitales para Europa la
+empleabilidad, la adaptabilidad y la movilidad de los
+ciudadanos.
+(3) Para alcanzar estos objetivos, los sistemas europeos de edu-
+cación y formación deben adaptarse a las exigencias de la
+sociedad del conocimiento, a las necesidades de mejorar el
+nivel de educación y de una mayor calidad del empleo. Las
+estadísticas sobre educación, formación y aprendizaje per-
+manente son de la mayor importancia para la toma de
+decisiones políticas.
+(4) El aprendizaje permanente es un elemento esencial en el
+desarrollo y la promoción de una mano de obra compe-
+tente, cualificada y adaptable. En las Conclusiones de la
+Presidencia de primavera de 2005 el Consejo Europeo
+puso de relieve que «el capital humano es el activo más
+importante para Europa». Las Directrices integradas para el
+crecimiento y el empleo, que incluyen las Directrices para
+las políticas de empleo de los Estados miembros aproba-
+das por el Consejo en su Decisión 2005/600/CE (3), aspi-
+ran a contribuir a la puesta en práctica de la estrategia de
+Lisboa y a definir estrategias globales de aprendizaje
+permanente.
+(5) La adopción, en febrero de 2001, del informe del Consejo
+titulado «Futuros objetivos precisos de los sistemas educa-
+tivos» y, en febrero de 2002, del programa de trabajo para
+el seguimiento de dicho informe durante el presente dece-
+nio constituye un paso importante con vistas al cumpli-
+miento del compromiso asumido de modernizar y mejorar
+la calidad de los sistemas de educación y formación de los
+Estados miembros. Los indicadores y los niveles de referen-
+cia del rendimiento medio europeo (los llamados «puntos
+de referencia») son instrumentos del método abierto de
+coordinación que desempeñan un papel importante en el
+marco del programa de trabajo «Educación y forma-
+ción 2010». En mayo de 2003, los Ministros de Educación
+dieron un paso decisivo al acordar cinco niveles de refe-
+rencia que habían de alcanzarse antes de 2010, al tiempo
+que hacían hincapié en que estos niveles no definen obje-
+tivos nacionales ni determinan las decisiones que deben
+adoptar los Gobiernos nacionales.
+(6) El 24 de mayo de 2005 el Consejo adoptó sus Conclusio-
+nes sobre nuevos indicadores en materia de educación y
+formación (4), en las que invitaba a la Comisión a presen-
+tarle estrategias y propuestas para el desarrollo de nuevos
+indicadores en nueve ámbitos específicos de la educación
+y la formación y subrayaba que, al hacerlo, debe respetar
+plenamente la responsabilidad de los Estados miembros en
+la organización de sus sistemas educativos y no debe impo-
+ner una carga administrativa o financiera indebida a las
+organizaciones e instituciones afectadas, ni debe dar pie a
+un aumento de los indicadores necesarios para supervisar
+los avances.
+(7) Por otra parte, en noviembre de 2004, el Consejo adoptó
+sus Conclusiones sobre la cooperación europea en materia
+de educación y formación profesionales y acordó que, a
+escala europea, debe darse prioridad a lamejora del alcance,
+precisión y fiabilidad de las estadísticas de la educación y
+la formación profesionales con el fin de poder evaluar los
+avances.
+(1) Dictamen del Parlamento Europeo de 25 de septiembre de 2007 (no
+publicado aún en el Diario Oficial) y Decisión del Consejo de
+14 de febrero de 2008.
+(2) DO C 374 de 30.12.1994, p. 4.
+(3) DO L 205 de 6.8.2005, p. 21.
+(4) DO C 141 de 10.6.2005, p. 7.
+4.6.2008 ES Diario Oficial de la Unión Europea L 145/227
+(8) La disponibilidad de información estadística comparable a
+escala comunitaria es esencial para el desarrollo de estra-
+tegias de educación y aprendizaje permanente y para el
+seguimiento de los progresos registrados en su puesta en
+práctica. La producción estadística debe basarse en un
+marco de conceptos coherentes y datos comparables con
+vistas a la creación de un sistema europeo integrado de
+información estadística en materia de educación, forma-
+ción y aprendizaje permanente.
+(9) Al aplicar el presente Reglamento debe tenerse en cuenta
+el concepto de personas desfavorecidas en el mercado de
+trabajo a que se refieren las Directrices para las políticas de
+empleo de los Estados miembros.
+(10) La Comisión (Eurostat) recopila datos sobre la formación
+profesional en las empresas de conformidad con el Regla-
+mento (CE) no 1552/2005 del Parlamento Europeo y del
+Consejo, de 7 de septiembre de 2005, sobre estadísticas
+relativas a la formación profesional en las empresas (1). Sin
+embargo, se impone la necesidad de disponer de un marco
+jurídico más amplio a fin de asegurar la producción y el
+desarrollo viables de estadísticas sobre la educación y el
+aprendizaje permanente que abarquen al menos todas las
+actividades existentes y previstas pertinentes. La Comi-
+sión (Eurostat) también recibe datos anuales sobre la edu-
+cación de los Estados miembros que cooperan
+voluntariamente en el marco de una acción conjunta con
+el Instituto de Estadística de la Unesco (IEU) y la Organi-
+zación para la Cooperación y el Desarrollo Económico
+(OCDE), la llamada «colección de datos de la UOE». Ade-
+más, recopila datos sobre educación, formación y aprendi-
+zaje permanente a través de otras encuestas de hogares
+como la encuesta sobre la población activa en la Comuni-
+dad (2) y las estadísticas comunitarias sobre la renta y las
+condiciones de vida (3), así como de sus módulos ad hoc.
+(11) Dado que la elaboración y el control de las políticas en el
+ámbito de la educación y el aprendizaje permanente tienen
+carácter dinámico y se adaptan a un entorno en evolución,
+el marco reglamentario estadístico debe ofrecer cierto
+grado de flexibilidad de manera limitada y controlada,
+tomando en consideración la carga para los encuestados y
+los Estados miembros.
+(12) Dado que el objetivo del presente Reglamento, a saber, el
+establecimiento de normas estadísticas comunes que per-
+mitan la producción de datos armonizados, no puede ser
+alcanzado de manera suficiente por los Estados miembros
+y, por consiguiente, puede lograrse mejor a nivel comuni-
+tario, la Comunidad puede adoptar medidas, de acuerdo
+con el principio de subsidiariedad consagrado en el artí-
+culo 5 del Tratado. De conformidad con el principio de
+proporcionalidad enunciado en dicho artículo, el presente
+Reglamento no excede de lo necesario para alcanzar dicho
+objetivo.
+(13) La producción de estadísticas comunitarias específicas se
+rige por las normas establecidas en el Reglamento (CE)
+no 322/97 del Consejo, de 17 de febrero de 1997, sobre la
+estadística comunitaria (4).
+(14) El presente Reglamento garantiza el pleno respeto del dere-
+cho a la protección de los datos de carácter personal, según
+lo establecido en el artículo 8 de la Carta de los Derechos
+Fundamentales de la Unión Europea.
+(15) La transmisión de datos sujetos a confidencialidad estadís-
+tica se rige por las normas establecidas en el Reglamento
+(CE) no 322/97 y en el Reglamento (Euratom, CEE)
+no 1588/90 del Consejo, de 11 de junio de 1990, relativo
+a la transmisión a la Oficina Estadística de las Comunida-
+des Europeas de las informaciones amparadas por el
+secreto estadístico (5).
+(16) El Reglamento (CE) no 831/2002 de la Comisión, de
+17 de mayo de 2002, por el que se aplica el Reglamento
+(CE) no 322/97 del Consejo sobre la estadística comunita-
+ria en lo relativo al acceso con fines científicos a datos con-
+fidenciales (6), establece las condiciones en que se puede
+autorizar el acceso a los datos confidenciales transmitidos
+a la autoridad comunitaria.
+(17) Procede aprobar las medidas necesarias para la ejecu-
+ción del presente Reglamento con arreglo a la
+Decisión 1999/468/CE del Consejo, de 28 de junio de
+1999, por la que se establecen los procedimientos para el
+ejercicio de las competencias de ejecución atribuidas a la
+Comisión (7).
+(18) Conviene, en particular, conferir competencias a la Comi-
+sión para seleccionar y especificar los temas de esas esta-
+dísticas, sus características en respuesta a las necesidades
+políticas o técnicas, el desglose de dichas características, el
+período de observación y los plazos para la transmisión de
+los resultados, los requisitos de calidad, incluidos la preci-
+sión requerida y el marco informativo sobre la calidad.
+Dado que estas medidas son de alcance general y están des-
+tinadas a modificar elementos no esenciales del presente
+Reglamento, incluso completándolo con nuevos elemen-
+tos no esenciales, deben adoptarse con arreglo al procedi-
+miento de reglamentación con control establecido en el
+artículo 5 bis de la Decisión 1999/468/CE.
+(1) DO L 255 de 30.9.2005, p. 1.
+(2) Reglamento (CE) no 2104/2002 de la Comisión, de 28 de noviembre
+de 2002, por el que se adaptan el Reglamento (CE) no 577/98 del Con-
+sejo, relativo a la organización de una encuesta muestral sobre la
+población activa en la Comunidad, y el Reglamento (CE) no 1575/2000
+de la Comisión, sobre la aplicación del Reglamento (CE) no 577/98 del
+Consejo por lo que respecta a la lista de variables de educación y for-
+mación profesional y su codificación que deberá utilizarse para la
+transmisión de datos a partir de 2003 (DO L 324 de 29.11.2002,
+p. 14).
+(3) Reglamento (CE) no 1983/2003 de la Comisión, de 7 de noviembre de
+2003, por el que se aplica el Reglamento (CE) no 1177/2003 del Par-
+lamento Europeo y del Consejo relativo a las estadísticas comunitarias
+sobre la renta y las condiciones de vida (EU-SILC) en lo referente a la
+lista de variables objetivo principales (DO L 298 de 17.11.2003,
+p. 34).
+(4) DO L 52 de 22.2.1997, p. 1. Reglamento modificado por el Regla-
+mento (CE) no 1882/2003 del Parlamento Europeo y del Consejo
+(DO L 284 de 31.10.2003, p. 1).
+(5) DO L 151 de 15.6.1990, p. 1. Reglamento modificado por el Regla-
+mento (CE) no 322/97.
+(6) DO L 133 de 18.5.2002, p. 7. Reglamento modificado en último lugar
+por el Reglamento (CE) no 1000/2007 (DO L 226 de 30.8.2007, p. 7).
+(7) DO L 184 de 17.7.1999, p. 23. Decisión modificada por la
+Decisión 2006/512/CE (DO L 200 de 22.7.2006, p. 11).
+L 145/228 ES Diario Oficial de la Unión Europea 4.6.2008
+(19) Se ha consultado al Comité del programa estadístico creado
+por la Decisión 89/382/CEE (1), de conformidad con el
+artículo 3 de dicha Decisión.
+HAN ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Objeto
+El presente Reglamento establece un marco común para la pro-
+ducción sistemática de estadísticas comunitarias en el campo de
+la educación y el aprendizaje permanente.
+Artículo 2
+Definiciones
+A efectos del presente Reglamento, se entenderá por:
+a) «estadísticas comunitarias», las que se definen en el artículo 2,
+primer guión, del Reglamento (CE) no 322/97;
+b) «producción de estadísticas», la que se define en el artículo 2,
+segundo guión, del Reglamento (CE) no 322/97;
+c) «autoridades nacionales», las que se definen en el artículo 2,
+tercer guión, del Reglamento (CE) no 322/97;
+d) «educación», una comunicación organizada y continuada,
+destinada a suscitar el aprendizaje (2);
+e) «aprendizaje permanente», toda actividad de aprendizaje
+emprendida a lo largo de la vida, con el ánimo de mejorar el
+saber, las destrezas y las aptitudes desde una visión personal,
+cívica, social o laboral (3);
+f) «microdatos», los registros estadísticos individuales;
+g) «datos confidenciales», los datos que únicamente permiten
+una identificación indirecta de las unidades estadísticas de
+que se trate, de conformidad con lo dispuesto en el Regla-
+mento (CE) no 322/97 y en el Reglamento (Euratom, CEE)
+no 1588/90.
+Artículo 3
+Ámbitos
+El presente Reglamento se aplicará a la producción de estadísticas
+en tres ámbitos:
+a) el primer ámbito abarcará las estadísticas relativas a los sis-
+temas de educación y formación;
+b) el segundo ámbito abarcará las estadísticas relativas a la par-
+ticipación de los adultos en el aprendizaje permanente;
+c) el tercer ámbito abarcará otras estadísticas sobre la educación
+y el aprendizaje permanente, tales como las estadísticas sobre
+los beneficios sociales, económicos y en términos de capital
+humano de la educación, que no entran dentro de los ámbi-
+tos primero y segundo.
+La producción de estadísticas en estos ámbitos se llevará a cabo
+de conformidad con lo dispuesto en el anexo.
+Artículo 4
+Acciones estadísticas
+1. La producción de estadísticas comunitarias en el campo de
+la educación y el aprendizaje permanente se llevará a cabo
+mediante acciones estadísticas individuales, de la siguiente
+manera:
+a) transmisión periódica de estadísticas sobre educación y
+aprendizaje permanente por parte de los Estados miembros,
+dentro de los plazos especificados para los ámbitos primero
+y segundo;
+b) uso de otras encuestas y sistemas de información estadística
+con vistas a obtener variables e indicadores estadísticos suple-
+mentarios sobre la educación y el aprendizaje permanente,
+para el tercer ámbito;
+c) desarrollo, mejora y actualización de normas y manuales
+relativos a los marcos de referencia, los conceptos y los méto-
+dos estadísticos;
+d) la mejora en la calidad de los datos, en un contexto de bús-
+queda de la calidad, para lograr:
+— pertinencia,
+— precisión,
+— actualidad y puntualidad,
+— accesibilidad y claridad,
+— comparabilidad, y
+— coherencia.
+La Comisión tendrá en cuenta los medios de que disponen los
+Estados miembros para la recopilación y el procesamiento de los
+datos, así como para el desarrollo de conceptos y métodos.
+En su caso, se tomará especialmente en consideración la dimen-
+sión regional en relación con los datos recopilados. Cuando pro-
+ceda, los datos se desglosarán sistemáticamente por género.
+(1) DO L 181 de 28.6.1989, p. 47.
+(2) Según la versión de 1997 de la Clasificación Internacional Normali-
+zada de la Educación (CINE).
+(3) Resolución del Consejo, de 27 de junio de 2002, sobre la educación
+permanente (DO C 163 de 9.7.2002, p. 1).
+4.6.2008 ES Diario Oficial de la Unión Europea L 145/229
+2. En la medida de lo posible, la Comisión (Eurostat) tratará de
+trabajar en cooperación con el IEU y la OCDE y otros organismos
+internacionales al objeto de asegurar la comparabilidad de los
+datos a escala internacional y de evitar la duplicación de esfuer-
+zos, en particular por lo que se refiere a la puesta a punto y la
+mejora de los conceptos y métodos estadísticos y a la transmisión
+de las estadísticas por parte de los Estados miembros.
+3. Cada vez que se identifiquen necesidades importantes de
+nuevos datos o se constaten problemas en lo tocante a la calidad
+de los mismos, así como antes de proceder a cualquier recopila-
+ción de datos, la Comisión (Eurostat) pondrá a punto estudios
+piloto que completarán, con carácter voluntario, los Estados
+miembros. El objeto de estos estudios es evaluar la viabilidad de
+la recopilación de datos de que se trate, sopesando las ventajas que
+reportaría la disponibilidad de los mismos en relación con los cos-
+tes de la recopilación y la carga impuesta a los encuestados. Los
+estudios piloto no darán necesariamente lugar a medidas de apli-
+cación ad hoc.
+Artículo 5
+Transmisión de microdatos personales
+Siempre que sea necesario para la producción de estadísticas
+comunitarias, los Estados miembros transmitirán a la Comi-
+sión (Eurostat) microdatos confidenciales resultantes de mues-
+treos de conformidad con las disposiciones en materia de
+transmisión de datos confidenciales establecidas en el Reglamento
+(CE) no 322/97 y en el Reglamento (Euratom, CEE) no 1588/90.
+Los Estados miembros velarán por que los datos transmitidos no
+permitan la identificación directa de las unidades estadísticas
+(personas).
+Artículo 6
+Medidas de ejecución
+1. Las siguientes medidas destinadas a modificar elementos no
+esenciales del presente Reglamento, completándolo, incluidas las
+destinadas a adaptarse a la evolución económica y técnica en lo
+referente a la recopilación, la transmisión y el procesamiento de
+los datos, se adoptarán con arreglo al procedimiento de reglamen-
+tación con control contemplado en el artículo 7, apartado 3, con
+vistas a garantizar la transmisión de datos de alta calidad:
+a) la selección y la definición de las cuestiones cubiertas por los
+diferentes ámbitos y de sus características, en respuesta a las
+necesidades políticas o técnicas;
+b) los desgloses de las características;
+c) el período de observación y los plazos para la transmisión de
+los resultados;
+d) los requisitos de calidad, incluida la precisión requerida;
+e) el marco de los informes sobre calidad.
+Si esas medidas implican la necesidad de ampliar de manera sig-
+nificativa las recopilaciones de datos existentes o nuevas recopi-
+laciones de datos o encuestas, las decisiones de aplicación se
+basarán en un análisis coste-beneficio como parte de un análisis
+completo de los efectos y de las implicaciones, teniendo en cuenta
+el beneficio de las medidas, los costes para los Estados miembros
+y la carga para los encuestados.
+2. Las medidas a que se refiere el apartado 1 tendrán en cuenta
+los siguientes elementos:
+a) para todos los ámbitos, la potencial carga para las institucio-
+nes educativas y para los individuos;
+b) para todos los ámbitos, los resultados de los estudios piloto
+indicados en el artículo 4, apartado 3;
+c) para el primer ámbito, los últimos acuerdos entre el IEU, la
+OCDE y la Comisión (Eurostat) relativos a los conceptos, las
+definiciones, el formato de la recopilación de datos, el pro-
+cesamiento de estos, la periodicidad y los plazos para la
+transmisión de resultados;
+d) para el segundo ámbito, los resultados de la «Encuesta piloto
+sobre la educación de adultos» realizada entre 2005 y 2007,
+así como las posteriores necesidades de desarrollo;
+e) para el tercer ámbito, la disponibilidad, conveniencia y con-
+texto jurídico de las fuentes de datos de la Comunidad exis-
+tentes tras un exhaustivo examen de todas las fuentes de
+datos existentes.
+3. En caso necesario, se adoptarán exenciones y períodos de
+transición limitados para uno o más Estados miembros, sobre la
+base de argumentos objetivos, de conformidad con el procedi-
+miento de reglamentación mencionado en el artículo 7,
+apartado 2.
+Artículo 7
+Comité
+1. La Comisión estará asistida por el Comité del programa
+estadístico.
+2. En los casos en que se haga referencia al presente
+apartado, serán de aplicación los artículos 5 y 7 de la
+Decisión 1999/468/CE, observando lo dispuesto en su artículo 8.
+El plazo contemplado en el artículo 5, apartado 6, de la
+Decisión 1999/468/CE queda fijado en tres meses.
+3. En los casos en que se haga referencia al presente apartado,
+serán de aplicación el artículo 5 bis, apartados 1 a 4, y el artículo 7
+de la Decisión 1999/468/CE, observando lo dispuesto en su
+artículo 8.
+L 145/230 ES Diario Oficial de la Unión Europea 4.6.2008
+Artículo 8
+Entrada en vigor
+El presente Reglamento entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión
+Europea.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada
+Estado miembro.
+Hecho en Estrasburgo, el 23 de abril de 2008.
+Por el Parlamento Europeo
+El Presidente
+H.-G. PÖTTERING
+Por el Consejo
+El Presidente
+J. LENARČIČ
+4.6.2008 ES Diario Oficial de la Unión Europea L 145/231
+ANEXO
+ÁMBITOS
+Primer ámbito: sistemas de educación y formación
+1. Objetivo
+La recopilación de datos para este ámbito tendrá por objetivo reunir datos comparables sobre aspectos esenciales de los
+sistemas de educación y formación, especialmente en lo que respecta a la participación en los programas de educación
+y la superación de los mismos, así como al coste y al tipo de recursos consagrados a la educación y a la formación.
+2. Objeto
+La recopilación de datos abarcará todas las actividades educativas nacionales, independientemente de la titularidad o la
+fuente de financiación de los centros que las imparten (pública o privada, nacional o extranjera) o los enfoques peda-
+gógicos empleados. De igual modo, se recopilarán datos sobre todos los tipos de alumnado y todas las categorías de edad.
+3. Cuestiones cubiertas
+Se recopilarán datos sobre:
+a) el alumnado matriculado, incluidas sus características;
+b) alumnado de nuevo ingreso;
+c) los titulados y las titulaciones;
+d) los gastos de educación;
+e) el personal educativo;
+f) las lenguas extranjeras aprendidas;
+g) el número de alumnos por clase,
+que permitan el cálculo de indicadores sobre los medios, los procesos y los resultados de los sistemas de educación y
+formación.
+Los Estados miembros transmitirán información apropiada (metadatos), que describirá las particularidades de los siste-
+mas nacionales de educación y formación y las correspondencias con las clasificaciones internacionales, así como cual-
+quier divergencia entre los datos facilitados y las especificaciones de los datos solicitados y cualquier otra información
+que sea indispensable para la interpretación de los datos y la elaboración de indicadores comparables.
+4. Periodicidad
+A menos que se especifique de otro modo, los datos y metadatos se transmitirán cada año, en los plazos acordados por
+la Comisión (Eurostat) y las autoridades nacionales, teniéndose en cuenta los últimos acuerdos entre el IEU, la OCDE y
+la Comisión (Eurostat).
+Segundo ámbito: participación de los adultos en el aprendizaje permanente
+1. Objetivo
+La encuesta para este ámbito tendrá por objetivo reunir datos comparables sobre la participación y la no participación
+de los adultos en el aprendizaje permanente.
+L 145/232 ES Diario Oficial de la Unión Europea 4.6.2008
+2. Objeto
+La unidad estadística será la persona y los datos cubrirán al menos el rango de edades comprendidas entre los 25 y los
+64 años. En el caso de que los datos se recojan por medio de encuestas, deberán evitarse, en la medida de lo posible, las
+respuestas indirectas.
+3. Cuestiones cubiertas
+Las cuestiones cubiertas por la encuesta serán:
+a) la participación y la no participación en las actividades de aprendizaje;
+b) las características de las actividades de aprendizaje;
+c) información sobre las percepciones de los propios encuestados sobre sus competencias;
+d) información sociodemográfica.
+La participación en actividades sociales y culturales se recogerá, asimismo, con carácter voluntario en forma de variables
+explicativas que puedan servir para un análisis en profundidad de los perfiles de los participantes y los no participantes.
+4. Fuentes de datos y tamaño de las muestras
+La encuesta se realizará por muestreo. Las fuentes de datos administrativos podrán utilizarse para reducir la carga de los
+encuestados. El tamaño de las muestras se establecerá basándose en requisitos de precisión, que no requerirán que el
+tamaño efectivo de las muestras nacionales sea superior a 5 000 personas, calculadas sobre el supuesto de un muestreo
+aleatorio simple. Dentro de estos límites, las subpoblaciones específicas requerirán unas consideraciones particulares de
+muestreo.
+5. Periodicidad
+Los datos se recopilarán cada cinco años. El primer año de aplicación será, como muy pronto, 2010.
+Tercer ámbito: otras estadísticas sobre la educación y el aprendizaje permanente
+1. Objetivo
+La recopilación de datos para este ámbito tendrá por objetivo reunir datos comparables suplementarios sobre la educa-
+ción y el aprendizaje permanente que sirvan de apoyo a políticas específicas a nivel comunitario no incluidas en los ámbi-
+tos primero y segundo.
+2. Objeto
+Otras estadísticas sobre la educación y el aprendizaje permanente versarán sobre los siguientes aspectos:
+a) la educación y la economía: estas estadísticas son necesarias a nivel comunitario para dar seguimiento a las políti-
+cas de educación, investigación, competitividad y crecimiento;
+b) la educación y el mercado de trabajo: estas estadísticas son necesarias a nivel comunitario para dar seguimiento a
+las políticas de empleo;
+c) la educación y la inclusión social: estas estadísticas son necesarias a nivel comunitario para dar seguimiento a las
+políticas en materia de pobreza, inclusión social e integración de los migrantes.
+Para los aspectos antes mencionados, los datos necesarios se obtendrán de fuentes de datos estadísticos comunitarias
+existentes.
+4.6.2008 ES Diario Oficial de la Unión Europea L 145/233

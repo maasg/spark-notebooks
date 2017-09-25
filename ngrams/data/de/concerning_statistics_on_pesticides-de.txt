@@ -1,0 +1,1033 @@
+ 
+DE    DE 
+ 
+ 
+ 
+EUROPÄISCHE 
+KOMMISSION  
+Brüssel, den 3.3.2017  
+COM(2017) 109 final 
+  
+BERICHT DER KOMMISSION AN DAS EUROPÄISCHE PARLAMENT UND DEN 
+RAT 
+über die Durchführung der Verordnung (EG) Nr. 1185/2009 des Europäischen 
+Parlaments und des Rates über Statistiken zu Pestiziden 
+ 
+ 
+2 
+ 
+1. EINFÜHRUNG 
+Artikel 7 der Verordnung (EG) Nr. 1185/2009 des Europäischen Parlaments und des Rates 
+über Statistiken zu Pestiziden
+1
+ (im Folgenden die „Verordnung“) lautet: 
+„Die Kommission legt dem Europäischen Parlament und dem Rat alle fünf Jahre einen 
+Bericht über die Durchführung der Verordnung vor. In diesem Bericht werden insbesondere 
+die Qualität der übermittelten Daten gemäß Artikel 4, die Datenerfassungsmethoden, der 
+Aufwand für die Unternehmen, landwirtschaftlichen Betriebe und einzelstaatlichen 
+Verwaltungen sowie der Nutzen der Statistiken im Rahmen der Thematischen Strategie zur 
+nachhaltigen Verwendung von Pestiziden insbesondere im Hinblick auf die in Artikel 1 
+vorgegebenen Ziele beurteilt. Der Bericht enthält gegebenenfalls Vorschläge für eine weitere 
+Verbesserung der Qualität der Daten und der Datenerfassungsmethoden und verbessert 
+dadurch den Erfassungsgrad und die Vergleichbarkeit der Daten und verringert den 
+Aufwand für die Unternehmen, landwirtschaftlichen Betriebe und einzelstaatlichen 
+Verwaltungen. Der erste Bericht wird bis zum 31. Dezember 2016 vorgelegt.“ 
+ 
+2. UMFANG UND INHALT 
+Nach Artikel 2 Buchstabe a der Verordnung werden Pestizide als Pflanzenschutzmittel im 
+Sinne des Artikels 2 Absatz 1 der Verordnung (EG) Nr. 1107/20092 oder als Biozidprodukte 
+im Sinne des Artikels 2 Absatz 1 der Richtlinie 98/8/EG3 definiert. Nach der Verordnung 
+haben die Mitgliedstaaten an die Kommission jährlich ihre statistischen Daten über die jedes 
+Jahr in Verkehr gebrachten Pestizide (Statistiken über Verkäufe von Pestiziden) sowie alle 
+fünf Jahre Statistiken über die landwirtschaftliche Verwendung von Pestiziden (Statistiken 
+über die Verwendung von Pestiziden) zu übermitteln. Die Daten sollten vertrauliche Daten 
+beinhalten. Die Mitgliedstaaten haben der Kommission auch Berichte über die Qualität der 
+übermittelten Daten vorzulegen, und die Kommission muss wiederum die Qualität der Daten 
+bewerten. 
+ 
+2.1. Statistiken über Pestizidverkäufe 
+Der Bezugszeitraum für in Verkehr gebrachte Pestizide ist das Kalenderjahr. Der erste 
+Bezugszeitraum war das zweite Kalenderjahr nach dem 30. Dezember 2009. Die Daten sind 
+spätestens 12 Monate nach Ablauf des Bezugsjahres zu übermitteln, während die 
+                                                            
+1 ABl. L 324 vom 10.12.2009, S. 4. 
+2  Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 
+über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG 
+und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1). 
+3  ABl. L 123 vom 24.4.1998, S. 1. Die Richtlinie 98/8/EG wurde mit Wirkung vom 1. September 2013 
+durch die Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai 
+2012 über die Bereitstellung auf dem Markt und die Verwendung von Biozidprodukten (ABl. L 167 
+vom 27.6.2012, S. 1) aufgehoben. 
+Bezugnahmen auf die aufgehobene Richtlinie gelten als Bezugnahmen auf die Verordnung (EU) 
+Nr. 528/2012. 
+ 
+ 
+3 
+ 
+Qualitätsberichte 3 Monate später eingereicht werden müssen. Die bis jetzt übermittelten 
+Daten und Qualitätsberichte decken die Bezugsjahre 2011 bis einschließlich 2014 ab. 
+ 
+2.2. Statistiken über die Verwendung von Pestiziden 
+Im Fall der Statistiken über die landwirtschaftliche Verwendung von Pestiziden hat der 
+Bezugszeitraum höchstens 12 Monate innerhalb eines jeden Fünfjahreszeitraums zu betragen. 
+Der erste Fünfjahreszeitraum begann im ersten Kalenderjahr nach dem 30. Dezember 2009. 
+Diese Daten und die Qualitätsberichte sind innerhalb von 12 Monaten ab Ende eines jeden 
+Fünfjahreszeitraums vorzulegen. Die Übermittlung der Daten und der Qualitätsberichte des 
+ersten Fünfjahreszeitraums (Bezugsjahre 2010 bis einschließlich 2014) endete also im 
+Dezember 2015. 
+ 
+Die Kommission (Eurostat) hat beide Datenbestände vor ihrer Veröffentlichung zu 
+aggregieren und dabei dem Schutz vertraulicher Daten der Mitgliedstaaten gebührend 
+Rechnung zu tragen. Die Kommission (Eurostat) kann somit keine Statistiken über einzelne 
+Wirkstoffe liefern. 
+ 
+Die folgenden Kapitel enthalten eine Gesamtbewertung der Qualität der von den 
+Mitgliedstaaten übermittelten Verkaufsdaten für Pestizide. Diese Bewertung wird anhand der 
+von den Mitgliedstaaten gemäß Artikel 4 der Verordnung übermittelten Qualitätsberichte 
+erstellt. Die geltenden Qualitätskriterien sind in Artikel 12 Absatz 1 (Qualität der Statistik) 
+der Verordnung (EG) Nr. 223/2009
+4
+ festgelegt. Die Validierung der Qualitätsberichte für die 
+Statistiken über die Verwendung von Pestiziden ist noch nicht abgeschlossen, weshalb diese 
+im Folgenden nicht analysiert werden. 
+ 
+2.3. Datenerhebungsmethoden und Datenquellen 
+In den meisten der 28 Mitgliedstaaten und in Norwegen stammen alle zugrunde liegenden 
+Primärdaten über die Verkäufe von Pestiziden aus administrativen Quellen, die einer 
+gesetzlichen Berichterstattungspflicht unterliegen. Mit Ausnahme von Dänemark, Slowenien 
+und Norwegen sehen alle Länder Informationen über einzelne Befragte als vertraulich an. Die 
+meisten Länder besitzen keine öffentlichen Datenbanken, und aggregierte Daten stehen 
+gewöhnlich in statistischen Veröffentlichungen und/oder auf Websites zur Verfügung. In 
+Belgien und Norwegen sind Individualdaten auf Anfrage erhältlich. Da für die Schweiz eine 
+Ausnahmeregelung gilt, stehen keine Qualitätsberichte zur Verfügung. Weitere Einzelheiten 
+sind Anhang I zu entnehmen. 
+ 
+                                                            
+4  Verordnung (EG) Nr. 223/2009 des Europäischen Parlaments und des Rates vom 11. März 2009 über 
+europäische Statistiken und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1101/2008 des 
+Europäischen Parlaments und des Rates über die Übermittlung von unter die Geheimhaltungspflicht 
+fallenden Informationen an das Statistische Amt der Europäischen Gemeinschaften, der Verordnung 
+(EG) Nr. 322/97 des Rates über die Gemeinschaftsstatistiken und des Beschlusses 89/382/EWG, 
+Euratom des Rates zur Einsetzung eines Ausschusses (ABl. L 87 vom 31.3.2009, S. 164). 
+ 
+ 
+4 
+ 
+2.4. Qualität der übermittelten Daten 
+Die Daten aller Mitgliedstaaten sowie jene der Schweiz und Norwegens entsprechen den für 
+den Erfassungsbereich und die Aktualität geltenden Bestimmungen. Die meisten Länder 
+liefern ihre Datensätze fristgemäß und zeigen sich kooperativ, falls weitere Prüfungen oder 
+Korrekturen verlangt werden. 
+ 
+Fast alle Länder erklärten in Bezug auf die Genauigkeit, Zuverlässigkeit und Vergleichbarkeit 
+davon auszugehen, dass die bereitgestellten Daten richtig sind, da ihre Primärdaten über 
+Pestizidverkäufe aus Verwaltungsquellen stammen oder bei Inhabern einer Zulassung 
+erhoben wurden. Außerdem waren Stichprobenfehler nicht relevant, da nur die tatsächlichen 
+Werte von Verwaltungsbehörden und keine Schätzungen oder Stichproben herangezogen 
+wurden. Es wurden allerdings unterschiedliche Datenerhebungsmethoden verwendet. 
+ 
+Die Kommission erachtet alle Primärdaten über Verkäufe von Pestiziden als genau und 
+zuverlässig, da keine Berechnungen oder Schätzungen der von den Statistiken zu messenden 
+Werte vorlagen. Folglich gelten auch die aggregierten Daten über Pestizidverkäufe als genau 
+und zuverlässig. 
+ 
+Im Allgemeinen gaben die meisten Länder an, die geforderte statistische Qualität ihrer Daten 
+mit folgenden Präventivmaßnahmen zu gewährleisten: 
+• häufige Überprüfung und Aktualisierung ihrer Fragebögen; 
+• Berücksichtigung der von Befragten in den Vorjahren mitgeteilten Probleme und 
+Empfehlungen; 
+• Nutzung eines vollständigen Verzeichnisses der zugelassenen Produkte; 
+• Anwendung interner Verfahren zur Kontrolle der Datenqualität; 
+• Speicherung sämtlicher der statistischen Geheimhaltung unterliegenden Daten in 
+sicheren Umgebungen. 
+ 
+Mit Daten über Pestizidverkäufe lassen sich Schätzungen über die Gesamtmengen der auf 
+nationaler Ebene in Verkehr gebrachten Pestizid-Produkte in guter Qualität erstellen. Sie 
+können Trends bei neuen Arten von Pestiziden, Veränderungen der Produktmengen im 
+Zeitverlauf und sich für die Menschen und die Umwelt ergebende Risiken aufzeigen. Solche 
+Schätzungen könnten in Zukunft verbessert werden, indem zwischen Zulassungen für den 
+beruflichen Bedarf und Zulassungen für Hobbygärtner (d. h. für landwirtschaftliche und für 
+nicht landwirtschaftliche Zwecke) unterschieden wird. Es könnten auch zusätzliche 
+Prüfungen der Datenqualität für noch vorhandene Lagerbestände eingeführt werden. Weitere 
+Einzelheiten sind Anhang II zu entnehmen. 
+ 
+3. RELEVANZ — NÜTZLICHKEIT DER STATISTISCHEN DATEN UND VERBREITUNG 
+3.1. Von Interessenträgern mitgeteilte Informationen 
+Im Zuge der Konsultationen mit den zuständigen Dienststellen und Agenturen der 
+Kommission wurden folgende wichtige Punkte thematisiert: 
+ 
+5 
+ 
+ 
+ Die Rechtsvorschriften über Statistiken zu Pestiziden sollten harmonisierte 
+Risikoindikatoren vorsehen, die die Kommission gemäß Artikel 15 der Richtlinie über 
+die nachhaltige Verwendung von Pestiziden (Sustainable Use Directive – SUD)5 
+erstellen muss, sowie die Berechnung der Risikoindikatoren „durch die Verwendung 
+der erhobenen statistischen Daten“ erleichtern. Die Erhebung der statistischen Daten 
+über Pestizide kann nicht völlig von der Aufgabe losgelöst werden, welche in der 
+Verwendung dieser Daten zur Risikoberechnung besteht. Logischerweise sollten 
+zuerst die Risikoindikatoren bekannt sein, bevor Entscheidungen über die für diesen 
+Zweck zu erhebenden Daten getroffen werden. Weitere Gespräche werden als 
+notwendig erachtet, ferner sollten die Mitgliedstaaten auch in der SUD-Arbeitsgruppe 
+konsultiert werden. 
+ Die Interessenträger schlagen vor, die Rechtsvorschriften so anzupassen, dass die auf 
+niedrigerer Ebene aggregierten Zahlen verbreitet werden können, da sie eventuell für 
+die Berechnung der Risikoindikatoren gebraucht werden. Es wurde anerkannt, dass 
+die Erhebung aussagekräftiger Daten über Verwendung von Pestiziden bei den 
+Landwirten schwierig und für die Mitgliedstaaten mit Kosten verbunden ist und dass 
+man sich EU-weit nur schwer darauf verständigen kann, welche Kulturpflanzen 
+relevant sind, zumal diese sich in den verschiedenen Klimazonen in Europa erheblich 
+unterscheiden können. 
+ 
+ Pestizide haben als eine Ursache der Umweltverschmutzung direkte Auswirkungen 
+insbesondere auf die biologische Vielfalt sowie auf Gewässer und Böden. Im 
+Interesse einer sachgerechten Behandlung dieser Auswirkungen sollten 
+Entscheidungsträger das mit Pestiziden verbundene Risiko und das Ausmaß der damit 
+einhergehenden Verschmutzung quantifizieren können. Dies würde auch zur besseren 
+Umsetzung bestehender umweltpolitischer Instrumente beitragen und über die 
+verbleibenden Lücken Aufschluss geben, die einer Begrenzung der durch Pestizide 
+verursachten Umweltbelastung entgegenstehen. Derzeit werden Daten für die Zwecke 
+der EU-Biodiversitätsstrategie 2020, der Gemeinsamen Agrarpolitik (GAP), der 
+Wasserrahmenrichtlinie und der Thematischen Strategie zum Bodenschutz benötigt.   
+ 
+ Statistiken zu Pestiziden sind für eine wirklich fundierte 
+Umweltverträglichkeitsprüfung zu stark aggregiert. Für eine aussagekräftige Analyse 
+der Auswirkungen der Anwendung von Pestiziden auf Ökosysteme wären Daten über 
+die für bestimmte Kulturpflanzen eingesetzten spezifischen Wirkstoffe in Pestiziden 
+sowie Informationen über die Art von Ökosystemen, in denen die Kulturpflanzen 
+beheimatet sind, erforderlich. Gefahrendaten, d. h. (öko-)toxikologische 
+Eigenschaften, sind wirkstoffspezifisch. Die einzige Möglichkeit, Gefahrendaten mit 
+Expositionsdaten zur Abschätzung des Risikos effizient zu kombinieren, besteht daher 
+                                                            
+5  Richtlinie 2009/128/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über einen 
+Aktionsrahmen der Gemeinschaft für die nachhaltige Verwendung von Pestiziden (ABl. L 309 vom 
+10.12.2009, S. 71). 
+ 
+6 
+ 
+darin, mit Daten über den Einsatz spezifischer Wirkstoffe in Pestiziden nach Art der 
+Kulturpflanze, des Gebiets und des Ökosystems zu arbeiten. Zudem wäre es 
+notwendig, kumulative Risikobewertungsmethoden anzuwenden, um Aufschluss 
+darüber zu erhalten, wie Mischungen von Wirkstoffen, Safener und Synergisten 
+zusammenspielen und kombinierte Wirkungen in Pestiziden auslösen.   
+ 
+ In der Verordnung werden von den Mitgliedstaaten keine Informationen über die Art 
+des Ökosystems, in dem die Stoffe eingesetzt werden, verlangt. Die Auswirkung von 
+Mischungen von Wirkstoffen auf das Ökosystem, in dem eine Kulturpflanze 
+beheimatet ist, hängt von den Eigenschaften dieses Ökosystems mit seinen biotischen 
+und abiotischen Merkmalen ab. Durch das Projekt der „Kartierung und Bewertung der 
+Ökosysteme und ihrer Leistungen (MAEST“6 wird eine abgestimmte Typologie von 
+Ökosystemen zur Verfügung gestellt. Diese Typologie könnte den Mitgliedstaaten für 
+die Berichterstattung über Pestizidanwendungen nach Art des Ökosystems dienen und 
+unseren Kenntnisstand über die Umweltrisiken verbessern. Es bedarf einer 
+aussagekräftigen Analyse über die mit Pestiziden verbundenen Umweltrisiken, um die 
+vergleichende Bewertung von Substitutionskandidaten gemäß Artikel 50 der 
+Verordnung (EG) Nr. 1107/2009 über das Inverkehrbringen von 
+Pflanzenschutzmitteln durchführen zu können. Dies ist mit den derzeit verfügbaren 
+Daten nicht möglich. 
+ 
+ Sollten Statistiken zu Pestiziden mit einem ausreichenden Detaillierungsgrad 
+verfügbar werden, könnten diese für die Durchführung nachträglicher Bewertungen 
+der tatsächlichen Risiken nützlich sein, die von der allgemeinen Verwendung von 
+Pestiziden in der EU für die Gesundheit von Menschen und Tieren und für die 
+Umwelt zu erwarten sind. Dadurch könnten die verkaufsbasierten Trendschätzungen 
+durch risikobasierte Trendschätzungen ergänzt werden. Da jeder Wirkstoff eines 
+Pestizids eine unterschiedliche Toxizität und Expositionswahrscheinlichkeit aufweist, 
+könnten Trends, die auf dem für die Gesundheit von Menschen und Tieren und für die 
+unterschiedlichen Gruppen von Nichtzielorganismen einhergehenden Risiko basieren, 
+einen wertvollen Beitrag zur Politik der EU in den Bereichen öffentliche Gesundheit, 
+Verbraucherschutz, Tiergesundheit und Umweltschutz leisten. Solche Bewertungen 
+würden die jährlichen Bewertungen jenes Risikos ergänzen, das für die Verbraucher 
+mit den durch die Mitgliedstaaten überwachten Pestizidrückständewerten einhergeht. 
+ 
+ Ein Ausgleich zwischen Vertraulichkeit und Relevanz bzw. Nützlichkeit der Daten 
+ließe sich dadurch erzielen, dass verschiedene, zum Beispiel auf der Toxizität und auf 
+Verwendungsmustern beruhende Aggregationsmöglichkeiten ausgelotet werden. 
+Deshalb wird empfohlen, im Rahmen eines Dialogs zwischen den Dienststellen, 
+Agenturen und anderen relevanten Akteuren die Möglichkeiten zu untersuchen, die in 
+Zukunft zu einer Optimierung der Relevanz und Nützlichkeit der Daten beitragen 
+könnten. 
+                                                            
+6  http://biodiversity.europa.eu/maes 
+ 
+7 
+ 
+ 
+3.2. Studien über die Verwendung von Pestiziden außerhalb der Landwirtschaft 
+Die Landwirtschaft ist der offensichtlichste und wahrscheinlich größte Sektor, in dem 
+Pestizide verwendet werden. Jedoch können auch andere berufliche und nicht berufliche 
+Verwender mehr oder wenig stark die Gesamtmenge der verwendeten Pestizide beeinflussen. 
+Ein Vergleich der in der Landwirtschaft eingesetzten Pestizide mit der Gesamtmenge der in 
+Verkehr gebrachten Pestizide ist für den Qualitätsbericht geplant, der den Daten über die 
+landwirtschaftliche Verwendung von Pestiziden beiliegen wird. Die Verordnung gilt sowohl 
+für die jährlichen Statistiken über das Inverkehrbringen von Pestiziden als auch für die 
+Statistiken zu ihrer landwirtschaftlichen Verwendung. Es mangelt an Kohärenz zwischen den 
+beiden Beständen, da keine Informationen über Pestizide für Zwecke außerhalb der 
+Landwirtschaft vorhanden sind. Dies wurde auch in den Verhandlungen im Vorfeld des 
+Erlasses der Verordnung deutlich, weshalb im Abschnitt 6 (Qualitätsberichte) des Anhangs II 
+der Verordnung folgenden Gedankenstrich eingefügt wurde: „- eine im Rahmen der 
+Pilotstudien der Kommission erstellte Kurzbeschreibung der kommerziellen 
+Verwendungszwecke von Pestiziden außerhalb der Landwirtschaft“. 
+ 
+Abbildung 1. Überblick über die verschiedenen Verwendungen von Pestiziden 
+ 
+ 
+ 
+ 
+ 
+Die Kommission gewährte 2011 Finanzhilfen für Pilotstudien zur Schätzung von 
+kommerziellen und nicht kommerziellen Verwendungen von Pestiziden. Die Finanzhilfen 
+wurden von fünf Ländern (Belgien, Italien, Litauen, Lettland und Rumänien) beantragt. Der 
+Kommission ist bekannt, dass solche Erhebungen auch in den Niederlanden und im 
+Vereinigten Königreich durchgeführt wurden. 
+ 
+Die Piloterhebungen konzentrierten sich beispielsweise auf folgende Bereiche: 
+- landschaftliche Gebiete oder Gärten, Freizeitanlagen im Freien, Parks; 
+- Bereiche und Einrichtungen für Sport und Freizeitgestaltung; 
+- Eisenbahnen; 
+- Autobahnen und Landstraßen; 
+- Flughäfen und Seeverkehrshäfen; 
+Alle Verwendungen von Pestiziden 
+Berufliche Verwendungen  Nicht berufliche 
+Verwendungen 
+Landwirtschaftliche 
+Verwendungen 
+Verwendungen außerhalb 
+der Landwirtschaft 
+ 
+8 
+ 
+- archäologische Stätten; 
+- Hobbygärtner und -landwirte; 
+- Staatswälder; 
+- Gärten und Parks; 
+- sonstige Bereiche. 
+ 
+Im Folgenden die wichtigsten Erkenntnisse dargestellt, die bei früheren Maßnahmen und aus 
+den Pilotstudien gewonnen wurden: 
+1. In den einzelnen Mitgliedstaaten oder sogar innerhalb der Regionen eines Landes 
+gibt es eine große Vielfalt an Verwendungsmustern außerhalb der Landwirtschaft. 
+2. Es lassen sich vorherrschende Verwendungsbereiche ermitteln, die in den meisten 
+Mitgliedstaaten zu finden sind. 
+3. Mit den vorherrschenden Verwendungen ist eine begrenzte Liste von Wirkstoffen 
+verbunden. 
+4. Die verschiedenen Verwendungsbereiche machen es erforderlich, dass 
+verschiedene Methoden der Datenerhebung oder verschiedene Methoden 
+kombiniert werden. 
+ 
+Abgesehen von den offensichtlichen Unterschieden auf nationaler und regionaler Ebene gibt 
+es in allen Mitgliedstaaten bestimmte Hauptelemente, die die Grundlage für alle Erhebungen 
+über die Verwendung von Pestiziden in Bereichen außerhalb der Landwirtschaft bilden 
+sollten. Dabei handelt es sich um: 
+1. Wohngebiete (mit Haus und Garten); 
+2. öffentliche Gebiete (einschließlich Golfanlagen); 
+3. Industriegebiete; 
+4. Infrastrukturen; 
+5. Wälder. 
+ 
+Diese Tätigkeitsfelder sollten vorrangig erfasst werden und die Grundlage für vergleichende 
+Statistiken über Verwendungen von Pestiziden außerhalb der Landwirtschaft zwischen 
+Mitgliedstaaten oder Regionen bilden. 
+ 
+3.3. Ausdehnung des Anwendungsbereichs der Verordnung 
+In Erwägungsgrund 5 der Verordnung wird vorweggenommen, dass der Anwendungsbereich 
+der Verordnung auf Biozidprodukte ausgedehnt wird. Die Kommission hat in ihrem Bericht7 
+betreffend die nachhaltige Verwendung von Biozidprodukten dargelegt, dass es nicht 
+zweckmäßig ist, Biozidprodukte einfach in den Geltungsbereich der Richtlinie für die 
+nachhaltige Verwendung von Pestiziden einzubeziehen. Aus diesem Grund erachtet es die 
+Kommission auch für unnötig, den Anwendungsbereich der Verordnung auf Biozidprodukte 
+auszudehnen, auch wenn dies t ursprünglich beabsichtigt war. 
+                                                            
+7 COM(2016) 151 
+(http://ec.europa.eu/health/biocides/docs/2016_report_sustainableuse_biocides_en.pdf). 
+ 
+9 
+ 
+ 
+4. KOSTEN UND AUFWAND 
+Die Kosten der Erhebungen und der damit verbundene Verwaltungsaufwand hängen 
+hauptsächlich von der gewählten Erhebungsmethode ab. 
+ 
+Die Statistiken über Pestizidverkäufe stützen sich in vielen Mitgliedstaaten auf die 
+Verwaltungsdaten, die sich im Besitz der für Pestizide zuständigen Behörden oder der 
+Inhaber einer Zulassung befinden (siehe Anhang I). Somit entstehen Kosten, wenn die 
+Behörden oder die oft nicht sehr zahlreichen Inhaber einer Zulassung zwecks Anforderung 
+der Daten kontaktiert werden, sowie anschließend daran bei der Verarbeitung der Daten. 
+Auch wenn nicht von allen Mitgliedstaaten Zahlen vorliegen, sind die aufgewandten 
+Arbeitstage als auch die tatsächlichen Kosten laut den Berichten in den meisten Fällen 
+ziemlich gering. Auch die mitgeteilten Kosten und der Aufwand der 
+Berichterstattungseinheiten sind durchaus angemessen, da die verlangten Daten in jedem Fall 
+gemäß der Verordnung (EG) Nr. 1107/2009 erfasst werden müssen.  
+ 
+Für die Statistiken über die Verwendung von Pestiziden müssen die Informationen auf der 
+Ebene landwirtschaftlicher Betriebe erfasst werden, was aufwendiger ist. Wurde kein 
+elektronisches Erfassungssystem entwickelt, müssen also Stichproben gebildet werden, 
+Fragebögen erstellt, Interviewer ausgeschickt oder Briefe versandt werden. Die Kosten 
+hängen in starkem Maß von der gewählten Methode ab, was auch aus den Informationen 
+erkennbar ist, die an die Kommission übermittelt wurden. Die Berichte erlauben keine 
+direkten Rückschlüsse auf die angefallenen Kosten, da die Informationen für diesen Zweck 
+nicht ausreichend detailliert sind.   
+ 
+Wie oben dargelegt, stammen die Informationen in den meisten Ländern direkt von den 
+Landwirten. Berufliche Verwender (Landwirte und Unternehmer) müssen gemäß der 
+Verordnung (EG) Nr. 1107/2009 Aufzeichnungen über ihre Verwendung von Pestiziden 
+führen. Die Informationen sollten also unmittelbar verfügbar sein, wenn der Landwirt dem 
+Befrager zu antworten oder den Fragebogen auszufüllen hat. Dies spiegelt sich in den 
+Qualitätsberichten wider, aus denen in vielen Fällen hervorgeht, dass die Landwirte für die 
+Durchführung der Erhebung eine begrenzte Zeit — 15 Minuten bis 2 Stunden je Erhebung 
+(alle 5 Jahre) — benötigen. 
+ 
+5. ERFAHRUNGEN AUS DEN ERSTEN FÜNF JAHREN 
+Seit Dezember 2012 (damals Daten für 2011) werden jährlich Daten über Pestizidverkäufe 
+übermittelt. Die Verfahren sind trotz einiger anfänglicher technischer Probleme, die bei der 
+Kommission aufgetreten sind, ausgereift und gut eingespielt. Die ersten Daten über die 
+landwirtschaftliche Verwendung von Pestiziden wurden der Kommission Ende 2015 
+übermittelt. Aufgrund des hohen Aufkommens an komplexen Daten war es nicht möglich, 
+diese vollständig zu verarbeiten, und sie stehen deshalb den Verwendern noch nicht zur 
+ 
+10 
+ 
+Verfügung. Daher wurde auch noch nicht bewertet, wie nützlich diese Daten sind. Dennoch 
+werden im Folgenden einige bisher festgestellte Schwachstellen und Empfehlungen 
+dargelegt. 
+ 
+5.1. Verfügbarkeit detaillierter Daten über Pestizide 
+Die Verordnung verbietet die Offenlegung von Daten über einzelne Wirkstoffe. Artikel 3 
+Absatz 4: „Aus Gründen der Vertraulichkeit aggregiert die Kommission (Eurostat) die Daten 
+vor ihrer Veröffentlichung nach den chemischen Produktklassen oder -kategorien gemäß 
+Anhang III und berücksichtigt dabei in gebührender Weise den Schutz vertraulicher Daten 
+auf der Ebene der einzelnen Mitgliedstaaten. Nach Artikel 20 der Verordnung (EG) 
+Nr. 223/2009 werden vertrauliche Daten von den einzelstaatlichen Stellen und der 
+Kommission (Eurostat) ausschließlich für statistische Zwecke verwendet.“ 
+ 
+Die Kommission kann folglich keine Daten über einzelne Wirkstoffe veröffentlichen. Auch 
+die aggregierten Daten können – nach einer in der Statistik geltenden allgemeinen 
+Datenschutzregel – nicht immer verbreitet werden, wenn direkt oder indirekt das Risiko 
+besteht, dass statistische Einheiten identifiziert werden könnten. 
+ 
+Würden die Verkaufsstatistiken bei Einzelhändlern erhoben werden, gäbe es eine große 
+Anzahl an statistischen Einheiten, die hinsichtlich der Vertraulichkeit der Daten kaum 
+problematisch wären. Es hat sich jedoch gezeigt, dass die meisten Mitgliedstaaten die Daten 
+direkt bei den Zulassungsinhabern erheben. Dies erfolgt entweder in Form von 
+Verwaltungsdaten, die an die für Pestizide zuständigen Behörden übermittelt werden, oder 
+über einen Fragebogen. Für die meisten Wirkstoffe bedeutet dies, dass es nur einen 
+Datenlieferanten gibt, was dazu führt, dass die Informationen vertraulich sind. Da es viele 
+Klassen mit nur wenigen Stoffen gibt oder der Hersteller/Einführer bei vielen Stoffen in der 
+Gruppe derselbe ist, hat es sich ergeben, dass ein beträchtliches Volumen an aggregierten 
+Daten auf höherer Ebene ebenfalls vertraulich ist. Die Kommission ist der Auffassung, dass 
+die Verkaufsdaten, für deren Übermittlung gemäß der Verordnung eine rechtliche 
+Verpflichtung besteht, erfolgreich erhoben und von den Ländern an die Kommission 
+übermittelt wurden. Sie erachtet auch die Gesamtqualität der Daten als gut. Die Anwendung 
+der Vertraulichkeitsvorschriften auf einen erheblichen Teil der Daten führt allerdings dazu, 
+dass die bereitgestellten statistischen Informationen für die Nutzer von geringerem Wert sind. 
+Es kann daher nicht davon ausgegangen werden, dass dem Bedarf der Nutzer durch die 
+Verordnung angemessen Rechnung getragen wird. 
+5.2. Statistiken über Pestizidverkäufe 
+Der Vergleich von Verkäufen von Pestiziden im Verlauf der Jahre und zwischen Ländern ist 
+komplex, da externe Faktoren wie Klimabedingungen, Böden und Produktionsmethoden sich 
+erheblich auf die Arten und Mengen der benötigten Pestizide auswirken können. 
+ 
+Der Ort, an dem ein Produkt verkauft wird, ist nicht der Ort, an dem es letztlich angewandt 
+wird und Pestizide können auch von Einzelhändlern in Nachbarländern direkt an Landwirte 
+ 
+11 
+ 
+verkauft werden. Dabei mag es sich zwar um einen kleinen Teil der insgesamt verkauften 
+Pestizide handeln, allerdings sind diese Mengen in den Verkaufsstatistiken nicht korrekt 
+berücksichtigt. Ferner kann es zu zeitlichen Verzögerungen zwischen dem Verkauf und der 
+Verwendung der Pestizide kommen, je nachdem, ob sie auf Vorrat oder für die unmittelbare 
+Verwendung gekauft wurden. 
+ 
+Viele Verwender möchten detaillierte Daten über die Mengen der verkauften einzelnen 
+Wirkstoffe erhalten. Aber weder die Kommission noch die nationalen statistischen Ämter 
+können diese Informationen liefern, da sie an die Verordnung und die 
+Vertraulichkeitsvorschriften gebunden sind. 
+ 
+Wie oben beschrieben, ist die Verordnung im Hinblick darauf, wie die Kommission die 
+Daten weitergeben darf, sehr restriktiv. Alle Daten sind in Klassen und Gruppen zu 
+aggregieren, unabhängig davon, ob sie von den Mitgliedstaaten als vertraulich erachtet 
+werden oder nicht. Zudem kann die Kommission von den in Anhang III der Verordnung 
+festgelegten Klassen nicht abweichen.   
+ 
+Da Nutzer häufig an spezifischen Wirkstoffen oder Gruppen von Stoffen interessiert sind, die 
+von den vorgegebenen Klassen abweichen, könnte die Verordnung als zu restriktiv angesehen 
+werden; sie lässt es nicht zu, dass die entsprechenden Analysen durchgeführt werden. Ein 
+gutes Beispiel hierfür ist die jüngste Diskussion über Neonicotinoide, die Gruppe von 
+Pestiziden, die möglicherweise Bienen schädigt. Die betroffenen Wirkstoffe finden sich nicht 
+alle in denselben chemischen Klassen in Anhang III, weshalb die Kommission nicht in der 
+Lage war, den Entscheidungsträgern alle relevanten Daten zur Verfügung zu stellen.   
+ 
+Die Verordnung legt als einzig zu verwendende Einheit das Gewicht fest, biologische 
+Pestizide sollten aber nicht in Gewicht, sondern in „koloniebildenden Einheiten“ ausgedrückt 
+werden. Dies schafft sowohl für die Datenlieferanten als auch für die Datennutzer Probleme, 
+denn die bereitgestellten Daten ergeben keinen Sinn oder sind vor der Übermittlung der 
+Daten und deren Verwendung umzuwandeln. Diese rein technische Frage muss weiter 
+vertieft werden. 
+ 
+5.3. Statistiken über die Verwendung von Pestiziden 
+Die Verordnung sieht vor, dass jeder Mitgliedstaat für die Statistiken über die 
+landwirtschaftliche Verwendung von Pestiziden eine Auswahl der Kulturpflanzen zu treffen 
+hat, die während des Fünfjahreszeitraums erfasst werden, und die für die in dem Mitgliedstaat 
+angebauten Kulturpflanzen und verwendeten Stoffe repräsentativ ist. Bei der Auswahl der 
+Kulturpflanzen sind diejenigen Kulturpflanzen zu berücksichtigen, die die größte Relevanz 
+für die nationalen Pestizid-Aktionspläne besitzen. Da aber in den nationalen Aktionsplänen 
+nicht immer auf die Kulturpflanzen mit der größten Relevanz hingewiesen wird, fiel die 
+Auswahl der Kulturpflanzen ziemlich unterschiedlich aus. Dies führt dazu, dass Daten über 
+die Verwendung von Pestiziden für Kulturpflanzen zwischen den Ländern unter Umständen 
+nicht mehr in vollem Umfang vergleichbar sind.    
+ 
+12 
+ 
+ 
+Der Bezugszeitraum muss grundsätzlich ein Zeitraum von maximal zwölf Monaten sein, der 
+alle Pflanzenschutzmaßnahmen in direktem oder indirektem Bezug zu der betreffenden 
+Kulturpflanze während eines Fünfjahreszeitraums abdeckt. Die Mitgliedstaaten können den 
+Bezugszeitraum innerhalb des Fünfjahreszeitraums frei wählen. Für jede ausgewählte 
+Kulturpflanze kann ein anderer Bezugszeitraum gewählt werden. Dies führte zu einer 
+Situation, in der die Länder verschiedene Bezugszeiträume gewählt haben, sodass es unter 
+Umständen nicht möglich sein wird, die Daten für dasselbe Jahr zwischen Ländern zu 
+vergleichen bzw. Ergebnisse auf EU-Ebene zu liefern. 
+ 
+6. VORSCHLÄGE FÜR WEITERE VERBESSERUNGEN 
+Die Kommission geht auf die der relevanten Interessenträger ein und erachtet es als wichtig, 
+die Rechtsvorschriften über Pestizidverkäufe weiter anzupassen, damit alle nicht 
+vertraulichen Daten sowohl für die Wirkstoffe als auch für die verschiedenen 
+Aggregationsformen veröffentlicht werden können.   
+ 
+Genauso ist es der Kommission ein Anliegen, die Rechtsvorschriften für Statistiken über die 
+Verwendung von Pestiziden weiter anzupassen, um eine kohärentere Vorgehensweise und 
+eine bessere Erfassung in allen Mitgliedstaaten sicherzustellen. Vorstellbar wären 
+vorgegebene gemeinsame Bezugszeiträume und klare Vorschriften für die Erfassung der in 
+die Erhebung aufzunehmenden Kulturpflanzen. Die Erfassungsvorschriften könnten auf den 
+Statistiken über die pflanzliche Erzeugung (erfasst werden könnte ein bestimmter Prozentsatz 
+von landwirtschaftlichen Kulturpflanzen und Dauerkulturen) und auf Analysen der 
+potenziellen Risiken basieren, die für die Umwelt und die menschliche Gesundheit mit den 
+Verkäufen von Wirkstoffen einhergehen. Diese Vorschriften würden in enger 
+Zusammenarbeit mit den betreffenden Dienststellen und Agenturen der Kommission und den 
+nationalen Fachleuten abgefasst werden. 
+ 
+Die Kommission hat schließlich zusammen mit Interessenträgern eine Strategie für die 
+Agrarstatistik ab 2020 ausgearbeitet8. Sie regt an, alle Agrarstatistiken mit Ausnahme der 
+Landwirtschaftlichen Gesamtrechnung in zwei Rahmenverordnungen aufzunehmen. Die 
+Kommission empfiehlt nachdrücklich, Pestizid-Statistiken auch mit den anderen Bereichen 
+der Agrarstatistik zusammenzufassen.  
+                                                            
+8    Agrarstatistikstrategie für die Zeit ab 2020  
+ 
+13 
+ 
+ANHANG I 
+Die in diesem Anhang enthaltenen Informationen beruhen auf den in der Verordnung 
+vorgesehenen und von den Ländern bereitgestellten nationalen Qualitätsberichten. 
+ 
+ZUSTÄNDIGE NATIONALE 
+BEHÖRDE FÜR VERKÄUFE VON 
+PESTIZIDEN 
+DATENERFASSUNGSMETHODEN FÜR VERKÄUFE VON 
+PESTIZIDEN 
+BE 
+Föderale Öffentlicher Dienst für 
+Gesundheit, Sicherheit der 
+Lebensmittelkette und Umwelt 
+Verwaltungsdaten; Inhaber einer Zulassung (Hersteller, 
+Einführer und Ausführer) müssen die in Verkehr gebrachten 
+Mengen melden. 
+BG 
+Ministerium für Landwirtschaft 
+und Ernährung 
+Verwaltungsdaten, die auf Meldungen von Händlern mit 
+Zulassung basieren 
+CZ Statistikamt Tschechien 
+Verwaltungsdaten; Unternehmer, die Produkte in Verkehr 
+bringen oder sie für die Ausfuhr in Drittländer lagern, sind 
+zur Berichterstattung an das Zentralinstitut für Aufsicht und 
+Prüfung in der Landwirtschaft (CISTA) verpflichtet. Die 
+Datenerfassung erfolgt online und/oder über 
+Papierfragebögen.  
+DK 
+Dänische Umweltschutzbehörde, 
+Ministerium für Umwelt und 
+Ernährung von Dänemark 
+Verwaltungsdaten; Verpflichtende elektronische 
+Berichterstattung für dänische Inhaber einer Zulassung und 
+per E-Mail für ausländische Inhaber 
+DE 
+Bundesamt für 
+Verbraucherschutz und 
+Lebensmittelsicherheit (BVL) 
+Verwaltungsdaten; Inhaber einer Zulassung (auch Inhaber 
+von Genehmigungen zum Parallelhandel), Hersteller und 
+Vertreiber müssen die im Inland verkauften oder 
+ausgeführten Mengen, einschließlich Verkäufe für 
+Notfallsituationen, melden. 
+EE Statistikamt Estland 
+Vollerhebung aller Einführer und Lieferanten durch eine 
+Web-Anwendung und/oder durch per Post durchgeführte 
+papiergestützte Erhebungen 
+IE 
+Ministerium für Landwirtschaft, 
+Ernährung und maritime 
+Angelegenheiten 
+Die Daten werden auf Basis einer Vollerhebung gesammelt. 
+Die Verwaltungsdaten stammen von allen Inhabern einer 
+Produktzulassung und Vertriebsgesellschaften. 
+EL 
+Griechische Statistikbehörde 
+(ELSTAT) 
+Statische Erhebungen von allen Verkäufern im Inland durch 
+das Ministerium für ländliche Entwicklung und Ernährung 
+per Brief oder E-Mail. Die Verkäufer sind seit 2014 zur 
+Online-Aufzeichnung der Daten verpflichtet.   
+ 
+14 
+ 
+ 
+ZUSTÄNDIGE NATIONALE 
+BEHÖRDE FÜR VERKÄUFE VON 
+PESTIZIDEN 
+DATENERFASSUNGSMETHODEN FÜR VERKÄUFE VON 
+PESTIZIDEN 
+ES 
+Ministerium für Landwirtschaft, 
+Ernährung und Umwelt 
+Elektronische Fragebögen/Erhebungen (innerhalb und 
+außerhalb des Hoheitsgebiets) bei Inhabern einer Zulassung 
+und Befragten, denen die Vertriebsrechte übertragen 
+wurden. Verwaltungsdaten werden von S.G. Sanidad 
+Vegetal bereitgestellt. 
+FR 
+Ministerium für Landwirtschaft, 
+Ernährung und Forstwirtschaft 
+Verwaltungsdaten; Händler sind zur Meldung von 
+Verkäufen an die Wasserämter verpflichtet. Die 
+Verkaufszahlen werden dann vom Ministerium für Umwelt 
+weiterverarbeitet. 
+HR Statistikamt Kroatien  
+Verwaltungsdaten; das Ministerium für Landwirtschaft ist 
+für die Datenerhebung von Händlern und Verkaufsstellen 
+zuständig. 
+IT Italienisches Statistikamt (ISTAT) Postalische Vollerhebung bei allen Händlern   
+CY 
+Statistischer Dienst Zyperns 
+(CYSTAT) 
+Postalischer oder elektronischer Fragebogen/Erhebung bei 
+Lieferanten. Verwaltungsdaten werden vom Ministerium für 
+Landwirtschaft bereitgestellt. 
+LV 
+Staatliche Pflanzenschutzbehörde 
+von Lettland (SPPS) 
+(Papiergestützte und/oder elektronische) Vollerhebung bei 
+allen Befragten bzw. Händlern 
+LT Statistikamt Litauen 
+Vollerhebung bei allen Herstellern und Inhabern einer 
+Zulassung 
+LU 
+Institut National de la Statistique 
+et des Etudes Economiques 
+(STATEC) 
+Erhebung bei Verkäufern (Einzel- und Großhändler) und 
+Kooperativen 
+HU Zentrales Statistikamt Ungarn 
+Das Nationale Amt für Sicherheit der Lebensmittelkette 
+(Ministerium für ländliche Entwicklung) erhebt die Daten 
+bei Inhabern einer Zulassung.   
+MT Nationales Statistikamt (NSO) Online-Erhebung bei Einführern mit Zulassung 
+NL Statistikamt Niederlande 
+Verwaltungsdaten werden vom Pflanzenschutzamt (NVWA) 
+eingeholt. 
+AT 
+Statistik Austria (STAT), 
+Österreichische Agentur für 
+Gesundheit und 
+Ernährungssicherheit (AGES) 
+Zulassung; Zulassungsinhaber und Händler sind verpflichtet, 
+die Daten an das Bundesamt für Ernährungssicherheit zu 
+melden. 
+ 
+15 
+ 
+ 
+ZUSTÄNDIGE NATIONALE 
+BEHÖRDE FÜR VERKÄUFE VON 
+PESTIZIDEN 
+DATENERFASSUNGSMETHODEN FÜR VERKÄUFE VON 
+PESTIZIDEN 
+PL Zentrales Statistikamt  
+Vollerhebung in Zusammenarbeit mit dem Ministerium für 
+Landwirtschaft und ländliche Entwicklung und mit dem 
+Institut für Pflanzenschutz — Nationales Forschungsinstitut 
+PT 
+Statistikamt Portugal (INE), 
+Nationale Behörde (DGAV) 
+Verwaltungsdaten werden bei der Nationalen Behörde 
+Direção Geral de Alimentação e Veterinária (DGAV) 
+eingeholt.   
+RO Nationales Statistikamt  
+Erhebung, die auf Interviews in Zusammenarbeit mit dem 
+Ministerium für Landwirtschaft und ländliche Entwicklung 
+beruht (Nationale Agentur für Pflanzenschutz) und bei der 
+zertifizierte Verkaufsstellen, Wirtschaftsteilnehmer und 
+natürliche Personen erfasst werden. 
+SI 
+Statistikamt der Republik 
+Slowenien  
+Verwaltungsdaten werden der Verwaltung der Republik 
+Slowenien für Lebensmittelsicherheit, Veterinärmedizin und 
+Pflanzenschutz (UVHVVR) gemeldet. 
+SK 
+Statistikamt der Slowakischen 
+Republik  
+Verwaltungsdaten; das Zentralinstitut für Aufsicht und 
+Prüfung in der Landwirtschaft (CCTIA) erhebt die Daten bei 
+Inhabern einer Zulassung oder Inhabern von 
+Genehmigungen zum Parallelhandel. 
+FI 
+Finnische Agentur für Sicherheit 
+und Chemikalien (Tukes) 
+Die Finnische Agentur für Sicherheit und Chemikalien 
+(Tukes) erhebt die Daten per Post oder E-Mail bei Inhabern 
+einer Zulassung oder ihren Vertretern. 
+SE 
+Schwedische Agentur für 
+Chemikalien (KemI) 
+Die Agentur erhebt die Daten bei Inhabern einer Zulassung. 
+UK Chemicals Regulation Directorate 
+Freiwillige elektronische Erhebung von Geschäften, die vom 
+British Crop Production Council im Auftrag des Office for 
+National Statistics (ONS) durchgeführt werden. 
+NO 
+Norwegische Behörde für 
+Lebensmittelsicherheit 
+Verwaltungsdaten von Einführern und Herstellern 
+ 
+  
+ 
+16 
+ 
+ANHANG II 
+Die in diesem Anhang enthaltenen Informationen beruhen auf den in der Verordnung 
+vorgesehenen und von den Ländern bereitgestellten nationalen Qualitätsberichten.  
+ 
+QUALITÄT DER ÜBERMITTELTEN DATEN 
+ÜBER PESTIZIDVERKÄUFE  
+NÜTZLICHKEIT VON STATISIKTEN ÜBER 
+PESTIZIDVERKÄUFE 
+BE 
+Es sind keine Schätzungen erforderlich und 
+zu hoch angesetzte Schätzungen sind 
+aufgrund des Zusammenhangs zwischen den 
+gemeldeten Daten und den Gebühren 
+ziemlich unwahrscheinlich: 
+Die Daten werden zur Berechnung der 
+Jahresgebühr für das Inverkehrbringen von 
+Pestiziden und für die Schätzung der auf 
+nationaler Ebene verwendeten Gesamtmengen 
+und den sich daraus ergebenden Risiken für 
+Mensch und Umwelt genutzt.  
+BG 
+Die Daten sind vollständig und decken alle 
+verfügbaren Ein- und Ausfuhren ab. 
+Die Daten sind spezifisch, wobei es nur einige 
+potenzielle Verwender gibt. 
+CZ 
+Mit den Quellen werden alle zur 
+Berichterstattung gesetzlich verpflichteten 
+Einheiten und alle in Verkehr gebrachten 
+Produkte abgedeckt. 
+CISTA nutzt die Daten vor allem für Zwecke der 
+Pflanzenschutzkontrolle sowie für die Planung 
+und Durchführung von Prüfungen der Einhaltung 
+seitens der Händler.  
+DK 
+Das Volumen der Verkäufe wird als 
+Gesamtbetrag des Verkaufs jedes Produkts 
+gemeldet. 
+Nutzer sind Politiker, Landwirte, NGO und die 
+Öffentlichkeit. Im Rahmen der Datenverwendung 
+wird die bis Ende 2015 angestrebte Verringerung 
+der Pestizidbelastung um 40 % gegenüber 2011 
+überwacht (Dänische Pestizid-Strategie 2013-
+2015, jetzt um ein Jahr verlängert). 
+DE 
+Die Genauigkeit der Daten ist generell 
+zufriedenstellend, obwohl die 
+Antwortausfallquote, die hauptsächlich auf 
+falsche Kontaktangaben von Unternehmen 
+des Parallelhandels zurückzuführen ist, ein 
+Problem darstellen könnte. Durch den 
+illegalen Handel bedingte Untererfassungen 
+können nicht geschätzt werden.   
+Das Bundesamt für Verbraucherschutz und 
+Lebensmittelsicherheit (BVL) nutzt die Daten für 
+interne Überwachungsaufgaben im Anschluss an 
+die Registrierung. Die Daten werden auch im 
+Statistischen Jahrbuch über Ernährung, 
+Landwirtschaft und Forsten und im 
+Bundesanzeiger veröffentlicht. Auch das Julius 
+Kühn-Institut (JKI), das Bundesforschungsinstitut 
+für Kulturpflanzen, erhält diese Daten. Andere 
+Behörden, z. B. das Umweltbundesamt (UBA) 
+oder Forschungseinrichtungen, erhalten auf 
+Anfrage stoffspezifische Verkaufsdaten.   
+ 
+17 
+ 
+ 
+QUALITÄT DER ÜBERMITTELTEN DATEN 
+ÜBER PESTIZIDVERKÄUFE  
+NÜTZLICHKEIT VON STATISIKTEN ÜBER 
+PESTIZIDVERKÄUFE 
+EE 
+Die Qualität der Statistiken ist hoch, da alle 
+Verkaufsunternehmen erfasst wurden und 
+die Rücklaufquote hoch war. 
+Zu den Nutzern gehören der Agrarausschuss, das 
+Landwirtschaftliche Forschungszentrum, das 
+Ministerium für Landwirtschaft, andere 
+Ministerien, Forschungs- und 
+Bildungseinrichtungen, die Medien, andere 
+Organisationen und Unternehmen sowie 
+Privatpersonen.   
+IE 
+Bei den von den Inhabern von 
+Produktzulassungen und 
+Vertriebsgesellschaften übermittelten Daten 
+handelt es sich tatsächlich um die realen 
+Zahlen. Die Datenqualität ist deshalb als 
+hoch zu erachten. 
+Nur einige wenige Datenanforderungen wurden 
+nie beantwortet. Die Unternehmen und Inhaber 
+einer Zulassung haben Zugriff auf das Register 
+und können Informationen über jedes Produkt 
+abfragen.   
+EL 
+Durch die Einführung des Online-Systems hat 
+sich die Gesamtqualität verbessert. Vor 
+allem konnten dadurch die in der 
+Vergangenheit niedrigen Rücklaufquoten 
+gesteigert werden. 
+Das Ministerium für ländliche Entwicklung, die 
+Regierung, die Presse, die Medien und 
+Wissenschaftlicher verwenden diese Daten zur 
+Reduzierung der mit den Pestiziden verbunden 
+Risiken. 
+ES 
+Die Daten unterliegen einem internen 
+Kohärenzverfahren. 
+Die Daten werden zur Bewertung der 
+Auswirkungen auf die staatliche Politik und zur 
+Berechnung der Gesundheitsindikatoren und 
+verbundenen Umweltrisiken herangezogen.  
+FR 
+Mit dem Meldesystem werden Verkäufe an 
+Endverwender (oder Auslandskäufe von 
+Endverwendern) erfasst. Dadurch wird eine 
+Doppelzählung im Zusammenhang mit 
+Verbringungsgenehmigungen oder 
+Zwischenhändlern in der Vertriebskette 
+verhindert.   
+Derzeit ist kein spezifischer Nutzerbedarf 
+bekannt. 
+HR 
+Das Land hat keine Informationen 
+bereitgestellt. 
+Datennutzer sind staatliche Organe, 
+Kommunalverwaltungen und juristische und 
+natürliche Personen.   
+IT Recht zufriedenstellend 
+Die Daten werden vor allem von dem Institut für 
+Umweltschutz und Forschung (ISPRA) und dem 
+Ministerium für Landwirtschaft zur 
+Risikobeurteilung für Menschen und Umwelt 
+genutzt. 
+ 
+18 
+ 
+ 
+QUALITÄT DER ÜBERMITTELTEN DATEN 
+ÜBER PESTIZIDVERKÄUFE  
+NÜTZLICHKEIT VON STATISIKTEN ÜBER 
+PESTIZIDVERKÄUFE 
+CY 
+Es handelte sich um eine Vollerhebung, da es 
+nur wenige Lieferanten in dem Land gab. 
+Die Daten werden dem Bedarf des Ministeriums 
+für Landwirtschaft gerecht. 
+LV 
+Die Gesamtqualität der statistischen 
+Ergebnisse wird als gut bewertet. Der 
+wesentliche Vorteil des Verfahrens liegt 
+darin, dass die Datenerhebung auf 
+Rechtsvorschriften basiert. 
+Interesse an den Daten haben hauptsächlich 
+Wissenschaftler, Studenten und die Medien 
+gezeigt. Die statistischen Informationen 
+befriedigen vordergründig den Bedarf der 
+inländischen Nutzer.  
+LT 
+Die Daten werden von verlässlichen Quellen 
+unter Anwendung eines hohen 
+methodischen Standards erhoben. 
+Die Hauptnutzer sind staatliche und kommunale 
+Behörden und Agenturen, internationale 
+Organisationen, die Medien, 
+Forschungsgemeinschaften und 
+Unternehmervereinigungen sowie Studenten. Die 
+Daten werden zur Feststellung potenzieller 
+Risiken für die menschliche Gesundheit und die 
+Umwelt herangezogen. 
+LU 
+Die Befragten werden auch aufgefordert, die 
+Anteile an inländischen und ausländischen 
+Lieferanten oder Zwischenhändlern 
+anzugeben, um potenzielle Doppelzählungen 
+zwischen nationalen Großhändlern zu 
+verhindern. 
+Die Verkaufsstatistiken können für 
+Entscheidungsträger, das Ministerium für 
+Landwirtschaft, das Ministerium für Umwelt, 
+Umweltlobbyinggruppen und 
+Forschungsgemeinschaften von Interesse sein. 
+HU 
+Die vermarkteten Mengen werden mit den 
+Daten aus den Vorjahren auf Produktebene 
+verglichen und untereinander abgeglichen. 
+Das Land hat keine Informationen bereitgestellt. 
+MT 
+Die Qualität ist insgesamt gut. Die 
+Datenerhebung ist erschöpfend, und es gibt 
+detaillierte Verfahren zur Validierung und 
+Analyse der Daten. 
+Hauptnutzer ist die Europäische Kommission. 
+NL 
+Die Datenqualität wird regelmäßig anhand 
+eines Rahmens überprüft, der auf der 
+Qualitätsdefinition des Europäischen 
+Statistischen Systems beruht. 
+Die Daten werden zur Beurteilung der staatlichen 
+Politik genutzt. 
+AT 
+Das Land hat keine Informationen 
+bereitgestellt. Überwachung und Kontrolle   
+ 
+19 
+ 
+ 
+QUALITÄT DER ÜBERMITTELTEN DATEN 
+ÜBER PESTIZIDVERKÄUFE  
+NÜTZLICHKEIT VON STATISIKTEN ÜBER 
+PESTIZIDVERKÄUFE 
+PL 
+Obligatorische Erhebung bei Produzenten, 
+inländischen Händlern und Ausführern durch 
+elektronische Fragebögen 
+Zu den Datennutzern gehören Zentralämter, 
+wissenschaftliche Einrichtungen und 
+Forschungsinstitute, Studenten und 
+Unternehmen, die im Landwirtschaftssektor tätig 
+sind. Die Daten können zur Bewertung der 
+Bedingungen und der Kosten der 
+landwirtschaftlichen Produktion und der 
+Umweltauswirkungen genutzt werden.   
+PT 
+Die Validierungen beruhen auf Vergleichen 
+aggregierter Daten mit den Vorjahren.   
+Die Daten werden dazu genutzt, den Markt und 
+den Zusammenhang zwischen dem Markt und die 
+durch die nationale Behörde gewährten 
+Verkaufszulassungen zu bewerten.  
+RO 
+Das Land hat keine Informationen 
+bereitgestellt. 
+Zu den Nutzern gehören das Ministerium für 
+Landwirtschaft und ländliche Entwicklung, die 
+Nationalen Pflanzenschutzorganisation, die 
+Pflanzenschutzstellen, die Akademie der Land- 
+und Forstwissenschaft, das Nationale Forschungs- 
+und Entwicklungsinstitut für Industrieökologie, 
+das Zentrum für angewandte Biochemie und 
+Biotechnologie, das Ministerium für Umwelt, 
+Gewässer und Wälder und das Forschungs- und 
+Entwicklungsinstitut für Pflanzenschutz. 
+SI 
+Mit den Daten werden Großhändler im 
+Inland erfasst. Die Daten können jedoch 
+nicht für kleinere Gebietseinheiten 
+aufgeschlüsselt werden; sie ermöglichen 
+keine Rückschlüsse darauf, wo der 
+Einzelhandelsverkauf und die tatsächliche 
+Anwendung stattfinden. 
+Die Daten werden als Ersatzgröße für die Mengen 
+der in der Landwirtschaft verwendeten 
+Wirkungsstoffe genutzt. 
+SK 
+Die Daten sind von guter Qualität und 
+weisen eine ausreichende Genauigkeit und 
+Vollständigkeit auf. 
+Hauptnutzer ist die Europäische Kommission. 
+FI 
+Die Datenqualität kann als gut erachtet 
+werden.   
+Die Nutzer der Daten sind Landwirtschafts-, 
+Umwelt-, Lebensmittelsicherheits- und 
+Gesundheitsbehörden, Forschungsinstitute und 
+die Medien. Auf Anfrage wurden detaillierte 
+Daten für Forschungs- und Überwachungszwecke 
+bereitgestellt.   
+ 
+20 
+ 
+ 
+QUALITÄT DER ÜBERMITTELTEN DATEN 
+ÜBER PESTIZIDVERKÄUFE  
+NÜTZLICHKEIT VON STATISIKTEN ÜBER 
+PESTIZIDVERKÄUFE 
+SE 
+Mit den Daten werden alle in Verkehr 
+gebrachten Produkte erfasst. Da die Daten 
+manuell verarbeitet werden, kann es zu 
+Berechnungsfehlern kommen. 
+Es liegen nur sehr wenige Informationen über die 
+Nutzer vor. Häufiger sind Trends und nicht so 
+sehr die Daten selbst von Interesse. 
+UK 
+Die qualitative Messung der Genauigkeit 
+wird als akzeptabel erachtet. Ein 
+multinationales Unternehmen, dessen 
+volumenbasierter Anteil am britischen Markt 
+auf ca. 8 % geschätzt wird, soll die Lieferung 
+von Daten konsequent verweigert haben. 
+Andere fehlende Antworten wurden nicht 
+als bedeutend erachtet, da die meisten 
+Auskunftsverweigerer unter den kleineren 
+Marktteilnehmern zu finden sind. 
+Zu den potenziellen nationalen Nutzern können 
+Mitglieder der Crop Protection Association 
+gehören. Dies ist der britische Fachverband von 
+Unternehmen, die im Bereich der Herstellung, 
+Formulierung, Entwicklung und dem nationalen 
+Vertrieb von Pestiziden und 
+Pflanzenschutzprodukten für Land- und 
+Forstwirtschaft, Gartenbau, Hobbygärtner, 
+industrielle und örtliche zugelassene Abnehmer 
+tätig sind. 
+NO 
+Die Datenqualität gilt als sehr gut. Es sind 
+alle Einfuhren und Produktionen zu melden 
+und von den Wirtschaftsprüfern der 
+Unternehmen zu bestätigen. Es sind keine 
+Datenschätzungen erforderlich. 
+Die Daten dienen als Grundlage für die 
+Berechnung der Umweltsteuer. Zu den Nutzern 
+gehören u. a. staatliche Stellen, 
+landwirtschaftliche Verbände, NGO und die 
+Industrie. Die Daten sind sowohl für Wirkstoffe 
+als auch für Produkte verfügbar. Die Kommentare 
+der Nutzer zeigen, dass auf regionaler und nicht 
+nur auf nationaler Ebene Bedarf an Daten 
+besteht. Dieser Bedarf kann jedoch aufgrund der 
+Art und Weise der Datenerhebung nicht gedeckt 
+werden. 
+ 
+ 
+ 

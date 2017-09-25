@@ -1,0 +1,301 @@
+REGULATION (EC) No 808/2004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 21 April 2004
+concerning Community statistics on the information society
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE
+COUNCIL OF THE EUROPEAN UNION,
+Having regard to the Treaty establishing the European
+Community, and in particular Article 285(1) thereof,
+Having regard to the proposal from the Commission,
+Acting in accordance with the procedure laid down in Article
+251 of the Treaty (1),
+Whereas:
+(1) The European Council in Lisbon in March 2000 set the
+target for Europe to become within ten years the most
+competitive and dynamic knowledge-based economy in
+the world.
+(2) The eEurope Action Plan 2002 — endorsed at the Feira
+European Council in June 2000 — established a process
+of target-setting and benchmarking to bring Europe
+online as fast as possible.
+(3) The European Council in Seville in June 2002 endorsed
+the aims of the eEurope Action Plan 2005, which called
+for a legal basis to ensure regular and comparable data
+provision in Member States and enable greater use of
+official statistics on the information society.
+(4) The structural indicators which are used in the annual
+Spring Report to the European Council require
+indicators based on coherent statistical information from
+the information society domain.
+(5) The process of benchmarking eEurope as part of the
+implementation of eEurope Action Plans requires
+indicators based on coherent statistical information from
+the information society domain.
+(6) Harmonised statistics on Information and
+Communications Technologies (ICT) usage in enterprises
+are needed on an annual basis by the Commission's
+services.
+(7) Harmonised statistics on ICT usage by individuals and in
+households are needed on an annual basis by the
+Commission's services.
+(8) The rapidly changing nature of the information society
+domain requires that the statistics that are produced
+adapt to new developments. This can be provided for by
+having modules with a fixed duration and by allowing
+for modification through implementing measures taking
+into consideration Member States' resources and the
+burden on respondents, technical and methodological
+feasibility and the reliability of results.
+(9) The production of specific Community statistics is
+governed by the rules set out in Council Regulation (EC)
+No 322/97 of 17 February 1997 on Community
+Statistics (2).
+(10) Since the objective of the proposed action, namely the
+establishment of a common framework for the
+systematic production of Community statistics on the
+information society, cannot be sufficiently achieved by
+the Member States and can therefore, by reason of the
+scale or effects of the action, be better achieved at
+Community level, the Community may adopt measures,
+in accordance with the principle of subsidiarity as set
+out in Article 5 of the Treaty. In accordance with the
+principle of proportionality, as set out in that Article,
+this Regulation does not go beyond what is necessary in
+order to achieve that objective.
+(11) The measures necessary for the implementation of this
+Regulation should be adopted in accordance with
+Council Decision 1999/468/EC of 28 June 1999 laying
+down the procedures for the exercise of implementing
+powers conferred on the Commission (3).
+(12) The Statistical Programme Committee, established by
+Council Decision 89/382/EEC, Euratom (4), has been
+consulted in accordance with Article 3 thereof,
+(1) Opinion of the European Parliament of 29 January 2004 (not yet
+published in the Official Journal) and Council Decision of 16 April
+2004.
+(2) OJ L 52, 22.2.1997, p. 1. Regulation as amended by Regulation (EC)
+No 1882/2003 of the European Parliament and of the Council
+(OJ L 284, 31.10.2003, p. 1).
+(3) OJ L 184, 17.7.1999, p. 23.
+(4) OJ L 181, 28.6.1989, p. 47.
+30.4.2004 L 143/49Official Journal of the European UnionEN
+HAVE ADOPTED THIS REGULATION:
+Article 1
+Objective
+The objective of this Regulation shall be to establish a
+common framework for the systematic production of
+Community statistics on the information society.
+Article 2
+Definitions
+For the purpose of this Regulation:
+(a) ‘Community statistics' shall have the meaning assigned to it
+in Article 2 of Regulation (EC) No 322/97;
+(b) ‘production of statistics' shall have the meaning assigned to
+it in Article 2 of Regulation (EC) No 322/97;
+(c) ‘reference period' shall mean a period to which data refer;
+(d) ‘reference year' shall mean a reference period of one
+calendar year;
+(e) ‘collection period' shall mean a period specified in
+implementing measures during which a collection of data
+takes place.
+Article 3
+Scope
+1. The statistics to be compiled shall include information
+required for the eEurope benchmarking process, and useful to
+the structural indicators, and other information necessary to
+provide a uniform basis on which to analyse the information
+society.
+2. The statistics shall be grouped as modules, as defined in
+Annexes I and II.
+Article 4
+Modules
+The modules in this Regulation shall cover the following
+domains:
+— enterprises and the information society, as defined in
+Annex I,
+— individuals, households and the information society, as
+defined in Annex II.
+Article 5
+Methodological manual
+The Commission, in close cooperation with Member States,
+shall draw up, and update as made necessary by new
+implementing measures, a methodological manual which
+contains recommended guidelines concerning the Community
+statistics produced pursuant to this Regulation.
+Article 6
+Transmission of data
+1. Member States shall transmit the aggregate data and the
+metadata required by this Regulation and its implementing
+measures, including confidential aggregate data, to the
+Commission (Eurostat) in accordance with the existing
+Community provisions on transmission of data subject to
+statistical confidentiality. Those Community provisions shall
+apply to the treatment of the results, in so far as they include
+confidential data.
+2. Member States shall transmit the data and metadata
+required by this Regulation in electronic form, in accordance
+with an interchange standard agreed between the Commission
+and the Member States.
+Article 7
+Quality criteria and reports
+1. The Commission (Eurostat) shall assess the quality of the
+data transmitted.
+2. The Commission (Eurostat), in close cooperation with
+Member States, shall develop recommended common standards
+designed to ensure the quality (according to the standard
+Eurostat quality criteria) of the data provided. These standards
+shall be published in the methodological manual.
+3. Member States shall take all measures necessary to ensure
+the quality of the data transmitted.
+4. Within a set period after the deadline for transmission of
+final results, Member States shall supply the Commission
+(Eurostat) with a report on the quality of the data transmitted
+on the basis of the standards referred to in paragraph 2. These
+reports shall specify instances in which the said standards have
+not been complied with. The period shall be agreed upon
+during the development of implementing measures.
+L 143/50 30.4.2004Official Journal of the European UnionEN
+Article 8
+Implementing measures
+1. The measures for implementing the modules of this
+Regulation shall concern the selection and specification,
+adjustment and modification of subjects and their
+characteristics, the coverage, reference periods and breakdowns
+of characteristics, the periodicity and timing of data provision
+and the deadlines for transmission of results.
+2. Implementing measures, including adjustment and
+updating measures to take account of economic and technical
+changes, shall be laid down in accordance with the procedure
+referred to in Article 9(2), taking into consideration Member
+States' resources and the burden on respondents, technical and
+methodological feasibility and reliability of results.
+3. Implementing measures shall be drawn up at least nine
+months before the start of a data collection period.
+Article 9
+Committee
+1. The Commission shall be assisted by the Statistical
+Programme Committee established by Decision 89/382/EEC,
+Euratom, hereinafter referred to as ‘the Committee'.
+2. Where reference is made to this paragraph, Articles 5
+and 7 of Decision 1999/468/EC shall apply, having regard to
+the provisions of Article 8 thereof.
+The period laid down in Article 5(6) of Decision 1999/468/EC
+shall be set at three months.
+Article 10
+Financing
+1. For at least the first year in which Community statistics
+as provided for in implementing measures adopted pursuant to
+this Regulation are produced by Member States, the
+Commission shall make a financial contribution to the Member
+States to help cover the costs incurred by them in producing,
+processing and transmitting those statistics. The amount of the
+financial contribution shall not exceed 90 % of such costs.
+2. The conditions and procedures for making the financial
+contribution and for its payment and control shall be in
+accordance with Council Regulation (EC, Euratom) No
+1605/2002 of 25 June 2002 on the Financial Regulation
+applicable to the general budget of the European
+Communities (1).
+3. If budgetary conditions so permit, the Commission shall
+continue to make a financial contribution to Member States in
+order to help offset the costs of providing these statistics in
+subsequent years.
+4. The budgetary authority shall authorise the
+appropriations available for such financial contribution in the
+framework of the annual budgetary procedures of the
+European Communities.
+Article 11
+Entry into force
+This Regulation shall enter into force on the twentieth day
+following that of its publication in the Official Journal of the
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Strasbourg, 21 April 2004.
+For the European Parliament
+The President
+P. COX
+For the Council
+The President
+D. ROCHE
+(1) OJ L 248, 16.9.2002, p. 1.
+30.4.2004 L 143/51Official Journal of the European UnionEN
+ANNEX I
+Module 1: Enterprises and the information society
+a) Aims
+The aim of this module is the timely provision of statistics on enterprises and the information society. This module
+provides a framework for the requirements in terms of coverage, duration and periodicity, subjects covered,
+breakdowns of data provision and any necessary pilot studies.
+b) Coverage
+This module covers business activities within Sections D to K and Division 92 of the statistical classification of
+economic activities in the European Community (NACE REV. 1.1). Section J will be included subject to successful
+prior pilot studies.
+The statistics will be compiled for enterprise units.
+c) Duration and periodicity of data provision
+Statistics will be provided annually for up to five reference years following the date of entry into force of this
+Regulation. Not all characteristics will necessarily be provided each year; the periodicity of provision for each
+characteristic will be specified and agreed upon as part of the implementing measures referred to in Article 8.
+d) Subjects covered
+The characteristics to be provided will be drawn from the following list of subjects:
+— ICT systems and their usage in enterprises,
+— use of internet and other electronic networks by enterprises,
+— e-commerce and e-business processes,
+— ICT competence in the enterprise unit and the demand for ICT skills,
+— barriers to use of ICT, internet and other electronic networks, e-commerce and e-business processes,
+— ICT expenditure and investment,
+— ICT security,
+— perceived effects of ICT usage on enterprises.
+Not all subjects will necessarily be covered each year.
+e) Breakdowns of data provision
+Not all breakdowns will necessarily be provided each year; the breakdowns required will be drawn from the
+following list and agreed upon as part of the implementing measures:
+— by size class,
+— by NACE heading,
+— by region: regional breakdowns will be limited to no more than three groupings.
+L 143/52 30.4.2004Official Journal of the European UnionEN
+f) Pilot studies
+Whenever significant new data requirements are identified or insufficient quality of data is to be expected, the
+Commission will institute pilot studies to be completed on a voluntary basis by the Member States before any data
+collection. Such pilot studies will be carried out in order to assess the feasibility of the relevant data collection,
+taking into consideration the benefits of the availability of the data in relation to the collection costs and the
+burden on respondents.
+30.4.2004 L 143/53Official Journal of the European UnionEN
+ANNEX II
+Module 2: Individuals, households and the information society
+a) Aims
+The aim of this module is the timely provision of statistics on individuals, households and the information society.
+This module provides a framework for the requirements in terms of coverage, duration and periodicity, subjects
+covered, breakdowns of data provision and any necessary pilot studies.
+b) Coverage
+This module covers statistics about individuals and households.
+c) Duration and periodicity of data provision
+Statistics will be provided annually for up to five reference years following the date of entry into force of this
+Regulation. Not all characteristics will necessarily be provided each year; the periodicity of provision for each
+characteristic will be specified and agreed upon as part of the implementing measures referred to in Article 8.
+d) Subjects covered
+The characteristics to be provided will be drawn from the following list of subjects:
+— access to and use of ICT systems by individuals and/or in households,
+— use of internet for different purposes by individuals and/or in households,
+— ICT security,
+— ICT competence,
+— barriers to use of ICT and the Internet,
+— perceived effects of ICT usage on individuals and/or on households.
+Not all subjects will necessarily be covered each year.
+e) Breakdowns of data provision
+Not all breakdowns will necessarily be provided each year; the breakdowns required will be drawn from the
+following list and agreed upon as part of the implementing measures:
+A. for statistics supplied for households:
+— by household type;
+B. for statistics supplied for individuals:
+— by age group,
+— by sex,
+— by education level,
+— by employment situation,
+— by region.
+L 143/54 30.4.2004Official Journal of the European UnionEN
+f) Pilot studies
+Whenever significant new data requirements are identified or insufficient quality of data is to be expected, the
+Commission will institute pilot studies to be completed on a voluntary basis by the Member States before any data
+collection. Such pilot studies will be carried out in order to assess the feasibility of the relevant data collection,
+taking into consideration the benefits of the availability of the data in relation to the collection costs and the
+burden on respondents.
+30.4.2004 L 143/55Official Journal of the European UnionEN

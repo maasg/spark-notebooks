@@ -1,0 +1,307 @@
+REGOLAMENTO (CE) N. 808/2004 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO
+del 21 aprile 2004
+relativo alle statistiche comunitarie sulla società dell'informazione
+(Testo rilevante ai fini del SEE)
+IL PARLAMENTO EUROPEO E IL CONSIGLIO
+DELL'UNIONE EUROPEA,
+visto il trattato che istituisce la Comunità europea, in partico-
+lare l'articolo 285, paragrafo 1,
+vista la proposta della Commissione,
+deliberando secondo la procedura di cui all'articolo 251 del
+trattato (1),
+considerando quanto segue:
+(1) Il Consiglio europeo di Lisbona del marzo 2000 ha sta-
+bilito l'obiettivo di fare dell'Europa, entro il 2010, l'eco-
+nomia basata sulla conoscenza più competitiva e più
+dinamica del mondo.
+(2) Il piano d'azione eEurope 2002, adottato dal Consiglio
+europeo di Feira nel giugno 2000, ha istituito un pro-
+cesso di fissazione degli obiettivi e di analisi comparativa
+al fine di mettere l'Europa online il più rapidamente pos-
+sibile.
+(3) Il Consiglio europeo di Siviglia del giugno 2002 ha
+adottato gli obiettivi del piano d'azione eEurope 2005,
+che richiede una base giuridica per garantire la fornitura
+regolare di dati comparabili da parte degli Stati membri
+e per consentire un maggiore impiego di statistiche uffi-
+ciali sulla società dell'informazione.
+(4) Gli indicatori strutturali utilizzati nella relazione annuale
+di primavera al Consiglio europeo richiedono indicatori
+fondati su informazioni statistiche coerenti provenienti
+dall'area della società dell'informazione.
+(5) Il processo di analisi comparativa di eEurope, che fa
+parte dell'attuazione dei piani d'azione eEurope, richiede
+indicatori basati su informazioni statistiche coerenti pro-
+venienti dall'area della società dell'informazione.
+(6) Ai servizi della Commissione occorrono statistiche
+armonizzate su base annuale relative all'utilizzo delle
+tecnologie dell'informazione e della comunicazione (TIC)
+nelle imprese.
+(7) Ai servizi della Commissione occorrono statistiche
+armonizzate su base annuale relative all'utilizzo delle
+TIC da parte degli individui e delle famiglie.
+(8) La rapida evoluzione del settore della società dell'infor-
+mazione richiede statistiche adeguate ai nuovi sviluppi.
+Tale esigenza può essere soddisfatta mediante l'impiego
+di moduli a durata limitata e l'introduzione di modifiche
+mediante misure d'esecuzione che tengano conto delle
+risorse degli Stati membri, degli oneri sui rispondenti,
+della fattibilità tecnica e metodologica e dell'affidabilità
+dei risultati.
+(9) La produzione di statistiche comunitarie specifiche è
+disciplinata dalle disposizioni di cui al regolamento (CE)
+n. 322/97 del Consiglio, del 17 febbraio 1997, relativo
+alle statistiche comunitarie (2).
+(10) Poiché l'obiettivo dell'azione proposta, vale a dire l'istitu-
+zione di un quadro comune per la produzione sistema-
+tica di statistiche comunitarie sulla società dell'informa-
+zione, non può essere realizzato in misura sufficiente
+dagli Stati membri e può dunque, a motivo delle dimen-
+sioni o degli effetti dell'azione in questione, essere realiz-
+zato meglio a livello comunitario, la Comunità può
+intervenire in base al principio di sussidiarietà sancito
+dall'articolo 5 del trattato. Il presente regolamento si
+limita a quanto necessario per conseguire tale scopo in
+ottemperanza al principio di proporzionalità enunciato
+nello stesso articolo.
+(11) Le misure necessarie per l'attuazione del presente regola-
+mento sono adottate secondo la decisione 1999/468/CE
+del Consiglio, del 28 giugno 1999, recante modalità per
+l'esercizio delle competenze di esecuzione conferite alla
+Commissione (3).
+(12) Il Comitato del programma statistico, istituito dalla deci-
+sione 89/382/CEE, Euratom del Consiglio (4) è stato
+consultato conformemente all'articolo 3 della suddetta
+decisione,
+(1) Parere del Parlamento europeo del 29 gennaio 2004 (non ancora
+pubblicato nella Gazzetta ufficiale) e decisione del Consiglio del 16
+aprile 2004.
+(2) GU L 52 del 22.2.1997, pag. 1. Regolamento modificato dal regola-
+mento (CE) n. 1882/2003 del Parlamento europeo e del Consiglio
+(GU L 284 del 31.10.2003, pag. 1).
+(3) GU L 184 del 17.7.1999, pag. 23.
+(4) GU L 181 del 28.6.1989, pag. 47.
+30.4.2004 L 143/49Gazzetta ufficiale dell'Unione europeaIT
+HANNO ADOTTATO IL PRESENTE REGOLAMENTO:
+Articolo 1
+Obiettivo
+L'obiettivo del presente regolamento è quello di istituire un
+quadro comune per la produzione sistematica di statistiche
+comunitarie sulla società dell'informazione.
+Articolo 2
+Definizioni
+Ai fini del presente regolamento:
+a) il termine «statistiche comunitarie» ha il significato corri-
+spondente a quanto definito nell'articolo 2 del regolamento
+(CE) n. 322/97;
+b) il termine «produzione di statistiche» ha il significato corri-
+spondente a quanto definito nell'articolo 2 del regolamento
+(CE) n. 322/97;
+c) con «periodo di riferimento» si intende il periodo a cui si
+riferiscono i dati;
+d) con «anno di riferimento» si intende l'anno solare a cui si
+riferiscono i dati raccolti;
+e) con «periodo di raccolta» si intende un periodo specificato
+nelle misure d'esecuzione durante il quale viene eseguita la
+raccolta dei dati.
+Articolo 3
+Campo di applicazione
+1. Le statistiche da produrre includono informazioni neces-
+sarie per il processo di analisi comparativa di eEurope e utili
+per gli indicatori strutturali nonché altre informazioni necessa-
+rie a fornire una base uniforme per l'analisi della società dell'in-
+formazione.
+2. Le statistiche vanno raggruppate in moduli, come definito
+negli allegati I e II.
+Articolo 4
+Moduli
+I moduli di cui al presente regolamento coprono le seguenti
+unità statistiche:
+— imprese e società dell'informazione, come definito nell'alle-
+gato I,
+— individui, famiglie e società dell'informazione, come defi-
+nito nell'allegato II.
+Articolo 5
+Manuale metodologico
+La Commissione in stretta cooperazione con gli Stati membri
+elabora e aggiorna, in funzione delle necessità create da nuove
+misure d'esecuzione, un manuale metodologico che contiene le
+linee guida raccomandate per le statistiche comunitarie pro-
+dotte a norma del presente regolamento.
+Articolo 6
+Trasmissione dei dati
+1. Gli Stati membri trasmettono i dati aggregati e i metadati
+richiesti dal presente regolamento e dalle relative misure d'ese-
+cuzione, inclusi i dati aggregati riservati, alla Commissione (Eu-
+rostat) conformemente alle disposizioni comunitarie esistenti
+sulla trasmissione di dati soggetti al segreto statistico. Tali
+disposizioni comunitarie si applicano al trattamento dei risulta-
+ti, nel caso in cui comprendano dati riservati.
+2. Gli Stati membri trasmettono i dati e i metadati richiesti
+dal presente regolamento in forma elettronica, conformemente
+a uno standard di scambio concordato tra la Commissione e
+gli Stati membri.
+Articolo 7
+Criteri qualitativi e relazioni
+1. La Commissione (Eurostat) valuta la qualità dei dati tra-
+smessi.
+2. La Commissione (Eurostat), in stretta cooperazione con
+gli Stati membri, sviluppa regole comuni raccomandate al fine
+di garantire la qualità (conformemente ai criteri qualitativi stan-
+dard di Eurostat) dei dati forniti. Tali regole sono pubblicate
+nel manuale metodologico.
+3. Gli Stati membri prendono tutti i provvedimenti neces-
+sari per garantire la qualità dei dati trasmessi.
+4. Entro un periodo fisso dopo la scadenza per la trasmis-
+sione dei risultati finali gli Stati membri presentano alla Com-
+missione (Eurostat) una relazione sulla qualità dei dati trasmessi
+sulla base delle regole di cui al paragrafo 2. Tali relazioni indi-
+cano i casi in cui tali regole non sono state osservate. Tale
+periodo è concordato durante l'elaborazione delle misure di
+esecuzione.
+L 143/50 30.4.2004Gazzetta ufficiale dell'Unione europeaIT
+Articolo 8
+Misure di esecuzione
+1. Le misure di esecuzione per i moduli del presente regola-
+mento riguardano la selezione, la specificazione, l'adeguamento
+e la modifica delle tematiche e delle loro caratteristiche, il
+campo di osservazione, i periodi di riferimento e le suddivi-
+sioni delle caratteristiche, la periodicità e il calendario per la
+presentazione dei dati e le scadenze per la trasmissione dei
+risultati.
+2. Le misure di esecuzione, incluso l'adeguamento e l'aggior-
+namento delle misure per tenere conto dell'evoluzione econo-
+mica e tecnologica, sono stabilite secondo la procedura di cui
+all'articolo 9, paragrafo 2, tenendo conto delle risorse degli
+Stati membri e degli oneri sui rispondenti, della fattibilità tec-
+nica e metodologica e dell'affidabilità dei risultati.
+3. Le misure di esecuzione sono elaborate almeno nove
+mesi prima dell'inizio del periodo di raccolta dei dati.
+Articolo 9
+Comitato
+1. La Commissione è assistita dal comitato del programma
+statistico, istituito dalla decisione 89/382/CEE, Euratom, in pro-
+sieguo «il comitato».
+2. Nei casi in cui è fatto riferimento al presente paragrafo, si
+applicano gli articoli 5 e 7 della decisione 1999/468/CE,
+tenendo conto delle disposizioni dell'articolo 8 della stessa.
+Il periodo di cui all'articolo 5, paragrafo 6, della decisione
+1999/468/CE è fissato a tre mesi.
+Articolo 10
+Finanziamento
+1. Per almeno il primo anno di produzione da parte degli
+Stati membri delle statistiche comunitarie previste dalle misure
+di esecuzione adottate conformemente al presente regolamento
+la Commissione attribuisce un sostegno finanziario agli Stati
+membri al fine di contribuire a coprire i costi sostenuti per la
+produzione, elaborazione e trasmissione di tali statistiche. L'en-
+tità del sostegno finanziario non supera il 90 % di detti costi.
+2. Le condizioni e le procedure per l'attribuzione del soste-
+gno finanziario, nonché per il versamento e il controllo del
+medesimo sono conformi al regolamento (CE, Euratom) n.
+1605/2002 del Consiglio, del 25 giugno 2002, che stabilisce il
+regolamento finanziario applicabile al bilancio generale delle
+Comunità europee (1).
+3. Qualora le condizioni di bilancio lo consentano, la Com-
+missione continua a fornire il sostegno finanziario agli Stati
+membri per contribuire a coprire i costi connessi alla fornitura
+delle statistiche negli anni successivi.
+4. L'autorità di bilancio autorizza gli stanziamenti disponi-
+bili per tale sostegno finanziario nel quadro delle procedure di
+bilancio annuali delle Comunità europee.
+Articolo 11
+Entrata in vigore
+Il presente regolamento entra in vigore il ventesimo giorno
+successivo alla pubblicazione nella Gazzetta ufficiale dell'Unione
+europea.
+Il presente regolamento è obbligatorio in tutti i suoi elementi e direttamente applicabile in
+ciascuno degli Stati membri.
+Fatto a Strasburgo, addì 21 aprile 2004.
+Per il Parlamento europeo
+Il Presidente
+P. COX
+Per il Consiglio
+Il Presidente
+D. ROCHE
+(1) GU L 248 del 16.9.2002, pag. 1.
+30.4.2004 L 143/51Gazzetta ufficiale dell'Unione europeaIT
+ALLEGATO I
+Modulo 1: imprese e società dell'informazione
+a) Obiettivi
+Il presente modulo è inteso a fornire tempestivamente statistiche sulle imprese e la società dell'informazione. Esso
+fornisce un quadro per i requisiti riguardanti il campo di osservazione, la durata e la periodicità, le tematiche tratta-
+te, le suddivisioni della fornitura dei dati e gli eventuali progetti pilota necessari.
+b) Campo di osservazione
+Il presente modulo copre le attività imprenditoriali di cui alle sezioni da D a K e alla divisione 92 della classifica-
+zione statistica delle attività economiche nella Comunità europea (NACE REV. 1.1). La sezione J sarà inclusa a
+seconda del successo dei progetti pilota preliminari.
+Le statistiche saranno prodotte con riferimento alle unità statistiche imprese.
+c) Durata e periodicità della fornitura dei dati
+I dati saranno prodotti annualmente per un massimo di cinque anni di riferimento successivamente alla data di
+entrata in vigore del presente regolamento. Non tutte le caratteristiche saranno necessariamente fornite ogni anno;
+la periodicità della fornitura di ciascuna caratteristica sarà specificata e concordata nell'ambito delle misure di esecu-
+zione di cui all'articolo 8.
+d) Tematiche trattate
+Le caratteristiche da fornire saranno scelte dal seguente elenco di tematiche:
+— sistemi TIC e loro utilizzo nelle imprese,
+— impiego di Internet e di altre reti elettroniche da parte delle imprese,
+— processi di e-Commerce ed e-Business,
+— competenza in materia di TIC nell'unità di impresa e domanda di personale qualificato in TIC,
+— ostacoli all'utilizzo di TIC, Internet e altre reti elettroniche, ai processi di e-Commerce ed e-Business,
+— spese e investimenti in TIC,
+— sicurezza delle TIC,
+— effetti dell'impiego di TIC percepiti nelle imprese.
+Non tutte le tematiche saranno necessariamente trattate ogni anno.
+e) Suddivisioni dei dati da fornire
+Non tutte le suddivisioni dei dati saranno necessariamente fornite ogni anno; quelle necessarie saranno scelte dal
+seguente elenco e concordate nell'ambito delle misure d'esecuzione:
+— per classe dimensionale di impresa,
+— per sezione NACE,
+— per regione; le suddivisioni regionali saranno limitate a non più di tre gruppi.
+L 143/52 30.4.2004Gazzetta ufficiale dell'Unione europeaIT
+f) Progetti pilota
+Qualora siano individuate richieste significative di nuovi dati o si preveda che la qualità dei dati sia insufficiente, la
+Commissione istituirà progetti pilota che vanno eseguiti su base volontaria dagli Stati membri prima di qualsiasi
+raccolta dati. Tali progetti pilota saranno realizzati per valutare la fattibilità della raccolta dati pertinente, tenendo
+conto dei vantaggi della disponibilità dei dati in relazione ai costi della raccolta e agli oneri sui rispondenti.
+30.4.2004 L 143/53Gazzetta ufficiale dell'Unione europeaIT
+ALLEGATO II
+Modulo 2: individui, famiglie e società dell'informazione
+a) Obiettivi
+Il presente modulo è inteso a fornire tempestivamente statistiche su individui, famiglie e società dell'informazione.
+Esso fornisce un quadro per i requisiti riguardanti il campo di applicazione, la durata e la periodicità, le tematiche
+trattate, le suddivisioni della fornitura dei dati e gli eventuali progetti pilota necessari.
+b) Campo di applicazione
+Il presente modulo riguarda le statistiche relative agli individui e alle famiglie.
+c) Durata e periodicità della fornitura dei dati
+I dati saranno prodotti annualmente per un massimo di cinque anni di riferimento successivamente alla data di
+entrata in vigore del presente regolamento. Non tutte le caratteristiche saranno necessariamente fornite ogni anno;
+la periodicità della fornitura di ciascuna caratteristica sarà specificata e concordata nell'ambito delle misure di esecu-
+zione di cui all'articolo 8.
+d) Tematiche trattate
+Le caratteristiche da fornire saranno scelte dal seguente elenco di tematiche:
+— accesso a ed utilizzo di sistemi TIC da parte di individui e/o famiglie,
+— utilizzo di Internet a vari scopi da parte di individui e/o famiglie,
+— sicurezza TIC,
+— competenza in materia di TIC,
+— ostacoli all'impiego di TIC e di Internet,
+— effetti dell'impiego di TIC percepiti dagli individui e/o le famiglie.
+Non tutte le tematiche saranno necessariamente trattate ogni anno.
+e) Suddivisioni dei dati da fornire
+Non tutte le suddivisioni dei dati saranno necessariamente fornite ogni anno; quelle necessarie saranno scelte dal
+seguente elenco e concordate nell'ambito delle misure d'esecuzione:
+A. Per le statistiche fornite concernenti le famiglie:
+— per tipo di famiglia
+B. Per le statistiche fornite concernenti gli individui:
+— per gruppo d'età,
+— per sesso,
+— per livello d'istruzione,
+— per situazione occupazionale,
+— per regione.
+L 143/54 30.4.2004Gazzetta ufficiale dell'Unione europeaIT
+f) Progetti pilota
+Qualora siano individuate richieste significative di nuovi dati o si preveda che la qualità dei dati sia insufficiente, la
+Commissione istituirà progetti pilota che vanno eseguiti su base volontaria dagli Stati membri prima di qualsiasi
+raccolta dati. Tali progetti pilota saranno realizzati per valutare la fattibilità della raccolta dati pertinente, tenendo
+conto dei vantaggi della disponibilità dei dati in relazione ai costi della raccolta e agli oneri sui rispondenti.
+30.4.2004 L 143/55Gazzetta ufficiale dell'Unione europeaIT

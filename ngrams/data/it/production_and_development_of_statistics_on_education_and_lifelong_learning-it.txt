@@ -1,0 +1,447 @@
+REGOLAMENTO (CE) N. 452/2008 DEL PARLAMENTO EUROPEO E DEL CONSIGLIO
+del 23 aprile 2008
+relativo alla produzione e allo sviluppo di statistiche sull’istruzione e sull’apprendimento permanente
+(Testo rilevante ai fini del SEE)
+IL PARLAMENTO EUROPEO E IL CONSIGLIO DELL’UNIONE EUROPEA,
+visto il trattato che istituisce la Comunità europea, in particolare
+l’articolo 285, paragrafo 1,
+vista la proposta della Commissione,
+previa consultazione del Comitato economico e sociale europeo,
+deliberando secondo la procedura di cui all’articolo 251 del
+trattato (1),
+considerando quanto segue:
+(1) La risoluzione del Consiglio del 5 dicembre 1994 sulla pro-
+mozione delle statistiche in materia di istruzione e forma-
+zione nell’Unione europea (2) invitava la Commissione, in
+stretta cooperazione con gli Stati membri, ad accelerare lo
+sviluppo di statistiche relative all’istruzione e alla
+formazione.
+(2) Il Consiglio europeo tenutosi a Bruxelles il 22 e 23 marzo
+2005 ha deciso di rilanciare la strategia di Lisbona ed è
+giunto alla conclusione che l’Europa deve rinnovare le basi
+della sua competitività, aumentare il suo potenziale di cre-
+scita e la sua produttività e rafforzare la coesione sociale,
+ponendo in primo piano la conoscenza, l’innovazione e
+l’ottimizzazione del capitale umano. A questo riguardo,
+l’occupabilità, l’adattabilità e la mobilità dei cittadini sono
+vitali per l’Europa.
+(3) Per raggiungere tali obiettivi, è necessario che i sistemi
+europei d’istruzione e formazione si adattino alle esigenze
+della società della conoscenza nonché alla necessità di
+innalzare il livello dell’istruzione e di migliorare la qualità
+dell’occupazione. Le statistiche relative all’istruzione, alla
+formazione e all’apprendimento permanente sono di
+importanza fondamentale quale base per le decisioni
+politiche.
+(4) L’apprendimento permanente è un fattore essenziale per-
+ché si possa disporre di una manodopera competente, qua-
+lificata e adattabile. Nelle conclusioni della presidenza del
+Consiglio europeo della primavera 2005 è stato sottoli-
+neato che «il capitale umano è l’attivo più importante per
+l’Europa». Gli orientamenti integrati per la crescita e l’oc-
+cupazione, che includono gli orientamenti per le politiche
+degli Stati membri a favore dell’occupazione, adottati dal
+Consiglio nella sua decisione 2005/600/CE (3), intendono
+contribuire all’attuazione della strategia di Lisbona e defi-
+nire strategie globali per l’apprendimento permanente.
+(5) L’adozione nel febbraio 2001 della relazione del Consiglio
+«Obiettivi dei sistemi d’istruzione e di formazione» e nel
+febbraio 2002 del programma di lavoro decennale
+2001/2011 che fa seguito a tale relazione costituiscono
+una tappa importante nella realizzazione dell’impegno
+assunto dagli Stati membri di modernizzare e migliorare la
+qualità dei loro sistemi d’istruzione e di formazione. Gli
+indicatori e i livelli di riferimento del rendimento medio
+europeo («parametri di riferimento») sono tra gli strumenti
+del metodo aperto di coordinamento che hanno un parti-
+colare rilievo nel programma di lavoro «Istruzione e for-
+mazione 2010». Nel maggio 2003 i ministri dell’istruzione
+hanno compiuto un passo decisivo definendo cinque para-
+metri di riferimento europei a cui conformarsi entro il
+2010 e hanno sottolineato che questi criteri non defini-
+scono obiettivi nazionali né prescrivono decisioni destinate
+ad essere adottate da governi nazionali.
+(6) Il 24 maggio 2005 il Consiglio ha adottato le conclusioni
+sui «nuovi indicatori nel settore dell’istruzione e della for-
+mazione» (4), nelle quali ha invitato la Commissione a pre-
+sentargli strategie e proposte per lo sviluppo di nuovi
+indicatori in nove settori specifici dell’istruzione e della for-
+mazione e ha sottolineato altresì che l’elaborazione di
+nuovi indicatori dovrebbe rispettare pienamente la respon-
+sabilità degli Stati membri per l’organizzazione dei loro
+sistemi d’istruzione e non dovrebbe imporre un onere
+amministrativo o finanziario eccessivo alle organizzazioni
+e istituzioni interessate, né portare inevitabilmente all’uso
+di unmaggior numero di indicatori per valutare i progressi.
+(7) Nel novembre 2004 il Consiglio ha anche adottato conclu-
+sioni sulla cooperazione europea in materia di istruzione e
+formazione professionale e ha convenuto che a livello
+europeo debba essere considerato prioritario «il migliora-
+mento della portata, precisione e affidabilità delle statisti-
+che in materia di istruzione e formazione onde consentire
+una valutazione dei progressi compiuti».
+(1) Parere del Parlamento europeo del 25 settembre 2007 (non ancora
+pubblicato nella Gazzetta ufficiale) e decisione del Consiglio del 14 feb-
+braio 2008.
+(2) GU C 374 del 30.12.1994, pag. 4.
+(3) GU L 205 del 6.8.2005, pag. 21.
+(4) GU C 141 del 10.6.2005, pag. 7.
+4.6.2008 IT Gazzetta ufficiale dell’Unione europea L 145/227
+(8) L’esistenza di informazioni statistiche comparabili a livello
+comunitario è essenziale per l’elaborazione di strategie in
+materia d’istruzione e di apprendimento permanente e per
+il monitoraggio dei progressi realizzati nella loro attua-
+zione. La produzione di statistiche dovrebbe basarsi su un
+quadro di concetti coerenti e di dati comparabili in vista
+della creazione di un sistema europeo integrato d’informa-
+zione statistica in materia di istruzione, formazione e
+apprendimento permanente.
+(9) Nell’applicazione del presente regolamento si dovrebbe
+tenere conto del concetto di persone svantaggiate sul mer-
+cato del lavoro cui si fa riferimento negli orientamenti per
+le politiche degli Stati membri a favore dell’occupazione.
+(10) La Commissione (Eurostat) raccoglie dati sulla formazione
+professionale nelle imprese in conformità del regolamento
+(CE) n. 1552/2005 del Parlamento europeo e del Consiglio,
+del 7 settembre 2005, relativo alle statistiche sulla forma-
+zione professionale nelle imprese (1). Tuttavia, è necessa-
+rio un quadro giuridico più ampio per garantire la
+produzione e lo sviluppo sostenibili di statistiche sull’istru-
+zione e sull’apprendimento permanente che coprano
+almeno tutte le attività esistenti e in programma in questo
+settore. La Commissione (Eurostat) raccoglie dati annuali
+sull’istruzione presso gli Stati membri che cooperano
+volontariamente nel quadro di un’azione comune con l’Isti-
+tuto di statistica dell’Unesco (UIS) e l’Organizzazione per la
+Cooperazione e lo Sviluppo Economico (OCSE), nota come
+«raccolta di dati UOE». La Commissione (Eurostat) racco-
+glie anche dati sull’istruzione, la formazione e l’apprendi-
+mento permanente tramite altre fonti interne, come
+l’indagine dell’Unione europea sulle forze di lavoro (2) e le
+statistiche comunitarie sul reddito e sulle condizioni di
+vita (3), nonché per mezzo dei loro moduli appositi.
+(11) Dal momento che il processo di elaborazione e di monito-
+raggio delle politiche nel settore dell’istruzione e dell’ap-
+prendimento permanente è di natura dinamica e si adatta
+a un contesto in costante evoluzione, il quadro regolamen-
+tare statistico dovrebbe prevedere, in modo limitato e con-
+trollato, un certo grado di flessibilità, tenendo conto
+dell’onere imposto ai rispondenti e agli Stati membri.
+(12) Poiché l’obiettivo del presente regolamento, ossia la defi-
+nizione di norme statistiche comuni che permettano la
+produzione di dati armonizzati, non può essere realizzato
+in misura sufficiente dagli Stati membri e può dunque
+essere realizzato meglio a livello comunitario, la Comunità
+può intervenire, in base al principio di sussidiarietà sancito
+dall’articolo 5 del trattato. Il presente regolamento si limita
+a quanto è necessario per conseguire tale obiettivo in
+ottemperanza al principio di proporzionalità enunciato
+nello stesso articolo.
+(13) La produzione di statistiche comunitarie specifiche è disci-
+plinata dalle disposizioni del regolamento (CE) n. 322/97
+del Consiglio, del 17 febbraio 1997, relativo alle statisti-
+che comunitarie (4).
+(14) Il presente regolamento garantisce il pieno rispetto del
+diritto alla protezione dei dati di carattere personale di cui
+all’articolo 8 della Carta dei diritti fondamentali dell’Unione
+europea.
+(15) La trasmissione di dati coperti dal segreto statistico è disci-
+plinata dalle disposizioni del regolamento (CE) n. 322/97
+e dal regolamento (Euratom, CEE) n. 1588/90 del Consi-
+glio, dell’11 giugno 1990, relativo alla trasmissione all’Isti-
+tuto statistico delle Comunità europee di dati statistici
+coperti dal segreto (5).
+(16) Il regolamento (CE) n. 831/2002 della Commissione, del
+17 maggio 2002, recante attuazione del regolamento (CE)
+n. 322/97 del Consiglio relativo alle statistiche comunita-
+rie, per quanto riguarda l’accesso ai dati riservati per fini
+scientifici (6), stabilisce le condizioni nelle quali può essere
+concesso l’accesso a dati riservati trasmessi all’autorità
+comunitaria.
+(17) Le misure necessarie per l’esecuzione del presente regola-
+mento dovrebbero essere adottate secondo la decisione
+1999/468/CE del Consiglio, del 28 giugno 1999, recante
+modalità per l’esercizio delle competenze di esecuzione
+conferite alla Commissione (7).
+(18) In particolare, la Commissione dovrebbe avere il potere di
+selezionare e specificare i temi delle statistiche, le loro
+caratteristiche in funzione delle esigenze politiche o tecni-
+che, i dettagli di dette caratteristiche, il periodo di osserva-
+zione e i termini per la trasmissione dei risultati, i requisiti
+di qualità, inclusi la precisione richiesta e il quadro di docu-
+mentazione della qualità. Tali misure di portata generale e
+intese a modificare elementi non essenziali del presente
+regolamento, anche completandolo con nuovi elementi
+non essenziali, devono essere adottate secondo la proce-
+dura di regolamentazione con controllo di cui all’articolo 5
+bis della decisione 1999/468/CE.
+(1) GU L 255 del 30.9.2005, pag. 1.
+(2) Regolamento (CE) n. 2104/2002 della Commissione, del 28 novem-
+bre 2002, che adatta il regolamento (CE) n. 577/98 del Consiglio rela-
+tivo all’organizzazione di un’indagine per campione sulle forze di
+lavoro nella Comunità, e il regolamento (CE) n. 1575/2000 della Com-
+missione che attua il regolamento (CE) n. 577/98 del Consiglio per
+quanto concerne l’elenco delle variabili relative all’istruzione e alla for-
+mazione e i codici da utilizzare dal 2003 per la trasmissione dei dati
+(GU L 324 del 29.11.2002, pag. 14).
+(3) Regolamento (CE) n. 1983/2003 della Commissione, del 7 novembre
+2003, recante attuazione del regolamento (CE) n. 1177/2003 del Par-
+lamento europeo e del Consiglio relativo alle statistiche comunitarie
+sul reddito e sulle condizioni di vita (EU-SILC) per quanto riguarda
+l’elenco delle variabili target primarie (GU L 298 del 17.11.2003,
+pag. 34).
+(4) GU L 52 del 22.2.1997, pag. 1. Regolamento modificato dal regola-
+mento (CE) n. 1882/2003 del Parlamento europeo e del Consiglio
+(GU L 284 del 31.10.2003, pag. 1).
+(5) GU L 151 del 15.6.1990, pag. 1. Regolamento modificato dal regola-
+mento (CE) n. 322/97.
+(6) GU L 133 del 18.5.2002, pag. 7. Regolamento modificato da ultimo
+dal regolamento (CE) n. 1000/2007 (GU L 226 del 30.8.2007, pag. 7).
+(7) GU L 184 del 17.7.1999, pag. 23. Decisione modificata dalla decisione
+2006/512/CE (GU L 200 del 22.7.2006, pag. 11).
+L 145/228 IT Gazzetta ufficiale dell’Unione europea 4.6.2008
+(19) Il comitato del programma statistico istituito dalla deci-
+sione 89/382/CEE, Euratom del Consiglio (1) è stato con-
+sultato conformemente all’articolo 3 di tale decisione,
+HANNO ADOTTATO IL PRESENTE REGOLAMENTO:
+Articolo 1
+Oggetto
+Il presente regolamento stabilisce un quadro comune per la pro-
+duzione sistematica di statistiche comunitarie nel settore del-
+l’istruzione e dell’apprendimento permanente.
+Articolo 2
+Definizioni
+Ai fini del presente regolamento, s’intende per:
+a) «statistiche comunitarie», le statistiche comunitarie come defi-
+nite all’articolo 2, primo trattino, del regolamento (CE)
+n. 322/97;
+b) «produzione di statistiche», la produzione di statistiche come
+definita all’articolo 2, secondo trattino, del regolamento (CE)
+n. 322/97;
+c) «autorità nazionali», le autorità nazionali come definite all’ar-
+ticolo 2, terzo trattino, del regolamento (CE) n. 322/97;
+d) «istruzione», la comunicazione organizzata e duratura fina-
+lizzata all’apprendimento (2);
+e) «apprendimento permanente», qualsiasi attività di apprendi-
+mento intrapresa nelle varie fasi della vita al fine di miglio-
+rare le conoscenze, le capacità e le competenze in una
+prospettiva personale, civica, sociale e/o occupazionale (3);
+f) «micro-dati», i singoli dati statistici;
+g) «dati riservati», i dati che permettono unicamente un’identi-
+ficazione indiretta delle unità statistiche interessate, confor-
+memente al regolamento (CE) n. 322/97 e al regolamento
+(Euratom, CEE) n. 1588/90.
+Articolo 3
+Settori
+Il presente regolamento si applica alla produzione di statistiche in
+tre settori:
+a) il settore 1 comprende le statistiche relative ai sistemi d’istru-
+zione e di formazione;
+b) il settore 2 comprende le statistiche relative alla partecipa-
+zione degli adulti all’apprendimento permanente;
+c) il settore 3 comprende altre statistiche sull’istruzione e
+sull’apprendimento permanente, ad esempio le statistiche sul
+capitale umano o sui benefici sociali ed economici dell’istru-
+zione, non comprese nei settori 1 e 2.
+Le statistiche relative a questi settori sono prodotte secondo le
+modalità specificate nell’allegato.
+Articolo 4
+Azioni statistiche
+1. Le statistiche comunitarie nel campo dell’istruzione e
+dell’apprendimento permanente sono prodotte per mezzo delle
+seguenti azioni statistiche individuali:
+a) la trasmissione periodica da parte degli Stati membri di sta-
+tistiche sull’istruzione e l’apprendimento permanente, entro i
+termini fissati per i settori 1 e 2;
+b) l’uso di altri sistemi d’informazione statistica e altre indagini
+per ottenere variabili ed indicatori statistici supplementari
+sull’istruzione e sull’apprendimento permanente, corrispon-
+denti al settore 3;
+c) l’elaborazione, il miglioramento e l’aggiornamento di norme
+e di manuali riguardanti i quadri di riferimento, i concetti e i
+metodi statistici;
+d) il miglioramento della qualità dei dati nel contesto del qua-
+dro di qualità, onde includere:
+— la pertinenza,
+— la precisione,
+— l’attualità e la puntualità,
+— l’accessibilità e la chiarezza,
+— la comparabilità e
+— la coerenza.
+La Commissione tiene conto delle capacità di cui gli Stati membri
+dispongono per la raccolta dei dati e per l’elaborazione e lo svi-
+luppo di concetti e di metodi.
+Ove opportuno, particolare considerazione è data alla dimensione
+regionale dei dati raccolti. Ove opportuno, i dati sono sistemati-
+camente ripartiti per genere.
+(1) GU L 181 del 28.6.1989, pag. 47.
+(2) Secondo la classificazione internazionale tipo dell’istruzione, versione
+1997 (ISCED).
+(3) Risoluzione del Consiglio del 27 giugno 2002 sull’apprendimento per-
+manente (GU C 163 del 9.7.2002, pag. 1).
+4.6.2008 IT Gazzetta ufficiale dell’Unione europea L 145/229
+2. Per quanto possibile, la Commissione (Eurostat) coopera
+con l’UIS, l’OCSE e altre organizzazioni internazionali per garan-
+tire la comparabilità dei dati sul piano internazionale ed evitare
+duplicazioni degli sforzi, in particolare per quanto riguarda l’ela-
+borazione e il miglioramento dei concetti e dei metodi statistici e
+la trasmissione delle statistiche da parte degli Stati membri.
+3. Qualora emergano nuove rilevanti necessità di dati o sia
+constatata l’insufficienza della qualità di questi ultimi, la Commis-
+sione (Eurostat) organizza, prima di qualsiasi raccolta di dati, studi
+pilota che gli Stati membri realizzano su base volontaria, desti-
+nati a valutare la fattibilità della raccolta dei dati in questione,
+tenendo conto dei vantaggi offerti dalla disponibilità dei dati in
+rapporto ai costi della raccolta e all’onere per i rispondenti. Gli
+studi pilota non danno necessariamente luogo a disposizioni di
+attuazione corrispondenti.
+Articolo 5
+Trasmissione di microdati relativi ad individui
+Quando è necessario per la produzione di statistiche comunita-
+rie, gli Stati membri trasmettono alla Commissione (Eurostat)
+microdati riservati risultanti da indagini per campione conforme-
+mente alle disposizioni sulla trasmissione di dati riservati del rego-
+lamento (CE) n. 322/97 e del regolamento (Euratom, CEE)
+n. 1588/90. Gli Stati membri assicurano che i dati trasmessi non
+permettano di identificare direttamente le unità statistiche
+(singoli).
+Articolo 6
+Misure di attuazione
+1. Le seguenti misure intese a modificare elementi non essen-
+ziali del presente regolamento, completandolo, in particolare per
+tenere conto dell’evoluzione economica e tecnica per quanto
+riguarda la raccolta, la trasmissione e l’elaborazione dei dati, sono
+adottate secondo la procedura di regolamentazione con controllo
+di cui all’articolo 7, paragrafo 3, onde garantire la trasmissione di
+dati di elevata qualità:
+a) la selezione e la definizione dei temi compresi nei settori e
+delle loro caratteristiche in funzione delle esigenze politiche
+o tecniche;
+b) la ripartizione delle caratteristiche;
+c) il periodo di osservazione e i termini di trasmissione dei
+risultati;
+d) le esigenze di qualità, compresa la precisione richiesta;
+e) il quadro di documentazione della qualità.
+Qualora tali misure determinino la necessità di ampliare signifi-
+cativamente le raccolte di dati esistenti o di raccogliere nuovi dati
+o effettuare nuove indagini, le decisioni di attuazione sono basate
+su un’analisi del rapporto costi/benefici che costituisce parte inte-
+grante di un’analisi complessiva degli effetti e delle implicazioni,
+tenendo conto dei vantaggi offerti da tali misure, dei costi per gli
+Stati membri e dell’onere per i rispondenti.
+2. Le misure di cui al paragrafo 1 tengono conto in particolare:
+a) per tutti i settori, dell’onere potenziale per gli istituti di istru-
+zione e i singoli;
+b) per tutti i settori, dei risultati degli studi pilota di cui all’arti-
+colo 4, paragrafo 3;
+c) per il settore 1, degli ultimi accordi conclusi tra l’UIS, l’OCSE
+e la Commissione (Eurostat) sui concetti, le definizioni, il for-
+mato di raccolta dei dati, l’elaborazione dei dati, la periodi-
+cità e i termini per la trasmissione dei risultati;
+d) per il settore 2, dei risultati dell’indagine pilota sull’istruzione
+degli adulti svolta tra il 2005 e il 2007 e delle necessità di un
+ulteriore sviluppo;
+e) per il settore 3, della disponibilità, dell’adeguatezza e del con-
+testo giuridico delle fonti esistenti di dati comunitari, a
+seguito di una verifica esaustiva di tutte le fonti di dati
+esistenti.
+3. Qualora necessario e sempre sulla base di ragioni oggettive,
+ad uno o più Stati membri sono accordati deroghe e periodi di
+transizione limitati, adottati secondo la procedura di regolamen-
+tazione con controllo di cui all’articolo 7, paragrafo 2.
+Articolo 7
+Comitato
+1. La Commissione è assistita dal comitato del programma
+statistico.
+2. Nei casi in cui è fatto riferimento al presente paragrafo, si
+applicano gli articoli 5 e 7 della decisione 1999/468/CE, tenendo
+conto delle disposizioni dell’articolo 8 della stessa.
+Il periodo di cui all’articolo 5, paragrafo 6, della decisione
+1999/468/CE è fissato a tre mesi.
+3. Nei casi in cui è fatto riferimento al presente paragrafo, si
+applicano l’articolo 5 bis, paragrafi da 1 a 4, e l’articolo 7 della
+decisione 1999/468/CE, tenendo conto delle disposizioni dell’ar-
+ticolo 8 della stessa.
+L 145/230 IT Gazzetta ufficiale dell’Unione europea 4.6.2008
+Articolo 8
+Entrata in vigore
+Il presente regolamento entra in vigore il ventesimo giorno successivo alla pubblicazione nella Gazzetta uffi-
+ciale dell’Unione europea.
+Il presente regolamento è obbligatorio in tutti i suoi elementi e direttamente applicabile in cia-
+scuno degli Stati membri.
+Fatto a Strasburgo, addì 23 aprile 2008.
+Per il Parlamento europeo
+Il presidente
+H.-G. PÖTTERING
+Per il Consiglio
+Il presidente
+J. LENARČIČ
+4.6.2008 IT Gazzetta ufficiale dell’Unione europea L 145/231
+ALLEGATO
+SETTORI
+Settore 1: Sistemi di istruzione e di formazione
+1. Scopo
+La raccolta di dati per questo settore ha lo scopo di fornire dati comparabili su aspetti essenziali dei sistemi di istruzione
+e di formazione, in particolare sulla partecipazione ai programmi d’istruzione e sul loro completamento nonché sul costo
+e il tipo di risorse destinate all’istruzione e alla formazione.
+2. Ambito di applicazione
+La raccolta di dati copre tutte le attività interne d’istruzione, indipendentemente dalla proprietà degli istituti interessati o
+dalla forma di patrocinio da parte degli istituti interessati (pubblici o privati, nazionali o stranieri) e dai meccanismi di
+trasmissione dell’istruzione. Di conseguenza, i dati raccolti riguardano tutti i tipi di studenti e tutte le classi d’età.
+3. Temi
+Sono raccolti dati riguardanti:
+a) le iscrizioni degli studenti, comprese le caratteristiche di questi ultimi;
+b) i nuovi studenti;
+c) i laureati e le lauree;
+d) le spese di istruzione;
+e) il personale docente;
+f) le lingue straniere apprese;
+g) il numero di studenti per classe,
+che consentano di calcolare gli indicatori riguardanti le risorse impiegate, i processi e i risultati dei sistemi di istruzione
+e di formazione.
+Gli Stati membri comunicano informazioni appropriate (metadati) che descrivono le particolarità dei sistemi nazionali
+di istruzione e di formazione, la loro corrispondenza alle classificazioni internazionali nonché qualsiasi difformità
+rispetto alle specificazioni dei dati richiesti e ogni altra informazione indispensabile per l’interpretazione dei dati e la com-
+pilazione di indicatori comparabili.
+4. Periodicità
+Salvo indicazione contraria, i dati e i metadati sono trasmessi ogni anno entro i termini fissati di comune accordo dalla
+Commissione (Eurostat) e dalle autorità nazionali tenendo presenti gli accordi più recenti conclusi tra l’UIS, l’OCSE e la
+Commissione (Eurostat).
+Settore 2: Partecipazione degli adulti all’apprendimento permanente
+1. Scopo
+L’indagine in questo settore ha lo scopo di fornire dati comparabili sulla partecipazione e la mancata partecipazione degli
+adulti all’apprendimento permanente.
+L 145/232 IT Gazzetta ufficiale dell’Unione europea 4.6.2008
+2. Ambito di applicazione
+L’unità statistica è il singolo e i dati si riferiscono almeno alla popolazione di età compresa tra 25 e 64 anni. Quando le
+informazioni sono raccolte mediante indagine, vanno evitate per quanto possibile le risposte indirette.
+3. Temi
+I temi coperti dall’indagine sono i seguenti:
+a) partecipazione e mancata partecipazione alle attività di apprendimento;
+b) caratteristiche di tali attività;
+c) informazioni sulle competenze dichiarate;
+d) dati sociodemografici.
+Sono altresì raccolti dati, su base volontaria, sulla partecipazione ad attività sociali e culturali, quali variabili esplicative
+utili ad un’analisi ulteriore dei profili dei partecipanti e dei non partecipanti.
+4. Fonti dei dati e dimensioni del campione
+La fonte dei dati è un’indagine per campione. Le fonti di dati amministrativi possono essere utilizzate per ridurre l’onere
+per i rispondenti. Le dimensioni del campione sono determinate secondo requisiti di precisione che non richiedono che
+le dimensioni effettive del campione nazionale, calcolate sulla base di un campionamento casuale semplice, superino le
+5 000 persone. Entro detti limiti, si impongono considerazioni particolari in materia di campionamento per le sotto-
+popolazioni specifiche.
+5. Periodicità
+I dati sono raccolti ogni cinque anni e, la prima volta, non prima del 2010.
+Settore 3: Altre statistiche sull’istruzione e sull’apprendimento permanente
+1. Scopo
+La raccolta di dati per questo settore ha lo scopo di fornire dati ulteriori comparabili sull’istruzione e sull’apprendimento
+permanente che non rientrano nei settori 1 e 2, a sostegno delle politiche specifiche a livello comunitario.
+2. Ambito di applicazione
+Le altre statistiche sull’istruzione e sull’apprendimento permanente si riferiscono agli aspetti seguenti:
+a) statistiche sull’istruzione e l’economia, necessarie a livello comunitario per monitorare le politiche relative a istru-
+zione, ricerca, competitività e crescita;
+b) statistiche sull’istruzione e il mercato del lavoro, necessarie a livello comunitario per monitorare le politiche
+occupazionali;
+c) statistiche sull’istruzione e l’inclusione sociale, necessarie a livello comunitario per monitorare le politiche in mate-
+ria di povertà, inclusione sociale e integrazione dei migranti.
+Per quanto riguarda gli aspetti suesposti, i dati necessari sono tratti da fonti statistiche comunitarie esistenti.
+4.6.2008 IT Gazzetta ufficiale dell’Unione europea L 145/233

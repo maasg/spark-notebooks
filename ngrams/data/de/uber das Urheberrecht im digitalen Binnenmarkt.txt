@@ -1,0 +1,1507 @@
+DE DE
+EUROPÄISCHE
+KOMMISSION
+Brüssel, den 14.9.2016
+COM(2016) 593 final
+2016/0280 (COD)
+Vorschlag für eine
+RICHTLINIE DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+über das Urheberrecht im digitalen Binnenmarkt
+(Text von Bedeutung für den EWR)
+{SWD(2016) 301 final}
+{SWD(2016) 302 final}
+DE 2 DE
+BEGRÜNDUNG
+1. KONTEXT DES VORSCHLAGS
+• Gründe und Ziele des Vorschlags
+Die Entwicklung der Digitaltechniken hat zu Veränderungen bei der Schaffung, der
+Herstellung, der Verbreitung und der Verwertung von Werken und sonstigen
+Schutzgegenständen geführt. Es gibt neue Formen der Nutzung sowie neue Akteure und
+Geschäftsmodelle. Im digitalen Umfeld hat auch die grenzübergreifende Nutzung
+zugenommen und für Verbraucher sind neue Möglichkeiten des Zugangs zu urheberrechtlich
+geschützten Inhalten entstanden. Zwar behalten die im EU-Urheberrecht bereits festgelegten
+Ziele und Grundsätze ihre Gültigkeit, doch sind gewisse Anpassungen an diese neuen
+Realitäten erforderlich. Maßnahmen auf EU-Ebene sind außerdem notwendig, um eine
+Fragmentierung des Binnenmarktes zu verhindern. Vor diesem Hintergrund wurde in der im
+Mai 2015 verabschiedeten Strategie für einen digitalen Binnenmarkt1
+die Notwendigkeit
+festgestellt, „die Unterschiede zwischen den nationalen Urheberrechtssystemen zu verringern
+und den Nutzern EU-weit einen umfassenderen Online-Zugang zu geschützten Werken zu
+ermöglichen“. In dieser Mitteilung wurde die Bedeutung hervorgehoben, die der Erweiterung
+des grenzübergreifenden Zugangs zu urheberrechtlich geschützten Inhaltediensten
+(Portabilität), der Erleichterung neuer Formen der Nutzung in Forschung und Bildung, sowie
+der Klärung der Rolle von Online-Diensten bei der Verbreitung von Werken und sonstigen
+Schutzgegenständen zukommt. Im Dezember 2015 legte die Kommission eine Mitteilung mit
+dem Titel „Schritte zu einem modernen, europäischeren Urheberrecht“ vor2
+. Darin wurden
+gezielte Maßnahmen sowie eine langfristige Vision für die Modernisierung des Urheberrechts
+in der EU skizziert. Der vorliegende Vorschlag ist eine der Maßnahmen, mit denen bestimmte
+in der genannten Mitteilung aufgeführte Probleme gelöst werden sollen.
+Ausnahmen von den Urheberrechten und verwandten Schutzrechten sowie Beschränkungen
+dieser Rechte sind auf EU-Ebene harmonisiert. Manche dieser Ausnahmen dienen dem
+Erreichen allgemeiner Ziele der staatlichen Politik z. B. im Forschungs- oder
+Bildungsbereich. Da sich jedoch in letzter Zeit neue Arten der Nutzung herausgebildet haben,
+ist noch nicht sicher, ob diese Ausnahmen weiterhin geeignet sind, um für ein faires
+Gleichgewicht zwischen den Rechten und Interessen von Urhebern und anderen
+Rechteinhabern auf der einen und denen der Nutzer auf der anderen Seite zu sorgen.
+Außerdem greifen diese Ausnahmen nur auf nationaler Ebene und Rechtssicherheit bei
+grenzüberschreitenden Nutzungen ist nicht garantiert. In diesem Kontext hat die Kommission
+drei Bereiche für Maßnahmen festgelegt: digitale und grenzübergreifende Nutzung im
+Bildungsbereich, Text- und Data-Mining im Bereich der wissenschaftlichen Forschung und
+Erhaltung des kulturellen Erbes. Ziel ist es, die Rechtmäßigkeit bestimmter Nutzungsarten in
+diesen Bereichen – auch grenzübergreifend – zu gewährleisten. Die Schaffung eines
+moderneren Rahmens für Ausnahmen und Beschränkungen wird dazu führen, dass Forscher
+einen klareren Rechtsraum für die Nutzung innovativer Forschungswerkzeuge für Text- und
+Data-Mining vorfinden, Lehrer und Studierende auf allen Bildungsebenen in vollem Umfang
+von digitalen Technologien profitieren können und dass Einrichtungen des kulturellen Erbes
+(d. h. öffentlich zugängliche Bibliotheken, Museen, Archive oder im Bereich des Film- oder
+Tonerbes tätige Einrichtungen) Unterstützung bei ihren Bemühungen um den Schutz des
+kulturellen Erbes erhalten – womit letztendlich auch den Interessen der EU-Bürger gedient
+wird.
+
+1 COM(2015) 192 final.
+2 COM(2015) 626 final.
+DE 3 DE
+Obwohl die digitalen Technologien den grenzübergreifenden Zugang zu Werken und
+sonstigen Schutzgegenständen erleichtern sollten, bleiben Hindernisse bestehen, insbesondere
+für Nutzungsarten und Werke, bei denen die Klärung der Rechte komplex ist. Das ist der Fall
+bei Einrichtungen des kulturellen Erbes, die für in ihren Katalogen geführte vergriffene
+Werke einen auch grenzübergreifenden Online-Zugang gewähren möchten. Infolge dieser
+Hindernisse entgehen den europäischen Bürgern Möglichkeiten des Zugangs zu kulturellem
+Erbe. Der Vorschlag sieht zur Lösung dieser Probleme die Einführung eines speziellen
+Mechanismus vor, der für Einrichtungen des kulturellen Erbes den Abschluss von
+Lizenzvereinbarungen für die Verbreitung vergriffener Werke erleichtert. Bei den
+audiovisuellen Werken stellen Werke aus der EU trotz der wachsenden Bedeutung von
+Plattformen für Videoabruf nur ein Drittel der den Verbrauchern über solche Plattformen
+angebotenen Werke dar. Auch hier ist die mangelnde Verfügbarkeit zum Teil wieder auf die
+Komplexität des Verfahrens für die Klärung und den Erwerb von Rechten zurückzuführen.
+Der Vorschlag enthält Maßnahmen, die den Prozess der Lizenzgewährung sowie der Klärung
+und des Erwerbs von Rechten erleichtern sollen. Dadurch würde letztendlich für Verbraucher
+der grenzübergreifende Zugang zu urheberrechtlich geschützten Inhalten erleichtert.
+Die Entwicklung der digitalen Technologien hat zur Entstehung neuer Geschäftsmodelle
+geführt und die Rolle des Internet als wichtigsten Markt für die Verbreitung und den Zugang
+zu urheberrechtlich geschützten Inhalten gestärkt. In diesem neuen Umfeld sehen sich
+Rechteinhaber mit Schwierigkeiten konfrontiert, wenn sie eine Lizenzvergabe für ihre Rechte
+und eine Vergütung für den Vertrieb ihrer Werke über das Internet anstreben. Dadurch könnte
+die Entwicklung der Kreativität und die Produktion kreativer Inhalte in Europa gefährdet
+werden. Es muss daher gewährleistet werden, dass Urheber und Rechteinhaber einen fairen
+Anteil an der durch die Verwertung ihrer Werke und sonstigen Schutzgegenstände generierten
+Wertschöpfung erhalten. Der Vorschlag sieht daher Maßnahmen vor, die die Position der
+Rechteinhaber im Hinblick auf Verhandlungen und ihre Vergütung für die Verwertung ihrer
+Inhalte durch Online-Dienste, die von den Nutzern hochgeladene Inhalte zugänglich machen,
+verbessern sollen. Eine gerechte Aufteilung der Wertschöpfung ist auch notwendig, um die
+Tragfähigkeit des Sektors der Presseerzeugnisse zu gewährleisten. Für Presseverlage ist es mit
+Schwierigkeiten verbunden, Online-Lizenzen für ihre Erzeugnisse zu erlangen und einen
+fairen Anteil an der von ihnen erzeugten Wertschöpfung zu erhalten. Dadurch könnte
+letztendlich der Zugang der Bürger zu Informationen beeinträchtigt werden. Der Vorschlag
+sieht ein neues Recht für Presseverlage vor, das die Online-Lizenzierung ihrer Erzeugnisse,
+die Amortisierung ihrer Investitionen und die Stärkung ihrer Rechte erleichtern soll.
+Außerdem soll die Rechtsunsicherheit ausgeräumt werden, die bezüglich der Möglichkeit für
+alle Presseverlage, einen Anteil an der Entschädigung für die Nutzung von Werken im
+Rahmen einer Ausnahmeregelung zu erhalten, noch besteht. Auch befinden sich Urheber und
+ausübende Künstler im Rahmen ihrer Vertragsverhältnisse oft in einer schwachen
+Verhandlungsposition, wenn es um die Lizenzierung ihrer Rechte geht. Noch dazu ist die
+Transparenz der durch die Verwertung ihrer Werke oder Darbietungen entstandenen
+Einnahmen oft nach wie vor begrenzt. Hierdurch wird letztendlich die Vergütung der Autoren
+und ausübenden Künstler beeinträchtigt. Der Vorschlag enthält Maßnahmen zur Verbesserung
+der Transparenz und der Ausgewogenheit der Vertragsverhältnisse zwischen Autoren und
+ausübenden Künstlern einerseits und denjenigen, denen sie ihre Rechte übertragen,
+andererseits. Allgemein wird erwartet, dass die in Titel IV des Vorschlags vorgeschlagenen
+Maßnahmen, die auf die Schaffung eines funktionsfähigen Marktes für Urheberrechte
+abzielen, sich mittelfristig positiv auf die Produktion und die Verfügbarkeit von Inhalten und
+auf den Medienpluralismus auswirken und somit auch für die Verbraucher von Nutzen sind.
+DE 4 DE
+• Kohärenz mit den bestehenden Vorschriften in diesem Bereich
+Die Strategie für den digitalen Binnenmarkt verfolgt mit einer Reihe von Initiativen das Ziel,
+einen Binnenmarkt für digitale Inhalte und Dienste zu schaffen. Im Dezember 2015 tat die
+Kommission den ersten Schritt mit der Verabschiedung ihres Vorschlags für eine Verordnung
+des Europäischen Parlaments und des Rates zur Gewährleistung der grenzüberschreitenden
+Portabilität von Online-Inhaltediensten im Binnenmarkt3
+.
+Der vorliegende Vorschlag zielt darauf ab, eine Reihe der in der Mitteilung „Schritte zu einem
+modernen, europäischeren Urheberrecht“ aufgeführten gezielten Maßnahmen umzusetzen.
+Andere in der genannten Mitteilung aufgeführte Maßnahmen werden durch den „Vorschlag
+für eine Verordnung des Europäischen Parlaments und des Rates mit Vorschriften für die
+Wahrnehmung von Urheberrechten und verwandten Schutzrechten in Bezug auf bestimmte
+Online-Übertragungen von Rundfunkveranstaltern und die Weiterverbreitung von Fernsehund
+Hörfunkprogrammen“4
+, den „Vorschlag für eine Verordnung des Europäischen
+Parlaments und des Rates über den grenzüberschreitenden Austausch von Kopien bestimmter
+urheberrechtlich oder durch verwandte Schutzrechte geschützter Werke und sonstiger
+Schutzgegenstände in einem zugänglichen Format zwischen der Union und Drittländern
+zugunsten blinder, sehbehinderter oder anderweitig lesebehinderter Personen“5
+und den
+„Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über bestimmte
+zulässige Formen der Nutzung urheberrechtlich oder durch verwandte Schutzrechte
+geschützter Werke und sonstiger Schutzgegenstände zugunsten blinder, sehbehinderter oder
+anderweitig lesebehinderter Personen und zur Änderung der Richtlinie 2001/29/EG zur
+Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in
+der Informationsgesellschaft“6
+abgedeckt, die zeitgleich mit diesem Richtlinienvorschlag
+angenommen werden.
+Dieser Vorschlag steht in Einklang mit dem geltenden EU-Urheberrecht. Der Vorschlag
+basiert auf den und ergänzt die Vorschriften der Richtlinie 96/9/EG7
+, der Richtlinie
+2001/29/EG8
+, der Richtlinie 2006/115/EG9
+, der Richtlinie 2009/24/EG10, der Richtlinie
+2012/28/EU11 und der Richtlinie 2014/26/EU12. Diese Richtlinien sowie der vorliegende
+Vorschlag tragen zum Funktionieren des Binnenmarktes bei, gewährleisten ein hohes Maß an
+Schutz für Rechteinhaber und erleichtern die Klärung und den Erwerb von Rechten.
+
+3 COM(2015) 627 final.
+4 COM(2016) 594 final.
+5 COM(2016) 595 final.
+6 COM(2016) 596 final.
+7 Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den
+rechtlichen Schutz von Datenbanken (ABl. L 77 vom 27.3.1996, S. 20).
+8 Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur
+Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der
+Informationsgesellschaft (ABl. L 167 vom 22.6.2001, S. 10).
+9 Richtlinie 2006/115/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum
+Vermietrecht und Verleihrecht sowie zu bestimmten dem Urheberrecht verwandten Schutzrechten im
+Bereich des geistigen Eigentums (ABl. L 376 vom 27.12.2006, S. 28).
+10 Richtlinie 2009/24/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über den
+Rechtsschutz von Computerprogrammen (ABl. L 111 vom 5.5.2009, S. 16).
+11 Richtlinie 2012/28/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über
+bestimmte zulässige Formen der Nutzung verwaister Werke (ABl. L 299 vom 27.10.2012, S. 5).
+12 Richtlinie 2014/26/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
+kollektive Wahrnehmung von Urheber- und verwandten Schutzrechten und die Vergabe von
+Mehrgebietslizenzen für Rechte an Musikwerken für die Online-Nutzung im Binnenmarkt (ABl. L 84
+vom 20.3.2014, S. 72).
+DE 5 DE
+Dieser Vorschlag ergänzt die Richtlinie 2010/13/EU13 und den Vorschlag14 zu ihrer
+Änderung.
+• Kohärenz mit der Politik der Union in anderen Bereichen
+Dieser Vorschlag soll den Bildungs- und Forschungsbetrieb erleichtern, die Verbreitung
+europäischer kultureller Werte verbessern und sich positiv auf die kulturelle Vielfalt
+auswirken. Diese Richtlinie steht daher in Einklang mit den Artikeln 165, 167 und 179 des
+Vertrags über die Arbeitsweise der Europäischen Union (AEUV). Darüber hinaus fördert
+dieser Vorschlag fördert die Interessen der Verbraucher und steht, da er den Zugang zu
+urheberrechtlich geschützten Inhalten und ihre Verwertung erweitert, in Einklang mit der
+Politik der EU auf dem Gebiet des Verbraucherschutzes und mit Artikel 169 AEUV.
+2. RECHTSGRUNDLAGE, SUBSIDIARITÄT UND
+VERHÄLTNISMÄSSIGKEIT
+• Rechtsgrundlage
+Der Vorschlag stützt sich auf Artikel 114 AEUV. In diesem Artikel wird der EU die Befugnis
+übertragen, Maßnahmen zu erlassen, welche die Errichtung und das Funktionieren des
+Binnenmarkts zum Gegenstand haben.
+• Subsidiarität (bei nicht ausschließlicher Zuständigkeit)
+Da Ausnahmen und Beschränkungen von Urheberrechten und verwandten Schutzrechten auf
+EU-Ebene harmonisiert sind, ist der Handlungsspielraum der Mitgliedstaaten für die
+Schaffung oder Anpassung solcher Rechte begrenzt. Zudem wären Maßnahmen auf nationaler
+Ebene in Anbetracht des grenzübergreifenden Charakters der Problematik nicht ausreichend.
+Daher ist es erforderlich, auf EU-Ebene zu handeln, um volle Rechtssicherheit in Bezug auf
+grenzübergreifende Nutzungen in den Bereichen Bildung, Forschung und kulturelles Erbe
+sicherzustellen.
+Es wurden bereits auf nationaler Ebene einige Initiativen ergriffen, um die Verbreitung und
+vergriffener Werke und den Zugang zu ihnen zu erleichtern. Diese Initiativen bestehen jedoch
+nur in einigen Mitgliedstaaten und gelten nur im jeweiligen Hoheitsgebiet. Ein Handeln auf
+EU-Ebene ist daher erforderlich, um zu gewährleisten, dass Lizenzierungsmechanismen für
+den Zugang zu und die Verbreitung von vergriffenen Werken in allen Mitgliedstaaten
+verfügbar und grenzübergreifend wirksam sind. In Bezug auf die Online-Verwertung
+audiovisueller Werke muss zur Unterstützung der EU-weiten Verfügbarkeit europäischer
+Werke über Plattformen für Videoabruf die Aushandlung von Lizenzvereinbarungen in allen
+Mitgliedstaaten erleichtert werden.
+Die Online-Verbreitung urheberrechtlich geschützter Inhalte ist naturgemäß
+grenzübergreifend. Nur auf europäischer Ebene beschlossene Mechanismen könnten einen
+reibungslos funktionierenden Markt für die Verbreitung von Werken und sonstigen
+Schutzgegenständen gewährleisten und die Tragfähigkeit des Verlagswesens angesichts der
+Herausforderungen des digitalen Umfelds sicherstellen. Auch sollten Autoren und ausübende
+Künstler in allen Mitgliedstaaten das auf EU-Ebene festgelegte hohe Schutzniveau genießen.
+
+13 Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom 10. März 2010 zur
+Koordinierung bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die
+Bereitstellung audiovisueller Mediendienste (Richtlinie über audiovisuelle Mediendienste), ABl. L 95
+vom 15.4.2010, S. 1.
+14 COM(2016) 287 final.
+DE 6 DE
+Um das zu erreichen und Diskrepanzen zwischen den Mitgliedstaaten zu verhindern, müssen
+auf EU-Ebene ein einheitlicher Ansatz für Transparenzpflichten und Mechanismen festgelegt
+werden, die in bestimmten Fällen eine Anpassung der Verträge sowie die Beilegung von
+Streitigkeiten ermöglichen.
+• Verhältnismäßigkeit
+Der Vorschlag sieht verbindliche Ausnahmen vor, die von den Mitgliedstaaten anzuwenden
+sind. Diese Ausnahmen betreffen zentrale allgemeine Ziele der staatlichen Politik und
+Verwertungen mit grenzübergreifender Dimension. Die Ausnahmen sind auch mit
+Bedingungen verbunden, die gewährleisten, dass funktionierende Märkte und die Interessen
+von Rechteinhabern weiterhin gewahrt werden, sowie mit Anreizen für kreatives Schaffen
+und Investitionen. Sofern dies relevant ist und die Erreichung der Ziele der Richtlinie nicht
+gefährdet wird, wurde Raum für nationale Entscheidungen gelassen.
+Der Vorschlag verpflichtet die Mitgliedstaaten zur Schaffung von Mechanismen zur
+Erleichterung der Klärung und des Erwerbs von Urheber- und verwandten Schutzrechten für
+vergriffene Werke und für die Online-Verwertung audiovisueller Werke. Der Vorschlag zielt
+auf eine Erweiterung des Zugangs und der Verbreitung von Inhalten, allerdings unter der
+Voraussetzung, dass die Rechte von Urhebern und anderen Rechteinhabern gewahrt bleiben.
+Zu diesem Zweck wurden mehrere Schutzmechanismen eingerichtet (z. B. Opt-outMöglichkeiten,
+Erhalt von Lizenzierungsmöglichkeiten, freiwillige Beteiligung am
+Verhandlungsforum). Der Vorschlag geht nicht über das hinaus, was für die Erreichung des
+angestrebten Ziels erforderlich ist, lässt den Mitgliedstaaten genügend Raum für
+Entscheidungen über die Einzelheiten dieser Mechanismen und ist nicht mit
+unverhältnismäßigen Kosten verbunden.
+Der Vorschlag erlegt für einige Dienste der Informationsgesellschaft Verpflichtungen auf.
+Diese Verpflichtungen bleiben jedoch maßvoll angesichts der Art der abgedeckten Dienste,
+der wesentlichen Bedeutung dieser Dienste auf dem Markt für Online-Inhalte und der großen
+Mengen urheberrechtlich geschützter Inhalte, die von diesen Diensten gespeichert werden.
+Die Einführung eines verwandten Schutzrechts für Presseverlage dürfte die Rechtssicherheit
+verbessern und ihre Verhandlungsposition stärken, was das angestrebte Ziel ist. Der
+Vorschlag entspricht dem Grundsatz der Verhältnismäßigkeit, da er nur
+Presseveröffentlichungen und digitale Verwendungszwecke abdeckt. Der Vorschlag wird sich
+auch nicht rückwirkend auf Handlungen auswirken, die vor dem Datum der Umsetzung
+liegen, oder auf vor diesem Datum erworbene Rechte. Die in dem Vorschlag enthaltene
+Transparenzpflicht zielt lediglich auf die Schaffung von Ausgewogenheit in den vertraglichen
+Beziehungen zwischen Urhebern und ihren Vertragspartnern ab und respektiert gleichzeitig
+die Vertragsfreiheit.
+• Wahl des Instruments
+Der Vorschlag steht in Beziehung zu bestehenden Richtlinien und ändert diese in einigen
+Fällen. Er sieht auch einen Handlungsspielraum für die Mitgliedstaaten vor, soweit dies
+angemessen ist und das angestrebte Ziel es zulässt, wobei die Erreichung des Ziels eines
+funktionierenden Binnenmarktes sicherzustellen ist. Die Wahl der Richtlinie als Instrument ist
+daher angemessen.
+DE 7 DE
+3. ERGEBNISSE DER EX-POST-BEWERTUNG, DER KONSULTATION DER
+INTERESSENTRÄGER UND DER FOLGENABSCHÄTZUNG
+• Ex-post-Bewertung/Eignungsprüfungen bestehender Rechtsvorschriften
+Die Kommission führte zwischen 2013 und 2016 eine Überprüfung des bestehenden
+Urheberrechts durch, um „sicherzustellen, dass das Urheberrecht und damit
+zusammenhängende Praktiken [wie Lizenzverfahren] auch in diesem neuen digitalen Umfeld
+ihren Zweck weiterhin erfüllen“15. Auch wenn diese Überprüfung vor der Verabschiedung der
+Agenda der Kommission für eine bessere Rechtsetzung im Mai 201516 begann, wurde sie im
+Geiste der Leitlinien für eine bessere Rechtsetzung durchgeführt. Bei der Überprüfung zeigten
+sich insbesondere Probleme mit der Anwendung bestimmter Ausnahmen und ihre
+unzureichende grenzübergreifende Wirksamkeit17, ferner wurden in den letzten Jahren
+Schwierigkeiten bei der Nutzung urheberrechtlich geschützter Inhalte vor allem im digitalen
+und grenzübergreifenden Umfeld erkennbar.
+• Konsultation der Interessenträger
+Die Kommission führte mehrere Konsultationen der Interessenträger durch. Die Konsultation
+zur Überprüfung des EU-Urheberrechts vom 5. Dezember 2013 bis zum 5. März 201418
+vermittelte der Kommission einen Überblick über die Standpunkte der Interessenträger zur
+Überprüfung der EU-Rechtsvorschriften zum Urheberrecht, auch zu Ausnahmen und
+Beschränkungen und zur Vergütung für Urheber und ausübende Künstler. Die öffentliche
+Konsultation vom 24. September 2015 bis zum 6. Januar 2016 zum Regelungsumfeld für
+Plattformen, Online-Vermittler, Daten, Cloud-Computing und die partizipative Wirtschaft19
+lieferte Erkenntnisse und Standpunkte von allen Interessenträgern zur Rolle der Vermittler bei
+der Online-Verbreitung von Werken und sonstigen Schutzgegenständen. Schließlich fand
+vom 23. März 2016 bis zum 15. Juni 2016 eine öffentliche Konsultation zur Rolle der
+Verleger in der urheberrechtlichen Verwertungskette und zur „Panoramaausnahme“ statt.
+Dabei konnten insbesondere Kommentare zur möglichen Einführung eines neuen verwandten
+Schutzrechts für Verleger in das EU-Recht gesammelt werden.
+Die Kommission führte außerdem zwischen 2014 und 2016 Gespräche über die verschiedenen
+in dem Vorschlag behandelten Themen mit den jeweils betroffenen Interessenträgern.
+• Einholung und Nutzung von Expertenwissen
+Studien über die rechtlichen20 und wirtschaftlichen21 Fragen der Umsetzung der Richtlinie
+2001/29/EG befassten sich mit den wirtschaftlichen Auswirkungen der Anpassung einiger
+
+15 COM(2012) 789 final.
+16 COM(2015) 215 final.
+17 Im Hinblick auf die Ausnahme für die Veranschaulichung im Unterricht oder für Zwecke der
+wissenschaftlichen Forschung (da Text- und Data-Mining betroffen sind) bzw. bestimmte
+Vervielfältigungshandlungen (da Fragen der Erhaltung betroffen sind).
+18 Berichte über die Beiträge zur Konsultation abrufbar unter:
+http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/contributions/consultationreport_en.pdf
+19 Erste Ergebnisse abrufbar unterhttps://ec.europa.eu/digital-single-market/news/first-brief-results-publicconsultation-regulatory-environment-platforms-online-intermediaries
+20 Studie zur Umsetzung der Richtlinie 2001/29/EG über das Urheberrecht und verwandte Schutzrechte in
+der Informationsgesellschaft: http://ec.europa.eu/internal_market/copyright/studies/index_en.htm;
+Studie zum Rechtsrahmen für Text- und Data-Mining:
+http://ec.europa.eu/internal_market/copyright/docs/studies/1403_study2_en.pdf; Studie zum Recht auf
+Zugänglichmachung und seiner Beziehung zum Vervielfältigungsrecht bei grenzübergreifenden
+digitalen Übertragungen: http://ec.europa.eu/internal_market/copyright/docs/studies/141219-
+DE 8 DE
+Ausnahmen und Beschränkungen, dem Rechtsrahmen für Text- und Data-Mining und der
+Vergütung von Urhebern und ausübenden Künstlern.
+• Folgenabschätzung
+Für den Vorschlag wurde eine Folgenabschätzung durchgeführt22. Am 22. Juli 2016 gab der
+Ausschuss für Regulierungskontrolle eine befürwortende Stellungnahme zu der
+Folgenabschätzung mit der Maßgabe ab, dass sie weiter zu verbessern wäre23. In der
+endgültigen Folgenabschätzung finden die in dieser Stellungnahme enthaltenen Anmerkungen
+Berücksichtigung.
+In der Folgenabschätzung werden die Basisszenarios, Politikoptionen und ihre Auswirkungen
+für acht Bereiche untersucht, die drei Kapiteln zugeordnet sind: i) Gewährleistung eines
+breiteren Zugangs zu Inhalten, ii) Anpassung von Ausnahmen an ein digitales und
+grenzübergreifendes Umfeld, und iii) Schaffung eines gut funktionierenden Marktes für
+Urheberrechte. Die Auswirkungen auf die einzelnen Interessenträger wurden für jede
+Politikoption untersucht; dabei wurde insbesondere unter Berücksichtigung der
+überwiegenden Zahl von KMU in der Kreativwirtschaft festgestellt, dass die Einführung einer
+spezifischen Regelung nicht angemessen wäre, da sie sich kontraproduktiv auswirken würde.
+Die Politikoptionen zu den einzelnen Bereichen werden im Folgenden kurz dargestellt.
+Zugänglichkeit und Verfügbarkeit audiovisueller Werke auf Plattformen für den Videoabruf:
+Eine nicht legislative Option (Option 1), die lediglich die Durchführung eines Dialogs mit den
+Interessenträgern über Lizensierungsfragen vorsah, wurde nicht weiter verfolgt, da sie für die
+Beseitigung bestimmter Hindernisse als unzureichend erachtet wurde. Die gewählte Option
+(Option 2) kombiniert die Durchführung eines Dialogs mit den Interessenträgern mit der
+Verpflichtung der Mitgliedstaaten zur Schaffung eines Verhandlungsmechanismus.
+Vergriffene Werke: Nach Option 1 sollten die Mitgliedstaaten rechtliche Mechanismen mit
+grenzübergreifender Wirkung einrichten, um Lizenzvereinbarungen für vergriffene Werke
+und Fachzeitschriften zu erleichtern, und einen Dialog mit den Interessenträgern auf
+nationaler Ebene durchführen, um die Umsetzung dieses Mechanismus zu unterstützen.
+Option 2 ging weiter, da sie alle Arten vergriffener Werke einbezog. Dieser breitere Ansatz
+wurde als notwendig erachtet, um Lizenzen für vergriffene Werke in allen Bereichen zu
+erfassen. Daher fiel die Entscheidung zugunsten von Option 2.
+Nutzung von Werken und sonstigen Schutzgegenständen für digitale und grenzübergreifende
+Lehrtätigkeiten: Option 1 basierte auf der Unterstützung der Mitgliedstaaten bei der
+Anwendung der bestehenden Ausnahme für Lehrtätigkeiten im digitalen Umfeld und der
+Organisation eines Dialogs mit den Interessenträgern. Dies wurde jedoch nicht als
+
+study_en.pdf; Studie zur Vergütung von Urhebern und ausübenden Künstlern für die Verwertung ihrer
+Werke und die Aufzeichnung ihrer Darbietungen: https://ec.europa.eu/digital-singlemarket/en/news/commission-gathers-evidence-remuneration-authors-and-performers-use-their-worksand-fixations;
+Study on the remuneration of authors of books and scientific journals, translators,
+journalists and visual artists for the use of their works: [hyperlink to be included – publication pending]
+21 Studie „Assessing the economic impacts of adapting certain limitations and exceptions to copyright and
+related rights in the EU“: http://ec.europa.eu/internal_market/copyright/docs/studies/131001-
+study_en.pdf und „Assessing the economic impacts of adapting certain limitations and exceptions to
+copyright and related rights in the EU – Analysis of specific policy options“:
+http://ec.europa.eu/internal_market/copyright/docs/studies/140623-limitations-economic-impactsstudy_en.pdf
+22 Link zur Folgenabschätzung und Zusammenfassung hinzufügen.
+23 Link zur Stellungnahme des Ausschusses für Regulierungskontrolle hinzufügen.
+DE 9 DE
+ausreichend erachtet, um Rechtssicherheit insbesondere bei grenzübergreifenden Nutzungen
+zu gewährleisten. Option 2 erforderte die Einführung einer verbindlichen Ausnahme mit
+grenzübergreifender Wirkung für digitale Nutzungen. Option 3 ähnelt Option 2, sieht jedoch
+eine gewisse Flexibilität für die Mitgliedstaaten vor, die je nach Verfügbarkeit von Lizenzen
+entscheiden können, ob sie die Ausnahme anwenden. Diese Option wurde als die
+ausgewogenste erachtet.
+Text- und Data-Mining Option 1 sah Selbstregulierungsinitiativen der Branche vor. Andere
+Optionen basierten auf der Einführung einer verbindlichen Ausnahme für Text- und DataMining.
+In Option 2 bezog sich die Ausnahme nur auf Nutzungen zu nichtgewerblichen
+Zwecken der wissenschaftlichen Forschung. Option 3 gestattete Nutzungen zu
+nichtgewerblichen Zwecken der wissenschaftlichen Forschung, beschränkte jedoch die
+Anwendung der Ausnahme auf bestimmte Nutznießer. Option 4 war weiterreichend, da sie
+keine Einschränkungen für Nutznießer enthielt. Option 3 wurde als die ausgewogenste
+erachtet.
+Erhalt des Kulturerbes: Option 1 sah Leitlinien für die Mitgliedstaaten zur Anwendung der
+Ausnahme auf bestimmte Arten der Vervielfältigung zu Erhaltungszwecken vor. Diese Option
+wurde verworfen, da sie für unzureichend erachtet wurde, um Rechtssicherheit in dem
+Bereich zu schaffen. Die Entscheidung fiel zugunsten von Option 2, in der eine verbindliche
+Ausnahme betreffend Erhaltungszwecke für Einrichtungen des Kulturerbes vorgesehen war.
+Nutzung urheberrechtlich geschützter Inhalte durch Diensteanbieter der
+Informationsgesellschaft, die große Mengen der von ihren Nutzern hochgeladenen Werke und
+sonstigen Schutzgegenstände speichern oder öffentlich zugänglich machen: Option 1 basierte
+auf der Durchführung eines Dialogs mit den Interessenträgern. Dieser Ansatz wurde jedoch
+verworfen, da er sich nur begrenzt auf die Möglichkeiten der Rechteinhaber ausgewirkt hätte,
+die Bedingungen der Nutzung ihrer Werke und sonstiger Schutzgegenstände zu bestimmen.
+Die ausgewählte Option (Option 2) geht weiter: sie sieht eine Verpflichtung für bestimmte
+Diensteanbieter vor, geeignete Technologien bereitzustellen, und begünstigt den Abschluss
+von Vereinbarungen mit den Rechteinhabern.
+Rechte an Veröffentlichungen: Option 1 basierte auf der Durchführung eines Dialogs mit den
+Interessenträgern, um Lösungen für die Verbreitung der Inhalte von Presseverlagen zu finden.
+Diese Option wurde verworfen, da sie für unzureichend erachtet wurde, um EU-weit
+Rechtssicherheit zu schaffen. Option 2 basierte auf der Einführung eines verwandten Rechts
+für digitale Nutzungen von Presseveröffentlichungen. Option 3 ermöglicht es den
+Mitgliedstaaten darüber hinaus, Verlegern, denen von einem Urheber Rechte übertragen oder
+Lizenzen gewährt wurden, zu gestatten, einen Anteil am Ausgleich für die Nutzungen eines
+Werkes im Rahmen einer Ausnahme zu beanspruchen. Die Entscheidung fiel zugunsten der
+letzten Option, da sie alle relevanten Probleme berücksichtigte.
+Faire Verträge mit den Urhebern und ausübenden Künstlern über die Vergütung: Option 1
+basierte auf einer Empfehlung für die Mitgliedstaaten und die Durchführung eines Dialogs
+mit den Interessenträgern. Diese Option wurde jedoch als nicht effizient genug verworfen. In
+Option 2 war die Einführung von Transparenzpflicht für die Vertragspartner von Urhebern
+vorgesehen. Zusätzlich dazu wurde in Option 3 vorgeschlagen, einen Mechanismus für die
+Anpassung der Vergütung und einen Streitbeilegungsmechanismus zu schaffen. Die Wahl fiel
+auf diese Option, da Option 2 für Urheber keine Durchsetzungsmöglichkeiten zur
+Unterstützung der Transparenzpflicht geschaffen hätte.
+DE 10 DE
+• Effizienz der Rechtsetzung und Vereinfachung
+Für die unter die Ausnahmen fallenden Nutzungen sieht der Vorschlag für
+Bildungseinrichtungen, Forschungseinrichtungen von öffentlichem Interesse und für
+Einrichtungen des Kulturerbes die Möglichkeit vor, die Transaktionskosten zu verringern.
+Diese Verringerung der Transaktionskosten bedeutet nicht zwangsläufig Einkommensverluste
+oder geringere Lizenzeinnahmen für die Rechteinhaber: der Umfang und die Bedingungen der
+Ausnahmen stellen sicher, dass die Einbußen für die Rechteinhaber so gering wie möglich
+gehalten werden. Die Auswirkungen für KMU in diesen Bereichen (insbesondere
+Wissenschafts- und Bildungsverlage) und ihre Geschäftsmodelle dürften daher begrenzt
+bleiben.
+Mechanismen zur Verbesserung der Lizenzverfahren dürften zu einer Verringerung der
+Transaktionskosten und zu einer Steigerung der Lizenzeinnahmen für die Rechteinhaber
+führen. Die Auswirkungen für KMU in den betroffenen Bereichen (Produzenten,
+Vertriebsunternehmen, Verlage, usw.) dürften positiv sein. Andere Interessenträger, z. B.
+Plattformen für Videoabruf, dürften ebenfalls profitieren. In dem Vorschlag sind außerdem
+eine Reihe von Maßnahmen vorgesehen (Transparenzpflicht für die Vertragspartner der
+Rechteinhaber, Einführung eines neuen Rechts für Presseverlage und Verpflichtung für
+bestimmte Online-Dienste), die die Verhandlungsposition der Rechteinhaber und ihre
+Kontrolle über die Nutzung ihrer Werke und sonstigen Schutzgegenstände stärken dürften.
+Der Vorschlag dürfte sich positiv auf die Einnahmen der Rechteinhaber auswirken.
+Er enthält neue Verpflichtungen für bestimmte Online-Dienste und für diejenigen, denen
+Urheber und ausübende Künstler ihre Rechte übertragen. Aus diesen Verpflichtungen können
+sich zusätzliche Kosten ergeben. Der Vorschlag stellt jedoch sicher, dass diese Kosten
+verhältnismäßig bleiben und dass erforderlichenfalls bestimmte Akteure von der
+Verpflichtung befreit werden. So wird die Transparenzpflicht nicht gelten, wenn die dadurch
+verursachten Verwaltungskosten im Verhältnis zu den generierten Einnahmen
+unverhältnismäßig ausfallen. Die Verpflichtung für Online-Dienste gilt nur für
+Diensteanbieter der Informationsgesellschaft, die große Mengen der von ihren Nutzern
+hochgeladenen Werke und sonstigen Schutzgegenstände speichern oder öffentlich zugänglich
+machen.
+Der Vorschlag verpflichtet die Mitgliedstaaten zur Schaffung von Verhandlungs- und
+Streitbeilegungsmechanismen. Dadurch entstehen den Mitgliedstaaten Befolgungskosten. Sie
+könnten sich jedoch in den meisten Fällen bestehender Strukturen bedienen, was die Kosten
+begrenzen würde. Die Ausnahme für Lehrtätigkeiten kann für Mitgliedstaaten auch zu Kosten
+im Zusammenhang mit den Maßnahmen zur Gewährleistung der Verfügbarkeit und der
+Sichtbarkeit von Lizenzen für Bildungsrichtungen führen.
+Neue technologische Entwicklungen wurden sorgfältig analysiert. Der Vorschlag enthält
+mehrere Ausnahmen, die darauf abzielen, die Nutzung urheberrechtlich geschützter Inhalte
+mittels neuer Technologien zu erleichtern. Der Vorschlag sieht auch Maßnahmen vor, die den
+Zugang zu Inhalten auch über digitale Nutze erleichtern sollen. Er gewährleistet außerdem für
+alle Akteure im digitalen Umfeld eine ausgewogene Verhandlungsposition.
+• Grundrechte
+Durch die Verbesserung der Verhandlungsposition von Urhebern und ausübenden Künstlern
+und der Kontrolle, die Rechteinhaber über die Nutzung ihrer urheberrechtlich geschützten
+Inhalte haben, wird der Vorschlag sich positiv auf das Urheberrecht als Eigentumsrecht 
+DE 11 DE
+auswirken, das nach Artikel 17 der Charta der Grundrechte der Europäischen Union („die
+Charta“) geschützt ist. Diese positive Wirkung wird noch verstärkt durch die Maßnahmen zur
+Verbesserung der Lizenzierungsverfahren und letztendlich der Einnahmen der Rechteinhaber.
+Neue Ausnahmen, die das Monopol der Rechteinhaber in gewissem Maße einschränken, sind
+aufgrund anderer Ziele des Allgemeininteresses gerechtfertigt. Diese Ausnahmen werden sich
+voraussichtlich positiv auf das Recht auf Bildung und auf die kulturelle Vielfalt auswirken.
+Schließlich hat die Richtlinie aufgrund der vorzusehenden Ausgleichsmaßnahmen und des
+ausgewogenen Ansatzes in Bezug auf die Verpflichtungen für die relevanten Interessenträger
+nur begrenzte Auswirkungen auf die unternehmerische Freiheit, die Freiheit der
+Meinungsäußerung und die Informationsfreiheit, die in Artikel 16 und 11 der Charta verankert
+sind.
+4. AUSWIRKUNGEN AUF DEN HAUSHALT
+Der Vorschlag hat keine Auswirkungen auf den Haushalt der Europäischen Union.
+5. WEITERE ANGABEN
+• Durchführungspläne sowie Monitoring-, Bewertungs- und
+Berichterstattungsmodalitäten
+Gemäß Artikel 22 wird die Kommission frühestens [fünf] Jahre nach dem Datum der
+[Umsetzung] eine Überprüfung der Richtlinie durchführen.
+• Erläuternde Dokumente
+Gemäß Erwägung 48 des Vorschlags übermitteln die Mitgliedstaaten der Kommission ihre
+Umsetzungsmaßnahmen zusammen mit erläuternden Dokumenten. Dies ist angesichts der
+Komplexität der in dem Vorschlag festgelegten Bestimmungen und der Bedeutung eines
+harmonisierten Ansatzes in Bezug auf die im digitalen und im grenzübergreifenden Umfeld
+anwendbaren Vorschriften notwendig.
+• Ausführliche Erläuterung einzelner Bestimmungen des Vorschlags
+Titel 1 enthält allgemeine Bestimmungen, in denen i) der Gegenstand und der
+Geltungsbereichs der Richtlinie festgelegt werden und ii) Begriffsbestimmungen
+vorgenommen werden, die innerhalb der Union einheitlich auszulegen sind.
+Titel 2 betrifft Maßnahmen zur Anpassung von Ausnahmen und Beschränkungen an das
+digitale und das grenzübergreifende Umfeld. Dieser Titel umfasst drei Artikel, die die
+Mitgliedstaaten zur Einführung verbindlicher Ausnahmen und Beschränkungen verpflichten,
+um zu ermöglichen, dass i) Text- und Data-Mining von Forschungsorganisationen für Zwecke
+der wissenschaftlichen Forschung durchgeführt werden können (Artikel 3), und ii) Werke und
+sonstige Schutzgegenstände ausschließlich zur Veranschaulichung im Unterricht digital
+genutzt werden können (Artikel 4) und iii) Einrichtungen des Kulturerbes Werke und sonstige
+Schutzgegenstände, die sich dauerhaft in ihren Sammlungen befinden, vervielfältigen können,
+soweit dies zu ihrer Erhaltung erforderlich ist (Artikel 5). Artikel 6 enthält gemeinsame
+Bestimmungen zum Titel über Ausnahmen und Beschränkungen.
+Titel 3 betrifft Maßnahmen zur Verbesserung von Lizenzverfahren und zur Erweiterung des
+Zugangs zu Inhalten. Artikel 7 verpflichtet die Mitgliedstaaten zur Einrichtung eines
+rechtlichen Mechanismus, der Lizenzvereinbarungen für vergriffene Werke und sonstige
+Schutzgegenstände erleichtert. Artikel 8 gewährleistet die grenzübergreifende Wirkung 
+DE 12 DE
+solcher Lizenzvereinbarungen. Artikel 9 verpflichtet die Mitgliedstaaten zur Gewährleistung
+eines Dialogs der Interessenträger zu Fragen im Zusammenhang mit den Artikeln 7 und 8.
+Artikel 10 verpflichtet die Mitgliedstaaten zur Schaffung eines Verhandlungsmechanismus,
+um Verhandlungen über die Online-Verwertung audiovisueller Werke zu erleichtern.
+Titel 4 betrifft Maßnahmen für die Schaffung eines gut funktionierenden Marktes für
+Urheberrechte. Die Artikel 11 und 12 dehnen i) die in Artikel 2 und Artikel 3 Absatz 2 der
+Richtlinie 2001/29/EG gewährten Rechte auf Presseverlage für die digitale Nutzung ihrer
+Veröffentlichungen aus und räumen den Mitgliedstaaten ii) die Option ein, allen Verlagen die
+Möglichkeit zu geben, einen Anteil am Ausgleich für die Nutzungen eines Werkes im
+Rahmen einer Ausnahme zu beanspruchen. Artikel 13 verpflichtet Diensteanbieter der
+Informationsgesellschaft, die große Mengen der von ihren Nutzern hochgeladenen Werke und
+sonstigen Schutzgegenstände speichern oder öffentlich zugänglich machen, durch
+angemessene und verhältnismäßige Maßnahmen zu gewährleisten, dass die mit den
+Rechteinhabern geschlossenen Vereinbarungen funktionieren und dass über ihre Dienste
+keine Inhalte zur Verfügung gestellt werden, die von den Rechteinhabern in Abstimmung mit
+den Diensteanbietern festgelegt wurden. Artikel 14 verpflichtet die Mitgliedstaaten zur
+Einführung von Transparenzpflichten zum Nutzen von Urhebern und ausübenden Künstlern.
+Artikel 15 verpflichtet die Mitgliedstaaten zur Schaffung eines
+Vertragsanpassungsmechanismus zur Unterstützung der in Artikel 14 verankerten
+Verpflichtung. Artikel 16 verpflichtet die Mitgliedstaaten zur Einrichtung eines Mechanismus
+zur Streitbeilegung für Fragen die sich aus der Anwendung der Artikel 14 und 15 ergeben.
+Titel 5 enthält Schlussbestimmungen betreffend die Änderung anderer Richtlinien, die
+zeitliche Anwendung, Übergangsbestimmungen, den Schutz personenbezogener Daten, die
+Umsetzung, die Überprüfung und das Inkrafttreten.
+DE 13 DE
+2016/0280 (COD)
+Vorschlag für eine
+RICHTLINIE DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+über das Urheberrecht im digitalen Binnenmarkt
+(Text von Bedeutung für den EWR)
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION –
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf
+Artikel 114,
+auf Vorschlag der Europäischen Kommission,
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses24
+,
+nach Stellungnahme des Ausschusses der Regionen25
+,
+gemäß dem ordentlichen Gesetzgebungsverfahren,
+in Erwägung nachstehender Gründe:
+(1) Der Vertrag sieht die Errichtung eines Binnenmarkts und die Einführung eines
+Systems vor, das den Wettbewerb innerhalb des Binnenmarkts vor Verzerrungen
+schützt. Die Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über das
+Urheberrecht und die verwandten Schutzrechte sollte einen weiteren Beitrag zur
+Verwirklichung dieser Ziele leisten.
+(2) Die bestehenden Richtlinien zu den Urheberrechten und verwandten Schutzrechten
+gewähren Rechtsinhabern ein hohes Maß an Schutz und bieten einen
+Regelungsrahmen, in dem Werke und sonstige Schutzgegenstände verwertet werden
+können. Dieser harmonisierte Rechtsrahmen trägt dazu bei, dass der Binnenmarkt gut
+funktioniert, und schafft Anreize für Innovation, Kreativität, Investitionen und die
+Produktion neuer Inhalte, auch im digitalen Umfeld. Der von diesem Rechtsrahmen
+gebotene Schutz leistet zudem einen Beitrag zu dem Ziel der Union, die kulturelle
+Vielfalt zu wahren und zu fördern und gleichzeitig das gemeinsame kulturelle Erbe
+Europas hervorzuheben. Nach Artikel 167 Absatz 4 des Vertrags über die
+Arbeitsweise der Europäischen Union trägt die Union bei ihrer Tätigkeit den
+kulturellen Aspekten Rechnung.
+(3) Die rasanten technologischen Entwicklungen führen zu einem ständigen Wandel in der
+Art und Weise, wie Werke und sonstige Schutzgegenstände geschaffen, erzeugt,
+vertrieben und verwertet werden. Es entstehen laufend neue Geschäftsmodelle und
+neue Akteure treten auf den Plan. Die im Urheberrechtsrahmen der EU festgelegten
+Ziele und Grundsätze gelten zwar nach wie vor, doch verbleibt sowohl für die
+Rechteinhaber als auch die Nutzer im Hinblick auf bestimmte, auch
+
+24 ABl. C vom , S. .
+25 ABl. C vom , S. .
+DE 14 DE
+grenzübergreifende Arten der Nutzung von Werken und sonstigen
+Schutzgegenständen in einem digitalen Umfeld die Rechtsunsicherheit bestehen. Wie
+bereits in der Mitteilung der Kommission „Schritte zu einem modernen,
+europäischeren Urheberrecht“26 dargelegt, ist es in einigen Bereichen notwendig, den
+geltenden Urheberrechtsrahmen der EU anzupassen und zu ergänzen. Diese Richtlinie
+enthält Vorschriften für die Anpassung bestimmter Ausnahmen und Beschränkungen
+an ein digitales und grenzübergreifendes Umfeld sowie Maßnahmen, mit denen
+bestimmte Lizenzierungsverfahren im Hinblick auf die Verbreitung vergriffener
+Werke und die Online-Verfügbarkeit audiovisueller Werke auf Plattformen für den
+Videoabruf erleichtert werden sollen, um einen größeren Zugang zu Inhalten zu
+ermöglichen. Für einen gut funktionierenden Urheberrechtsmarkt sollten auch
+Vorschriften festgelegt werden, mit denen die Rechte an Veröffentlichungen sowie die
+Nutzung von Werken und sonstigen Schutzgegenständen durch Anbieter von OnlineDiensten
+geregelt werden, die von Nutzern hochgeladene Inhalte speichern und
+zugänglich machen, zudem sollten diese Vorschriften für Transparenz bei den
+Verträgen mit Urhebern und ausübenden Künstlern sorgen.
+(4) Diese Richtlinie stützt sich auf die einschlägigen, geltenden Richtlinien, insbesondere
+die Richtlinie 96/9/EG des Europäischen Parlaments und des Rates27, die
+Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates28, die
+Richtlinie 2006/115/EG des Europäischen Parlaments und des Rates29, die Richtlinie
+2009/24/EG des Europäischen Parlaments und des Rates30, die Richtlinie 2012/28/EU
+des Europäischen Parlaments und des Rates31 und die Richtlinie 2014/26/EU des
+Europäischen Parlaments und des Rates32
+.
+(5) In den Bereichen Forschung, Bildung und Erhaltung des Kulturerbes ermöglicht die
+Digitaltechnik neue Arten der Nutzungen, die von den geltenden EU-Vorschriften über
+Ausnahmen und Beschränkungen nur unzureichend abgedeckt sind. Zudem kann die
+Tatsache, dass die in den Richtlinien 2001/29/EG, 96/9/EG und 2009/24/EG für diese
+Bereiche festgelegten Ausnahmen und Beschränkungen nur fakultativ sind, das
+Funktionieren des Binnenmarkts beeinträchtigen. Dies trifft vor allem auf
+grenzübergreifende Nutzungen zu, die in einem digitalen Umfeld zunehmend an
+Bedeutung gewinnen. Daher sollten die für die wissenschaftliche Forschung,
+Unterrichtszwecke und den Erhalt des kulturellen Erbes im Unionsrecht bestehenden
+Ausnahmen und Beschränkungen im Hinblick auf diese neuen Nutzungen neu
+bewertet werden. So sollten für die Nutzungen von Text- und Data-Mining-Techniken
+
+26 COM(2015) 626 final.
+27 Richtlinie 96/9/EG des Europäischen Parlaments und des Rates vom 11. März 1996 über den
+rechtlichen Schutz von Datenbanken (ABl. L 77 vom 27.3.1996, S. 20).
+28 Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur
+Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der
+Informationsgesellschaft (ABl. L 167 vom 22.6.2001, S. 10).
+29 Richtlinie 2006/115/EG des Europäischen Parlaments und des Rates vom 12. Dezember 2006 zum
+Vermietrecht und Verleihrecht sowie zu bestimmten dem Urheberrecht verwandten Schutzrechten im
+Bereich des geistigen Eigentums (ABl. L 376 vom 27.12.2006, S. 28).
+30 Richtlinie 2009/24/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über den
+Rechtsschutz von Computerprogrammen (ABl. L 111 vom 5.5.2009, S. 16).
+31 Richtlinie 2012/28/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über
+bestimmte zulässige Formen der Nutzung verwaister Werke (ABl. L 299 vom 27.10.2012, S. 5).
+32 Richtlinie 2014/26/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014 über die
+kollektive Wahrnehmung von Urheber- und verwandten Schutzrechten und die Vergabe von
+Mehrgebietslizenzen für Rechte an Musikwerken für die Online-Nutzung im Binnenmarkt (ABl. L 84
+vom 20.3.2014, S. 72).
+DE 15 DE
+im Bereich der wissenschaftlichen Forschung, der Veranschaulichung im Unterricht in
+einem digitalen Umfeld und des Erhalts des kulturellen Erbes verbindliche
+Ausnahmen und Beschränkungen eingeführt werden. Für Nutzungen, die von den in
+dieser Richtlinie genannten Ausnahmen und Beschränkungen nicht erfasst werden,
+sollten weiterhin die im Unionsrecht festgelegten Ausnahmen und Beschränkungen
+gelten. Die Richtlinien 96/9/EG und 2001/29/EG sollten angepasst werden.
+(6) Mit den in dieser Richtlinie festgelegten Ausnahmen und Beschränkungen soll ein
+angemessener Rechte- und Interessenausgleich zwischen den Urhebern und anderen
+Rechteinhabern einerseits und den Nutzern andererseits gewahrt werden. Sie können
+nur in bestimmten Sonderfällen geltend gemacht werden, in denen die normale
+Verwertung des Werks oder des sonstigen Schutzgegenstands nicht beeinträchtigt wird
+und die berechtigten Interessen des Rechteinhabers nicht ungebührlich verletzt
+werden.
+(7) Der in der Richtlinie 2001/29/EG festgelegte Schutz technischer Maßnahmen ist für
+den Schutz und die wirksame Wahrnehmung der den Urhebern und anderen
+Rechteinhabern nach dem Unionsrecht gewährten Rechten nach wie vor unerlässlich.
+Dieser Schutz sollte aufrechterhalten werden, wobei gewährleistet sein muss, dass der
+in einem Online-Umfeld besonders wichtige Einsatz technischer Maßnahmen die
+Inanspruchnahme der in dieser Richtlinie festgelegten Ausnahmen und
+Beschränkungen nicht behindert. Rechteinhaber sollten die Möglichkeit haben, dies
+durch freiwillige Maßnahmen zu gewährleisten. Ihnen sollte es freistehen, das Format
+und die Modalitäten für die Mittel festzulegen, die es den Begünstigten ermöglichen,
+die in dieser Richtlinie genannten Ausnahmen und Beschränkungen wahrzunehmen,
+sofern diese Mittel geeignet sind. Werden keine freiwilligen Maßnahmen ergriffen,
+sollten die Mitgliedstaaten die geeigneten Maßnahmen entsprechend Artikel 6
+Absatz 4 Unterabsatz 1 der Richtlinie 2001/29/EG festlegen.
+(8) Neue, im Allgemeinen als Text- und Data-Mining bekannte Techniken ermöglichen
+es, in digitaler Form vorliegende Informationen wie Texte, Töne, Bilder oder Daten
+mit Hilfe des Computers automatisch auszuwerten. Mit Hilfe dieser Techniken können
+Forscher riesige Informationsmengen verarbeiten lassen, um neue Erkenntnisse zu
+gewinnen und neue Trends zu erkennen. Das Text- und Data-Mining ist die
+vorherrschende Technik in der Digitalwirtschaft, doch besteht Einvernehmen darüber,
+dass diese Technik vor allem für die Forschung von besonderem Nutzen ist und damit
+auch Anreize für Innovationen schafft. In der Union sehen sich
+Forschungsorganisationen wie Hochschulen und Forschungseinrichtungen allerdings
+damit konfrontiert, dass hinsichtlich des möglichen Umfangs des Text- und DataMining
+von Inhalten Rechtsunsicherheit herrscht. Mitunter beinhaltet das Text- und
+Data-Mining Handlungen, die durch das Urheberrecht oder durch das Sui-generisRecht
+an Datenbanken geschützt sind, vor allem wenn es um die Reproduktion von
+Werken oder sonstigen Schutzgegenständen und/oder um die Entnahme von Inhalten
+aus einer Datenbank geht. Können keine Ausnahmen oder Beschränkungen geltend
+gemacht werden, müsste die Genehmigung für solche Handlungen vom Rechteinhaber
+eingeholt werden. Erfolgt das Text- und Data-Mining in Bezug auf reine, nicht
+urheberrechtlich geschützte Fakten oder Daten, wird keine Genehmigung benötigt.
+(9) Das EU-Recht sieht bereits bestimmte Ausnahmen und Beschränkungen für
+Nutzungen zu Zwecken der wissenschaftlichen Forschung vor, die auf Handlungen
+des Text- und Data-Mining angewandt werden können. Diese Ausnahmen und
+Beschränkungen sind jedoch fakultativ und an die Techniken in der wissenschaftlichen
+Forschung noch nicht vollständig angepasst. Zudem können die Lizenzbedingungen in 
+DE 16 DE
+den Fällen, in denen Forscher einen rechtmäßigen Zugang zu Inhalten haben, etwa
+durch das Abonnieren von Veröffentlichungen oder durch Lizenzen für den offenen
+Zugang, einen Ausschluss vom Text- und Data-Mining vorsehen. Da die
+Unterstützung durch die Digitaltechnik in der Forschung eine immer größere Rolle
+spielt, besteht die Gefahr, dass die Wettbewerbsposition der Union in der Forschung
+hiervon beeinträchtigt wird, wenn die Rechtsunsicherheit beim Text- und Data-Mining
+nicht beseitigt wird.
+(10) Diese Rechtsunsicherheit könnte durch die Einführung einer verbindlichen Ausnahme
+für das Vervielfältigungsrecht, aber auch für das Recht, Entnahmen aus einer
+Datenbank zu untersagen, beseitigt werden. Die neue Ausnahmeregelung sollte
+unbeschadet der in Artikel 5 Absatz 1 der Richtlinie 2001/29/EG bereits festgelegten
+Ausnahme für vorübergehende Vervielfältigungshandlungen gelten, die weiterhin auf
+Text- und Data-Mining-Techniken angewandt werden sollte, sofern diese nicht die
+Anfertigung von Kopien in einem über diese Ausnahme hinausgehenden Umfang
+beinhalten. Forschungsorganisationen, die an einer öffentlich-privaten Partnerschaft
+beteiligt sind, sollten auf diese Ausnahme auch zurückgreifen können.
+(11) In der Union gibt es eine Vielzahl von Forschungsorganisationen, deren vorrangiges
+Ziel die wissenschaftliche Forschung ist oder die Forschung in Verbindung mit Lehre.
+Angesichts der Vielfalt dieser Einrichtungen sollte ein Konsens über die Begünstigten
+der Ausnahmeregelung erzielt werden. Trotz unterschiedlicher Rechtsformen und
+Strukturen ist den Forschungsorganisationen in der Regel unionsweit gemein, dass sie
+entweder nicht gewinnorientiert sind oder in staatlich anerkanntem Auftrag im
+öffentlichen Interesse handeln. Kennzeichnend für einen solchen Auftrag im
+öffentlichen Interesse ist beispielsweise die Finanzierung durch die öffentliche Hand
+oder sind Bestimmungen im einzelstaatlichen Recht oder öffentlichen Verträgen. Für
+die Zwecke dieser Richtlinie sollten hingegen Organisationen nicht als
+Forschungsorganisationen gelten, wenn sie dem bestimmenden Einfluss gewerblicher
+Unternehmen unterliegen, die aufgrund der strukturellen Gegebenheiten
+beispielsweise als Anteilseigner oder Mitglieder Kontrolle ausüben können und
+dadurch einen bevorzugten Zugang zu den Forschungsergebnissen erhalten könnten.
+(12) Rechnen Rechteinhaber mit einer großen Anzahl von Zugangs- und DownloadAnfragen
+für ihre Werke oder sonstige Schutzgegenstände, sollten sie in den Fällen
+Maßnahmen anwenden können, in denen die Sicherheit und Integrität des Systems
+oder der Datenbanken, in denen die Werke oder sonstige Schutzgegenstände
+gespeichert sind, gefährdet sind. Solche Maßnahmen sollten nicht über das zur
+Erreichung des Ziels notwendige Maß hinausgehen, d. h. die Gewährleistung der
+Sicherheit und Integrität des Systems, und sollten der wirksamen Anwendung der
+Ausnahme nicht entgegenstehen.
+(13) Für die Nutzungen im Rahmen der mit dieser Richtlinie eingeführten Ausnahme für
+das Text- und Data-Mining muss kein Ausgleich für die Rechteinhaber vorgesehen
+werden, da der Schaden angesichts der Art und des Umfangs der Ausnahme gering
+sein dürfte.
+(14) Nach Artikel 5 Absatz 3 Buchstabe a der Richtlinie 2001/29/EG können die
+Mitgliedstaaten Ausnahmen oder Beschränkungen in Bezug auf das
+Vervielfältigungsrecht, das Recht der öffentlichen Wiedergabe und das Recht der
+öffentlichen Zugänglichmachung für den ausschließlichen Zweck beispielsweise der
+Veranschaulichung im Unterricht vorsehen. Zudem sind nach Artikel 6 Absatz 2
+Buchstabe b und Artikel 9 Buchstabe b der Richtlinie 96/9/EG die Benutzung einer 
+DE 17 DE
+Datenbank und die Entnahme oder Weiterverwendung eines wesentlichen Teils ihres
+Inhalts für die Zwecke der Veranschaulichung im Unterricht gestattet. In welchem
+Umfang diese Ausnahmen oder Beschränkungen für digitale Nutzungen gelten, ist
+unklar. Zudem ist unklar, ob diese Ausnahmen oder Beschränkungen auch dann
+gelten, wenn der Unterricht online und damit auf Distanz stattfindet. Darüber hinaus
+wird vom geltenden Rechtsrahmen der grenzübergreifende Aspekt nicht erfasst. Dies
+könnte die Entwicklung digital unterstützter Lehrtätigkeiten und des digital
+unterstützten Fernunterrichts behindern. Daher ist es erforderlich, eine neue
+verbindliche Ausnahme oder Beschränkung einzuführen, damit Bildungseinrichtungen
+uneingeschränkte Rechtssicherheit erhalten, wenn sie Werke oder sonstige
+Schutzgegenstände bei digital unterstützten Lehrtätigkeiten – auch online oder
+grenzübergreifend – verwenden.
+(15) Zwar werden Fernlernprogramme oder grenzübergreifende Bildungsprogramme meist
+für höhere Bildungsebenen entwickelt, doch finden digitale Werkzeuge und
+Ressourcen zunehmend auf allen Bildungsebenen Einsatz, um vor allem
+Lernergebnisse zu verbessern und die Lernerfahrung zu bereichern. Die in dieser
+Richtlinie vorgesehenen Ausnahmen und Beschränkungen sollten daher allen
+Bildungseinrichtungen in der Primar- und Sekundarstufe sowie den
+Berufsbildungseinrichtungen und den Einrichtungen der höheren Bildung zugute
+kommen, sofern sie mit ihren Lehrtätigkeiten keinen gewerblichen Zweck verfolgen.
+Für die Feststellung, ob die Tätigkeiten nichtgewerblicher Art sind, sind die
+Organisationsstruktur und die Finanzierung einer Bildungseinrichtung nicht
+entscheidend.
+(16) Die Ausnahme oder Beschränkung sollte sich auf digitale Nutzungen von Werken und
+sonstigen Schutzgegenständen erstrecken, beispielsweise auf die Nutzung von Teilen
+oder Auszügen von Werken, mit denen der Unterricht und damit zusammenhängende
+Lerntätigkeiten unterstützt, bereichert und ergänzt werden. Die Ausnahme oder
+Beschränkung für die Nutzung von Werken oder sonstigen Schutzgegenständen sollte
+nur im Zusammenhang mit den Lehr- und Lerntätigkeiten, einschließlich Prüfungen,
+gelten, die unter der Verantwortung der Bildungseinrichtungen durchgeführt werden
+und die sich auf das für die Zwecke dieser Tätigkeiten Notwendige beschränken. Die
+Ausnahme oder Beschränkung sollte sich sowohl auf Nutzungen mit Hilfe digitaler
+Mittel im Klassenraum als auch auf Nutzungen erstrecken, für die das durch
+Authentifizierungsverfahren gesicherte elektronische Netz der Bildungseinrichtung
+verwendet wird. Es sollte davon ausgegangen werden, dass die Ausnahme oder
+Beschränkung in Bezug auf die Veranschaulichung im Unterricht die besonderen
+Zugangsbedürfnisse von Menschen mit Behinderungen abdeckt.
+(17) Hinsichtlich der Umsetzung der in der Richtlinie 2001/29/EG festgelegten Ausnahme
+oder der Lizenzvereinbarungen über weitere Nutzungen bestehen in einigen
+Mitgliedstaaten unterschiedliche Regelungen, um die Verwendung von Werken und
+sonstigen Schutzgegenständen für Bildungszwecke zu vereinfachen. Diese
+Regelungen orientieren sich meist an den Bedürfnissen der Bildungseinrichtungen und
+der verschiedenen Bildungsebenen. Es kommt zwar darauf an, den Umfang der neuen
+verbindlichen Ausnahme oder Beschränkung in Bezug auf digitale Nutzungen und
+grenzübergreifende Lehrtätigkeiten zu harmonisieren, doch die Modalitäten der
+Umsetzung dürfen von Mitgliedstaat zu Mitgliedstaat abweichen, so lange sie die
+wirksame Anwendung der Ausnahme oder Beschränkung oder grenzübergreifende
+Nutzungen nicht behindern. Dies dürfte es den Mitgliedstaaten ermöglichen, auf den
+auf nationaler Ebene vereinbarten Regelungen aufzubauen. So könnten 
+DE 18 DE
+Mitgliedstaaten beschließen, die Anwendung der Ausnahme oder Beschränkung
+vollständig oder teilweise von der Verfügbarkeit geeigneter Lizenzen abhängig zu
+machen, die mindestens dieselben Nutzungen abdecken wie die im Rahmen der
+Ausnahme genehmigten. Mit Hilfe dieses Mechanismus könnte den Lizenzen für
+Materialien, die vor allem für den Bildungsmarkt gedacht sind, Vorrang eingeräumt
+werden. Damit solche Mechanismen für Bildungseinrichtungen nicht zu
+Rechtsunsicherheit führen oder deren Verwaltungsaufwand erhöhen, sollten die
+Mitgliedstaaten, die sich für dieses Konzept entscheiden, konkrete Maßnahmen
+ergreifen, um die leichte Verfügbarkeit von Lizenzierungsmodellen zu gewährleisten,
+die digitale Nutzungen von Werken und sonstigen Schutzgegenständen für
+Lehrzwecke ermöglichen, und dafür sorgen, dass diese Lizenzierungsmodelle den
+Bildungseinrichtungen auch bekannt sind.
+(18) Für den Erhalt eines Werks oder sonstigen Schutzgegenstands in der Sammlung einer
+Einrichtung des Kulturerbes kann es notwendig sein, eine Vervielfältigung
+vorzunehmen, wofür die Genehmigung des jeweiligen Rechteinhabers benötigt wird.
+Einrichtungen des Kulturerbes setzen sich dafür ein, ihre Sammlungen für künftige
+Generationen zu erhalten. Zwar bietet die Digitaltechnik neue Möglichkeiten, das in
+diesen Sammlungen bewahrte Erbe zu erhalten, doch wirft sie dabei auch neue Fragen
+auf. Daher ist es notwendig, den geltenden Rechtsrahmen anzupassen, indem eine
+verbindliche Ausnahme in Bezug auf das Vervielfältigungsrecht für solche, dem Erhalt
+dienende Handlungen eingeführt wird.
+(19) Die unterschiedlichen Konzepte in den Mitgliedstaaten für die dem Erhalt dienenden
+Handlungen durch Einrichtungen des Kulturerbes führen dazu, dass im Binnenmarkt
+die grenzübergreifende Zusammenarbeit der Einrichtungen des Kulturerbes und die
+gemeinsame Nutzung von Mitteln für den Erhalt behindert und Ressourcen ineffizient
+eingesetzt werden.
+(20) Die Mitgliedstaaten sollten daher dafür sorgen, dass Einrichtungen des Kulturerbes die
+in ihren Sammlungen befindlichen Werke und sonstigen Schutzgegenstände im Wege
+einer Ausnahme (beispielsweise bei technischer Veralterung oder Schäden an den
+Original-Datenträgern) dauerhaft für Erhaltungszwecke vervielfältigen dürfen. Im
+Rahmen einer solchen Ausnahme sollte es möglich sein, mit für die Erhaltung
+geeigneten Werkzeugen, Mitteln oder Techniken Kopien in der erforderlichen Anzahl
+und zu jedem Zeitpunkt in der Lebensdauer eines Werks oder sonstigen
+Schutzgegenstands in dem Umfang anfertigen zu dürfen, der für die Herstellung einer
+Kopie ausschließlich zu Erhaltungszwecken notwendig ist.
+(21) Für die Zwecke dieser Richtlinie sollten Werke und sonstige Schutzgegenstände als
+dauerhaft in der Sammlung einer Einrichtung des Kulturerbes befindlich gelten, wenn
+diese Einrichtung, beispielsweise infolge einer Eigentumsübertragung oder von
+Lizenzvereinbarungen, Eigentümerin oder dauerhafte Besitzerin dieser Exemplare ist.
+(22) Einrichtungen des Kulturerbes sollten sich auf einen klaren Rechtsrahmen für die
+Digitalisierung und die auch grenzübergreifende Verbreitung von vergriffenen Werken
+oder sonstigen vergriffenen Schutzgegenständen stützen können. Es liegt jedoch in der
+Natur der Sammlungen vergriffener Werke, dass es sehr schwierig sein kann, die
+vorherige Zustimmung der jeweiligen Rechteinhaber einzuholen. Dies kann am Alter
+der Werke oder sonstiger Schutzgegenstände, an ihrem geringen Handelswert oder an
+der Tatsache liegen, dass sie nie für gewerbliche Zwecke gedacht waren. Daher ist es
+notwendig, Maßnahmen vorzusehen, die die Lizenzierung von Rechten an
+vergriffenen Werken, die sich in den Sammlungen von Einrichtungen des Kulturerbes 
+DE 19 DE
+befinden, erleichtern und so den Abschluss von Vereinbarungen mit
+grenzübergreifender Wirkung im Binnenmarkt ermöglichen.
+(23) Der mit dieser Richtlinie vorgegebene Rechtsrahmen sollte den Mitgliedstaaten einen
+Handlungsspielraum einräumen, entsprechend ihrer Rechtstradition, gängigen Praxis
+oder Gegebenheiten einen eigenen Mechanismus festzulegen, mit dem Lizenzen für
+vergriffene Werke auf die Rechte von Rechteinhabern ausgedehnt werden können, die
+nicht von Verwertungsgesellschaften vertreten werden. Solche Mechanismen können
+eine erweiterte kollektive Lizenzvergabe und die Vermutung in Bezug auf die
+Vertretung beinhalten.
+(24) Für diese Lizenzvergabemechanismen ist es wichtig, über ein strenges und reibungslos
+funktionierendes System der kollektiven Rechteverwertung zu verfügen. Ein solches
+System beinhaltet gemäß der Richtlinie 2014/26/EU insbesondere Vorschriften für
+verantwortungsvolles Handeln, Transparenz und Berichtswesen sowie die
+regelmäßige, sorgfältige und genaue Weiterleitung und Auszahlung der den einzelnen
+Rechteinhabern zustehenden Beträge. Allen Rechteinhabern sollten weitere
+angemessene Schutzbestimmungen zur Verfügung stehen, mit denen sie die
+Anwendung solcher Mechanismen auf ihre Werke oder sonstigen Schutzgegenstände
+ausschließen können. Die an diese Mechanismen geknüpften Bedingungen sollten
+deren praktische Relevanz für Einrichtungen des Kulturerbes nicht beeinträchtigen.
+(25) Angesichts der Vielfalt der Werke und sonstiger Schutzgegenstände in den
+Sammlungen der Einrichtungen des Kulturerbes, kommt es darauf an, dass die mit
+dieser Richtlinie eingeführten Lizenzvergabemechanismen auch zur Verfügung stehen
+und in der Praxis für unterschiedliche Arten von Werken und sonstigen
+Schutzgegenständen verwendet werden können, auch für Fotografien,
+Tonaufzeichnungen und audiovisuelle Werke. Um den Besonderheiten der
+verschiedenen Kategorien von Werken und sonstigen Schutzgegenständen im Hinblick
+auf die Art und Weise ihrer Veröffentlichung und ihrer Verbreitung Rechnung zu
+tragen und die Nutzung dieser Mechanismen zu vereinfachen, müssen von den
+Mitgliedstaaten für die praktische Anwendung dieser Lizenzvergabemechanismen
+möglicherweise besondere Anforderungen und Verfahren festgelegt werden. Hierbei
+sollten die Mitgliedstaaten die Rechteinhaber, Nutzer und Verwertungsorganisationen
+konsultieren.
+(26) Diplomatische Gepflogenheiten gebieten es, dass die in dieser Richtlinie festgelegten
+Lizenzvergabemechanismen für die Digitalisierung und die Verbreitung vergriffener
+Werke nicht für Werke oder sonstige Schutzgegenstände gelten sollten, die zuerst in
+einem Drittland veröffentlicht oder, falls sie nicht veröffentlicht wurden, zuerst in
+einem Drittland gesendet wurden, oder im Fall von Film- oder audiovisuellen Werken,
+nicht für Werke gelten sollten, deren Produzent seinen Hauptgeschäftssitz oder seinen
+gewöhnlichen Wohnsitz in einem Drittland hat. Diese Mechanismen sollten auch nicht
+für Werke oder sonstige Schutzgegenstände von Drittstaatsangehörigen gelten, es sei
+denn, sie werden zuerst, falls sie nicht veröffentlicht wurden, auf dem Hoheitsgebiet
+eines Mitgliedstaats gesendet oder, im Falle von Film- oder audiovisuellen Werken,
+nicht für Werke gelten, deren Produzent seinen Hauptgeschäftssitz oder seinen
+gewöhnlichen Wohnsitz in einem Mitgliedstaat hat.
+(27) Für die Einrichtungen des Kulturerbes können Projekte für die massenhafte
+Digitalisierung erhebliche Investitionen nach sich ziehen, weshalb Lizenzen, die im
+Rahmen der in dieser Richtlinie vorgesehenen Mechanismen erteilt wurden, nicht dazu
+führen sollten, dass diese Einrichtungen keine angemessenen Einnahmen erzielen 
+DE 20 DE
+können, um die Lizenzkosten sowie die Kosten für die Digitalisierung und
+Verbreitung der unter die Lizenz fallenden Werke und sonstigen Schutzgegenstände
+zu decken.
+(28) Informationen über die künftige und laufende Nutzung vergriffener Werke und
+sonstiger Schutzgegenstände durch Einrichtungen des Kulturerbes auf der Basis der in
+dieser Richtlinien festgelegten Lizenzvergabemechanismen sowie über die geltenden
+Regelungen, die es Rechteinhabern ermöglichen, die Erteilung von Lizenzen auf ihre
+Werke und sonstigen Schutzgegenstände auszuschließen, sollten in angemessener
+Form bekannt gemacht werden. Vor allem bei grenzübergreifenden Nutzungen im
+Binnenmarkt ist dies besonders wichtig. Daher sollten Vorkehrungen für die
+Einrichtung eines zentralen und öffentlich zugänglichen Online-Portals für die Union
+getroffen werden, damit der Öffentlichkeit diese Informationen in einer angemessenen
+Frist bekannt gegeben werden, bevor die grenzübergreifende Nutzung erfolgt. Gemäß
+der Verordnung (EU) Nr. 386/2012 des Europäischen Parlaments und des Rates33 ist
+das Amt der Europäischen Union für geistiges Eigentum mit bestimmten Aufgaben
+und Aktivitäten betraut, die es aus eigenen Haushaltsmitteln finanziert, mit dem Ziel,
+die Aktivitäten nationaler Behörden, des privaten Sektors und der Organe der Union
+bei der Verhütung und bei der Bekämpfung der Verletzung der Rechte am geistigen
+Eigentum zu fördern und zu unterstützen. Daher sollte dieses Amt mit der Einrichtung
+und der Verwaltung des europäischen Portals betraut werden, auf dem diese
+Informationen bekannt gegeben werden.
+(29) Bei der Verbreitung europäischer Werke in der Europäischen Union werden
+Abrufdienste voraussichtlich eine entscheidende Rolle spielen. Vereinbarungen zur
+Online-Verwertung solcher Werke können jedoch im Hinblick auf die Lizenzierung
+von Rechten auf Probleme stoßen. Solche Probleme stellen sich beispielsweise dann,
+wenn der Rechteinhaber kein Interesse daran hat, sein Werk in einem bestimmten
+Gebiet online verwerten zu lassen, oder wenn es um die Zeitfenster für die Verwertung
+geht.
+(30) Damit die Lizenzen für Rechte an audiovisuellen Werken leichter an Plattformen für
+den Videoabruf vergeben werden können, werden die Mitgliedstaaten mit dieser
+Richtlinie verpflichtet, einen Verhandlungsmechanismus einzurichten, der es allen
+Parteien, die eine Vereinbarung abschließen möchten, ermöglicht, auf die Hilfe einer
+unabhängigen Instanz zurückzugreifen. Diese Instanz sollte Sitzungen mit den
+Parteien abhalten und die Verhandlung durch professionelle und externe Beratung
+unterstützen. Vor diesem Hintergrund sollten die Mitgliedstaaten entscheiden, welche
+Bedingungen sie für den Verhandlungsmechanismus festlegen, beispielsweise welche
+Fristen gelten, wie lange die Verhandlungen unterstützt werden und wer die Kosten
+trägt. Die Mitgliedstaaten sollten dafür sorgen, dass der Verwaltungsaufwand und die
+finanziellen Lasten verhältnismäßig bleiben, damit die Effizienz des
+Verhandlungsmechanismus gewährleistet ist.
+(31) Für Qualitätsjournalismus und den Zugang zu Informationen für die Bürger ist eine
+freie und pluralistische Presse unabdingbar. Sie leistet einen grundlegenden Beitrag
+zur öffentlichen Debatte und das Funktionieren einer demokratischen Gesellschaft.
+
+33 Verordnung (EU) Nr. 386/2012 des Europäischen Parlaments und des Rates vom 19. April 2012 zur
+Übertragung von Aufgaben, die die Durchsetzung von Rechten des geistigen Eigentums betreffen,
+einschließlich der Zusammenführung von Vertretern des öffentlichen und des privaten Sektors im
+Rahmen einer Europäischen Beobachtungsstelle für Verletzungen von Rechten des geistigen
+Eigentums, auf das Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle) (ABl.
+L 129 vom 16.5.2012, S. 1).
+DE 21 DE
+Der Übergang von den Druckmedien zu den digitalen Medien stellt Presseverlage vor
+das Problem der Vergabe von Lizenzen für die Online-Nutzung ihrer
+Veröffentlichungen und der Amortisierung ihrer Investitionen. Sofern Verlage als
+Rechteinhaber von Presseveröffentlichungen nicht anerkannt werden, gestaltet sich die
+Lizenzvergabe und Durchsetzung ihrer Rechte im digitalen Umfeld häufig als
+komplex und ineffizient.
+(32) Um die Tragfähigkeit des Verlagswesens zu erhalten, gilt es, den organisatorischen
+und finanziellen Beitrag, den Verlage bei der Produktion von
+Presseveröffentlichungen leisten, anzuerkennen und die Verlage weiterhin hierzu zu
+ermutigen. Daher wird auf Unionsebene ein harmonisierter Rechtsschutz für
+Presseveröffentlichungen im Hinblick auf ihre digitalen Nutzungen benötigt. Ein
+solcher Rechtsschutz sollte wirksam gewährleistet werden, indem im Unionsrecht die
+Vervielfältigung und öffentliche Zugänglichmachung von Presseveröffentlichungen
+im Hinblick auf deren digitale Nutzungen urheberrechtlich geschützt werden.
+(33) Für die Zwecke dieser Richtlinie ist es notwendig, den Begriff der
+Presseveröffentlichung so zu definieren, dass er nur journalistische Veröffentlichungen
+umfasst, die, unabhängig vom Medium, von einem Diensteanbieter für die Zwecke der
+Information oder Unterhaltung veröffentlicht und in bestimmten Zeitabständen oder
+regelmäßig aktualisiert werden. Solche Veröffentlichungen umfassen beispielsweise
+Tageszeitungen oder wöchentlich oder monatlich erscheinende Magazine von
+allgemeinem oder besonderem Interesse sowie Nachrichtenwebsites. Periodika wie
+beispielsweise Wissenschaftsjournale, die für wissenschaftliche oder akademische
+Zwecke verlegt werden, sollten nicht unter den auf der Grundlage dieser Richtlinie
+gewährten Schutz für Presseveröffentlichungen fallen. Dieser Schutz erstreckt sich
+nicht auf das Verknüpfen mit Hyperlinks, da dies keine öffentliche Wiedergabe
+darstellt.
+(34) Die Rechte, die Presseverlagen auf der Grundlage dieser Richtlinie gewährt werden,
+sollten den gleichen Umfang haben wie die in der Richtlinie 2001/29/EG festgelegten
+Rechte auf Vervielfältigung und öffentliche Zugänglichmachung, sofern es sich um
+digitale Nutzungen handelt. Sie sollten zudem denselben Bestimmungen für
+Ausnahmen und Beschränkungen unterliegen, die auch für die in der Richtlinie
+2001/29/EG festgelegten Rechte gelten, einschließlich der Ausnahme für Zitate zu
+Zwecken wie Kritik oder Rezensionen gemäß Artikel 5 Absatz 3 Buchstabe d jener
+Richtlinie.
+(35) Der Schutz, der Presseverlagen auf der Grundlage dieser Richtlinie gewährt wird,
+sollte die Rechte der Urheber oder sonstiger Inhaber von Rechten an den in
+Presseveröffentlichungen enthaltenen Werken und sonstigen Schutzgegenständen
+nicht beeinträchtigen, auch nicht im Hinblick auf den Umfang, in dem Urheber und
+sonstige Rechteinhaber ihre Werke oder sonstigen Schutzgegenstände unabhängig von
+der Presseveröffentlichung, in der sie enthalten sind, verwerten können. Daher sollten
+sich Presseverlage gegenüber Urhebern und sonstigen Rechteinhabern nicht auf den
+ihnen gewährten Schutz berufen können. Dies gilt unbeschadet der vertraglichen
+Vereinbarungen, die zwischen den Presseverlagen und den Rechteinhabern
+geschlossen wurden.
+(36) Verlage, einschließlich solcher, die Presseveröffentlichungen, Bücher oder
+wissenschaftliche Veröffentlichungen verlegen, arbeiten häufig auf der Grundlage
+vertraglicher Vereinbarungen oder gesetzlicher Bestimmungen über die Übertragung
+von Urheberrechten. Dies stellt eine Investition der Verlage im Hinblick auf die 
+DE 22 DE
+Verwertung der in ihren Veröffentlichungen enthaltenen Werke dar, so dass ihnen
+unter Umständen Einnahmen entgehen, wenn diese Werke im Rahmen von
+Ausnahmen oder Beschränkungen, etwa für die Vervielfältigung zu privaten Zwecken
+und die Reprografie, genutzt werden. In einigen Mitgliedstaaten wird der für diese
+Ausnahmen gewährte Ausgleich auf die Urheber und Verlage aufgeteilt. Um dieser
+Situation Rechnung zu tragen und um die Rechtssicherheit für alle Beteiligten zu
+erhöhen, sollten die Mitgliedstaaten festlegen können, dass für den Fall, dass ein
+Urheber seine Rechte an einen Verlag übertragen, diesem eine Lizenz erteilt oder
+anderweitig mit seinen Werken zu einer Veröffentlichung beigetragen hat, und soweit
+Systeme bestehen, um den durch eine Ausnahme oder Beschränkung entstandenen
+Schaden auszugleichen, Verlage das Recht erhalten, einen Anteil an dieser
+Ausgleichsleistung zu fordern, wobei dem Verlag kein größerer Aufwand für die
+Begründung seiner Ansprüche entstehen darf als nach dem geltenden System.
+(37) In den letzten Jahren wurde der Markt für Online-Inhalte immer komplexer. OnlineDienste,
+die Zugang zu urheberrechtlich geschützten Inhalten bieten, die von ihren
+Nutzern ohne Einbeziehung der Rechteinhaber hochgeladen wurden, haben sich
+ausgeweitet und wurden zur Hauptquelle für den Zugriff auf Online-Inhalte. Dies
+schränkt die Rechteinhaber in ihren Möglichkeiten ein, festzustellen, ob und unter
+welchen Umständen ihr Werk oder sonstiger Schutzgegenstand verwendet wird, und
+eine angemessene Vergütung zu erhalten.
+(38) Speichern Diensteanbieter der Informationsgesellschaft urheberrechtlich geschützte
+Werke oder sonstige Schutzgegenstände, die von ihren Nutzern hochgeladen wurden,
+oder machen sie diese öffentlich zugänglich und gehen damit über die bloße
+Bereitstellung der physischen Einrichtungen hinaus und führen sie damit eine
+Handlung der öffentlichen Wiedergabe durch, sind sie zum Abschluss von
+Lizenzvereinbarungen mit den Rechteinhabern verpflichtet, sofern sie nicht unter den
+Haftungsausschluss nach Artikel 14 der Richtlinie 2000/31/EG des Europäischen
+Parlaments und des Rates fallen34
+.
+Nach Artikel 14 ist zu überprüfen, ob sich der Diensteanbieter aktiv daran beteiligt,
+beispielsweise die Präsentation der hochgeladenen Werke oder Schutzgegenstände zu
+optimieren oder sie bekannt zu machen, unabhängig davon, mit welchen Mitteln dies
+geschieht.
+Damit eine Lizenzvereinbarung auch funktioniert, sollten Diensteanbieter der
+Informationsgesellschaft, die große Mengen der von ihren Nutzern hochgeladenen,
+urheberrechtlich geschützten Werke oder sonstigen Schutzgegenstände speichern oder
+der Öffentlichkeit zugänglich machen, geeignete und angemessene Maßnahmen
+ergreifen, um beispielsweise durch den Einsatz wirksamer Techniken den Schutz der
+Werke oder sonstiger Schutzgegenstände zu gewährleisten. Diese Verpflichtung
+besteht auch, wenn die Diensteanbieter der Informationsgesellschaft unter den
+Haftungsausschluss nach Artikel 14 der Richtlinie 2000/31/EG fallen.
+(39) Damit Techniken, wie beispielsweise solche zur Erkennung von Inhalten, auch
+funktionieren, ist es unerlässlich, dass Diensteanbieter der Informationsgesellschaft,
+die große Mengen der von ihren Nutzern hochgeladenen, urheberrechtlich geschützten
+Werke oder sonstigen Schutzgegenstände speichern oder der Öffentlichkeit zugänglich
+machen, mit den Rechteinhabern zusammenarbeiten. In solchen Fällen sollten die
+
+34 Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte
+rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen
+Geschäftsverkehrs, im Binnenmarkt (ABl. L 178 vom 17.7.2000, S. 1).
+DE 23 DE
+Rechteinhaber die notwendigen Daten zur Verfügung stellen, damit die Dienste deren
+Inhalt erkennen können, und die Dienste sollten gegenüber den Rechteinhabern
+Transparenz hinsichtlich der eingesetzten Techniken walten lassen, damit deren
+Angemessenheit bewertet werden kann. So sollten die Dienste den Rechteinhabern
+insbesondere mitteilen, um welche Technik es sich handelt, wie sie funktioniert und
+wie hoch die Erfolgsquote bei der Erkennung von Inhalten der Rechteinhaber ist.
+Diese Techniken sollten es zudem den Rechteinhabern ermöglichen, von den
+Diensteanbietern der Informationsgesellschaft Auskünfte darüber zu erhalten, wie ihr
+unter eine Vereinbarung fallender Inhalt verwendet wird.
+(40) Bestimmte Rechteinhaber, wie Urheber und ausübende Künstler, benötigen
+Informationen, um den wirtschaftlichen Wert ihrer nach Unionsrecht harmonisierten
+Rechte bewerten zu können. Dies ist vor allem dann der Fall, wenn Rechteinhabern die
+Lizenzvergabe oder Rechteübertragung vergütet wird. Da Urheber und ausübende
+Künstler in der Regel eine schwächere Verhandlungsposition bei der Lizenzvergabe
+oder der Übertragung ihrer Rechte haben, benötigen sie Informationen, um fortlaufend
+bewerten zu können, wie sich der wirtschaftliche Wert ihrer Rechte im Vergleich zu
+ihrer Vergütung für die Lizenzvergabe oder die Rechteübertragung entwickelt, doch
+hier fehlt es häufig an Transparenz. Daher ist es wichtig für die Transparenz und
+Ausgewogenheit des Systems, das die Vergütung von Urhebern und ausübenden
+Künstlern regelt, dass zwischen den Vertragsparteien oder deren Rechtsnachfolgern
+geeignete Informationen ausgetauscht werden.
+(41) Bei der Umsetzung der Transparenzpflicht sollten die Besonderheiten der Inhalte
+unterschiedlicher Sektoren und der Rechte der Urheber und ausübenden Künstler in
+den einzelnen Sektoren berücksichtigt werden. Die Mitgliedstaaten sollten alle
+einschlägigen Interessenträger konsultieren, um sich bei der Festlegung der
+sektorspezifischen Anforderungen unterstützen zu lassen. Die kollektive Aushandlung
+von Rechten sollten als eine transparente Möglichkeit gesehen werden, zwischen den
+jeweiligen Interessenträgern eine Einigung zu erzielen. Für die Anpassung der
+geltenden Praxis in der Berichterstattung an die Transparenzpflichten sollte eine
+Übergangsfrist vorgesehen werden. Auf Vereinbarungen mit
+Verwertungsgesellschaften müssen die Transparenzpflichten nicht angewandt werden,
+da diese bereits den Transparenzpflichten nach der Richtlinie 2014/26/EU unterliegen.
+(42) Bestimmte Verträge über die Verwertung von unionsweit harmonisierten Rechten
+haben eine lange Laufzeit und bieten den Urhebern und ausübenden Künstlern nur
+wenig Spielraum, diese mit ihren Vertragspartnern oder Rechtsnachfolgern neu zu
+verhandeln. Unbeschadet des in den Mitgliedstaaten geltenden Vertragsrechts und
+auch im Lichte der mit dieser Richtlinie festgelegten Transparenzpflicht sollte es daher
+einen Mechanismus für die Anpassung der Vergütung für die Fälle geben, in denen die
+ursprünglich im Rahmen einer Lizenzvergabe oder Rechteübertragung vereinbarte
+Vergütung, gemessen an den einschlägigen Einnahmen und Gewinnen aus einem
+Werk oder der Aufzeichnung der Darbietung, unverhältnismäßig niedrig ist. Bei der
+Bewertung der Sachlage sollten die besonderen Umstände jedes Falls sowie die
+Besonderheiten und die gängige Praxis der einzelnen Inhaltesektoren berücksichtigt
+werden. Können sich die Parteien nicht auf eine Anpassung der Vergütung einigen,
+sollte der Urheber oder der ausübende Künstler das Recht haben, seinen Anspruch vor
+Gericht oder einer anderen zuständigen Behörde geltend zu machen.
+(43) Urheber und ausübende Künstler scheuen häufig davor zurück, ihre Rechte gegenüber
+ihren Vertragspartnern vor einem Gericht einzuklagen. Die Mitgliedstaaten sollten
+daher ein alternatives Streitbeilegungsverfahren vorsehen, das sich mit den 
+DE 24 DE
+Forderungen im Zusammenhang mit den Transparenzpflichten und dem
+Vertragsanpassungsmechanismus befasst.
+(44) Da das Ziel dieser Richtlinie, den Urheberrechtsrahmen der Union zu modernisieren,
+indem bestimmten Aspekten der technischen Entwicklung sowie den neuen Wegen für
+die Verbreitung geschützter Inhalte im Binnenmarkt Rechnung getragen wird, von den
+Mitgliedstaaten allein nicht ausreichend verwirklicht werden kann, sondern wegen
+seines Umfangs und seiner Wirkungen besser auf Unionsebene zu verwirklichen ist,
+kann die Union im Einklang mit dem in Artikel 5 des Vertrags über die Europäische
+Union niedergelegten Subsidiaritätsprinzip tätig werden. Entsprechend dem in
+demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Richtlinie
+nicht über das für die Verwirklichung dieser Ziele erforderliche Maß hinaus.
+(45) Die Richtlinie steht im Einklang mit den Grundrechten und Grundsätzen, die
+insbesondere mit der Charta der Grundrechte der Europäischen Union anerkannt
+wurden. Diese Richtlinie sollte folglich in Einklang mit diesen Rechten und
+Grundsätzen ausgelegt und angewandt werden.
+(46) Die Verarbeitung personenbezogener Daten nach dieser Richtlinie sollte unter
+Achtung der Grundrechte, unter anderem des Rechts auf Achtung des Privat- und
+Familienlebens und des Rechts auf Schutz personenbezogener Daten nach den
+Artikeln 7 und 8 der Charta der Grundrechte der Europäischen Union, erfolgen und
+muss mit der Richtlinie 95/46/EG des Europäischen Parlaments und des Rates35 und
+der Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates36 im Einklang
+stehen.
+(47) Gemäß der Gemeinsamen Politischen Erklärung der Mitgliedstaaten und der
+Kommission vom 28. September 2011 zu erläuternden Dokumenten37 sollen die
+Mitgliedstaaten in begründeten Fällen zusätzlich zur Mitteilung ihrer
+Umsetzungsmaßnahmen ein oder mehrere Dokumente übermitteln, in denen der
+Zusammenhang zwischen den Bestandteilen einer Richtlinie und den entsprechenden
+Teilen nationaler Umsetzungsinstrumente erläutert wird. In Bezug auf diese Richtlinie
+hält der Gesetzgeber die Übermittlung derartiger Dokumente für gerechtfertigt –
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+
+35 Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz
+natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr
+(ABl. L 281 vom 23.11.1995, S. 31), ersetzt durch Verordnung (EU) 2016/679 des Europäischen
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG
+(Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1), die ab 25. Mai 2018 gilt.
+36 Richtlinie 2002/58/EG des Europäischen Parlaments und des Rates vom 12. Juli 2002 über die
+Verarbeitung personenbezogener Daten und den Schutz der Privatsphäre in der elektronischen
+Kommunikation (Datenschutzrichtlinie für elektronische Kommunikation) (ABl. L 201 vom 31.7.2002,
+S. 37), in der Fassung der Richtlinien 2006/24/EG und 2009/136/EG, auch „e-Datenschutz-Richtlinie“
+genannt.
+37 ABl. C 369 vom 17.12.2011, S. 14.
+DE 25 DE
+TITEL I
+ALLGEMEINE BESTIMMUNGEN
+Artikel 1
+Gegenstand und Anwendungsbereich
+1. Mit dieser Richtlinie werden Vorschriften für die weitere Harmonisierung des
+Unionsrechts auf dem Gebiet der Urheberrechte und verwandten Schutzrechte im
+Rahmen des Binnenmarkts unter besonderer Berücksichtigung der digitalen und
+grenzübergreifenden Nutzungen geschützter Inhalte festgelegt. Außerdem enthält sie
+Vorschriften zu Ausnahmen und Beschränkungen und zur Erleichterung der
+Lizenzierung sowie Vorschriften, mit denen das Ziel verfolgt, wird, einen gut
+funktionierenden Markt für die Verwertung von Werken und sonstigen
+Schutzgegenständen zu gewährleisten.
+2. Mit Ausnahme der in Artikel 6 genannten Fälle lässt diese Richtlinie die bereits
+bestehenden Vorschriften unberührt, die in den einschlägigen geltenden Richtlinien,
+insbesondere in den Richtlinien 96/9/EG, 2001/29/EG, 2006/115/EG, 2009/24/EG,
+2012/28/EU und 2014/26/EU festgelegt sind.
+Artikel 2
+Begriffsbestimmungen
+Für die Zwecke dieser Richtlinie gelten folgende Begriffsbestimmungen:
+(1) „Forschungsorganisation“: eine Hochschule, ein Forschungsinstitut oder eine
+sonstige Organisation, deren vorrangiges Ziel die wissenschaftliche Forschung oder
+die Forschung in Verbindung mit Lehre ist, und die
+(a) in ihrer Tätigkeit nicht gewinnorientiert ist oder alle Gewinne in ihre
+wissenschaftliche Forschung reinvestiert oder
+(b) im Rahmen eines staatlich anerkannten Auftrags im öffentlichen Interesse tätig
+ist,
+wobei kein Unternehmen, das einen bestimmenden Einfluss auf diese Organisation
+hat, einen bevorzugten Zugang zu den Ergebnissen der wissenschaftlichen Forschung
+erhält;
+(2) „Text- und Data-Mining“: eine Technik für die automatisierte Auswertung von
+Texten und Daten in digitaler Form, mit deren Hilfe beispielsweise Erkenntnisse
+über Muster, Trends und Korrelationen gewonnen werden können;
+(3) „Einrichtungen des Kulturerbes“: öffentlich zugängliche Bibliotheken oder Museen,
+Archive oder Einrichtungen des Film- oder Tonerbes;
+(4) „Presseveröffentlichung“: Aufzeichnung einer Sammlung literarischer Werke
+journalistischer Art, die auch sonstige Werke oder Schutzgegenstände beinhalten
+kann und innerhalb einer unter einem einheitlichen Titel periodisch oder regelmäßig
+erscheinenden Veröffentlichung, wie Zeitungen oder Magazine von allgemeinem
+oder besonderem Interesse, eine Einzelausgabe darstellt und dem Zweck dient, über
+Nachrichten oder andere Themen zu informieren, und die, unabhängig vom Medium,
+auf Initiative sowie unter der redaktionellen Verantwortung und der Aufsicht eines
+Diensteanbieters veröffentlicht wird.
+DE 26 DE
+TITEL II
+MASSNAHMEN ZUR ANPASSUNG VON AUSNAHMEN UND
+BESCHRÄNKUNGEN AN DAS DIGITALE UND
+GRENZÜBERGREIFENDE UMFELD
+Artikel 3
+Text- und Data-Mining
+1. Die Mitgliedstaaten sehen eine Ausnahme von den in Artikel 2 der Richtlinie
+2001/29/EG und in Artikel 5 Buchstabe a und Artikel 7 Absatz 1 der Richtlinie
+96/9/EG sowie in Artikel 11 Absatz 1 dieser Richtlinie festgelegten Rechten für
+Vervielfältigungen und Entnahmen vor, die durch Forschungsorganisationen von
+Werken oder sonstigen Schutzgegenständen, zu denen sie für die Zwecke der
+wissenschaftlichen Forschung rechtmäßig Zugang haben, für das Text- und DataMining
+vorgenommen wurden.
+2. Jede Vertragsbestimmung, die der in Absatz 1 festgelegten Ausnahme zuwiderläuft,
+ist unwirksam.
+3. Rechteinhaber müssen Maßnahmen anwenden können, um die Sicherheit und
+Integrität der Netze und Datenbanken zu gewährleisten, in denen die Werke oder
+sonstigen Schutzgegenstände gespeichert sind. Diese Maßnahmen dürfen über das
+für die Erreichung dieses Ziels Notwendige nicht hinausgehen.
+4. Die Mitgliedstaaten wirken darauf hin, dass sich Rechteinhaber und
+Forschungsorganisationen gemeinsam auf Verfahren einigen, die sich für die
+Anwendung der in Absatz 3 genannten Maßnahmen bewährt haben.
+Artikel 4
+Nutzung von Werken und sonstigen Schutzgegenständen für digitale und grenzübergreifende
+Lehrtätigkeiten
+1. Die Mitgliedstaaten sehen eine Ausnahme oder Beschränkung von den in den
+Artikeln 2 und 3 der Richtlinie 2001/29/EG, in Artikel 5 Buchstabe a und Artikel 7
+Absatz 1 der Richtlinie 96/9/EG, in Artikel 4 Absatz 1 der Richtlinie 2009/24/EG
+sowie in Artikel 11 Absatz 1 dieser Richtlinie festgelegten Rechten vor, damit Werke
+und sonstige Schutzgegenstände für den alleinigen Zweck der Veranschaulichung im
+Unterricht digital und in dem Maße genutzt werden dürfen, wie dies durch diesen
+nichtgewerblichen Zweck gerechtfertigt ist, sofern diese Nutzung
+(a) in den Räumlichkeiten einer Bildungseinrichtung ober über ein gesichertes
+elektronisches Netz stattfindet, zu denen bzw. zu dem nur die Schülerinnen
+oder Schüler, die Studierenden und das Personal der Bildungseinrichtung
+Zugang haben;
+(b) mit Quellenangaben erfolgt, indem u. a. der Name des Urhebers angegeben
+wird, sofern sich dies nicht als unmöglich erweist.
+2. Die Mitgliedstaaten können festlegen, dass die Ausnahme nach Absatz 1 nicht
+allgemein gilt oder nur für bestimmte Arten von Werken oder sonstige
+Schutzgegenstände, sofern auf dem Markt angemessene Lizenzen für die
+Genehmigung der in Absatz 1 genannten Handlungen leicht verfügbar sind.
+Mitgliedstaaten, die von der in Unterabsatz 1 genannten Möglichkeit Gebrauch
+machen, müssen die notwendigen Maßnahmen ergreifen, damit eine angemessene 
+DE 27 DE
+Verfügbarkeit und Sichtbarkeit der Lizenzen gewährleistet ist, mit denen die in
+Absatz 1 genannten Handlungen der Bildungseinrichtungen genehmigt werden.
+3. Die Nutzung von Werken und sonstigen Schutzgegenständen über gesicherte
+elektronische Netze für den alleinigen Zweck der Veranschaulichung im Unterricht
+im Einklang mit dem einzelstaatlichen Recht, das auf der Grundlage dieses Artikels
+erlassen wurde, gilt allein als in dem Mitgliedstaat erfolgt, in dem die
+Bildungseinrichtung ihren Sitz hat.
+4. Die Mitgliedstaaten können für den Schaden, der den Rechteinhabern aufgrund der
+Nutzung ihrer Werke oder sonstigen Schutzgegenstände nach Absatz 1 entsteht,
+einen fairen Ausgleich vorsehen.
+Artikel 5
+Erhalt des Kulturerbes
+Die Mitgliedstaaten sehen eine Ausnahme von den in Artikel 2 der Richtlinie 2001/29/EG, in
+Artikel 5 Buchstabe a und Artikel 7 Absatz 1 der Richtlinie 96/9/EG, in Artikel 4 Absatz 1
+Buchstabe a der Richtlinie 2009/24/EG sowie in Artikel 11 Absatz 1 dieser Richtlinie
+festgelegten Rechten vor, die es Einrichtungen des Kulturerbes gestattet, Werke und sonstige
+Schutzgegenstände, die sich dauerhaft in ihren Sammlungen befinden, unabhängig vom
+Format oder Medium für den alleinigen Zweck des Erhalts dieser Werke oder sonstiger
+Gegenstände in dem für diesen Erhalt notwendigen Umfang zu vervielfältigen.
+Artikel 6
+Gemeinsame Bestimmungen
+Artikel 5 Absatz 5 und Artikel 6 Absatz 4 Unterabsätze 1, 3 und 5 der Richtlinie 2001/29/EG
+finden auf die unter diesem Titel genannten Ausnahmen und Beschränkungen Anwendung.
+DE 28 DE
+TITEL III
+MASSNAHMEN ZUR VERBESSERUNG DER
+LIZENZIERUNGSPRAXIS UND ZUR GEWÄHRLEISTUNG EINES
+BREITEREN ZUGANGS ZU INHALTEN
+KAPITEL 1
+Vergriffene Werke
+Artikel 7
+Nutzung von vergriffenen Werken durch Einrichtungen des Kulturerbes
+1. Die Mitgliedstaaten legen durch Bestimmungen fest, dass wenn eine
+Verwertungsgesellschaft im Namen ihrer Mitglieder mit einer Einrichtung des
+Kulturerbes eine nichtausschließliche Lizenzvereinbarung für nichtgewerbliche
+Zwecke abschließt, die sich auf die Digitalisierung, die Verbreitung, die öffentliche
+Wiedergabe oder die Zugänglichmachung vergriffener Werke oder sonstiger
+Schutzgegenstände erstreckt, die sich dauerhaft in der Sammlung dieser Einrichtung
+befinden, diese nichtausschließliche Lizenz auch auf Rechteinhaber, die von der
+Verwertungsgesellschaft nicht vertreten werden und derselben Kategorie wie die
+unter die Lizenzvereinbarung fallenden Rechteinhaber angehören, ausgedehnt
+werden kann oder von deren Zugehörigkeit zu dieser Kategorie ausgegangen werden
+kann, sofern
+(a) die Verwertungsgesellschaft aufgrund der ihr von den Rechteinhabern erteilten
+Mandate weitgehend repräsentativ für die Rechteinhaber in der Kategorie von
+Werken oder sonstigen Schutzgegenständen sowie für die Rechte ist, die
+Gegenstand der Lizenz sind;
+(b) die Gleichbehandlung aller Rechteinhaber in Bezug auf die Lizenz
+gewährleistet wird;
+(c) alle Rechteinhaber zu jedem Zeitpunkt der Einstufung ihrer Werke oder
+sonstigen Schutzgegenstände als vergriffene Werke widersprechen und die
+Anwendung der Lizenz auf ihre Werke oder sonstigen Schutzgegenstände
+ausschließen können.
+2. Ein Werk oder sonstiger Schutzgegenstand gilt als vergriffen, wenn das gesamte
+Werk oder der gesamte sonstige Schutzgegenstand in all seinen Übersetzungen,
+Fassungen und Erscheinungsformen auf den üblichen Vertriebswegen für die
+Öffentlichkeit nicht erhältlich ist und nach menschlichem Ermessen nicht davon
+ausgegangen werden kann, dass er in Zukunft erhältlich sein wird.
+Die Mitgliedstaaten sorgen in Rücksprache mit den Rechteinhabern, den
+Verwertungsgesellschaften und den Einrichtungen des Kulturerbes dafür, dass die
+Anforderungen für die Erteilung einer Lizenz nach Absatz 1 für ein Werk oder einen
+sonstigen Schutzgegenstand nicht über das Notwendige und Vertretbare hinausgehen
+und nicht die Möglichkeit ausschließen, eine Sammlung insgesamt als vergriffen
+einzustufen, wenn nach menschlichem Ermessen davon auszugehen ist, dass alle
+Werke oder sonstigen Schutzgegenstände in der Sammlung vergriffen sind.
+3. Die Mitgliedstaaten sehen geeignete Maßnahmen vor, um Folgendes bekannt zu
+machen:
+DE 29 DE
+(a) die Einstufung von Werken oder sonstigen Schutzgegenständen als vergriffen,
+(b) die Lizenz und vor allem ihre Anwendung auf nicht vertretene Rechteinhaber,
+(c) die in Absatz 1 Buchstabe c genannten Widerspruchsmöglichkeiten der
+Rechteinhaber,
+wobei eine angemessene Zeitspanne vorzusehen ist, bevor die Werke oder sonstigen
+Schutzgegenstände digitalisiert, vertrieben, öffentlich wiedergegeben oder
+zugänglich gemacht werden.
+4. Die Mitgliedstaaten gewährleisten, dass die in Absatz 1 genannten Lizenzen von
+einer Verwertungsgesellschaft vergeben werden, die für den Mitgliedstaat
+repräsentativ ist, in dem
+(a) die Werke oder Tonträger zuerst veröffentlicht wurden oder, sofern sie nicht
+veröffentlicht wurden, in dem sie zuerst gesendet wurden, mit Ausnahme von
+Film- und audiovisuellen Werken;
+(b) im Falle von Film- und audiovisuellen Werken die Produzenten der Werke
+ihren Hauptsitz oder ihren gewöhnlichen Wohnsitz haben oder
+(c) die Einrichtung des Kulturerbes ihren Sitz hat, sofern sich gemäß den
+Buchstaben a und b und nach vertretbarem Aufwand kein Mitgliedstaat oder
+Drittland festlegen lässt.
+5. Die Absätze 1, 2 und 3 finden nicht auf Werke oder sonstige Schutzgegenstände von
+Drittstaatsangehörigen Anwendungen, es sei denn, Absatz 4 Buchstaben a und b
+finden Anwendung.
+Artikel 8
+Grenzübergreifende Nutzungen
+1. Werke oder sonstige Schutzgegenstände, die unter eine Lizenz nach Artikel 7 fallen,
+können von der Einrichtung des Kulturerbes gemäß den Lizenzbedingungen in allen
+Mitgliedstaaten genutzt werden.
+2. Die Mitgliedstaaten gewährleisten, dass Informationen, anhand derer die unter eine
+Lizenz nach Artikel 7 fallenden Werke oder sonstigen Schutzgegenstände
+identifiziert werden können, sowie die Informationen, mit denen Rechteinhaber über
+ihr Widerspruchsrecht nach Artikel 7 Absatz 1 Buchstabe c unterrichtet werden,
+mindestens sechs Monate, bevor die Werke oder sonstigen Schutzgegenstände in
+anderen Mitgliedstaaten als dem der Lizenzerteilung digitalisiert, vertrieben,
+öffentlich wiedergegeben oder zugänglich gemacht werden, und über die gesamte
+Lizenzlaufzeit hinweg über ein zentrales Online-Portal öffentlich zugänglich
+gemacht werden.
+3. Das in Absatz 2 genannte Portal wird vom Amt der Europäischen Union für geistiges
+Eigentum entsprechend der Verordnung (EU) Nr. 386/2012 eingerichtet und
+verwaltet.
+Artikel 9
+Dialog der Interessenträger
+Die Mitgliedstaaten gewährleisten einen regelmäßigen Dialog zwischen den
+Interessenvertretungen der Nutzer und Rechteinhaber sowie anderen interessierten Kreisen,
+um in Bezug auf die einzelnen Sektoren die Bedeutung und Nutzung des in Artikel 7 Absatz 1
+genannten Lizenzmechanismus zu stärken, die Wirkung der in diesem Kapitel genannten 
+DE 30 DE
+Schutzbestimmungen für die Rechteinhaber, insbesondere der Informationsmaßnahmen,
+sicherzustellen, und gegebenenfalls die Festlegung der in Artikel 7 Absatz 2 Unterabsatz 2
+genannten Anforderungen zu unterstützen.
+KAPITEL 2
+Zugänglichkeit und Verfügbarkeit audiovisueller Werke auf Plattformen
+für den Videoabruf
+Artikel 10
+Verhandlungsmechanismus
+Die Mitgliedstaaten gewährleisten, dass Parteien, die den Abschluss einer Vereinbarung für
+die Zwecke der Zugänglichmachung audiovisueller Werke auf Plattformen für den
+Videoabruf beabsichtigen und Probleme mit der Lizenzierung von Rechten haben, sich an
+eine unabhängige Instanz wenden können, die über einschlägige Erfahrungen verfügt. Diese
+Instanz leistet Unterstützung bei Verhandlungen und bei der Erzielung von Vereinbarungen.
+Die Mitgliedstaaten teilen der Kommission spätestens bis zum [Datum siehe Artikel 21
+Absatz 1] den Namen dieser Instanz mit.
+DE 31 DE
+TITEL IV
+SCHAFFUNG EINES FUNKTIONSFÄHIGEN MARKTES FÜR DEN
+URHEBERRECHTSSCHUTZ
+KAPITEL 1
+Rechte an Veröffentlichungen
+Artikel 11
+Schutz von Presseveröffentlichungen im Hinblick auf digitale Nutzungen
+1. Die Mitgliedstaaten legen Bestimmungen fest, mit denen Presseverlage die in
+Artikel 2 und Artikel 3 Absatz 2 der Richtlinie 2001/29/EG genannten Rechte für die
+digitale Nutzung ihrer Presseveröffentlichung erhalten.
+2. Von den in Absatz 1 genannten Rechten bleiben die im Unionsrecht festgelegten
+Rechte von Urhebern und sonstigen Rechteinhabern an den in einer
+Presseveröffentlichung enthaltenen Werken und sonstigen Schutzgegenständen
+unberührt. Diese Rechte können nicht gegen diese Urheber und sonstigen
+Rechteinhaber geltend gemacht werden und können ihnen insbesondere nicht das
+Recht nehmen, ihre Werke und sonstigen Schutzgegenstände unabhängig von der
+Presseveröffentlichung zu verwenden, in der sie enthalten sind.
+3. Die Artikel 5 bis 8 der Richtlinie 2001/29/EG und die Richtlinie 2012/28/EU finden
+sinngemäß auf die in Absatz 1 genannten Rechte Anwendung.
+4. Die in Absatz 1 genannten Rechte erlöschen 20 Jahre nach der Veröffentlichung der
+Presseveröffentlichung. Die Berechnung dieser Zeitspanne erfolgt ab dem 1. Januar
+des auf den Tag der Veröffentlichung folgenden Jahres.
+Artikel 12
+Ausgleichsansprüche
+Die Mitgliedstaaten können festlegen, dass für den Fall, dass ein Urheber einem Verleger ein
+Recht übertragen oder diesem eine Lizenz erteilt hat, diese Übertragung oder Lizenzierung
+eine hinreichende Rechtsgrundlage für den Verleger darstellt, einen Anteil am Ausgleich für
+die Nutzungen des Werkes zu beanspruchen, die im Rahmen einer Ausnahme oder
+Beschränkung in Bezug auf das übertragene oder lizenzierte Recht erfolgt sind.
+KAPITEL 2
+Bestimmte Nutzungen geschützter Inhalte durch Online-Dienste
+Artikel 13
+Nutzung geschützter Inhalte durch Diensteanbieter der Informationsgesellschaft, die große
+Mengen der von ihren Nutzern hochgeladenen Werke und sonstigen Schutzgegenstände
+speichern oder zugänglich machen
+1. Diensteanbieter der Informationsgesellschaft, die große Mengen der von ihren
+Nutzern hochgeladenen Werke und sonstigen Schutzgegenstände in Absprache mit
+den Rechteinhabern speichern oder öffentlich zugänglich machen, ergreifen
+Maßnahmen, um zu gewährleisten, dass die mit den Rechteinhabern geschlossenen
+Vereinbarungen, die die Nutzung ihrer Werke oder sonstigen Schutzgegenstände
+regeln, oder die die Zugänglichkeit der von den Rechteinhabern genannten Werke
+oder Schutzgegenstände über ihre Dienste untersagen, eingehalten werden. Diese 
+DE 32 DE
+Maßnahmen wie beispielsweise wirksame Inhaltserkennungstechniken müssen
+geeignet und angemessen sein. Die Diensteanbieter müssen gegenüber den
+Rechteinhabern in angemessener Weise darlegen, wie die Maßnahmen funktionieren
+und eingesetzt werden und ihnen gegebenenfalls über die Erkennung und Nutzung
+ihrer Werke und sonstigen Schutzgegenstände Bericht erstatten.
+2. Die Mitgliedstaaten müssen gewährleisten, dass die in Absatz 1 genannten
+Diensteanbieter den Nutzern für den Fall von Streitigkeiten über die Anwendung der
+in Absatz 1 genannten Maßnahmen Beschwerdemechanismen und
+Rechtsschutzmöglichkeiten zur Verfügung stellen.
+3. Die Mitgliedstaaten erleichtern gegebenenfalls die Zusammenarbeit zwischen den
+Diensteanbietern der Informationsgesellschaft und den Rechteinhabern durch
+Dialoge zwischen den Interessenträgern, damit festgelegt werden kann, welche
+Verfahren sich beispielsweise unter Berücksichtigung der Art der Dienste, der
+verfügbaren Technik und deren Wirksamkeit vor dem Hintergrund der
+technologischen Entwicklungen als geeignete und angemessene
+Inhalteerkennungstechniken bewährt haben.
+KAPITEL 3
+Faire Verträge mit den Urhebern und ausübenden Künstlern über die
+Vergütung
+Artikel 14
+Transparenzpflicht
+1. Die Mitgliedstaaten gewährleisten, dass die Urheber und ausübenden Künstler
+regelmäßig und unter Berücksichtigung der sektorspezifischen Besonderheiten,
+zeitnahe, angemessene und hinreichende Informationen über die Verwertung ihrer
+Werke und Darbietungen vor allem im Hinblick auf die Art der Verwertung, die
+erzielten Einnahmen und die fällige Vergütung von denjenigen erhalten, denen sie
+Lizenzrechte erteilt oder an die sie Rechte übertragen haben.
+2. Die in Absatz 1 genannte Pflicht muss angemessen und wirksam sein und ein
+angemessenes Maß an Transparenz in jedem Sektor gewährleisten. Ist jedoch der
+Verwaltungsaufwand aufgrund dieser Pflicht im Verhältnis zu den durch die
+Verwertung des Werks oder der Darbietung erzielten Einnahmen unverhältnismäßig
+hoch, können die Mitgliedstaaten die in Absatz 1 genannte Pflicht anpassen, sofern
+diese wirksam bleibt und ein angemessenes Maß an Transparenz gewährleistet ist.
+3. Die Mitgliedstaaten können festlegen, dass die in Absatz 1 genannte Pflicht keine
+Anwendung findet, wenn der Beitrag des Urhebers oder ausübenden Künstlers vor
+dem Hintergrund des Gesamtwerks oder der Gesamtdarbietung nicht erheblich ist.
+4. Absatz 1 findet keine Anwendung auf Rechtspersonen, die den in der Richtlinie
+2014/26/EU genannten Transparenzpflichten unterliegen.
+Artikel 15
+Vertragsanpassungsmechanismus
+Die Mitgliedstaaten gewährleisten, dass Urheber und ausübende Künstler das Recht haben,
+eine zusätzliche und angemessene Vergütung von der Partei zu verlangen, mit der sie einen
+Vertrag über die Verwertung ihrer Rechte geschlossen haben, wenn die ursprünglich
+vereinbarte Vergütung im Vergleich zu den späteren einschlägigen Einnahmen und Gewinnen
+aus der Verwertung der Werke oder Darbietungen unverhältnismäßig niedrig ist.
+DE 33 DE
+Artikel 16
+Streitbeilegung
+Die Mitgliedstaaten tragen dafür Sorge, dass Streitigkeiten über die Transparenzpflicht nach
+Artikel 14 und den Vertragsanpassungsmechanismus nach Artikel 15 im Wege eines
+freiwilligen und alternativen Verfahrens beigelegt werden können.
+DE 34 DE
+TITEL V
+SCHLUSSBESTIMMUNGEN
+Artikel 17
+Änderungen anderer Richtlinien
+1. Die Richtlinie 96/9/EG wird wie folgt geändert:
+(a) Artikel 6 Absatz 2 Buchstabe b erhält folgende Fassung:
+„b) für die Nutzung ausschließlich zur Veranschaulichung im Unterricht oder
+zu Zwecken der wissenschaftlichen Forschung – stets mit Quellenangabe –,
+sofern dies zur Verfolgung nichtkommerzieller Zwecke gerechtfertigt ist und
+unbeschadet der in der Richtlinie [dieser Richtlinie] festgelegten Ausnahmen
+und Beschränkungen;“
+(b) Artikel 9 Buchstabe b erhält folgende Fassung:
+„b) für eine Entnahme zur Veranschaulichung im Unterricht oder zu Zwecken
+der wissenschaftlichen Forschung, sofern er die Quelle angibt und soweit dies
+durch den nichtkommerziellen Zweck gerechtfertigt ist und unbeschadet der in
+der Richtlinie [dieser Richtlinie] festgelegten Ausnahmen und
+Beschränkungen;“
+2. Die Richtlinie 2001/29/EG wird wie folgt geändert:
+(a) In Artikel 5 Absatz 2 erhält Buchstabe c folgende Fassung:
+„c) in Bezug auf bestimmte Vervielfältigungshandlungen von öffentlich
+zugänglichen Bibliotheken, Bildungseinrichtungen oder Museen oder von
+Archiven, die keinen unmittelbaren oder mittelbaren wirtschaftlichen oder
+kommerziellen Zweck verfolgen, und unbeschadet der in der Richtlinie [dieser
+Richtlinie] festgelegten Ausnahmen und Beschränkungen;“
+(b) In Artikel 5 Absatz 3 erhält Buchstabe a folgende Fassung:
+„a) für die Nutzung ausschließlich zur Veranschaulichung im Unterricht oder
+für Zwecke der wissenschaftlichen Forschung, sofern – außer in Fällen, in
+denen sich dies als unmöglich erweist – die Quelle, einschließlich des Namens
+des Urhebers, wann immer dies möglich ist, angegeben wird und soweit dies
+zur Verfolgung nicht kommerzieller Zwecke gerechtfertigt ist, und
+unbeschadet der in der Richtlinie [dieser Richtlinie] festgelegten Ausnahmen
+und Beschränkungen;“
+(c) In Artikel 12 Absatz 4 werden folgende Buchstaben angefügt:
+„e) Prüfung der Auswirkungen der Richtlinie [dieser Richtlinie] auf den
+Binnenmarkt und Benennung etwaiger Schwierigkeiten bei der Umsetzung;
+f) Erleichterung des Informationsaustauschs über einschlägige Entwicklungen
+in der Gesetzgebung und Rechtsprechung sowie über die praktische
+Anwendung der von den Mitgliedstaaten zur Umsetzung der Richtlinie [dieser
+Richtlinie] ergriffenen Maßnahmen;
+g) Behandlung von Fragen aus der Anwendung der Richtlinie [dieser
+Richtlinie].“
+DE 35 DE
+Artikel 18
+Zeitliche Anwendung
+1. Diese Richtlinie findet auf alle Werke und sonstigen Schutzgegenstände ab dem
+[Datum in Artikel 21 Absatz 1] oder danach Anwendung, die durch die
+Rechtsvorschriften der Mitgliedstaaten auf dem Gebiet des Urheberrechts geschützt
+sind.
+2. Die Bestimmungen von Artikel 11 gelten auch für vor dem [Datum in Artikel 21
+Absatz 1] veröffentlichte Presseveröffentlichungen.
+3. Diese Richtlinie gilt unbeschadet der Rechtsakte und Rechte, die vor dem [Datum in
+Artikel 21 Absatz 1] erlassen bzw. erworben wurden.
+Artikel 19
+Übergangsbestimmungen
+Vereinbarungen über die Lizenzvergabe oder die Übertragung von Rechten von Urhebern und
+ausübenden Künstlern unterliegen der Transparenzpflicht nach Artikel 14 ab dem [ein Jahr
+nach dem Datum in Artikel 21 Absatz 1].
+Artikel 20
+Schutz personenbezogener Daten
+Die Verarbeitung personenbezogener Daten im Zusammenhang mit dieser Richtlinie muss im
+Einklang mit den Richtlinien 95/46/EG und 2002/58/EG erfolgen.
+Artikel 21
+Umsetzung
+1. Die Mitgliedstaaten erlassen die erforderlichen Rechts- und
+Verwaltungsvorschriften, um dieser Richtlinie spätestens am [12 Monate nach
+Inkrafttreten] nachzukommen. Sie teilen der Kommission unverzüglich den Wortlaut
+dieser Vorschriften mit.
+Bei Erlass dieser Vorschriften nehmen die Mitgliedstaaten in den Vorschriften selbst
+oder durch einen Hinweis bei der amtlichen Veröffentlichung auf die vorliegende
+Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten der Bezugnahme.
+2. Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen
+Vorschriften mit, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen.
+Artikel 22
+Überprüfung
+1. Frühestens [fünf Jahre nach dem Datum in Artikel 21 Absatz 1] führt die
+Kommission eine Bewertung dieser Richtlinie durch und legt dem Europäischen
+Parlament, dem Rat und dem Europäischen Wirtschafts- und Sozialausschuss die
+wichtigsten Ergebnisse der Bewertung dieser Richtlinie vor.
+2. Die Mitgliedstaaten übermitteln der Kommission alle erforderlichen Angaben zur
+Ausarbeitung des in Absatz 1 genannten Bewertungsberichts.
+Artikel 23
+Inkrafttreten
+Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der
+Europäischen Union in Kraft.
+DE 36 DE
+Artikel 24
+Adressaten
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
+Geschehen zu Brüssel am […]
+In Namen des Europäischen Parlaments Im Namen des Rates
+Der Präsident Der Präsident

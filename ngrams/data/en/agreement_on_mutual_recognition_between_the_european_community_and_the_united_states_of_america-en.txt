@@ -1,0 +1,695 @@
+ACTS ADOPTED BY BODIES CREATED BY 
+INTERNATIONAL AGREEMENTS 
+DECISION No 1/2017 
+of 1 March 2017 
+of the Joint Committee established under Article 14 of the Agreement on Mutual Recognition 
+between the European Community and the United States of America, amending the Sectoral 
+Annex for Pharmaceutical Good Manufacturing Practices (GMPs) [2017/382] 
+THE JOINT COMMITTEE, 
+Having regard to the Agreement on Mutual Recognition between the European Community and the United States of 
+America (the ‘Agreement’) done in 1998, and in particular its Articles 14 and 21, and 
+Whereas the Joint Committee is to take a decision to amend the Sectoral Annex on GMPs pursuant to Article 21(2) of 
+the Agreement; 
+HAS DECIDED AS FOLLOWS:  
+1. Attachment A to this Decision is the United States — European Union Amended Sectoral Annex for Pharmaceutical 
+Good Manufacturing Practices (‘Amended Sectoral Annex’) which amends the Sectoral Annex for Pharmaceutical 
+Good Manufacturing Practices (GMPs) done in 1998 and replaces it with a consolidated version.  
+2. Attachment A has been agreed by the Parties.   
+This Decision, done in duplicate, shall be signed by representatives of the Joint Committee who, pursuant 
+to Article 21(2) of the Agreement are authorized to act on behalf of the Parties for purposes of amending 
+the Annexes. This Decision shall be effective from the date of the later of these signatures.  
+Signed in Washington DC, 19 January 2017. 
+On behalf of the United States of America 
+Michael B. G. FROMAN  
+Signed in Brussels, 1 March 2017. 
+On behalf of the European Union 
+Cecilia MALMSTRÖM    
+4.3.2017 L 58/36 Official Journal of the European Union EN     
+ATTACHMENT A 
+United States — European Union amended sectoral annex for pharmaceutical good manufacturing 
+practices (GMPs) 
+PREAMBLE 
+This Annex constitutes a Sectoral Annex to the Agreement on Mutual Recognition between the United States and the 
+European Union, amending the Sectoral Annex for Pharmaceutical Good Manufacturing Practices done in 1998. 
+CHAPTER 1 
+DEFINITIONS, PURPOSE, SCOPE AND PRODUCT COVERAGE 
+Article 1 
+Definitions 
+For purposes of this Annex:  
+1. ‘Assessment pursuant to this Annex’ means: 
+for the European Union (EU), an equivalence assessment; and 
+for the United States, a capability assessment. 
+An assessment pursuant to this Annex includes a reassessment.  
+2. ‘Recognized authority’ means: 
+for the EU, an equivalent authority; and 
+for the United States, a capable authority.  
+3. ‘Capable authority’ means an authority that the Food and Drug Administration (FDA) FDA has determined is 
+capable according to the criteria and procedures specified in Appendix 4 and referred to in the U.S. laws, 
+regulations and administrative provisions listed in Appendix 1. For greater certainty, a finding that a regulatory 
+authority is ‘capable’ does not require that the authority maintain procedures for conducting inspections and 
+overseeing manufacturing facilities that are identical to FDA's procedures.  
+4. ‘Equivalent authority’ means an authority in respect of which the EU has made a positive equivalence determination 
+according the criteria and procedures specified in Appendix 4 and as referred to in the EU laws, regulations and 
+administrative provisions listed in Appendix 1.  
+5. ‘Equivalence’ means that the regulatory system under which an authority operates is sufficiently comparable to 
+assure that the process of inspection and the ensuing official GMP documents will provide adequate information to 
+determine whether respective statutory and regulatory requirements of the authorities have been fulfilled. For 
+greater certainty, ‘equivalence’ does not require that the respective regulatory systems have identical procedures.  
+6. ‘Enforcement’ means an action taken by an authority to protect the public from products of suspect quality, safety 
+and efficacy or to assure that products are manufactured in compliance with appropriate laws, regulations, 
+standards and commitments made as part of the approval to market a product. 
+7. ‘Good Manufacturing Practices’ (GMPs) means systems that assure proper design, monitoring, and control of manu­
+facturing processes and facilities, the adherence to which assures the identity, strength, quality, and purity of 
+pharmaceuticals. GMPs include strong quality management systems, obtaining appropriate quality raw materials 
+(including starting materials) and packaging materials, establishing robust operating procedures, detecting and 
+investigating product quality deviations, and maintaining reliable testing laboratories. 
+4.3.2017 L 58/37 Official Journal of the European Union EN     
+8. ‘Inspection’ means an on-site evaluation of a manufacturing facility to determine whether such manufacturing 
+facility is operating in compliance with Good Manufacturing Practices and/or commitments made as part of the 
+approval to market a product.  
+9. ‘Inspection Report’ means a report written by an investigator or inspector of an authority listed in Appendix 2 
+concerning an inspection of a manufacturing facility that the investigator or inspector conducted that describes the 
+purpose and scope of an inspection and includes written observations and findings bearing on the manufacturing 
+facilities conformance to applicable GMP requirements set out in the laws, regulations and administrative 
+procedures listed in Appendix 1 and any commitments made as part of the approval to market a product.  
+10. ‘Official GMPs document’ means a document issued by an authority listed in Appendix 2 following an inspection of 
+a manufacturing facility. Examples of official GMPs documents include inspection reports, certificates issued by an 
+authority attesting the compliance of a manufacturing facility with GMPs, GMPs non-compliance statement issued 
+by authorities of the EU, and notice of observations, untitled letters, warning letters, and import alerts issued by 
+the FDA.  
+11. ‘Pharmaceuticals’ includes drugs and medicinal products as defined in the laws and regulations listed in Appendix 1.  
+12. ‘Post-approval inspections’ means GMP surveillance inspections during the marketing of products.  
+13. ‘Pre-approval inspections’ means pharmaceutical inspections of manufacturing facilities carried out in the territory 
+of a Party as part of the review of an application before marketing approval is granted.  
+14. ‘Regulatory System’ means the body of legal requirements for Good Manufacturing Practices, inspections, and 
+enforcements that ensure public health protection and legal authority to assure adherence to these requirements. 
+Article 2 
+Purpose 
+This Annex facilitates the exchange of official GMPs documents between the Parties and reliance on the factual findings 
+in such documents. This Annex seeks to facilitate trade and benefit public health by allowing each Party to leverage and 
+to reallocate its inspection resources, including by avoiding duplication of inspections, so as to improve oversight of 
+manufacturing facilities and better address quality risk and prevent adverse health consequences. 
+Article 3 
+Scope 
+1. The provisions of this Annex apply to pharmaceutical inspections of manufacturing facilities carried out in the 
+territory of a Party during the marketing of products (hereafter referred to as ‘post-approval inspections’) and, to the 
+extent provided for in Article 11, before products are marketed (hereafter referred to as ‘pre-approval inspections’), as 
+well as, to the extent provided for in Article 8(3), to pharmaceutical inspections of manufacturing facilities carried out 
+outside the territory of either Party. 
+2. Appendix 1 names the laws, regulations and administrative provisions governing these inspections and the GMPs 
+requirements. 
+3. Appendix 2 lists all the authorities responsible for the oversight of facilities that manufacture products within the 
+product coverage of this Annex. 
+4. Articles 6, 7, 8, 9, 10 and 11 of the Agreement do not apply to this Annex. 
+4.3.2017 L 58/38 Official Journal of the European Union EN     
+Article 4 
+Product coverage 
+1. These provisions apply to marketed finished pharmaceuticals for human or animal use, intermediates (for the EU 
+as defined in EU legislation) and in-process materials (for the United States as defined under U.S. law), certain marketed 
+biological products for human use, and active pharmaceutical ingredients, only to the extent they are regulated by the 
+authorities of both Parties as listed in Appendix 2 and subject to Article 20. 
+2. Human blood, human plasma, human tissues and organs, and veterinary immunologicals are excluded from the 
+scope of this Annex. 
+3. Appendix 3 contains the list of products covered by this Annex. 
+CHAPTER 2 
+DETERMINATION OF RECOGNITION 
+Article 5 
+Assessments 
+1. Each Party shall conduct assessments of authorities listed in Appendix 2 pursuant to this Annex on the request of 
+the other Party as expeditiously as possible, including for authorities added to Appendix 2 after the effective date of this 
+Annex and as regards products listed in Appendix 3 (including those that are included in the scope of this Annex 
+pursuant to Article 20 after the effective date of this Annex). 
+2. Each Party shall use the criteria and procedure specified in Appendix 4 to conduct assessments pursuant to this 
+Annex. 
+Article 6 
+Participation in and completion of assessments 
+Each Party with respect to the authorities listed in Appendix 2 shall participate in the procedure as described in 
+Appendix 4. Each Party shall exercise good faith efforts to complete assessments pursuant to this Annex as expeditiously 
+as possible. To this end: 
+(a)  The EU shall complete an assessment of the FDA for human pharmaceuticals under this Annex no later than by 
+1 July 2017. 
+(b) The FDA shall complete an assessment under this Annex of each EU Member State authority for human pharmaceut­
+icals listed in Appendix 2 as set out in Appendix 5. 
+Article 7 
+Recognition of authorities 
+1. Each Party shall determine whether to recognize an authority according to the criteria specified in Appendix 4. 
+Each Party shall promptly notify the Joint Sectoral Committee of any determination to recognize an authority of the 
+other Party. The Joint Sectoral Committee shall maintain a list of recognized authorities and shall keep the list up-to- 
+date. The list shall be made publicly available by each Party. 
+4.3.2017 L 58/39 Official Journal of the European Union EN     
+2. The assessing Party shall promptly notify the other Party and the relevant authority of any deficiencies identified in 
+the course of the assessment. In the event of a negative determination, the assessing Party shall notify the other Party 
+and the relevant authority of the reasons for the negative determination and provide sufficient detail to allow the 
+authority to understand corrective measures that must be taken to attain a positive determination. A Party may request 
+the other Party to conduct a reassessment of any authority for which the other Party has made a negative determination 
+once the authority has taken necessary corrective measures in accordance with Article 5. 
+3. An assessing Party shall, upon request of the other Party, promptly discuss with the other Party in the Joint 
+Sectoral Committee the reasons for a negative determination. In case of a negative determination, efforts shall be made 
+by the Joint Sectoral Committee to discuss within 3 months the appropriate timeframe and exact steps to be taken to 
+reassess the relevant authority. 
+CHAPTER 3 
+OPERATIONAL ASPECTS 
+Article 8 
+Recognition of inspections 
+1. A Party shall recognize pharmaceutical inspections and accept official GMPs documents issued by a recognized 
+authority of the other Party for manufacturing facilities located in the territory of the issuing authority, except as 
+provided in paragraph 2. 
+2. A Party may in specific circumstances opt not to accept an official GMPs document issued by a recognized 
+authority of the other Party for manufacturing facilities located in the territory of the issuing authority. Examples of 
+such circumstances include the indication of material inconsistencies or inadequacies in an inspection report, quality 
+defects identified in the post-market surveillance or other specific evidence of serious concern in relation to product 
+quality or consumer safety. A Party opting not to accept an official GMPs document issued by a recognized authority of 
+the other Party shall notify the other Party and the relevant authority of the reasons for not accepting the document and 
+may request clarification from that authority. The authority shall endeavour to respond to the request for clarification in 
+a timely manner and shall normally provide the clarification based on input from one or more members of the 
+inspection team. 
+3. A Party may accept official GMPs documents issued by a recognized authority of the other Party for manufacturing 
+facilities located outside the territory of the issuing authority. 
+4. Each Party may determine the terms and conditions under which it accepts official GMPs documents issued under 
+paragraph 3. 
+5. For purposes of this Annex, to accept an official GMPs document means to rely on the factual findings in such 
+document. 
+Article 9 
+Batch testing 
+In the EU, as provided in Article 51 paragraph 2 of Directive 2001/83/EC of the European Parliament and of the 
+Council (1) and in Article 55 paragraph 2 of Directive 2001/82/EC of the European Parliament and of the Council (2), 
+the qualified person will be relieved of responsibility for carrying out the controls laid down in Article 51 paragraph 1 
+of Directive 2001/83/EC and in Article 55 paragraph 1 of Directive 2001/82/EC provided that these controls have been 
+carried out in the United States, the product was manufactured in the United States and that each batch/lot is 
+accompanied by a batch certificate (in alignment with the WHO certification scheme on the quality of medicinal 
+products) issued by the manufacturer certifying that the product complies with requirements of the marketing authori­
+zation and signed by the person responsible for releasing the batch/lot. 
+4.3.2017 L 58/40 Official Journal of the European Union EN     
+(1) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to 
+medicinal products for human use (OJ L 311, 28.11.2001, p. 67). 
+(2) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to 
+veterinary medicinal products (OJ L 311, 28.11.2001, p. 1). 
+Article 10 
+Transmission of official GMPs documents 
+If an importing Party requests a recognized authority of the other Party for a post-approval official GMPs document, the 
+recognized authority shall transmit the document to the Party within 30 calendar days of the date of the request. If, 
+based on that document, the importing Party determines that a new inspection of the manufacturing facility is needed, 
+the importing Party shall notify the relevant recognized authority of the other Party and request, in accordance with 
+Article 11, the recognized authority of the other Party to conduct a new inspection. 
+Article 11 
+Requests for pre-approval and post-approval inspections 
+1. A Party or a recognized authority of a Party may request in writing that a recognized authority of the other Party 
+conduct a pre-approval or post-approval inspection of a manufacturing facility. The request shall include the reason for 
+the request and identify the precise issues to be addressed in the inspection and the requested timeline for completing 
+the inspection and transmitting the official GMPs documents. 
+2. In the EU, requests shall be sent directly to the relevant recognized authority, with a copy to the European 
+Medicines Agency (EMA). 
+3. Within 15 calendar days of receipt of the request, the recognized authority shall acknowledge receipt and confirm 
+whether it will conduct the inspection in accordance with the requested timelines. Where the authority receiving the 
+request is of the opinion that official GMPs documents relevant to the request are already available or are pending, it 
+should inform the requesting authority accordingly and share these documents upon request. 
+4. For greater certainty, if the recognized authority indicates that it will not conduct the inspection, the requesting 
+authority has the right to conduct its own inspection of the manufacturing facility and the requested authority has the 
+right to join the inspection. 
+Article 12 
+Maintenance 
+Each Party shall maintain ongoing activities to monitor that recognized authorities in its territory maintain the criteria 
+for recognition. For the purpose of such monitoring activities, each Party shall rely on established programmes that 
+include regular audits or assessments of authorities based on the criteria specified in Appendix 4. The frequency and 
+nature of such activities shall be consistent with international best practices. A Party may invite the other Party to 
+participate in these monitoring activities at the other Party's expense. Each Party shall notify the other Party of any 
+significant changes to its monitoring programmes. 
+Article 13 
+Suspension of a recognized authority 
+1. Each Party has the right to suspend recognition of a recognized authority of the other Party. This right shall be 
+exercised in an objective and reasoned manner and communicated in writing to the other Party and the recognized 
+authority. 
+2. A Party suspending recognition of a recognized authority of the other Party shall, upon request of the other Party 
+or the authority whose recognition was suspended, promptly discuss in the Joint Sectoral Committee the suspension, the 
+reason therefore, and corrective actions that would need to be taken for the suspension to be lifted. 
+4.3.2017 L 58/41 Official Journal of the European Union EN     
+3. Upon the suspension of an authority previously listed as a recognized authority, a Party is no longer obligated to 
+accept official GMPs documents of the suspended authority. A Party shall continue to accept official GMPs documents of 
+that authority prior to suspension, unless the Party decides otherwise based on health or safety considerations. The 
+suspension shall remain in effect until the Parties decide to lift the suspension or until a positive determination of 
+recognition has been made in accordance with Article 7 pursuant to a reassessment. 
+CHAPTER 4 
+JOINT SECTORAL COMMITTEE 
+Article 14 
+Role and composition of the Joint Sectoral Committee 
+1. A Joint Sectoral Committee is set up to monitor the activities performed under this Annex. 
+2. The Committee shall be co-chaired by a representative of the FDA for the United States and a representative of the 
+EU who each shall have one vote in the Joint Sectoral Committee. The Joint Sectoral Committee shall make its decision 
+by unanimous consent. The Joint Sectoral Committee shall determine its own rules and procedures. 
+3. The Joint Sectoral Committee's functions include in particular: 
+(a)  developing and keeping up to date the list of recognized authorities, including any limitation in terms of inspection 
+type or products, and the list of authorities in Appendix 2 and communicating the lists to all authorities listed in 
+Appendix 2 and the Joint Committee, 
+(b) providing a forum to discuss issues relating to this Annex, including relating to disagreements as regards determi­
+nations of recognition or suspension and timelines for completing assessments under this Annex of authorities listed 
+in Appendix 2; 
+(c)  in accordance with Article 20 and Appendix 3, considering the status, and taking decisions on the inclusion, of the 
+products referred to in Article 20; and 
+(d)  adopting, where necessary, appropriate complementary technical and administrative arrangements for the effective 
+implementation of this Annex. 
+4. The Joint Sectoral Committee shall meet at the request of either Party with respect to issues relating to 
+disagreements as regards to determinations of recognition or suspension and otherwise at such times as the Parties may 
+agree. The Joint Sectoral Committee may meet in person or by other means. 
+CHAPTER 5 
+REGULATORY COOPERATION AND INFORMATION EXCHANGE 
+Article 15 
+Regulatory cooperation 
+The Parties shall inform and consult one another, as permitted by law, on proposals to introduce new controls or to 
+change existing technical regulations or significant changes to pharmaceutical inspection procedures and to provide the 
+opportunity to comment on such proposals. 
+Article 16 
+Exchange of information 
+The Parties shall establish appropriate arrangements, including access to relevant databases, for the exchange of official 
+GMPs documents and other appropriate information related to the inspection of a manufacturing facility and the 
+exchange of information concerning any confirmed problem reports, corrective actions, recalls, rejected import 
+consignments and other regulatory and enforcement problems for products subject to this Annex. 
+4.3.2017 L 58/42 Official Journal of the European Union EN     
+Article 17 
+Alert System 
+Each Party shall maintain an Alert System that permits authorities of the other Party when relevant to be made aware 
+proactively and with the appropriate speed in case of quality defect, recalls, counterfeit or falsified products, or potential 
+serious shortages and other problems concerning quality or non-compliance with GMP, which could necessitate 
+additional controls or suspension of the distribution of the affected products. 
+CHAPTER 6 
+SAFEGUARD CLAUSE 
+Article 18 
+Safeguard clause 
+1. Each Party recognizes that the importing country has a right to fulfil its legal responsibilities by taking actions 
+necessary to ensure the protection of human and animal health at the level of protection it deems appropriate. An 
+authority of a Party has the right to conduct its own inspection of a manufacturing facility in the territory of the other 
+Party. 
+2. An authority of a Party conducting its own inspection of a manufacturing facility in the territory of the other Party 
+should be an exception from the normal practice of a Party as of the date on which the Articles referred to in 
+Article 19(2) become applicable. 
+3. An authority of a Party, prior to conducting an inspection under paragraph 1, shall notify the other Party in 
+writing and the authority of the other Party has the right to join the inspection conducted by the Party. 
+CHAPTER 7 
+FINAL PROVISIONS 
+Article 19 
+Entry Into Force 
+1. This Annex shall enter into force on the date on which the Parties have completed an Exchange of Letters 
+confirming completion of any respective procedures for the entry into force of this Annex. 
+2. Notwithstanding paragraph 1, Articles 8, 10, 11 and 12 of this Annex shall not apply until 1 November 2017, 
+except as provided in paragraph 4. 
+3. Notwithstanding paragraph 1, Article 9 of this Annex shall not apply until the date on which all the EU Member 
+State authorities for human pharmaceuticals listed in Appendix 2 have been recognized by the FDA. 
+4. If, by 1 November 2017, the FDA has not completed assessments under this Annex of at least eight Member State 
+authorities for human pharmaceuticals listed in Appendix 2, despite having received complete capability assessment 
+packages from those authorities as specified in paragraph II.A.1 of Appendix 4 in accordance with the schedule set out 
+in Appendix 5, application of the Articles referred to in paragraph 2 shall be postponed to the date on which the FDA 
+has completed assessments of at least eight such authorities. 
+Article 20 
+Transitory Provisions 
+1. No later than by 15 July 2019, the Joint Sectoral Committee shall consider whether to include veterinary products 
+within the product coverage of this Annex. The Joint Sectoral Committee shall exchange views on the organisation of 
+the assessment of respective authorities by 15 December 2017. 
+4.3.2017 L 58/43 Official Journal of the European Union EN     
+2. No later than 15 July 2022, the Joint Sectoral Committee shall consider whether to include vaccines for human 
+use and plasma derived pharmaceuticals within the product coverage of this Annex. Without prejudice to this considera­
+tion, as of the effective date of this Annex, a Party shall notify the relevant authority of the other Party in advance of 
+conducting a post-approval inspection of a manufacturing facility of such products located in the territory of the Party 
+and give the authority the option of joining the inspection. In order to support the inclusion of vaccines for human use 
+and plasma derived pharmaceuticals within the product coverage of this Annex, the Joint Sectoral Committee shall take 
+into account, in particular, the experience gained through such joint inspections. 
+3. No later than 15 July 2019, the Joint Sectoral Committee shall review experience gained in order to decide 
+whether the provisions on pre-approval inspections provided in Article 11 shall be reviewed. 
+4. Products referred to in paragraphs 1 and 2 shall be included within the product coverage of this Annex only once 
+the Joint Sectoral Committee so decides pursuant to paragraphs 1 and 2. 
+5. Where the FDA identifies the need for a post-approval inspection of a manufacturing facility in a territory of 
+a Member State authority of which an assessment under this Annex is pending or that the FDA has otherwise not 
+recognized, the FDA shall notify that authority and the EMA in writing. 
+(a)  No later than 30 calendar days of the date it receives a notification pursuant to paragraph 5, the authority in whose 
+territory the manufacturing facility is located or EMA on behalf of this authority shall inform the FDA whether it has 
+opted to request a recognized authority of the EU to conduct the inspection and, if so, whether such recognized 
+authority of the EU will conduct the inspection by the date specified in the notification. The authority in whose 
+territory the manufacturing facility is located shall be allowed to join the inspection. 
+(b)  In the case that a recognized authority of the EU will conduct the inspection, the recognized authority or EMA on 
+behalf of this authority shall inform the FDA of the date(s) on which it will conduct the inspection and submit the 
+official GMPs documents relevant to the inspection to the FDA and the authority of the territory in which the 
+inspection has been conducted by the date specified in the notification in accordance with the applicable laws, 
+regulations and administrative provisions listed in Appendix 1. The FDA shall have the option to participate in the 
+inspection. 
+(c)  In the case that a recognized authority of the EU will not conduct the inspection and the FDA conducts the 
+inspection, the authority of the territory in which the inspection has been conducted has the right to participate in 
+the inspection and the FDA shall submit the official GMPs documents relevant to the inspection to this authority. 
+Article 21 
+Termination 
+1. The Annex shall terminate on 15 July 2019 in the event that the FDA, by that date, has not completed an 
+assessment under this Annex of each EU Member State authority for human pharmaceuticals listed in Appendix 2, 
+provided that the FDA has received complete capability assessment packages as specified in paragraph II.A.1 of 
+Appendix 4 from each Member State authority in accordance with the schedule set out in Appendix 5. 
+2. The date specified in paragraph 1 shall be extended by 90 calendar days for each authority that provides 
+a complete capability assessment package as specified in paragraph II.A.1 of Appendix 4 after the applicable deadline set 
+out in Appendix 5 but before 15 July 2019. 
+3. The FDA shall, on request, discuss any disagreement raised by the EU regarding an assessment in the Joint Sectoral 
+Committee. If the Joint Sectoral Committee cannot agree on resolution of the disagreement, the EU may notify in 
+writing to the FDA its formal disagreement and the Annex shall terminate three months from the date of such 
+notification or on such other date as the Joint Sectoral Committee may agree.  
+4.3.2017 L 58/44 Official Journal of the European Union EN     
+Appendix 1 
+List of Applicable Laws, Regulations and Administrative Provisions 
+FOR THE UNITED STATES 
+Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 301 et seq. Of particular relevance: 21 USC 351(a)(2)(B) (drug 
+adulterated if not manufactured in conformance with current good manufacturing practice); 
+21 U.S.C. 355(d)(3); 21 U.S.C. 355(j)(4)(A) (approval of human drug contingent on adequacy of methods, facilities, and 
+controls for manufacturing, processing, and packing to preserve the identity, strength, quality, and purity of drug); 
+21 U.S.C. 360b(c)(2)(A)(i); 360b(d)(1)(C) (approval of animal drug contingent on contingent on adequacy of methods, 
+facilities, and controls for manufacturing, processing, and packing to preserve the identity, strength, quality, and purity 
+of drug); 21 U.S.C. 374 (inspection authority); 21 U.S.C. 384(e) (recognition of foreign government inspections) 
+Public Health Service Act Section 351, 42 U.S.C. 262. Of particular relevance: 42 U.S.C. 262(a)(2)(C)(i)(II) (licensing of 
+biologic contingent on demonstration that the facility in which it is manufactured, processed, packed, or held meets 
+standards designed to assure that the product continues to be safe, pure, and potent); 42 U.S.C. 262(j) (Federal Food, 
+Drug, and Cosmetic Act applies to biologic products) 
+21 CFR Part 210 (Current Good Manufacturing Practice in Manufacturing, Processing, Packing or Holding Drugs; 
+General) 
+21 CFR Part 211 (Current Good Manufacturing Practice for Finished Pharmaceuticals) 
+21 CFR Part 600, Subpart B (Establishment Standards); Subpart C (Establishment Inspection) 
+FOR THE EUROPEAN UNION 
+Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code 
+relating to medicinal products for human use; 
+Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code 
+relating to veterinary medicinal products; 
+Directive 2001/20/EC of European Parliament and of the Council of 4 April 2001 on the approximation of the laws, 
+regulations and administrative provisions of the Member States relating to the implementation of good clinical practice 
+in the conduct of clinical trials on medicinal products for human use; 
+Regulation (EU) No 536/2014 of 16 April 2014 on clinical trials on medicinal products for human use, and repealing 
+Directive 2001/20/EC; 
+Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down 
+Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and 
+establishing a European Medicines Agency; 
+Commission Directive 2003/94/EC of 8 October 2003 laying down the principles and guidelines of good manufacturing 
+practice in respect of medicinal products for human use and investigational medicinal products for human use; 
+Commission Directive 91/412/EEC of 23 July 1991 laying down the principles and guidelines of good manufacturing 
+practice for veterinary medicinal products; 
+Commission delegated Regulation (EU) No 1252/2014 of 28 May 2014 of the European Parliament and of the Council 
+with regard to principles and guidelines of good manufacturing practice for active substances for medicinal products for 
+human use; 
+Current version of the Guide to good manufacturing practices contained in volume IV of Rules governing medicinal 
+products in the European Union and compilation of the community procedures on inspections and exchange of 
+information.  
+4.3.2017 L 58/45 Official Journal of the European Union EN     
+Appendix 2 
+LIST OF AUTHORITIES 
+UNITED STATES 
+The Food and Drug Administration 
+EUROPEAN UNION 
+Country For medicinal products for human use For medicinal products for veterinary use 
+Austria Austrian Agency for Health and Food 
+Safety/Österreichische Agentur für Gesund­
+heit und Ernährungssicherheit GmbH 
+See responsible authority for human medi­
+cinal products 
+Belgium Federal agency for medicines and health 
+products/Federaal Agentschap voor genees­
+middelen en gezondheidsproducten/Agence 
+fédérale des médicaments et produits de 
+santé 
+See responsible authority for human medi­
+cinal products 
+Bulgaria Bulgarian Drug Agency/ИЗПЪЛНИТЕЛНА 
+АГЕНЦИЯ ПО ЛЕКАРСТВАТА 
+Bulgarian Food Safety Agency/Българска 
+агенция по безопасност на храните 
+Cyprus Ministry of Health — Pharmaceutical Ser­
+vices/Φαρμακευτικές Υπηρεσίες, Υπουργείο 
+Υγείας 
+Ministry of Agriculture, Rural Development 
+and Environment-Veterinary Services/Κτηνια­
+τρικές Υπηρεσίες- Υπουργείο Γεωργίας, Αγρο­
+τικής Ανάπτυξης και Περιβάλλοντος 
+Czech Republic State Institute for Drug Control/Státní ústav 
+pro kontrolu léčiv (SÚKL) 
+Institute for State Control of Veterinary Biolo­
+gicals and Medicaments/Ústav pro státní kon­
+trolu veterinárních biopreparátů a léčiv 
+(ÚSKVBL) 
+Croatia Agency for Medicinal Products and Medical 
+Devices/Agencija za lijekove i medicinske 
+proizvode (HALMED) 
+Ministry of Agriculture, Veterinary and Food 
+Safety Directorate/Ministarstvo Poljoprivrede, 
+Uprava za veterinarstvo i sigurnost hrane 
+Denmark Danish Medicines Agency/Laegemiddelstyrel­
+sen 
+See responsible authority for human medi­
+cinal products 
+Germany Federal Institute for Drugs and Medical De­
+vices/Bundesinstitut für Arzneimittel und 
+Medizinprodukte (BfArM) 
+Paul-Ehrlich-Institute (PEI), Federal Institute 
+for Vaccines and Biomedicines/Paul-Ehrlich- 
+Institut (PEI) Bundesinstitut für Impfstoffe 
+und biomedizinische Arzneimittel 
+Federal Ministry of Health/Bundesministeri­
+um für Gesundheit (BMG)/Zentralstelle der 
+Länder für Gesundheitsschutz bei Arznei­
+mitteln und Medizinprodukten (ZLG) (1) 
+Federal Office for Consumer Protection and 
+Food Safety/Bundesamt für Verbraucherschutz 
+und Lebensmittelsicherheit (BVL) 
+Federal Ministry of Food and Agriculture, 
+Bundesministerium für Ernährung und Land­
+wirtschaft 
+4.3.2017 L 58/46 Official Journal of the European Union EN     
+Country For medicinal products for human use For medicinal products for veterinary use 
+Estonia State Agency of Medicines/Ravimiamet See responsible authority for human medi­
+cinal products 
+Greece National Organisation for Medicines/Ethni­
+kos Organismos Farmakon (EOF) — 
+(ΕΘΝΙΚΟΣ ΟΡΓΑΝΙΣΜΟΣ ΦΑΡΜΑΚΩΝ)) 
+See responsible authority for human medi­
+cinal products 
+Spain Spanish Agency of Medicines and Medical 
+Devices/Agencia Española de Medicamentos 
+y Productos Sanitarios (2) 
+See responsible authority for human medi­
+cinal products 
+Finland Finnish Medicines Agency/Lääkealan turval­
+lisuus- ja kehittämiskeskus (FIMEA) 
+See responsible authority for human medi­
+cinal products 
+France French National Agency for Medicines and 
+Health Products Safety Agence nationale de 
+sécurité du médicament et des produits de 
+santé (ANSM) 
+French agency for food, environmental and 
+occupational health safety — National Agency 
+for Veterinary Medicinal Products/Agence Na­
+tionale de Sécurité Sanitaire de l'alimentation, 
+de l'environnement et du travail-Agence Na­
+tionale du Médicament Vétérinaire (Anses- 
+ANMV) 
+Hungary Országos Gyógyszerészeti és Élelmezés- 
+egészségügyi Intézet/National Institute of 
+Pharmacy and Nutrition 
+National Food Chain Safety Office, Directo­
+rate of Veterinary Medicinal Products/Nemzeti 
+Élelmiszerlánc-biztonsági Hivatal, Állatgyó­
+gyászati Termékek Igazgatósága (ÁTI) 
+Ireland Health Products Regulatory Authority 
+(HPRA) 
+See responsible authority for human medi­
+cinal products 
+Italy Italian Medicines Agency/Agenzia Italiana del 
+Farmaco 
+Direction General for Animal Health and 
+Veterinary Medicinal Products 
+Ministero della Salute, Direzione Generale 
+della Sanità Animale e dei Farmaci Veterinari 
+Latvia State Agency of Medicines/Zāļu valsts aģen­
+tūra 
+Assessment and Registration Department of 
+the Food and Veterinary Service/Pārtikas un 
+veterinārā dienesta Novērtēšanas un reģistrā­
+cijas departaments 
+Lithuania State Medicines Control Agency/Valstybinė 
+vaistų kontrolės tarnyba 
+State Food and Veterinary Service/Valstybinės 
+maisto ir veterinarijos tarnyba 
+Luxembourg Minìstere de la Santé, Division de la Pharma­
+cie et des Médicaments 
+See responsible authority for human medi­
+cinal products 
+Malta Medicines Regulatory Authority Veterinary Medicines and Animal Nutrition 
+section VMANS) (Veterinary Regulation Di­
+rectorate (VRD) within The Veterinary and 
+Phytosanitary Regulation Department (VPRD) 
+4.3.2017 L 58/47 Official Journal of the European Union EN     
+Country For medicinal products for human use For medicinal products for veterinary use 
+Netherlands Healthcare Inspectorate/Inspectie voor de 
+Gezondheidszorg (IGZ) 
+Medicines Evaluation Board/Bureau Dierge­
+neesmiddelen, College ter Beoordeling van 
+Geneesmiddelen (CBG) 
+Poland The Main Pharmaceutical Inspectorate/ 
+Główny Inspektorat Farmaceutyczny (GIF) 
+See responsible authority for human medi­
+cinal products 
+Portugal National Authority of Medicines and Health 
+Products/INFARMED, I.P Autoridade Nacio­
+nal do Medicamento e Produtos de Saúde, 
+I.P 
+General Directorate of Food and Veterinary/ 
+DGAV — Direção Geral de Alimentação e Ve­
+terinária (PT) 
+Romania National Agency for Medicines and Medical 
+Devices/Agenţia Naţională a Medicamentului 
+şi a Dispozitivelor Medicale 
+National Sanitary Veterinary and Food Safety 
+Authority/Autoritatea Naţională Sanitară Ve­
+terinară şi pentru Siguranţa Alimentelor 
+Sweden Medical Products Agency/Läkemedelsverket See responsible authority for human medi­
+cinal products 
+Slovenia Agency for Medicinal Products and Medical 
+Devices of the Republic of Slovenia/Javna 
+agencija Republike Slovenije za zdravila in 
+medicinske pripomočke (JAZMP) 
+See responsible authority for human medi­
+cinal products 
+Slovak Republic 
+(Slovakia) 
+State Institute for Drug Control/Štátny ústav 
+pre kontrolu liečiv (ŠÚKL) 
+Institute for State Control of Veterinary Biolo­
+gicals and Medicaments/Ústav štátnej kon­
+troly veterinárnych biopreparátov a liečiv 
+(USKVBL) 
+United Kingdom Medicines and Healthcare products Regula­
+tory Agency 
+Veterinary Medicines Directorate 
+(1)  For the purpose of this Annex, and without prejudice to the internal division of competence in Germany on matters falling within 
+the scope of this Annex, ZLG shall be understood as covering all the competent Laender authorities issuing GMP documents and 
+conducting pharmaceutical inspections. 
+(2)  For the purpose of this Annex, and without prejudice to the internal division of competence in Spain on matters falling within the 
+scope of this Annex, Agencia Española de Medicamentos y Productos Sanitarios shall be understood as covering all the competent 
+regional authorities issuing GMP documents and conducting pharmaceutical inspections.   
+4.3.2017 L 58/48 Official Journal of the European Union EN     
+Appendix 3 
+LIST OF PRODUCTS COVERED BY THE ANNEX 
+Recognizing that precise definition of medicinal products and drugs are to be found in the laws, regulations and 
+administrative provisions referred to in Appendix 1, an indicative list of products covered by the Annex is given below. 
+This applies to processing, packaging, testing and sterilizing facilities, including contract facilities performing these 
+functions.  
+1. Marketed finished pharmaceuticals for human use in various pharmaceutical dosage forms such as tablets, capsules, 
+ointments, and injectables, including: 
+(a)  Medical gases; 
+(b)  Radiopharmaceuticals or radioactive biological products; 
+(c)  Herbal (botanical) products (*); and 
+(d)  Homeopathic products;  
+2. Marketed biological products: 
+(a)  Vaccines for human use (**); 
+(b)  Plasma derived pharmaceuticals (**); 
+(c)  Therapeutic biotechnology-derived biological products; and 
+(d)  Allergenic products.  
+3. In process materials (for the United States as defined under U.S. law) and intermediates (for the European Union as 
+defined in EU legislation);  
+4. Active pharmaceutical ingredients or bulk drug substance;  
+5. Investigational products (clinical trial material) (***); and  
+6. Veterinary products (**): 
+(a)  veterinary pharmaceuticals, including prescription and non-prescription drugs, with the exclusion of veterinary 
+immunologicals; 
+(b)  pre-mixes for the preparation of veterinary medicated feeds (EU), Type A medicated articles for the preparation of 
+veterinary medicated feeds (US);  
+(*) These are included to the extent that they are regulated as drugs by the FDA and medicinal products by the EU. 
+(**) These products are only included within the product coverage of this Annex to the extent the Joint Sectoral 
+Committee decides to include them pursuant to Article 20. 
+(***) The FDA does not routinely conduct GMP inspections for investigational medicinal products. Inspection 
+information on these products will be provided to the extent that they are available and resources allow. These 
+products are only included within the product coverage of this Annex to the extent the Joint Sectoral Committee 
+decides to include them.  
+4.3.2017 L 58/49 Official Journal of the European Union EN     
+Appendix 4 
+CRITERIA AND PROCEDURE FOR ASSESSMENTS UNDER THIS ANNEX  
+I. CRITERIA FOR ASSESSMENTS UNDER THIS ANNEX 
+Each Party will apply the following criteria to determine whether to recognize an authority listed in Appendix 2: 
+(i)  The authority has the legal and regulatory authority to conduct inspections against a standard for GMP (as 
+defined in Article 1). 
+(ii)  The authority manages conflict of interest in an ethical manner. 
+(iii)  The authority has the ability to evaluate risks and mitigate them. 
+(iv)  The authority maintains appropriate oversight of manufacturing facilities within its jurisdiction. 
+(v)  The authority has and uses sufficient resources. 
+(vi)  The authority employs trained and qualified inspectors with the skills and knowledge to identify manufacturing 
+practices that may lead to patient harm. 
+(vii)  The authority has the tools necessary to take action to protect the public from harm due to poor quality drugs 
+or medicinal products.  
+II. PROCEDURES FOR ASSESSMENTS UNDER THIS ANNEX 
+A.  Assessment of EU authorities by FDA 
+1.  To receive a capability assessment for an authority listed in Appendix 2, each Member State authority shall 
+submit capability assessment packages containing the following materials before the FDA will initiate an 
+assessment: 
+(i)  a finalized Joint Audit Programme audit report of an audit, where the FDA has been given three 
+months advance notice to be an observer, that includes the full report of the observed inspection, any 
+associated corrective measures, and all documents cited by the auditors in the report for the indicators 
+as identified by FDA in the Joint Audit Programme audit checklist as essential for the assessment and 
+for any indicators that required the authority to propose a corrective and preventative action; 
+(ii)  a completed conflicts of interest questionnaire established by the FDA signed by a principal of the 
+authority; 
+(iii)  a total of four inspection reports including the report from the inspections observed during the Joint 
+Audit Program audit; 
+(iv)  standard operating procedures or a description on how the authority finalizes inspection reports; 
+(v)  standard operating procedures related to training and inspector qualification, including training files 
+for all inspectors who conducted the inspections in the reports provided to the FDA (pursuant to 
+subparagraph (iii)); and 
+(vi)  its most recent inventory of manufacturing facilities within its territory and under the authority's 
+jurisdiction, including type of manufacturing facility of products falling within the product coverage of 
+this Annex, and upon request, completion of a table provided by the FDA detailing types of manufac­
+turing facilities. 
+2.  During a capability assessment, the FDA may require additional information or further clarification from 
+the Member State authority. 
+4.3.2017 L 58/50 Official Journal of the European Union EN     
+3.  The FDA may waive the requirement to submit certain information listed under II.A.1 and may request 
+alternative information from the Member State authority. The decision to waive any assessment materials 
+will be made by the FDA on a case by case basis. 
+4.  Upon receipt of all requisite information specified in paragraph II.A from a Member State authority, the 
+FDA intends to submit such information for official translation into English within a reasonable timeframe. 
+The FDA will complete assessments and determine capability of the Member State authority no later than 
+70 calendar days from the date the FDA receives a translation of all requisite information specified in 
+paragraph II.A for the Member State authority. The FDA will dedicate two capability assessment teams; 
+therefore, the FDA shall conduct assessments of two Member State authorities at any given time. 
+B.  Assessment of FDA by the EU 
+The EU will carry out its assessment of FDA based on: 
+(i)  The performance of an audit in line with the elements of the Joint Audit Programme taking into account 
+audits performed in the framework of the Pharmaceutical Inspection Convention/Scheme (PIC/S) and audits 
+performed in the context of Article 111(b)(1) of Directive 2001/83/EC. 
+(ii)  An assessment of the equivalence of legislative and regulatory GMP requirements. 
+C.  Reassessment of authorities 
+In the event an assessing Party issues a negative determination or suspension of an authority of the other Party, 
+it may reassess the authority. The scope of the reassessment shall relate to the reasons for the negative determi­
+nation or suspension.  
+III. MAINTAINING RECOGNITION 
+To maintain recognition, it is required that the authority continue to meet the criteria set out in paragraph I.A and 
+remain subject to the monitoring activities described in Article 12 which for Member State authorities the FDA 
+requires monitoring through an audit program that includes an audit (that the FDA has the option to observe) of 
+each recognized Member State authority every five to six years. In case an authority has not been subject to an audit 
+for a period of 6 years, the other Party shall have the right to audit such authority.  
+4.3.2017 L 58/51 Official Journal of the European Union EN     
+Appendix 5 
+SCHEDULE FOR INITIAL ASSESSMENT OF MEMBER STATE AUTHORITIES  
+1. Member State authorities for human pharmaceuticals listed in Appendix 2 shall submit complete capability 
+assessment packages containing the information specified in paragraph II.A.1 of Appendix 4 according to the 
+following schedule: 
+—  No later than January 1, 2017: capability assessment packages from four Member State authorities 
+—  No later than February 15, 2017: capability assessment packages from three additional Member State authorities 
+—  No later than April 1, 2017: capability assessment packages from two additional Member State authorities. 
+—  No later than May 15, 2017: capability assessment packages from two additional Member State authorities 
+—  No later than September 15, 2017: capability assessment packages from two additional Member State authorities 
+—  No later than December 15, 2017: capability assessment packages from four additional Member State authorities 
+—  No later than March 15, 2018: capability assessment packages from four additional Member State authorities 
+—  No later than June 15, 2018: capability assessment packages from seven additional Member State authorities  
+2. The FDA shall complete assessments under this Annex of Member State authorities for human pharmaceuticals listed 
+in Appendix 2 as set out in paragraph II.A.4 and according to the following schedule, provided that the FDA receives 
+complete capability assessment packages for such authorities containing the information specified in paragraph II.A.1 
+of Appendix 4 according to the schedule set out in paragraph 1: 
+—  November 1, 2017: eight assessments 
+—  March 1, 2018: four additional assessments 
+—  June 1, 2018: two additional assessments 
+—  December 1, 2018: six additional assessments 
+—  July 15, 2019: eight additional assessments  
+3. For each Member State authority: 
+(a)  The EU shall submit a final audit report to the FDA no later than 60 days before the due date of the capability 
+assessment package for the authority. 
+(b)  The FDA shall provide a finalized capability assessment package checklist to the authority no later than 20 days 
+after the FDA receives the audit report. 
+(c)  The authority shall submit the capability assessment package to FDA no later than 40 days after the authority 
+receives the capability assessment package checklist.  
+4.3.2017 L 58/52 Official Journal of the European Union EN     

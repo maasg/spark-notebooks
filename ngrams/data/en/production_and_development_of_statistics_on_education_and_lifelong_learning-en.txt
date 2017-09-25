@@ -1,0 +1,426 @@
+REGULATION (EC) No 452/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+of 23 April 2008
+concerning the production and development of statistics on education and lifelong learning
+(Text with EEA relevance)
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EURO-
+PEAN UNION,
+Having regard to the Treaty establishing the European Commu-
+nity, and in particular Article 285(1) thereof,
+Having regard to the proposal from the Commission,
+After consultation of the European Economic and Social
+Committee,
+Acting in accordance with the procedure laid down in Article 251
+of the Treaty (1),
+Whereas:
+(1) The Council Resolution of 5 December 1994 on the pro-
+motion of education and training statistics in the European
+Union (2) requested the Commission, in close cooperation
+with the Member States, to expedite the development of
+education and training statistics.
+(2) The European Council held in Brussels on 22 and 23March
+2005 agreed to relaunch the Lisbon Strategy. It concluded
+that Europe must renew the basis of its competitiveness,
+increase its growth potential and its productivity and
+strengthen social cohesion, placing the main emphasis on
+knowledge, innovation and the optimisation of human
+capital. In that respect, the employability, adaptability and
+mobility of citizens is vital for Europe.
+(3) To attain these objectives, European systems of education
+and training must adapt to the requirements of the knowl-
+edge society and the need for an enhanced level of educa-
+tion and better quality employment. Statistics on
+education, training and lifelong learning are of the highest
+importance as a basis for political decisions.
+(4) Lifelong learning is a key element in developing and pro-
+moting a skilled, trained and adaptable workforce. In
+the Presidency Conclusions of the Spring 2005 European
+Council it was stressed that ‘human capital is Europe’s most
+important asset’. The Integrated Guidelines for Growth and
+Jobs including the guidelines for the employment policies
+of the Member States, endorsed by the Council in its Deci-
+sion 2005/600/EC (3), aim to contribute better to the Lis-
+bon strategy and to establish comprehensive lifelong
+learning strategies.
+(5) The adoption in February 2001 of the Council Report
+‘Objectives of the education and training systems’ and the
+adoption in February 2002 of the work programme for
+2001-2011 on the follow-up to this report constitute an
+important step in honouring the commitment to modern-
+ise and improve the quality of the education and training
+systems of the Member States. Indicators and reference lev-
+els of European average performance (‘benchmarks’) are
+among the instruments of the open method of coordina-
+tion which are important for the ‘Education and Training
+2010’ work programme. The Ministers of Education took
+a decisive step in May 2003 by agreeing on five European
+benchmarks to be attained by 2010, while stressing they
+do not define national targets or prescribe decisions to be
+taken by national governments.
+(6) On 24 May 2005, the Council adopted Conclusions on
+‘New indicators in education and training’ (4). In these Con-
+clusions the Council invited the Commission to present to
+the Council strategies and proposals for the development
+of new indicators in nine particular areas of education and
+training and also stressed that the development of new
+indicators should fully respect the responsibility of Mem-
+ber States for the organisation of their education systems
+and should not impose undue administrative or financial
+burdens on the organisation and institutions concerned, or
+inevitably lead to an increased number of indicators used
+to monitor progress.
+(7) The Council also adopted, in November 2004, Conclu-
+sions on European cooperation in vocational education
+and training, and agreed that priority should be given at
+European level to ‘the improvement of the scope, precision
+and reliability of vocational education and training statis-
+tics in order to enable evaluation of progress’.
+(1) Opinion of the European Parliament of 25 September 2007 (not yet
+published in the Official Journal) and Council Decision of 14 February
+2008.
+(2) OJ C 374, 30.12.1994, p. 4.
+(3) OJ L 205, 6.8.2005, p. 21.
+(4) OJ C 141, 10.6.2005, p. 7.
+4.6.2008 EN Official Journal of the European Union L 145/227
+(8) Comparable statistical information at Community level is
+essential for the development of education and lifelong
+learning strategies and for the monitoring of progress in
+their implementation. Statistical production should be
+based on a framework of coherent concepts and compa-
+rable data in view of the establishment of an integrated
+European statistical information system on education,
+training and lifelong learning.
+(9) When applying this Regulation, account should be taken
+of the notion of people at a disadvantage in the labour
+market referred to in the Guidelines for the employment
+policies of the Member States.
+(10) The Commission (Eurostat) is collecting data on vocational
+training in enterprises in accordance with Regulation (EC)
+No 1552/2005 of the European Parliament and of the
+Council of 7 September 2005 on the statistics relating to
+vocational training in enterprises (1). However, a broader
+legal framework is necessary to ensure the sustainable pro-
+duction and development of statistics on education and
+lifelong learning, covering at least all relevant existing and
+planned activities. The Commission (Eurostat) is collecting
+annual data on education from the Member States on a
+voluntary basis, through a joint action carried out with the
+Unesco Institute for Statistics (UIS) and with the Organisa-
+tion for Economic Cooperation and Development (OECD),
+usually referred to as the ‘UOE data collection’. The Com-
+mission (Eurostat) is also collecting data on education,
+training and lifelong learning through other household
+sources such as the European Union Labour Force Sur-
+vey (2) and the Community statistics on income and living
+conditions (3) as well as through their ad-hoc modules.
+(11) Since policy formulation and monitoring in the field of
+education and lifelong learning is of a dynamic nature and
+adapts to an evolving environment, the statistical regula-
+tory framework should provide for a certain degree of flex-
+ibility in a limited and controlled manner, taking into
+account the burden for respondents and the Member
+States.
+(12) Since the objective of this Regulation, namely the creation
+of common statistical standards that permit the production
+of harmonised data cannot be sufficiently achieved by the
+Member States and can therefore be better achieved at
+Community level, the Community may adopt measures, in
+accordance with the principle of subsidiarity as set out in
+Article 5 of the Treaty. In accordance with the principle of
+proportionality, as set out in that Article, this Regulation
+does not go beyond what is necessary to achieve that
+objective.
+(13) The production of specific Community statistics is gov-
+erned by the rules set out in Council Regulation (EC)
+No 322/97 of 17 February 1997 on Community
+Statistics (4).
+(14) This Regulation ensures full respect for the right to the pro-
+tection of personal data as provided for in Article 8 of the
+Charter of Fundamental Rights of the European Union.
+(15) The transmission of data subject to statistical confidential-
+ity is governed by the rules set out in Regulation (EC)
+No 322/97 and in Council Regulation (Euratom, EEC)
+No 1588/90 of 11 June 1990 on the transmission of data
+subject to statistical confidentiality to the Statistical Office
+of the European Communities (5).
+(16) Commission Regulation (EC) No 831/2002 of 17 May
+2002 implementing Council Regulation (EC) No 322/97
+on Community statistics concerning access to confidential
+data for scientific purposes (6) established the conditions
+pursuant to which access to confidential data transmitted
+to the Community authority may be granted.
+(17) The measures necessary for the implementation of this
+Regulation should be adopted in accordance with Council
+Decision 1999/468/EC of 28 June 1999 laying down the
+procedures for the exercise of implementing powers con-
+ferred on the Commission (7).
+(18) In particular, the Commission should be empowered to
+select and specify the subjects of the statistics, their char-
+acteristics in response to policy or technical needs, the
+breakdown of characteristics, the observation period and
+deadlines for transmission of results, the quality require-
+ments including the required precision and the quality
+reporting framework. Since those measures are of general
+scope and are designed to amend non-essential elements of
+this Regulation, inter alia, by supplementing it with new
+non-essential elements, they must be adopted in accor-
+dance with the regulatory procedure with scrutiny pro-
+vided for in Article 5a of Decision 1999/468/EC.
+(1) OJ L 255, 30.9.2005, p. 1.
+(2) Commission Regulation (EC) No 2104/2002 of 28 November 2002
+adapting Council Regulation (EC) No 577/98 on the organisation of a
+labour force sample survey in the Community and Commission Regu-
+lation (EC) No 1575/2000 implementing Council Regulation (EC)
+No 577/98 as far as the list of education and training variables and
+their codification to be used for data transmission from 2003 onwards
+are concerned (OJ L 324, 29.11.2002, p. 14).
+(3) Commission Regulation (EC) No 1983/2003 of 7 November 2003
+implementing Regulation (EC) No 1177/2003 of the European Parlia-
+ment and of the Council concerning Community statistics on income
+and living conditions (EU-SILC) as regards the list of target primary
+variables (OJ L 298, 17.11.2003, p. 34).
+(4) OJ L 52, 22.2.1997, p. 1. Regulation as amended by Regulation (EC)
+No 1882/2003 of the European Parliament and of the Council
+(OJ L 284, 31.10.2003, p. 1).
+(5) OJ L 151, 15.6.1990, p. 1. Regulation as amended by Regulation (EC)
+No 322/97.
+(6) OJ L 133, 18.5.2002, p. 7. Regulation as last amended by Regulation
+(EC) No 1000/2007 (OJ L 226, 30.8.2007, p. 7).
+(7) OJ L 184, 17.7.1999, p. 23, Decision as amended by Decision
+2006/512/EC (OJ L 200, 22.7.2006, p. 11).
+L 145/228 EN Official Journal of the European Union 4.6.2008
+(19) The Statistical Programme Committee established by
+Council Decision 89/382/EEC, Euratom (1), has been con-
+sulted in accordance with Article 3 of that Decision,
+HAVE ADOPTED THIS REGULATION:
+Article 1
+Subject matter
+This Regulation establishes a common framework for the system-
+atic production of Community statistics in the field of education
+and lifelong learning.
+Article 2
+Definitions
+For the purpose of this Regulation:
+(a) ‘Community statistics’ shall be defined as in the first indent
+of Article 2 of Regulation (EC) No 322/97;
+(b) ‘production of statistics’ shall be defined as in the second
+indent of Article 2 of Regulation (EC) No 322/97;
+(c) ‘national authorities’ shall be defined as in the third indent of
+Article 2 of Regulation (EC) No 322/97;
+(d) ‘education’ means organised and sustained communication
+designed to bring about learning (2);
+(e) ‘lifelong learning’ means all learning activity undertaken
+throughout life, with the aim of improving knowledge, skills
+and competences within a personal, civic, social and/or
+employment-related perspective (3);
+(f) ‘micro-data’ means individual statistical records;
+(g) ‘confidential data’ means data which allow only indirect iden-
+tification of the statistical units concerned, in accordance
+with Regulation (EC) No 322/97 and Regulation (Euratom,
+EEC) No 1588/90.
+Article 3
+Domains
+This Regulation shall apply to the production of statistics in three
+domains:
+(a) Domain 1 shall cover statistics on education and training
+systems;
+(b) Domain 2 shall cover statistics on the participation of adults
+in lifelong learning;
+(c) Domain 3 shall cover other statistics on education and life-
+long learning, such as statistics on human capital and on the
+social and economic benefits of education, not covered by
+Domains 1 and 2.
+The production of statistics in those domains shall be carried out
+in accordance with the Annex.
+Article 4
+Statistical actions
+1. The production of Community statistics in the field of edu-
+cation and lifelong learning shall be implemented by individual
+statistical actions as follows:
+(a) the regular delivery of statistics on education and lifelong
+learning by the Member States, within specified deadlines for
+Domains 1 and 2;
+(b) the use of other statistical information systems and surveys,
+to provide additional statistical variables and indicators on
+education and lifelong learning, corresponding to Domain 3;
+(c) the development, improvement and updating of standards
+and manuals on statistical frameworks, concepts and
+methods;
+(d) the improvement of data quality, in the context of the qual-
+ity framework, to include:
+— relevance,
+— accuracy,
+— timeliness and punctuality,
+— accessibility and clarity,
+— comparability, and
+— coherence.
+Available capacities within the Member States for data collection
+and the processing and development of concepts and methods
+shall be taken into account by the Commission.
+Where appropriate, special attention and consideration shall be
+given to the regional dimension of the data collected. Where
+appropriate, data shall be systematically broken down by gender.
+(1) OJ L 181, 28.6.1989, p. 47.
+(2) According to the 1997 version of the International Standard Classifi-
+cation of Education (ISCED).
+(3) Council Resolution of 27 June 2002 on lifelong learning (OJ C 163,
+9.7.2002, p. 1).
+4.6.2008 EN Official Journal of the European Union L 145/229
+2. Whenever possible, the Commission (Eurostat) shall seek
+cooperation with the UIS, the OECD and other international
+organisations with a view to ensuring international comparabil-
+ity of data and to avoid duplication of effort, in particular as
+regards the development and improvement of statistical concepts
+and methods and the delivery of statistics by the Member States.
+3. Whenever significant new data requirements or insufficient
+quality of data are identified and before any data collection, the
+Commission (Eurostat) shall institute pilot studies to be com-
+pleted on a voluntary basis by the Member States. Such pilot stud-
+ies shall be carried out in order to assess the feasibility of the
+relevant data collection, taking into consideration the benefits of
+the availability of the data in relation to the collection costs and
+the burden on respondents. Pilot studies shall not necessarily lead
+to corresponding implementing measures.
+Article 5
+Transmission of micro-data on individuals
+When necessary for the production of Community statistics,
+Member States shall transmit confidential micro-data resulting
+from sample surveys to the Commission (Eurostat) in accordance
+with the provisions on the transmission of data subject to confi-
+dentiality set out in Regulation (EC) No 322/97 and in Regula-
+tion (Euratom, EEC) No 1588/90. Member States shall ensure that
+the transmitted data do not permit the direct identification of the
+statistical units (individuals).
+Article 6
+Implementing measures
+1. The following measures designed to amend non-essential
+elements of this Regulation by supplementing it, including mea-
+sures to take account of economic and technical developments
+concerning the collection, transmission and processing of the
+data, shall be adopted in accordance with the regulatory proce-
+dure with scrutiny referred to in Article 7(3) with a view to ensur-
+ing the transmission of high quality data:
+(a) the selection and specification of subjects covered by the
+domains and their characteristics in response to policy or
+technical needs;
+(b) the breakdowns of characteristics;
+(c) the observation period and deadlines for transmission of
+results;
+(d) the quality requirements, including the required precision;
+(e) the quality reporting framework.
+If these measures lead to a requirement for a significant enlarge-
+ment of existing data collections or for new data collections or
+surveys, implementing decisions shall be based on a cost-benefit
+analysis as part of a comprehensive analysis of the effects and
+implications, taking into account the benefit of the measures, the
+costs for the Member States and the burden on respondents.
+2. The measures referred to in paragraph 1 shall take account
+of the following:
+(a) for all Domains, the potential burden on educational institu-
+tions and individuals;
+(b) for all Domains, the results of the pilot studies referred to in
+Article 4(3);
+(c) for Domain 1, the latest agreements between the UIS, the
+OECD and the Commission (Eurostat) on concepts, defini-
+tions, data collection format, data processing, periodicity and
+deadlines for transmission of results;
+(d) for Domain 2, the results from the Adult Education Pilot Sur-
+vey performed between 2005 and 2007 and further devel-
+opment needs;
+(e) for Domain 3, the availability, suitability and the legal con-
+text of existing Community data sources after an exhaustive
+examination of all existing data sources.
+3. If necessary, limited derogations and transition periods for
+one or more Member States, both to be based upon objective
+grounds, shall be adopted in accordance with the regulatory pro-
+cedure referred to in Article 7(2).
+Article 7
+Committee
+1. The Commission shall be assisted by the Statistical Pro-
+gramme Committee.
+2. Where reference is made to this paragraph, Articles 5 and 7
+of Decision 1999/468/EC shall apply, having regard to the pro-
+visions of Article 8 thereof.
+The period laid down in Article 5(6) of Decision 1999/468/EC
+shall be set at three months.
+3. Where reference is made to this paragraph, Article 5a(1)
+to (4) and Article 7 of Decision 1999/468/EC shall apply, having
+regard to the provisions of Article 8 thereof.
+L 145/230 EN Official Journal of the European Union 4.6.2008
+Article 8
+Entry into force
+This Regulation shall enter into force on the 20th day following its publication in theOfficial Journal of the Euro-
+pean Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Strasbourg, 23 April 2008.
+For the European Parliament
+The President
+H.-G. PÖTTERING
+For the Council
+The President
+J. LENARČIČ
+4.6.2008 EN Official Journal of the European Union L 145/231
+ANNEX
+DOMAINS
+Domain 1: Education and training systems
+1. Aim
+The aim of this data collection is to provide comparable data on key aspects of education and training systems, specifi-
+cally on the participation and completion of education programmes, as well as on the cost and type of resources dedi-
+cated to education and training.
+2. Scope
+The data collection shall cover all domestic educational activities regardless of ownership of, or sponsorship by, the insti-
+tutions concerned (whether public or private, national or foreign) and of the education delivery mechanism. Correspond-
+ingly, the coverage of the data collections shall extend to all student types and age groups.
+3. Subjects covered
+Data shall be collected on:
+(a) students’ enrolment, including the characteristics of the students;
+(b) entrants;
+(c) graduates and graduations;
+(d) education expenditure;
+(e) educational personnel;
+(f) foreign languages learnt;
+(g) class sizes;
+allowing the calculation of indicators on the inputs, processes and outputs of the education and training systems.
+Appropriate information (metadata) shall be transmitted by Member States, describing specificities of national educa-
+tion and training systems and their correspondence with international classifications as well as any deviations from the
+specifications of the data request and any other information which is essential for the interpretation of data and the com-
+pilation of comparable indicators.
+4. Periodicity
+Data and metadata shall be supplied annually, if not otherwise specified, within the deadlines agreed between the Com-
+mission (Eurostat) and the national authorities taking into account the latest agreements between the UIS, the OECD and
+the Commission (Eurostat).
+Domain 2: Participation of adults in lifelong learning
+1. Aim
+The aim of this survey shall be to provide comparable data on participation and non-participation of adults in lifelong
+learning.
+L 145/232 EN Official Journal of the European Union 4.6.2008
+2. Scope
+The statistical unit shall be the individual, covering at least the population age range of 25-64 years. In the case of the
+collection of information through a survey, proxy answers shall be avoided, wherever possible.
+3. Subjects covered
+Subjects covered by the survey shall be:
+(a) participation and non-participation in learning activities;
+(b) characteristics of these learning activities;
+(c) information on self-reported skills;
+(d) socio-demographic information.
+Data on participation in social and cultural activities shall also be collected on a voluntary basis as explanatory variables
+useful for further analysis of the participants and non-participants’ profiles.
+4. Data sources and sample size
+The data source shall be a sample survey. Administrative data sources may be used to reduce the burden on respon-
+dents. Sample size shall be established on the basis of precision requirements that shall not require effective national
+sample sizes to be larger than 5 000 individuals, calculated on the assumption of simple random sampling. Within these
+limits, specific subpopulations shall require particular sampling considerations.
+5. Periodicity
+Data shall be collected every five years. The first year of implementation shall be 2010, at the earliest.
+Domain 3: Other statistics on education and lifelong learning
+1. Aim
+The aim of this data collection shall be to provide further comparable data on education and lifelong learning to support
+specific policies at the Community level not included in Domains 1 and 2.
+2. Scope
+Other statistics on education and lifelong learning shall refer to the following aspects:
+(a) statistics on education and the economy, required at Community level for monitoring policies on education,
+research, competitiveness and growth;
+(b) statistics on education and the labour market, required at Community level for monitoring employment policies;
+(c) statistics on education and social inclusion, required at Community level for monitoring policies on poverty, social
+inclusion and migrant integration.
+For the aspects listed above, the necessary data shall be acquired from existing Community statistical sources.
+4.6.2008 EN Official Journal of the European Union L 145/233
