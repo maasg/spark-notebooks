@@ -1,0 +1,1386 @@
+IT IT
+COMMISSIONE
+EUROPEA
+Bruxelles, 14.9.2016
+COM(2016) 593 final
+2016/0280 (COD)
+Proposta di
+DIRETTIVA DEL PARLAMENTO EUROPEO E DEL CONSIGLIO
+sul diritto d'autore nel mercato unico digitale
+(Testo rilevante ai fini del SEE)
+{SWD(2016) 301 final}
+{SWD(2016) 302 final}
+IT 2 IT
+RELAZIONE
+1. CONTESTO DELLA PROPOSTA
+• Motivi e obiettivi della proposta
+L’evoluzione delle tecnologie digitali ha cambiato il modo in cui le opere e altro materiale
+protetto vengono creati, prodotti, distribuiti e sfruttati. Sono emersi nuovi usi, nuovi attori e
+nuovi modelli di business. Nell’ambiente digitale gli utilizzi transfrontalieri sono inoltre
+aumentati e, per i consumatori, si sono aperte nuove opportunità di accesso a contenuti
+protetti dal diritto d’autore. Sebbene gli obiettivi e i principi stabiliti dal quadro UE in materia
+di diritto d’autore rimangano tuttora validi, occorre adattarsi a queste nuove realtà. Un
+intervento a livello dell’UE si rende necessario anche per evitare una frammentazione del
+mercato interno. In questo contesto la strategia per il mercato unico digitale1
+adottata nel
+maggio 2015 ha individuato la necessità di "assorbire le differenze fra i diversi regimi
+nazionali del diritto d’autore e aprire maggiormente agli utenti l'accesso online alle opere in
+tutta l’UE". La comunicazione sulla strategia ha sottolineato l’importanza di migliorare
+l’accesso oltre frontiera ai servizi contenutistici protetti dal diritto d’autore, favorire nuovi
+utilizzi nei settori della ricerca e dell’istruzione e chiarire il ruolo dei servizi online nella
+distribuzione di opere e altro materiale. Nel dicembre 2015 la Commissione ha pubblicato la
+comunicazione "Verso un quadro normativo moderno e più europeo sul diritto d’autore"2
+in
+cui ha delineato azioni mirate e una visione a lungo termine per un aggiornamento delle
+norme UE in materia. La presente proposta è una delle misure volte ad affrontare alcune
+problematiche specifiche individuate in tale comunicazione.
+Le eccezioni e le limitazioni al diritto d’autore e ai diritti connessi sono armonizzate a livello
+UE. Alcune di queste eccezioni mirano al raggiungimento di obiettivi di politica pubblica in
+materia, ad esempio, di ricerca o di istruzione. Visti i nuovi tipi di utilizzo recentemente
+emersi, ci si chiede tuttavia se esse siano ancora idonee a realizzare un giusto equilibrio tra i
+diritti e gli interessi degli autori e di altri titolari di diritti, da un lato, e degli utenti, dall'altro.
+Tali eccezioni, inoltre, hanno tuttora carattere nazionale e non è garantita la certezza giuridica
+relativamente agli utilizzi transfrontalieri. In tale contesto la Commissione ha identificato tre
+settori di intervento: utilizzi digitali e transfrontalieri nel settore dell’istruzione, estrazione di
+testo e di dati per scopi di ricerca scientifica e conservazione del patrimonio culturale.
+L’obiettivo è quello di garantire la legittimità di taluni tipi di utilizzo in questi settori, anche
+oltre frontiera. Grazie all'aggiornamento normativo delle eccezioni e delle limitazioni, i
+ricercatori beneficeranno di un contesto giuridico più chiaro nell'utilizzo di strumenti di
+ricerca innovativi basati sull'estrazione di testo e di dati, docenti e alunni saranno in grado di
+sfruttare al meglio le tecnologie digitali a tutti i livelli di istruzione e gli istituti di tutela del
+patrimonio culturale (in particolare, biblioteche accessibili al pubblico o musei, archivi o
+istituti per il patrimonio cinematografico o sonoro) saranno sostenute nelle loro iniziative di
+salvaguardia del patrimonio culturale, a vantaggio, in ultima istanza, degli stessi cittadini
+dell’UE.
+Se è pur vero che le tecnologie digitali dovrebbero facilitare l’accesso oltre frontiera alle
+opere e altro materiale, permangono tuttavia alcuni ostacoli, in particolare per le opere e gli
+utilizzi in cui la procedura di acquisizione dei diritti è complessa. È il caso degli istituti di
+tutela del patrimonio culturale che desiderano fornire un accesso online, anche oltre frontiera,
+alle opere fuori commercio contenute nei loro cataloghi. A causa di tali ostacoli i cittadini
+
+1 COM(2015) 192 final.
+2 COM(2015) 626 final.
+IT 3 IT
+europei perdono varie opportunità di accesso al patrimonio culturale. La proposta affronta
+questi problemi introducendo un meccanismo specifico mirante a semplificare la conclusione
+di contratti di licenza per la divulgazione di opere fuori commercio da parte di detti istituti.
+Quanto al settore audiovisivo, nonostante la crescente importanza delle piattaforme di video
+su richiesta (video on demand, VOD), le opere dell’UE rappresentano appena un terzo di
+quelle disponibili per i consumatori su tali strumenti. Anche in questo caso la scarsa
+disponibilità è in parte imputabile alla complessa procedura di acquisizione dei diritti. La
+presente proposta prevede una serie di misure destinate a facilitare le procedure di
+concessione delle licenze e di acquisizione dei diritti, rendendo in definitiva più semplice
+l'accesso transfrontaliero dei consumatori a contenuti protetti dal diritto d’autore.
+L'evoluzione delle tecnologie digitali ha fatto emergere nuovi modelli di business e ha
+rafforzato il ruolo di Internet quale principale mercato per la distribuzione e l’accesso ai
+contenuti protetti dal diritto d’autore. Nel nuovo contesto i titolari di diritti incontrano
+difficoltà nel momento in cui cercano di concedere una licenza e di essere remunerati per la
+diffusione online delle loro opere, il che potrebbe mettere a rischio lo sviluppo della creatività
+europea e la produzione di contenuti creativi. Occorre perciò garantire che gli autori e i titolari
+di diritti ricevano una quota equa del valore generato dall’utilizzo delle loro opere e di altro
+materiale. In quest'ottica la presente proposta prevede misure volte a migliorare la posizione
+dei titolari di diritti all'atto della negoziazione e della remunerazione per lo sfruttamento dei
+contenuti di loro proprietà da parte di servizi online che danno accesso a contenuti caricati
+dagli utenti. Un’equa ripartizione del valore è altresì necessaria per garantire la sostenibilità
+del settore dell'editoria giornalistica. Ad oggi gli editori di giornali riescono difficilmente a
+concedere licenze per le pubblicazioni online ricavando una quota equa del valore che esse
+generano, il che, in ultima analisi, potrebbe pregiudicare l’accesso dei cittadini
+all’informazione. La proposta prevede, per gli editori di giornali, l'introduzione di un nuovo
+diritto mirante a facilitare la concessione di licenze online per le pubblicazioni, il recupero
+dell’investimento e il rispetto dei diritti. Affronta anche la questione dell’attuale incertezza
+giuridica quanto alla possibilità per tutti gli editori di ricevere una quota del compenso
+previsto per l'utilizzo di opere in virtù di un'eccezione. Infine, gli autori e gli artisti (interpreti
+o esecutori) hanno spesso scarso potere negoziale nei rapporti contrattuali all'atto della
+concessione di una licenza per i loro diritti. Spesso vi è inoltre poca trasparenza sui proventi
+derivanti dall’utilizzo delle loro opere o esecuzioni, il che alla fine incide negativamente sulla
+loro remunerazione. La proposta include misure volte a migliorare la trasparenza e ad
+instaurare rapporti contrattuali più equilibrati tra gli autori e gli artisti (interpreti o esecutori) e
+coloro cui essi cedono i loro diritti. Nel complesso le misure prospettate nel titolo IV della
+proposta, volte a garantire il buon funzionamento del mercato per il diritto d’autore,
+dovrebbero avere a medio termine un impatto positivo sulla produzione e sulla disponibilità di
+contenuti, nonché sul pluralismo dei mezzi di comunicazione, il che, in definitiva, andrà a
+beneficio dei consumatori.
+• Coerenza con le disposizioni vigenti nel settore normativo interessato
+La strategia per il mercato unico digitale delinea una serie di iniziative miranti a creare un
+mercato interno per i servizi e i contenuti digitali. Nel dicembre 2015 si è fatto un primo passo
+avanti in tal senso con l’adozione da parte della Commissione della proposta di regolamento
+del Parlamento europeo e del Consiglio che garantisce la portabilità transfrontaliera dei
+servizi di contenuti online nel mercato interno3
+.
+
+3 COM(2015) 627 final.
+IT 4 IT
+La presente proposta verte su alcune delle azioni mirate individuate nella comunicazione
+"Verso un quadro normativo moderno e più europeo sul diritto d’autore". Altre azioni
+individuate in quest'ultimo documento sono invece inserite nella "Proposta di regolamento del
+Parlamento europeo e del Consiglio che stabilisce norme relative all’esercizio del diritto
+d’autore e dei diritti connessi applicabili a talune trasmissioni online degli organismi di
+diffusione radiotelevisiva e ritrasmissioni di programmi televisivi e radiofonici"4
+, nella
+"Proposta di regolamento del Parlamento europeo e del Consiglio relativo allo scambio
+transfrontaliero tra l’Unione e i paesi terzi di copie in formato accessibile di determinate opere
+e altro materiale protetto da diritto d’autore e da diritti connessi, a beneficio delle persone non
+vedenti, con disabilità visive o con altre difficoltà nella lettura di testi a stampa"5
+e nella
+"Proposta di direttiva del Parlamento europeo e del Consiglio relativa a taluni utilizzi
+consentiti delle opere e di altro materiale protetto da diritto d’autore e da diritti connessi a
+beneficio delle persone non vedenti, con disabilità visive o con altre difficoltà nella lettura di
+testi a stampa, e che modifica la direttiva 2001/29/CE sull’armonizzazione di taluni aspetti del
+diritto d’autore e dei diritti connessi nella società dell’informazione"6
+, adottate lo stesso
+giorno della presente proposta di direttiva.
+La presente proposta è coerente con il quadro giuridico dell’UE sul diritto d’autore
+attualmente in vigore. Si basa, integrandole, sulle norme definite nelle direttive 96/9/CE7
+,
+2001/29/CE8
+, 2006/115/CE9
+, 2009/24/CE10
+, 2012/28/UE11 e 2014/26/UE12. Al pari della
+presente proposta tali direttive contribuiscono al funzionamento del mercato interno,
+garantiscono un livello elevato di protezione per i titolari dei diritti e facilitano l'acquisizione
+di questi ultimi.
+La presente proposta integra la direttiva 2010/13/UE13 e la relativa proposta di modifica14
+.
+• Coerenza con le altre normative dell'Unione
+La presente proposta di direttiva intende facilitare l’istruzione e la ricerca, migliorare la
+diffusione delle culture europee e incidere positivamente sulla diversità culturale. È pertanto
+coerente con gli articoli 165, 167 e 179 del trattato sul funzionamento dell’Unione europea
+
+4 COM(2016) 594 final.
+5 COM(2016) 595 final.
+6 COM(2016) 596 final.
+7 Direttiva 96/9/CE del Parlamento europeo e del Consiglio, dell'11 marzo 1996, relativa alla tutela
+giuridica delle banche di dati (GU L 77 del 27.3.1996, pag. 20).
+8 Direttiva 2001/29/CE del Parlamento europeo e del Consiglio, del 22 maggio 2001, sull'armonizzazione
+di taluni aspetti del diritto d'autore e dei diritti connessi nella società dell'informazione (GU L 167 del
+22.6.2001, pag. 10).
+9 Direttiva 2006/115/CE del Parlamento europeo e del Consiglio, del 12 dicembre 2006, concernente il
+diritto di noleggio, il diritto di prestito e taluni diritti connessi al diritto di autore in materia di proprietà
+intellettuale (GU L 376 del 27.12.2006, pag. 28).
+10 Direttiva 2009/24/CE del Parlamento europeo e del Consiglio, del 23 aprile 2009, relativa alla tutela
+giuridica dei programmi per elaboratore (GU L 111 del 5.5.2009, pag. 16).
+11 Direttiva 2012/28/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2012, su taluni utilizzi
+consentiti di opere orfane (GU L 299 del 27.10.2012, pag. 5).
+12 Direttiva 2014/26/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, sulla gestione
+collettiva dei diritti d'autore e dei diritti connessi e sulla concessione di licenze multiterritoriali per i
+diritti su opere musicali per l'uso online nel mercato interno (GU L 84 del 20.3.2014, pag. 72).
+13 Direttiva 2010/13/UE del Parlamento europeo e del Consiglio, del 10 marzo 2010, relativa al
+coordinamento di determinate disposizioni legislative, regolamentari e amministrative degli Stati
+membri concernenti la fornitura di servizi di media audiovisivi (direttiva sui servizi di media
+audiovisivi) (GU L 95 del 15.4.2010, pag. 1).
+14 COM(2016) 287 final.
+IT 5 IT
+(TFUE). Consentendo un più ampio utilizzo e accesso ai contenuti protetti dal diritto d’autore
+contribuisce inoltre a promuovere gli interessi dei consumatori, in conformità con le politiche
+dell’UE in materia di protezione dei consumatori e con l’articolo 169 del TFUE.
+2. BASE GIURIDICA, SUSSIDIARIETÀ E PROPORZIONALITÀ
+• Base giuridica
+La base giuridica della presente proposta è l'articolo 114 del TFUE, che conferisce all'UE il
+potere di adottare misure aventi per oggetto l'instaurazione e il funzionamento del mercato
+interno.
+• Sussidiarietà (per la competenza non esclusiva)
+Poiché le eccezioni e le limitazioni al diritto d’autore e ai diritti connessi sono armonizzate a
+livello di Unione europea, il margine di manovra degli Stati membri nell'introdurle o
+adeguarle è limitato. L’intervento a livello nazionale non sarebbe d'altronde sufficiente tenuto
+conto della natura transfrontaliera delle questioni individuate. L’intervento dell’Unione
+europea si rivela quindi necessario per raggiungere piena certezza giuridica sugli utilizzi
+transfrontalieri nei settori della ricerca, dell’istruzione e del patrimonio culturale.
+Per favorire la diffusione e l’accesso alle opere fuori commercio sono già state messe a punto
+alcune iniziative nazionali riguardanti tuttavia solo alcuni Stati membri e applicabili
+unicamente sul territorio nazionale. L’intervento dell’UE è pertanto necessario a far sì che in
+tutti gli Stati membri vi siano meccanismi di concessione delle licenze per l’accesso e la
+diffusione delle opere fuori commercio, garantendone nel contempo l'effetto transfrontaliero.
+Quanto allo sfruttamento online delle opere audiovisive, per promuovere la disponibilità di
+opere europee sulle piattaforme di video su richiesta in tutta l’UE occorre agevolare la
+negoziazione di accordi di licenza in tutti gli Stati membri.
+La distribuzione online di contenuti protetti dal diritto d’autore è per forza di cose
+transfrontaliera. Solo dei meccanismi deliberati a livello europeo sono in grado di garantire il
+buon funzionamento del mercato per la distribuzione di opere e altro materiale e di assicurare
+la sostenibilità dell’editoria di fronte alle sfide dell’ambiente digitale. Infine, gli autori e gli
+artisti (interpreti o esecutori) dovrebbero beneficiare in tutti gli Stati membri del livello di
+protezione elevato garantito dalle norme UE. A tal fine, anche per evitare disparità tra Stati
+membri, occorre definire un approccio comune dell’UE in materia di requisiti di trasparenza e
+introdurre meccanismi che consentano l'adeguamento dei contratti in taluni casi e la
+risoluzione delle controversie.
+• Proporzionalità
+La proposta prevede eccezioni obbligatorie che gli Stati membri sono tenuti ad attuare. Tali
+eccezioni riguardano obiettivi chiave di politica pubblica e utilizzi con dimensione
+transfrontaliera. Contemplano inoltre condizioni che tutelano il buon funzionamento dei
+mercati e gli interessi dei titolari dei diritti e stimolano la creatività e gli investimenti. Pur
+garantendo il rispetto degli obiettivi della direttiva, è stato mantenuto, ove pertinente, un
+margine di discrezionalità a livello nazionale.
+La proposta impone agli Stati membri di istituire meccanismi volti a facilitare l'acquisizione
+del diritto d’autore e dei diritti connessi per le opere fuori commercio e lo sfruttamento online
+delle opere audiovisive. Sebbene miri a garantire un più ampio accesso e una maggior
+diffusione dei contenuti, essa tutela nel contempo i diritti degli autori e degli altri titolari di
+diritti. A tal fine sono previste diverse misure di salvaguardia (ad esempio, la possibilità di 
+IT 6 IT
+opporre un rifiuto, il mantenimento della possibilità di concedere una licenza, la
+partecipazione al forum di negoziazione su base volontaria). La proposta si limita a quanto
+necessario per conseguire l'obiettivo perseguito e lascia agli Stati membri un margine
+discrezionale sufficiente per quanto riguarda le caratteristiche specifiche di questi
+meccanismi, senza imporre costi spropositati.
+La proposta impone ad alcuni servizi della società dell'informazione una serie di obblighi,
+comunque ragionevoli tenuto conto della natura dei servizi contemplati, del loro notevole
+impatto sul mercato dei contenuti online e delle grandi quantità di contenuti protetti dal diritto
+d’autore che vi sono memorizzati. L’introduzione di un diritto connesso per gli editori di
+giornali migliorerebbe la certezza giuridica e la loro posizione negoziale, coerentemente con
+l’obiettivo perseguito. La proposta è proporzionata in quanto riguarda unicamente le
+pubblicazioni di carattere giornalistico e gli utilizzi digitali. Non incide inoltre
+retroattivamente su alcun atto compiuto o diritto acquisito prima della data di recepimento.
+L'obbligo di trasparenza contemplato mira soltanto a riequilibrare i rapporti contrattuali tra i
+creatori e le loro controparti negoziali, rispettando nel contempo la libertà contrattuale.
+• Scelta dell'atto giuridico
+La proposta riguarda e, in alcuni casi, modifica direttive vigenti. Quando opportuno e tenuto
+conto della finalità da raggiungere, lascia inoltre margine di manovra agli Stati membri,
+garantendo nel contempo il rispetto dell'obiettivo del funzionamento del mercato interno. La
+scelta di una direttiva come strumento legislativo è pertanto adeguata.
+3. RISULTATI DELLE VALUTAZIONI EX POST, DELLE CONSULTAZIONI
+DEI PORTATORI DI INTERESSI E DELLE VALUTAZIONI D'IMPATTO
+• Valutazioni ex post / Vaglio di adeguatezza della legislazione vigente
+La Commissione ha effettuato un riesame della vigente normativa sul diritto d’autore tra il
+2013 e il 2016 con l'obiettivo di "assicurare che il diritto d’autore e le pratiche collegate [...]
+rispondano allo scopo che si prefiggono anche in questo nuovo contesto digitale"15. Il
+processo, anche se avviato prima dell’adozione del programma "Legiferare meglio" della
+Commissione16 nel maggio 2015, è stato condotto nello spirito degli orientamenti ivi
+delineati. In particolare ha evidenziato problemi nell’attuazione di alcune eccezioni e l'assenza
+di una loro efficacia transfrontaliera17 e ha sottolineato le difficoltà emerse negli ultimi anni
+nell'utilizzo dei contenuti protetti dal diritto d’autore, segnatamente a livello di ambiente
+digitale e di contesto transfrontaliero.
+• Consultazioni dei portatori di interessi
+La Commissione ha effettuato una serie di consultazioni pubbliche. Quella sul riesame della
+normativa UE sul diritto d’autore effettuata tra il 5 dicembre 2013 e il 5 marzo 201418 le ha
+fornito una panoramica dei punti di vista dei portatori di interessi su tale riesame, incluse le
+eccezioni, le limitazioni e la remunerazione degli autori e degli artisti (interpreti o esecutori).
+La consultazione pubblica effettuata tra il 24 settembre 2015 e il 6 gennaio 2016 sul quadro
+normativo per le piattaforme, gli intermediari online, i dati e il cloud computing e l’economia
+
+15 COM(2012) 789 final.
+16 COM(2015) 215 final.
+17 Si tratta, rispettivamente, dell’eccezione per l'illustrazione a fini didattici e di ricerca (per quanto
+riguarda l’estrazione di testo e di dati) e per atti di riproduzione specifici (per quanto riguarda la
+conservazione).
+18 La relazione sulle risposte ricevute nel quadro della consultazione è disponibile all’indirizzo:
+http://ec.europa.eu/internal_market/consultations/2013/copyright-rules/docs/contributions/consultationreport_en.pdf
+IT 7 IT
+collaborativa19 ha fornito riscontri e pareri di tutti i portatori di interessi sul ruolo degli
+intermediari nella diffusione online di opere e altro materiale. Tra il 23 marzo 2016 e il
+15 giugno 2016 si è infine svolta una consultazione pubblica sul ruolo degli editori nella
+catena del valore correlata al diritto d’autore e sulla "libertà di panorama". Quest'ultima
+consultazione ha permesso, in particolare, di raccogliere opinioni sull’eventuale introduzione
+nel diritto dell’Unione di un nuovo diritto connesso per gli editori.
+Tra il 2014 e il 2016 la Commissione ha inoltre avuto colloqui con i portatori di interessi sui
+vari temi affrontati dalla proposta.
+• Assunzione e uso di perizie
+Sono stati condotti studi giuridici20 ed economici21 sull’applicazione della direttiva
+2001/29/CE, sugli effetti economici dell'adeguamento di alcune eccezioni e limitazioni, sul
+quadro giuridico in materia di estrazione di testo e di dati e sulla remunerazione degli autori e
+degli artisti (interpreti o esecutori).
+• Valutazione d'impatto
+Per la presente proposta è stata effettuata una valutazione d'impatto22. Il 22 luglio 2016 il
+comitato per il controllo normativo ha emesso un parere positivo basandosi sul presupposto
+che tale valutazione sarebbe stata ulteriormente migliorata23. La versione finale del
+documento tiene conto delle osservazioni contenute nel parere.
+La valutazione prende in esame gli scenari di base, le opzioni strategiche e il rispettivo
+impatto su otto aspetti raggruppati in tre diversi capitoli, segnatamente: i) garantire un più
+ampio accesso ai contenuti, ii) adeguare le eccezioni al contesto digitale e transfrontaliero e
+iii) giungere al buon funzionamento del mercato per il diritto d’autore. Per ciascuna opzione è
+stato analizzato l’impatto sui vari portatori di interessi; tenendo conto in particolare della
+predominanza delle piccole e medie imprese nelle industrie creative, l’analisi conclude che
+l’introduzione di un regime speciale non sarebbe appropriata poiché contraria alla finalità
+
+19 I primi risultati sono disponibili all'indirizzo:https://ec.europa.eu/digital-single-market/news/first-briefresults-public-consultation-regulatory-environment-platforms-online-intermediaries
+20 Studio sull’applicazione della direttiva 2001/29/CE sul diritto d’autore e i diritti connessi nella società
+dell’informazione: http://ec.europa.eu/internal_market/copyright/studies/index_en.htm; Studio sul
+quadro giuridico per l’estrazione di testo e di dati:
+http://ec.europa.eu/internal_market/copyright/docs/studies/1403_study2_en.pdf; Studio sul diritto di
+messa a disposizione e sul suo rapporto con il diritto di riproduzione nelle trasmissioni transfrontaliere
+in digitale: http://ec.europa.eu/internal_market/copyright/docs/studies/141219-study_en.pdf; Studio
+sulla remunerazione di autori e artisti (interpreti o esecutori) per l’uso delle loro opere e la fissazione
+delle loro esecuzioni: https://ec.europa.eu/digital-single-market/en/news/commission-gathers-evidenceremuneration-authors-and-performers-use-their-works-and-fixations;
+Studio sulla remunerazione degli
+autori di libri e riviste scientifiche, dei traduttori, dei giornalisti e degli artisti visivi per l'utilizzo delle
+loro opere: [inserire il riferimento al link – di prossima pubblicazione]
+21 Studio di valutazione dell’impatto economico dell'adeguamento di talune limitazioni ed eccezioni al
+diritto d’autore e ai diritti connessi nell’UE:
+http://ec.europa.eu/internal_market/copyright/docs/studies/131001-study_en.pdf e Studio di valutazione
+dell’impatto economico dell'adeguamento di talune limitazioni ed eccezioni al diritto d’autore e ai diritti
+connessi nell’UE – Analisi di scelte strategiche specifiche:
+http://ec.europa.eu/internal_market/copyright/docs/studies/140623-limitations-economic-impactsstudy_en.pdf
+22 [Aggiungere il link alla valutazione d'impatto e alla sintesi]
+23 [Aggiungere il link al parere del comitato]
+IT 8 IT
+dell’intervento. Le opzioni strategiche per ogni tematica sono illustrate brevemente qui di
+seguito.
+Accesso e disponibilità delle opere audiovisive su piattaforme di video su richiesta:
+un’opzione di natura non legislativa (opzione 1) consistente nell’organizzare un dialogo fra i
+portatori di interessi su aspetti connessi alla concessione delle licenze non è stata accolta in
+quanto ritenuta insufficiente a risolvere singoli casi di blocchi. L’opzione prescelta
+(opzione 2) combina l’organizzazione di un dialogo fra i portatori di interessi con l’obbligo
+per gli Stati membri di istituire un meccanismo negoziale.
+Opere fuori commercio: l’opzione 1 imponeva agli Stati membri l'istituzione di meccanismi
+giuridici, con effetto transfrontaliero, atti a semplificare la conclusione di accordi di licenza
+per libri e riviste specialistiche fuori commercio e l'organizzazione di un dialogo fra i portatori
+di interessi a livello nazionale al fine di agevolare l’attuazione di tale meccanismo. L’opzione
+2 andava oltre in quanto applicabile a tutti i tipi di opere fuori commercio. Tale estensione è
+stata ritenuta necessaria per affrontare il problema della concessione delle licenze per le opere
+fuori commercio in tutti i settori. È stata pertanto scelta l’opzione 2.
+Utilizzo di opere e altro materiale in attività didattiche digitali e transfrontaliere: l'opzione 1,
+consistente nel fornire agli Stati membri orientamenti sull’applicazione dell'eccezione per
+l'uso didattico in ambiente digitale attualmente vigente e sull’organizzazione di un dialogo fra
+i portatori di interessi, è stata ritenuta insufficiente a garantire certezza giuridica, in particolare
+per quanto riguarda gli utilizzi transfrontalieri. L’opzione 2 imponeva l’introduzione di
+un'eccezione obbligatoria con effetto transfrontaliero per utilizzi digitali. L’opzione 3 era
+analoga all’opzione 2 ma lasciava un certo margine di manovra agli Stati membri, che
+potevano decidere di applicare l’eccezione in funzione delle licenze disponibili. Questa
+opzione è stata ritenuta la più proporzionata.
+Estrazione di testo e di dati: l’opzione 1 prevedeva iniziative di autoregolamentazione da parte
+del settore. Altre opzioni consistevano nell’introduzione di un’eccezione obbligatoria
+riguardante l’estrazione di testo e di dati. Nell’opzione 2 l’eccezione copriva unicamente gli
+utilizzi a fini non commerciali di ricerca scientifica. L'opzione 3 consentiva gli utilizzi a fini
+commerciali di ricerca scientifica, ma limitava l'applicazione dell'eccezione ad alcuni
+beneficiari. L’opzione 4 si spingeva oltre, non prevedendo restrizioni quanto ai beneficiari.
+L'opzione 3 è stata ritenuta la più proporzionata.
+Conservazione del patrimonio culturale: l’opzione 1 prevedeva un'attività di orientamento per
+gli Stati membri sull’attuazione dell’eccezione per atti di riproduzione specifici a fini di
+conservazione. È stata respinta poiché ritenuta insufficiente a conseguire certezza giuridica in
+materia. È stata scelta l'opzione 2, che prevedeva un'eccezione obbligatoria a fini di
+conservazione da parte degli istituti di tutela del patrimonio culturale.
+Uso di contenuti protetti dal diritto d’autore da parte dei servizi della società
+dell’informazione che memorizzano e danno accesso a grandi quantità di opere e altro
+materiale caricati dagli utenti: l’opzione 1 consisteva nell’organizzare un dialogo fra i
+portatori di interessi. È stata respinta poiché avrebbe avuto un impatto limitato sulla
+possibilità per i titolari dei diritti di decidere le condizioni di utilizzo delle loro opere e altro
+materiale. L’opzione prescelta (opzione 2) va oltre, prevedendo l’obbligo per alcuni prestatori
+di servizi di munirsi di tecnologie adeguate e promuovendo la conclusione di accordi con i
+titolari dei diritti.
+IT 9 IT
+Diritti sulle pubblicazioni: l’opzione 1 consisteva nell’instaurare un dialogo fra i portatori di
+interessi per trovare soluzioni in materia di divulgazione dei contenuti delle pubblicazioni di
+carattere giornalistico. È stata ritenuta insufficiente a garantire certezza giuridica in tutta
+l'Unione europea. L’opzione 2 prevedeva l’introduzione di un diritto connesso sugli utilizzi
+digitali delle pubblicazioni di carattere giornalistico. Oltre a ciò, l’opzione 3 disponeva che gli
+Stati membri potessero consentire agli editori ai quali fossero trasferiti o concessi in licenza
+dei diritti da un dato autore di chiedere una quota del compenso previsto per gli utilizzi nel
+quadro di un'eccezione. Si è scelta quest’ultima opzione poiché affrontava tutti i problemi
+pertinenti.
+Equa remunerazione di autori e artisti (interpreti o esecutori) a livello contrattuale: l'opzione 1
+prevedeva una raccomandazione agli Stati membri e l'instaurazione di un dialogo fra i
+portatori di interessi. È stata respinta poiché non abbastanza efficace. L'opzione 2
+contemplava l’introduzione di obblighi di trasparenza per le controparti contrattuali dei
+creatori. Oltre a ciò, l’opzione 3 proponeva l’introduzione di un meccanismo di adeguamento
+delle remunerazioni e di un meccanismo di risoluzione delle controversie. Si è scelta
+quest'ultima opzione poiché l’opzione 2 non avrebbe fornito ai creatori strumenti esecutivi per
+poter far valere l’obbligo di trasparenza.
+• Efficienza normativa e semplificazione
+Per gli utilizzi coperti dalle eccezioni la proposta consente agli istituti di istruzione, agli
+istituti di ricerca di interesse pubblico e agli istituti di tutela del patrimonio culturale di ridurre
+i costi di transazione. Per i titolari dei diritti tale riduzione non implica necessariamente una
+perdita di reddito o minori proventi derivanti dalla concessione delle licenze: il campo di
+applicazione e le condizioni stabilite dalle eccezioni garantiscono che i titolari dei diritti
+subiscano un danno minimo. Di conseguenza, l’impatto sulle PMI in questi settori (in
+particolare, l'editoria scientifica e scolastica) e sui loro modelli di business dovrebbe essere
+limitato.
+I meccanismi volti a migliorare le pratiche di concessione ridurranno verosimilmente i costi di
+transazione e aumenteranno i proventi dei titolari dei diritti derivanti dalle licenze. Le PMI
+operanti in questi settori (produttori, distributori, editori, ecc.) ne trarrebbero beneficio.
+Ricadute positive potrebbero esserci anche per altre parti interessate, ad esempio le
+piattaforme di video su richiesta. La proposta prevede inoltre una serie di misure (obbligo di
+trasparenza per le controparti dei titolari dei diritti, introduzione di un nuovo diritto per gli
+editori di giornali e obbligo per alcuni servizi online) che presumibilmente miglioreranno la
+posizione negoziale dei titolari dei diritti e il controllo che esercitano sull’uso delle loro opere
+e altro materiale, con un impatto positivo sui loro proventi.
+Per alcuni servizi online e per quelli ai quali gli autori e gli artisti (interpreti o esecutori)
+trasferiscono i diritti la proposta contempla nuovi obblighi che possono comportare costi
+aggiuntivi. Essa, tuttavia, assicura che tali costi restino proporzionati e che, ove opportuno,
+alcuni operatori non vi siano soggetti. Ad esempio, l’obbligo di trasparenza non si applicherà
+se i costi amministrativi connessi risulteranno sproporzionati rispetto ai proventi generati.
+Quanto ai servizi online, l’obbligo riguarda solo i servizi della società dell’informazione che
+memorizzano e danno accesso a una grande quantità di contenuti protetti dal diritto d’autore
+caricati dagli utenti.
+La proposta prevede l’obbligo per gli Stati membri di applicare meccanismi di negoziazione e
+di risoluzione delle controversie, il che comporta costi di conformità a loro carico. Essi,
+tuttavia, potrebbero limitarli ricorrendo nella maggior parte dei casi alle strutture preesistenti. 
+IT 10 IT
+Anche l’eccezione per le attività didattiche può comportare costi a carico degli Stati membri
+relativamente alle misure miranti a garantire la disponibilità e la visibilità delle licenze per gli
+istituti scolastici.
+I nuovi sviluppi tecnologici sono stati presi attentamente in esame. La proposta contiene varie
+eccezioni miranti a facilitare l’uso dei contenuti protetti dal diritto d’autore tramite le nuove
+tecnologie e misure che facilitano l’accesso ai contenuti, anche tramite le reti digitali. Essa,
+infine, garantisce l'equilibrio delle posizioni negoziali tra tutti gli attori operanti nell'ambiente
+digitale.
+• Diritti fondamentali
+Migliorando la posizione negoziale di autori ed artisti (interpreti o esecutori) e il controllo dei
+titolari dei diritti sull’utilizzo dei loro contenuti protetti dal diritto d'autore, la proposta avrà
+un impatto positivo sul diritto d’autore come diritto di proprietà, tutelato dall’articolo 17 della
+Carta dei diritti fondamentali dell’Unione europea (in prosieguo: la "Carta"). Tale impatto
+positivo sarà rafforzato dalle misure volte a migliorare le procedure di concessione delle
+licenze e ad aumentare, in ultima istanza, i proventi dei titolari dei diritti. Alcune nuove
+eccezioni che, in qualche misura, riducono il monopolio dei titolari dei diritti sono giustificate
+da altri obiettivi di interesse pubblico. Esse avranno presumibilmente un impatto positivo sul
+diritto all’istruzione e sulla diversità culturale. Infine, grazie alle misure di mitigazione
+predisposte e ad un approccio equilibrato agli obblighi imposti ai portatori di interessi, la
+direttiva ha un impatto limitato sulla libertà d’impresa e sulla libertà di espressione e
+d'informazione sancite, rispettivamente, dagli articoli 16 e 11 della Carta.
+4. INCIDENZA SUL BILANCIO
+Nessuna.
+5. ALTRI ELEMENTI
+• Piani attuativi e modalità di monitoraggio, valutazione e informazione
+A norma dell’articolo 22 la Commissione procede ad un riesame della direttiva non prima di
+[cinque] anni dalla data [di recepimento].
+• Documenti esplicativi
+In linea con il considerando 48 della proposta di direttiva, gli Stati membri notificheranno alla
+Commissione le misure di recepimento unitamente a documenti esplicativi. Ciò è necessario
+tenuto conto della complessità delle norme stabilite dalla proposta e dell’importanza di
+mantenere un approccio armonizzato per quanto concerne le norme applicabili all’ambiente
+digitale e al contesto transfrontaliero.
+• Illustrazione dettagliata delle singole disposizioni della proposta
+Il titolo I contiene disposizioni generali che i) precisano l’oggetto e l'ambito di applicazione
+della direttiva e ii) forniscono definizioni che dovranno essere interpretate in modo uniforme
+nell’Unione.
+Il titolo II riguarda misure miranti ad adeguare le eccezioni e le limitazioni all’ambiente
+digitale e al contesto transfrontaliero. Include tre articoli che impongono agli Stati membri di
+disporre eccezioni obbligatorie ovvero una limitazione per permettere: i) l'estrazione di testo e
+di dati da parte di istituti di ricerca a fini di ricerca scientifica (articolo 3), ii) gli utilizzi 
+IT 11 IT
+digitali di opere e altro materiale con esclusiva finalità illustrativa ad uso didattico (articolo 4)
+e iii) la realizzazione di copie, da parte degli istituti di tutela del patrimonio culturale, di opere
+e altro materiale presente permanentemente nelle loro raccolte nella misura necessaria alla
+conservazione (articolo 5). L’articolo 6 prevede disposizioni comuni al titolo in materia di
+eccezioni e le limitazioni.
+Il titolo III riguarda misure volte a migliorare le pratiche di concessione delle licenze e a
+garantire un più ampio accesso ai contenuti. L’articolo 7 impone agli Stati membri di istituire
+un meccanismo giuridico che faciliti gli accordi di licenza per opere e altro materiale fuori
+commercio. L’articolo 8 garantisce l’effetto transfrontaliero di tali accordi. L’articolo 9
+impone agli Stati membri di instaurare fra i portatori di interessi un dialogo sulle questioni di
+cui agli articoli 7 e 8. L’articolo 10 introduce l’obbligo per gli Stati membri di istituire un
+meccanismo di negoziazione per agevolare i negoziati sullo sfruttamento online delle opere
+audiovisive.
+Il titolo IV riguarda misure volte a creare un mercato ben funzionante per il diritto d’autore.
+Gli articoli 11 e 12 i) estendono i diritti di cui all'articolo 2 e all'articolo 3, paragrafo 2, della
+direttiva 2001/29/CE agli editori di giornali per l’utilizzo digitale delle loro pubblicazioni e ii)
+prevedono la possibilità per gli Stati membri di fornire a tutti gli editori la possibilità di
+reclamare una parte del compenso previsto per gli utilizzi effettuati in virtù di un'eccezione.
+L’articolo 13 impone ai prestatori di servizi della società dell’informazione che memorizzano
+e danno accesso a grandi quantità di opere e altro materiale caricati dagli utenti l’obbligo di
+adottare misure adeguate e proporzionate volte a garantire il funzionamento degli accordi
+conclusi con i titolari dei diritti e a evitare che i loro servizi rendano disponibili i contenuti
+specificamente identificati dai titolari dei diritti in collaborazione con i prestatori stessi.
+L’articolo 14 impone agli Stati membri di includere obblighi di trasparenza a vantaggio di
+autori ed artisti (interpreti o esecutori). L’articolo 15 impone agli Stati membri di istituire un
+meccanismo di adeguamento contrattuale a sostegno dell’obbligo di cui all’articolo 14.
+L’articolo 16 impone agli Stati membri di istituire un meccanismo di risoluzione delle
+controversie per problemi derivanti dall’applicazione degli articoli 14 e 15.
+Il titolo V contiene le disposizioni finali relative alle modifiche di altre direttive,
+all’applicazione nel tempo, alle disposizioni transitorie, alla protezione dei dati personali, al
+recepimento, al riesame e all’entrata in vigore.
+IT 12 IT
+2016/0280 (COD)
+Proposta di
+DIRETTIVA DEL PARLAMENTO EUROPEO E DEL CONSIGLIO
+sul diritto d'autore nel mercato unico digitale
+(Testo rilevante ai fini del SEE)
+IL PARLAMENTO EUROPEO E IL CONSIGLIO DELL'UNIONE EUROPEA,
+visto il trattato sul funzionamento dell'Unione europea, in particolare l'articolo 114,
+vista la proposta della Commissione europea,
+previa trasmissione del progetto di atto legislativo ai parlamenti nazionali,
+visto il parere del Comitato economico e sociale europeo24
+,
+visto il parere del Comitato delle regioni25
+,
+deliberando secondo la procedura legislativa ordinaria,
+considerando quanto segue:
+(1) Il trattato prevede l'instaurazione di un mercato interno e la creazione di un sistema
+che garantisca l'assenza di distorsioni della concorrenza in tale mercato.
+L'armonizzazione delle legislazioni degli Stati membri relative al diritto d'autore e ai
+diritti connessi dovrebbe contribuire ulteriormente al raggiungimento di tali obiettivi.
+(2) Le direttive finora adottate nel settore del diritto d’autore e dei diritti connessi
+garantiscono un livello di protezione elevato ai titolari dei diritti e creano un quadro
+che disciplina lo sfruttamento delle opere e altro materiale protetto. Tale quadro
+giuridico armonizzato contribuisce al buon funzionamento del mercato interno e
+stimola l’innovazione, la creatività, gli investimenti e la produzione di contenuti nuovi,
+anche in ambiente digitale. La protezione così garantita contribuisce inoltre
+all’obiettivo dell’Unione di rispettare e promuovere la diversità culturale, portando
+allo stesso tempo in primo piano il patrimonio culturale comune europeo. A norma
+dell'articolo 167, paragrafo 4, del trattato sul funzionamento dell’Unione europea,
+l’Unione deve tener conto degli aspetti culturali nell’azione da essa svolta.
+(3) I rapidi sviluppi tecnologici continuano a trasformare il modo in cui le opere e altro
+materiale sono creati, prodotti, distribuiti e sfruttati, mentre continuano ad emergere
+nuovi modelli di business e nuovi attori. Gli obiettivi e i principi stabiliti dal quadro
+giuridico dell’Unione sul diritto d’autore rimangono validi, ma vi è ancora incertezza
+giuridica quanto a taluni utilizzi, anche transfrontalieri, delle opere e altro materiale in
+ambiente digitale, sia per i titolari dei diritti che per gli utenti. In alcuni settori, come
+indicato nella comunicazione della Commissione "Verso un quadro normativo
+moderno e più europeo sul diritto d’autore"26, è necessario adeguare e completare
+
+24 GU C , , pag. .
+25 GU C , , pag. .
+26 COM(2015) 626 final.
+IT 13 IT
+l’attuale quadro dell’Unione sul diritto d’autore. La presente direttiva prevede norme
+miranti ad adeguare talune eccezioni e limitazioni all’ambiente digitale e al contesto
+transfrontaliero, nonché misure volte a facilitare determinate procedure di concessione
+delle licenze per la divulgazione di opere fuori commercio e la disponibilità online di
+opere audiovisive su piattaforme di video su richiesta al fine di garantire un più ampio
+accesso ai contenuti. Per garantire il buon funzionamento del mercato per il diritto
+d’autore sono altresì opportune norme relative ai diritti sulle pubblicazioni, all’uso di
+opere e altro materiale da parte dei prestatori di servizi online che memorizzano e
+danno accesso a contenuti caricati dagli utenti e alla trasparenza dei contratti per autori
+ed artisti (interpreti o esecutori).
+(4) La presente direttiva si basa e integra le norme stabilite dalle direttive attualmente in
+vigore in questo settore, in particolare la direttiva 96/9/CE del Parlamento europeo e
+del Consiglio27, la direttiva 2001/29/CE del Parlamento europeo e del Consiglio28, la
+direttiva 2006/115/CE del Parlamento europeo e del Consiglio29, la direttiva
+2009/24/CE del Parlamento europeo e del Consiglio30, la direttiva 2012/28/UE del
+Parlamento europeo e del Consiglio
+31 e la direttiva 2014/26/UE del Parlamento
+europeo e del Consiglio32
+.
+(5) Nei settori della ricerca, dell’istruzione e della conservazione del patrimonio culturale,
+le tecnologie digitali consentono nuovi tipi di utilizzi non chiaramente contemplati
+dalle attuali norme UE sulle eccezioni e sulle limitazioni. Inoltre, la natura facoltativa
+delle eccezioni e delle limitazioni di cui alle direttive 2001/29/CE, 96/9/CE e
+2009/24/CE in questi settori può avere un impatto negativo sul funzionamento del
+mercato interno. Ciò riguarda in particolare gli utilizzi transfrontalieri, sempre più
+importanti nell'ambiente digitale. Pertanto, le eccezioni e le limitazioni attualmente
+previste dalla normativa dell’Unione applicabili alla ricerca scientifica,
+all’insegnamento e alla conservazione del patrimonio culturale andrebbero riesaminate
+alla luce di tali nuovi utilizzi. Andrebbero introdotte limitazioni o eccezioni
+obbligatorie per l'uso di tecnologie di estrazione di testo e di dati (text and data
+mining) nel campo della ricerca scientifica, per finalità illustrative ad uso didattico in
+ambiente digitale e per la conservazione del patrimonio culturale. Per gli usi non
+contemplati dalle eccezioni o dalla limitazione di cui alla presente direttiva dovrebbero
+continuare ad applicarsi le eccezioni e le limitazioni attualmente vigenti nel diritto
+dell’Unione. Le direttive 96/9/CE e 2001/29/CE andrebbero adattate.
+(6) Le eccezioni e la limitazione di cui alla presente direttiva tendono al raggiungimento
+di un giusto equilibrio tra i diritti e gli interessi degli autori e degli altri titolari di
+diritti, da un lato, e gli utenti, dall'altro. Sono applicabili solo in taluni casi specifici
+
+27 Direttiva 96/9/CE del Parlamento europeo e del Consiglio, dell'11 marzo 1996, relativa alla tutela
+giuridica delle banche di dati (GU L 77 del 27.3.1996, pag. 20).
+28 Direttiva 2001/29/CE del Parlamento europeo e del Consiglio, del 22 maggio 2001, sull'armonizzazione
+di taluni aspetti del diritto d'autore e dei diritti connessi nella società dell'informazione (GU L 167 del
+22.6.2001, pag. 10).
+29 Direttiva 2006/115/CE del Parlamento europeo e del Consiglio, del 12 dicembre 2006, concernente il
+diritto di noleggio, il diritto di prestito e taluni diritti connessi al diritto di autore in materia di proprietà
+intellettuale (GU L 376 del 27.12.2006, pag. 28).
+30 Direttiva 2009/24/CE del Parlamento europeo e del Consiglio, del 23 aprile 2009, relativa alla tutela
+giuridica dei programmi per elaboratore (GU L 111 del 5.5.2009, pag. 16).
+31 Direttiva 2012/28/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2012, su taluni utilizzi
+consentiti di opere orfane (GU L 299 del 27.10.2012, pag. 5).
+32 Direttiva 2014/26/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014, sulla gestione
+collettiva dei diritti d'autore e dei diritti connessi e sulla concessione di licenze multiterritoriali per i
+diritti su opere musicali per l'uso online nel mercato interno (GU L 84 del 20.3.2014, pag. 72).
+IT 14 IT
+che non siano in contrasto con il normale sfruttamento delle opere o altro materiale e
+non arrechino indebitamente pregiudizio ai legittimi interessi dei titolari dei diritti.
+(7) La protezione delle misure tecnologiche di cui alla direttiva 2001/29/CE rimane
+essenziale per garantire la tutela e l’esercizio effettivo dei diritti riconosciuti agli autori
+e agli altri titolari di diritti nel quadro del diritto dell’Unione. È opportuno mantenere
+tale protezione assicurando, nel contempo, che l’uso di dette misure non impedisca di
+beneficiare delle eccezioni e della limitazione stabilite nella presente direttiva,
+particolarmente importanti nell’ambiente online. I titolari dei diritti dovrebbero avere
+la possibilità di provvedere in questo senso mediante l'adozione di misure volontarie,
+rimanendo liberi di scegliere in che forma e con quali modalità fornire ai beneficiari
+delle eccezioni e della limitazione di cui alla presente direttiva i mezzi per poterne
+fruire, a condizione che tali mezzi siano appropriati. In mancanza di misure volontarie,
+gli Stati membri dovrebbero adottare provvedimenti adeguati in conformità
+dell’articolo 6, paragrafo 4, primo comma, della direttiva 2001/29/CE.
+(8) Le nuove tecnologie consentono un'analisi computazionale automatizzata delle
+informazioni in formato digitale, quali testi, suoni, immagini o dati, generalmente nota
+come "estrazione di testo e di dati". Esse permettono ai ricercatori di elaborare un gran
+numero di informazioni ai fini dell'acquisizione di nuove conoscenze e della
+rilevazione di nuove tendenze. È ampiamente riconosciuto che le tecnologie di
+estrazione di testo e di dati, peraltro assai diffuse in tutta l’economia digitale, possono
+arrecare beneficio in particolare alla comunità di ricerca e, in tal modo, promuovere
+l’innovazione. Nell’Unione, tuttavia, gli organismi di ricerca, quali le università e gli
+istituti di ricerca, sono confrontati all'incertezza giuridica nel momento in cui si
+chiedono in che misura possono estrarre testo e dati da un determinato contenuto. In
+alcuni casi, l’estrazione di testo e di dati può riguardare atti protetti dal diritto d’autore
+e/o dal diritto sui generis sulle banche dati, in particolare la riproduzione di opere o
+altro materiale e/o l’estrazione di contenuti da una banca dati. Se non sussistono
+eccezioni né limitazioni andrebbe richiesta un'apposita autorizzazione ai titolari dei
+diritti. L'estrazione di testo e di dati può avvenire anche in relazione a semplici fatti o
+dati non tutelati dal diritto d’autore, nel qual caso non è prevista alcuna autorizzazione.
+(9) Il diritto dell’Unione prevede già talune eccezioni e limitazioni per usi a fini di ricerca
+scientifica eventualmente applicabili ad atti di estrazione di testo e di dati. Tali
+eccezioni e limitazioni sono però facoltative e non pienamente adeguate all’utilizzo
+delle tecnologie nel settore della ricerca scientifica. Inoltre, qualora i ricercatori
+abbiano legalmente accesso ai contenuti, ad esempio mediante abbonamenti o licenze
+ad accesso aperto, le condizioni delle licenze possono escludere l’estrazione di testo e
+di dati. Poiché le attività di ricerca sono sempre più svolte con l’ausilio della
+tecnologia digitale, vi è il rischio che la posizione concorrenziale dell’Unione come
+ambiente di ricerca ne sia penalizzata, a meno che non si adottino misure volte ad
+affrontare il problema dell’incertezza giuridica relativamente all’estrazione di testo e
+di dati.
+(10) È opportuno risolvere la situazione di incertezza giuridica disponendo un’eccezione
+obbligatoria al diritto di riproduzione, nonché al diritto di vietare l’estrazione da una
+banca dati. La nuova eccezione dovrebbe lasciare impregiudicata l’eccezione
+obbligatoria attualmente vigente per gli atti di riproduzione temporanea, di cui
+all’articolo 5, paragrafo 1, della direttiva 2001/29/CE, che dovrebbe continuare ad
+applicarsi alle tecniche di estrazione di testo e di dati che non comportino la
+realizzazione di copie oltre l'ambito di applicazione dell'eccezione stessa. Gli 
+IT 15 IT
+organismi di ricerca dovrebbero beneficiare dell’eccezione anche se coinvolti in
+partenariati pubblico-privato.
+(11) In tutta l’Unione gli organismi di ricerca comprendono un'ampia gamma di soggetti il
+cui obiettivo principale è fare ricerca scientifica, con o senza l’offerta di servizi
+d'insegnamento. Vista la varietà dei soggetti in causa è importante condividere
+l'interpretazione del concetto di beneficiario dell'eccezione. In genere, a prescindere
+dalle diverse forme e strutture giuridiche, gli organismi di ricerca in tutti gli Stati
+membri hanno in comune il fatto di agire senza scopi di lucro ovvero nell’ambito di
+una finalità di interesse pubblico riconosciuta dallo Stato. Tale finalità può tradursi, ad
+esempio, in un finanziamento pubblico oppure in disposizioni di leggi nazionali o in
+appalti pubblici. Allo stesso tempo, non si dovrebbero considerare organismi di ricerca
+ai fini della presente direttiva quelli su cui imprese commerciali, per ragioni strutturali
+quali la loro veste di azioniste o membri, abbiano un’influenza tanto determinante da
+consentire loro di esercitare un controllo da cui derivi un accesso preferenziale ai
+risultati della ricerca.
+(12) In considerazione del numero potenzialmente elevato di richieste di accesso e di
+scaricamento online delle loro opere o altro materiale, i titolari dei diritti dovrebbero
+avere la facoltà di applicare misure se vi è il rischio che la sicurezza e l’integrità del
+sistema o delle banche dati in cui sono ospitate le opere o altro materiale vengano
+compromesse. Siffatte misure non dovrebbero andare oltre quanto necessario per
+perseguire l’obiettivo di garantire la sicurezza e l’integrità del sistema e non
+dovrebbero compromettere l’efficace applicazione dell'eccezione.
+(13) Non vi è alcuna necessità di prevedere un compenso per i titolari dei diritti per quanto
+concerne gli utilizzi contemplati dall'eccezione relativa all’estrazione di testo e di dati
+introdotta dalla presente direttiva giacché, tenuto conto della natura e della portata
+dell’eccezione, il pregiudizio dovrebbe essere minimo.
+(14) L’articolo 5, paragrafo 3, lettera a), della direttiva 2001/29/CE consente agli Stati
+membri di disporre eccezioni o limitazioni ai diritti di riproduzione, comunicazione al
+pubblico e messa a disposizione del pubblico quando l'utilizzo ha, fra l'altro,
+esclusivamente finalità illustrativa per uso didattico. L'articolo 6, paragrafo 2, lettera
+b), e l'articolo 9, lettera b), della direttiva 96/9/CE consentono inoltre l’uso di una
+banca dati e l’estrazione o il reimpiego di una parte considerevole del contenuto della
+stessa per finalità illustrative ad uso didattico. L’ambito di applicazione di tali
+eccezioni o limitazioni agli utilizzi digitali non è chiaro. Vi è mancanza di chiarezza
+anche sull'applicabilità di tali eccezioni o limitazioni all’insegnamento online e,
+pertanto, a distanza. L’attuale quadro giuridico, peraltro, non prevede l'effetto
+transfrontaliero. Questa situazione può ostacolare lo sviluppo delle attività di
+insegnamento su supporto digitale e dell'apprendimento a distanza. Di conseguenza,
+l’introduzione di una nuova eccezione o limitazione obbligatoria è necessaria per
+garantire che gli istituti di istruzione godano di piena certezza giuridica nel momento
+in cui utilizzano opere o altro materiale in attività didattiche digitali, incluse quelle
+online e transfrontaliere.
+(15) Se l’apprendimento a distanza e i programmi di istruzione transfrontalieri si stanno
+sviluppando prevalentemente a livello di istruzione superiore, gli strumenti e le risorse
+digitali sono sempre più utilizzati a tutti i livelli di istruzione, in particolare per
+migliorare e arricchire l’esperienza di apprendimento. L’eccezione o la limitazione di
+cui alla presente direttiva dovrebbero quindi applicarsi a tutti gli istituti di istruzione
+primaria, secondaria, professionale e superiore nella misura in cui esercitano l'attività 
+IT 16 IT
+didattica a fini non commerciali. La struttura organizzativa e i mezzi di finanziamento
+di un istituto di istruzione non sono fattori decisivi per stabilire la natura non
+commerciale dell’attività svolta.
+(16) L’eccezione o limitazione dovrebbe coprire gli utilizzi digitali di opere e altro
+materiale, quali l’uso di parti o brani di opere, al fine di sostenere, arricchire o
+integrare l’insegnamento, incluse le attività di apprendimento correlate. L’utilizzo di
+opere o altro materiale nell’ambito di questa eccezione o limitazione dovrebbe aver
+luogo solo nel contesto delle attività di insegnamento e apprendimento effettuate sotto
+la responsabilità di istituti di istruzione, anche nel corso di esami, ed essere limitato a
+quanto necessario ai fini di tali attività. L’eccezione o limitazione dovrebbe riguardare
+sia l'utilizzo tramite strumenti digitali in aula che l'utilizzo online tramite la rete
+informatica sicura dell'istituto scolastico, l'accesso alla quale dovrebbe essere protetto,
+in particolare mediante apposite procedure di autenticazione. L’eccezione o
+limitazione andrebbe intesa come rivolta anche alle esigenze specifiche di accessibilità
+delle persone con disabilità nel contesto della finalità illustrativa per uso didattico.
+(17) Disposizioni diverse basate sull’attuazione dell'eccezione di cui alla direttiva
+2001/29/CE o su accordi di licenza per altri usi sono attualmente in vigore in un certo
+numero di Stati membri per agevolare l'uso didattico di opere e altro materiale. In
+genere si tratta di disposizioni elaborate tenendo conto delle esigenze degli istituti
+scolastici e dei diversi livelli di istruzione. Se da un lato è essenziale armonizzare
+l'ambito di applicazione della nuova eccezione o limitazione obbligatoria in relazione
+agli utilizzi digitali e alle attività didattiche transfrontaliere, dall'altro le modalità di
+attuazione possono differire da uno Stato membro all’altro, purché non ostacolino
+l’efficace applicazione dell’eccezione o limitazione o degli utilizzi transfrontalieri. Ciò
+dovrebbe consentire agli Stati membri di basarsi sulle disposizioni già in vigore a
+livello nazionale. Gli Stati membri potrebbero in particolare decidere di subordinare
+l’applicazione dell’eccezione o della limitazione, in tutto o in parte, alla disponibilità
+di licenze adeguate riguardanti almeno gli stessi usi di quelli autorizzati nell’ambito
+dell’eccezione. Simile meccanismo permetterebbe ad esempio di dare priorità alle
+licenze per i materiali destinati principalmente al mercato dell’istruzione. Per evitare
+che ciò si traduca in incertezza giuridica o determini un onere amministrativo per gli
+istituti di istruzione è opportuno che gli Stati membri che adottano questo metodo
+introducano misure concrete atte a garantire che i regimi di concessione delle licenze
+che autorizzano gli utilizzi digitali di opere o altro materiale per illustrazione a fini
+didattici siano di facile accesso e che gli istituti interessati ne conoscano l'esistenza.
+(18) Un atto di conservazione può richiedere la riproduzione di un’opera o altro materiale
+presente nella raccolta di un istituto di tutela del patrimonio culturale e, di
+conseguenza, l’autorizzazione dei titolari dei relativi diritti. Gli istituti di cui trattasi
+sono impegnati nella conservazione delle loro raccolte per le generazioni future. Le
+tecnologie digitali offrono nuovi modi per preservare il patrimonio culturale che vi è
+contenuto, ma creano nel contempo nuove sfide. Per poterle affrontare è necessario
+adeguare l’attuale quadro giuridico con l'introduzione di un’eccezione obbligatoria al
+diritto di riproduzione che renda possibili tali atti conservativi.
+(19) La diversità di approccio degli Stati membri riguardo agli atti di conservazione da
+parte degli istituti di tutela del patrimonio culturale ostacola la cooperazione
+transfrontaliera e la condivisione dei mezzi di conservazione da parte di tali istituti nel
+mercato interno e si traduce in un uso inefficiente delle risorse.
+IT 17 IT
+(20) Gli Stati membri, pertanto, dovrebbero essere tenuti a prevedere un'eccezione che
+autorizzi gli istituti di tutela del patrimonio culturale a riprodurre a fini conservativi le
+opere e altro materiale presenti in modo permanente nelle loro raccolte per far fronte,
+ad esempio, all’obsolescenza tecnologica o al degrado dei supporti originari. Tale
+eccezione dovrebbe consentire la realizzazione di copie con lo strumento, il mezzo o la
+tecnologia conservativa adeguata, nel numero richiesto e in qualsiasi momento della
+vita di un’opera o altro materiale e nella misura necessaria a produrne una copia
+esclusivamente a fini di conservazione.
+(21) Ai fini della presente direttiva è opportuno ritenere che un'opera e altro materiale siano
+presenti in modo permanente nella raccolta di un istituto di tutela del patrimonio
+culturale allorché gli esemplari dell'opera o del materiale siano di sua proprietà o
+stabilmente in suo possesso, ad esempio a seguito di un trasferimento di proprietà o di
+accordi di licenza.
+(22) Gli istituti di tutela del patrimonio culturale dovrebbero beneficiare di un quadro
+giuridico chiaro per la digitalizzazione e la diffusione, anche transfrontaliera, di opere
+o altro materiale fuori commercio. Ottenere il consenso preliminare dai singoli titolari
+dei diritti può però risultare molto difficile a causa delle particolari caratteristiche delle
+raccolte di tale tipo di opere. Ciò può essere dovuto, ad esempio, all’età delle opere o
+altro materiale, al loro scarso valore commerciale o al fatto che non siano mai stati
+destinati ad un uso commerciale. È pertanto necessario prevedere misure che
+agevolino la concessione di licenze per i diritti sulle opere fuori commercio presenti
+nelle raccolte di tali istituti e, quindi, consentire la conclusione di accordi con effetti
+transfrontalieri nel mercato interno.
+(23) Nei limiti stabiliti dal quadro giuridico istituito dalla presente direttiva gli Stati
+membri dovrebbero godere di una certa flessibilità nella scelta del tipo specifico di
+meccanismo tramite il quale estendere le licenze per le opere fuori commercio ai diritti
+dei titolari non rappresentati dall’organismo di gestione collettiva, conformemente alle
+rispettive tradizioni, prassi o situazioni giuridiche. Tali meccanismi possono includere
+le licenze collettive estese e le presunzioni di rappresentanza.
+(24) Ai fini dei suddetti meccanismi di concessione delle licenze è importante istituire un
+sistema di gestione collettiva rigoroso ed efficace che comprenda, in particolare,
+norme di buona governance, trasparenza e comunicazione, nonché la distribuzione e il
+pagamento degli importi dovuti ai singoli titolari dei diritti in modo regolare, diligente
+e accurato, come stabilito dalla direttiva 2014/26/UE. Tutti i titolari di diritti
+dovrebbero potersi esimere dall’applicazione di tali meccanismi alle loro opere o altro
+materiale nel quadro di ulteriori misure di salvaguardia appositamente previste. Le
+condizioni connesse a tali meccanismi non dovrebbero pregiudicarne la rilevanza
+pratica per gli istituti di tutela del patrimonio culturale.
+(25) Considerando la varietà delle opere e altro materiale presenti nelle raccolte degli
+istituti di tutela del patrimonio culturale è importante che i meccanismi di concessione
+delle licenze previsti dalla presente direttiva siano disponibili e possano essere
+utilizzati, all'atto pratico, per diversi tipi di opere e altro materiale, tra cui le fotografie,
+le registrazioni sonore e le opere audiovisive. Per tener conto delle specificità delle
+diverse categorie di opere e altro materiale relativamente alle modalità di
+pubblicazione e distribuzione e per favorire la fruibilità dei meccanismi, potrebbe
+esser necessario per gli Stati membri introdurre disposizioni e procedure specifiche
+miranti all’applicazione pratica dei meccanismi di concessione delle licenze. È 
+IT 18 IT
+opportuno che in questo contesto gli Stati membri consultino i titolari dei diritti, gli
+utenti e gli organismi di gestione collettiva.
+(26) Per ragioni di cortesia internazionale, i meccanismi di concessione delle licenze per la
+digitalizzazione e la diffusione di opere fuori commercio di cui alla presente direttiva
+non dovrebbero applicarsi alle opere o altro materiale di prima pubblicazione o, nel
+caso in cui non si tratti di pubblicazione, di prima trasmissione in un paese terzo o, nel
+caso di opere cinematografiche o audiovisive, alle opere il cui produttore abbia sede o
+risieda abitualmente in un paese terzo. Non dovrebbero applicarsi neppure alle opere o
+altro materiale di cittadini di paesi terzi se non al momento della loro prima
+pubblicazione o, nel caso in cui non si tratti di pubblicazione, della loro prima
+trasmissione nel territorio di uno Stato membro o, nel caso di opere cinematografiche
+o audiovisive, alle opere il cui produttore abbia sede o risieda abitualmente in uno
+Stato membro.
+(27) Poiché i progetti di digitalizzazione su larga scala possono comportare notevoli
+investimenti da parte degli istituti di tutela del patrimonio culturale, nessuna licenza
+concessa nell’ambito dei meccanismi previsti dalla presente direttiva dovrebbe loro
+impedire di generare proventi ragionevoli atti a coprire i costi sia della licenza che
+della digitalizzazione e della diffusione delle opere e altro materiale oggetto della
+stessa.
+(28) Dovrebbe essere data adeguata pubblicità alle informazioni riguardanti l’utilizzo in
+corso e futuro di opere e altro materiale fuori commercio fatto dagli istituti di tutela del
+patrimonio culturale sulla base dei meccanismi di concessione delle licenze di cui alla
+presente direttiva e alle disposizioni che consentono a tutti i titolari di diritti di non
+sottoporre a licenza le loro opere o altro materiale. Ciò è particolarmente importante
+quando l'utilizzo avviene oltre frontiera nel mercato interno. È pertanto opportuno
+prevedere la creazione di un portale unico online accessibile al pubblico che permetta
+all’Unione di mettere tali informazioni a disposizione del pubblico per un periodo di
+tempo ragionevole prima che l’utilizzo transfrontaliero abbia luogo. A norma del
+regolamento (UE) n. 386/2012 del Parlamento europeo e del Consiglio33, l’Ufficio
+dell'Unione europea per la proprietà intellettuale svolge taluni compiti e attività,
+finanziati ricorrendo a fondi propri, miranti a facilitare e sostenere le attività delle
+autorità nazionali, del settore privato e delle istituzioni dell’Unione nella lotta alle
+violazioni dei diritti di proprietà intellettuale, compresa la loro prevenzione. È quindi
+opportuno affidare a tale ufficio il compito di creare e gestire il portale europeo che
+renderà disponibili le suddette informazioni.
+(29) I servizi su richiesta sono potenzialmente in grado di svolgere un ruolo decisivo nella
+diffusione delle opere europee in tutta l’Unione. Gli accordi sullo sfruttamento online
+di queste opere possono tuttavia presentare delle difficoltà connesse alla concessione
+delle licenze. Ad esempio possono sorgere problemi se il titolare dei diritti per un dato
+territorio non è interessato allo sfruttamento online dell'opera ovvero in relazione ai
+limiti di sfruttamento.
+(30) Per agevolare la concessione di licenze alle piattaforme di video su richiesta
+relativamente ai diritti su opere audiovisive, la presente direttiva impone agli Stati
+
+33 Regolamento (UE) n. 386/2012 del Parlamento europeo e del Consiglio, del 19 aprile 2012, che
+attribuisce all'Ufficio per l'armonizzazione nel mercato interno (marchi, disegni e modelli) compiti
+inerenti al rispetto dei diritti di proprietà intellettuale, tra cui la convocazione di rappresentanti del
+settore pubblico e privato in un Osservatorio europeo sulle violazioni dei diritti di proprietà intellettuale
+(GU L 129 del 16.5.2012, pag. 1).
+IT 19 IT
+membri di istituire un meccanismo negoziale che permetta alle parti disposte a
+concludere un accordo di avvalersi dell’assistenza di un organo imparziale. Questo
+dovrebbe riunirsi con le parti e contribuire ai negoziati fornendo consulenza
+professionale esterna. In tale contesto gli Stati membri dovrebbero definire le
+condizioni di funzionamento del meccanismo di negoziazione, compresi i tempi e la
+durata dell’assistenza per i negoziati e la ripartizione dei costi, e dovrebbero
+provvedere a che gli oneri amministrativi e finanziari restino proporzionati per
+garantire l’efficienza del forum negoziale.
+(31) Una stampa libera e pluralista è essenziale per garantire un giornalismo di qualità e
+l’accesso dei cittadini all’informazione e dà un contributo fondamentale al dibattito
+pubblico e al corretto funzionamento di una società democratica. Nel passaggio dalla
+stampa al digitale gli editori di giornali incontrano una serie di problemi nel concedere
+licenze di utilizzo online delle loro pubblicazioni e nel recuperare gli investimenti
+effettuati. In assenza del riconoscimento degli editori di giornali quali titolari di diritti,
+la concessione delle licenze e il rispetto dei diritti nell’ambiente digitale sono spesso
+complessi e inefficaci.
+(32) Il contributo organizzativo e finanziario degli editori nel produrre pubblicazioni di
+carattere giornalistico va riconosciuto e ulteriormente incoraggiato per garantire la
+sostenibilità dell’editoria. È quindi necessario prevedere a livello di Unione una tutela
+giuridica armonizzata per gli utilizzi digitali delle pubblicazioni di carattere
+giornalistico. Tale protezione dovrebbe essere garantita in maniera efficace mediante
+l’introduzione nell'ordinamento dell'Unione di diritti connessi a quello d’autore per la
+riproduzione e la messa a disposizione del pubblico di pubblicazioni di carattere
+giornalistico nel quadro di utilizzi digitali.
+(33) Ai fini della presente direttiva è necessario definire il concetto di pubblicazione di
+carattere giornalistico così che esso comprenda esclusivamente pubblicazioni di tipo
+giornalistico ad opera di un prestatore di servizi, aggiornate periodicamente o
+regolarmente in qualunque mezzo di comunicazione, a scopo informativo o di
+intrattenimento. Tra queste pubblicazioni figurerebbero, ad esempio, i quotidiani, le
+riviste settimanali o mensili di interesse generale o specifico e i siti web
+d'informazione. Le pubblicazioni periodiche a fini scientifici o accademici, quali le
+riviste scientifiche, non dovrebbero rientrare nella tutela garantita alle pubblicazioni di
+carattere giornalistico ai sensi della presente direttiva. Tale protezione non si estende
+ai collegamenti ipertestuali, che non costituiscono comunicazione al pubblico.
+(34) I diritti concessi agli editori di giornali ai sensi della presente direttiva dovrebbero
+avere lo stesso ambito di applicazione dei diritti di riproduzione e di messa a
+disposizione del pubblico di cui alla direttiva 2001/29/CE relativamente agli utilizzi
+digitali. Dovrebbero essere soggetti anche alle stesse disposizioni in materia di
+eccezioni e limitazioni applicabili ai diritti stabiliti dalla direttiva 2001/29/CE, tra cui
+l’eccezione per citazioni, per esempio a fini di critica o di rassegna, di cui
+all’articolo 5, paragrafo 3, lettera d), di tale direttiva.
+(35) La protezione accordata agli editori di giornali ai sensi della presente direttiva non
+dovrebbe pregiudicare i diritti degli autori e di altri titolari sulle loro opere e altro
+materiale inclusi in tali pubblicazioni, anche per quanto concerne la misura in cui essi
+possono sfruttare le loro opere o altro materiale in maniera indipendente dalla
+pubblicazione di carattere giornalistico in cui sono inglobati. Pertanto, gli editori di
+giornali non dovrebbero avere la possibilità di invocare la protezione loro concessa
+contro gli autori e gli altri titolari di diritti. Ciò non pregiudica gli accordi contrattuali 
+IT 20 IT
+conclusi tra gli editori di giornali, da un lato, e gli autori e gli altri titolari di diritti,
+dall’altro.
+(36) Gli editori - di giornali, libri o pubblicazioni scientifiche - operano spesso sulla base
+del trasferimento dei diritti dell'autore mediante accordi contrattuali o norme di legge.
+In quest'ottica realizzano un investimento ai fini dello sfruttamento delle opere
+contenute nelle loro pubblicazioni e, in alcuni casi, possono registrare minori ricavi
+laddove tali opere siano utilizzate in virtù di eccezioni o limitazioni, ad esempio per
+copia privata e reprografia. In un certo numero di Stati membri il compenso per gli
+utilizzi nell’ambito di tali eccezioni è ripartito tra gli autori e gli editori. Per tener
+conto di questa situazione e migliorare la certezza giuridica per tutte le parti interessate
+gli Stati membri dovrebbero poter stabilire che, quando un autore trasferisce i suoi
+diritti o li concede in licenza a un editore ovvero contribuisce altrimenti con le sue
+opere a una data pubblicazione ed è previsto un sistema di compenso per il pregiudizio
+causato da un'eccezione o limitazione, l'editore ha la facoltà di rivendicare una quota
+di tale compenso, mentre l’onere che gli compete di dimostrare la fondatezza della sua
+richiesta non dovrebbe essere superiore a quello previsto dal sistema vigente.
+(37) Negli ultimi anni il funzionamento del mercato dei contenuti online si è fatto sempre
+più complesso. I servizi online che danno accesso a contenuti protetti dal diritto
+d'autore caricati dagli utenti senza il coinvolgimento dei titolari dei diritti si sono
+moltiplicati e sono diventati le principali fonti per l'accesso ai contenuti online. Ciò
+incide sulla possibilità dei titolari dei diritti di stabilire se, e a quali condizioni, una
+loro opera e altro materiale siano utilizzati, nonché sulla loro possibilità di ottenere
+un'adeguata remunerazione per detto utilizzo.
+(38) Qualora i prestatori di servizi della società dell’informazione memorizzino e diano
+pubblico accesso a opere o altro materiale protetti dal diritto d’autore caricati dagli
+utenti, andando così oltre la mera fornitura di attrezzature fisiche ed effettuando in tal
+modo un atto di comunicazione al pubblico, essi sono obbligati a concludere accordi di
+licenza con i titolari dei diritti, a meno che non rientrino nell’esenzione di
+responsabilità di cui all’articolo 14 della direttiva 2000/31/CE del Parlamento europeo
+e del Consiglio34
+.
+Per quanto concerne l’articolo 14 è necessario verificare se il prestatore di servizi
+svolge un ruolo attivo, anche ottimizzando la presentazione delle opere o altro
+materiale caricati o promuovendoli, indipendentemente dalla natura del mezzo
+utilizzato a tal fine.
+Per garantire il funzionamento di qualsiasi accordo di licenza, i prestatori di servizi
+della società dell’informazione che memorizzano e danno pubblico accesso ad un
+grande numero di opere o altro materiale protetti dal diritto d'autore caricati dagli
+utenti dovrebbero adottare misure appropriate e proporzionate per garantire la
+protezione di tali opere o altro materiale, ad esempio tramite l'uso di tecnologie
+efficaci. L'obbligo dovrebbe sussistere anche quando i prestatori di servizi della
+società dell’informazione rientrano nell’esenzione di responsabilità di cui
+all’articolo 14 della direttiva 2000/31/CE.
+(39) La collaborazione tra i prestatori di servizi della società dell’informazione che
+memorizzano e danno pubblico accesso a una grande quantità di opere o altro
+
+34 Direttiva 2000/31/CE del Parlamento europeo e del Consiglio, dell'8 giugno 2000, relativa a taluni
+aspetti giuridici dei servizi della società dell'informazione, in particolare il commercio elettronico, nel
+mercato interno (GU L 178 del 17.7.2000, pag.1).
+IT 21 IT
+materiale protetti dal diritto d'autore caricati dagli utenti e i titolari dei diritti è
+essenziale per il funzionamento delle tecnologie, ad esempio quelle che permettono il
+riconoscimento dei contenuti. In tali casi i titolari dei diritti dovrebbero fornire ai
+prestatori di servizi i dati necessari per l'individuazione dei loro contenuti, mentre i
+prestatori di servizi dovrebbero essere trasparenti per quanto concerne le tecnologie
+utilizzate nei confronti dei titolari dei diritti, così che questi possano verificarne
+l'adeguatezza. I servizi, in particolare, dovrebbero fornire ai titolari dei diritti
+informazioni sul tipo di tecnologia utilizzata, sul modo in cui essa è stata applicata e
+sulla sua percentuale di successo ai fini del riconoscimento dei contenuti dei titolari
+dei diritti. Tali tecnologie dovrebbero inoltre consentire ai titolari dei diritti di ottenere
+informazioni dai prestatori di servizi della società dell’informazione sull’utilizzo dei
+loro contenuti coperti da un accordo.
+(40) Alcuni titolari di diritti, quali gli autori e gli artisti (interpreti o esecutori), hanno
+bisogno di informazioni per poter quantificare il valore economico dei loro diritti,
+armonizzati dall'ordinamento dell'Unione. È il caso, in particolare, dei titolari di diritti
+che concedono una licenza o attuano un trasferimento di diritti in cambio di una
+remunerazione. Essendo tendenzialmente in una posizione contrattuale più debole nel
+concedere licenze o trasferire diritti, gli autori e gli artisti (interpreti o esecutori)
+necessitano di informazioni per poter valutare la continuità del valore economico dei
+loro diritti rispetto alla remunerazione percepita all'atto della concessione o del
+trasferimento, ma spesso si imbattono in una mancanza di trasparenza. Condividere
+informazioni adeguate con le controparti contrattuali o con gli aventi causa è quindi
+importante ai fini della trasparenza e dell’equilibrio del sistema che disciplina la loro
+remunerazione.
+(41) Nel dare attuazione agli obblighi di trasparenza si dovrebbe tener conto delle
+specificità dei vari settori di contenuti, nonché dei diritti degli autori e degli artisti
+(interpreti o esecutori) in ciascuno di essi. È opportuno che gli Stati membri consultino
+tutti i portatori di interessi, poiché ciò dovrebbe contribuire alla definizione dei
+requisiti settoriali specifici. Si dovrebbe prendere in considerazione l'eventualità di
+ricorrere alla contrattazione collettiva per raggiungere un accordo sulla trasparenza tra
+i portatori di interessi e prevedere un periodo transitorio che consenta di adeguare le
+prassi informative vigenti agli obblighi di trasparenza. Non è necessario applicare gli
+obblighi di trasparenza agli accordi conclusi con gli organismi di gestione collettiva in
+quanto questi vi sono già soggetti in virtù della direttiva 2014/26/UE.
+(42) Alcuni contratti per lo sfruttamento dei diritti armonizzati a livello dell’Unione sono di
+lunga durata, il che offre agli autori e agli artisti (interpreti o esecutori) poche
+possibilità di rinegoziarli con le controparti contrattuali o con gli aventi causa.
+Pertanto, fatta salva la legislazione applicabile ai contratti negli Stati membri,
+andrebbe previsto un apposito meccanismo di adeguamento nei casi in cui la
+remunerazione inizialmente concordata nell'ambito di una licenza o di un
+trasferimento di diritti risulti sproporzionatamente bassa rispetto ai proventi e ai
+benefici considerevoli generati dallo sfruttamento dell'opera o dalla fissazione
+dell'esecuzione, anche alla luce della trasparenza garantita dalla presente direttiva. Nel
+valutare la situazione si dovrebbe tener conto delle circostanze specifiche di ciascun
+caso, nonché delle specificità e delle prassi dei diversi settori di contenuti. Qualora le
+parti non concordino sull'adeguamento della remunerazione, l’autore o l’artista
+(interprete o esecutore) dovrebbe avere il diritto di adire il giudice o altra autorità
+competente.
+IT 22 IT
+(43) Gli autori e gli artisti (interpreti o esecutori) sono spesso restii a far valere i propri
+diritti nei confronti della controparte contrattuale dinanzi a un organo giurisdizionale.
+Gli Stati membri dovrebbero quindi prevedere una procedura di risoluzione
+extragiudiziale delle controversie per le rivendicazioni relative agli obblighi di
+trasparenza e al meccanismo di adeguamento contrattuale.
+(44) Poiché gli obiettivi della presente direttiva, segnatamente l'aggiornamento di alcuni
+aspetti del quadro giuridico dell'Unione relativo al diritto d’autore per tener conto
+degli sviluppi tecnologici e dei nuovi canali di distribuzione dei contenuti protetti nel
+mercato interno, non possono essere conseguiti in misura sufficiente dagli Stati
+membri ma, a motivo della portata, degli effetti e della dimensione transfrontaliera,
+possono essere meglio conseguiti a livello di Unione, quest'ultima può intervenire in
+base al principio di sussidiarietà sancito dall'articolo 5 del trattato sull'Unione europea.
+La presente direttiva si limita a quanto è necessario per conseguire tali obiettivi in
+ottemperanza al principio di proporzionalità enunciato nello stesso articolo.
+(45) La presente direttiva rispetta i diritti fondamentali e osserva i principi riconosciuti
+segnatamente dalla Carta dei diritti fondamentali dell'Unione europea. Di conseguenza
+essa andrebbe interpretata e applicata conformemente a tali diritti e principi.
+(46) Qualsiasi trattamento dei dati personali a norma della presente direttiva dovrebbe
+rispettare i diritti fondamentali, compresi il diritto al rispetto della vita privata e della
+vita familiare e il diritto alla protezione dei dati di carattere personale di cui agli
+articoli 7 e 8 della Carta dei diritti fondamentali dell'Unione europea e deve essere
+conforme alla direttiva 95/46/CE del Parlamento europeo e del Consiglio35 e alla
+direttiva 2002/58/CE del Parlamento europeo e del Consiglio36
+.
+(47) Conformemente alla dichiarazione politica comune del 28 settembre 2011 degli Stati
+membri e della Commissione sui documenti esplicativi37, gli Stati membri si sono
+impegnati ad accompagnare, in casi giustificati, la notifica delle loro misure di
+recepimento con uno o più documenti che chiariscano il rapporto tra gli elementi
+costitutivi di una direttiva e le parti corrispondenti degli strumenti nazionali di
+recepimento. Per quanto riguarda la presente direttiva, il legislatore ritiene che la
+trasmissione di tali documenti sia giustificata,
+HANNO ADOTTATO LA PRESENTE DIRETTIVA:
+
+35 Direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela
+delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali
+dati (GU L 281 del 23.11.1995, pag. 31). Tale direttiva è abrogata con effetto dal 25 maggio 2018 ed è
+sostituita dal regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016,
+relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla
+libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione
+dei dati) (GU L 119 del 4.5.2016, pag. 1).
+36 Direttiva 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002, relativa al
+trattamento dei dati personali e alla tutela della vita privata nel settore delle comunicazioni elettroniche
+(direttiva relativa alla vita privata e alle comunicazioni elettroniche) (GU L 201 del 31.7.2002, pag. 37),
+denominata, come modificata dalle direttive 2006/24/CE e 2009/136/CE, "direttiva e-privacy".
+37 GU C 369 del 17.12.2011, pag. 14.
+IT 23 IT
+TITOLO I
+DISPOSIZIONI GENERALI
+Articolo 1
+Oggetto e ambito di applicazione
+1. La presente direttiva stabilisce norme volte ad armonizzare ulteriormente il quadro
+giuridico dell’Unione applicabile al diritto d’autore e ai diritti connessi nell’ambito
+del mercato interno, tenendo conto in particolare degli utilizzi digitali e
+transfrontalieri dei contenuti protetti. Stabilisce inoltre norme riguardanti le eccezioni
+e le limitazioni e l'agevolazione della concessione delle licenze, nonché norme
+miranti a garantire il buon funzionamento del mercato per lo sfruttamento delle opere
+e altro materiale.
+2. Salvo i casi di cui all'articolo 6, la presente direttiva non modifica e non pregiudica le
+norme stabilite dalle direttive attualmente in vigore nel settore, in particolare le
+direttive 96/9/CE, 2001/29/CE, 2006/115/CE, 2009/24/CE, 2012/28/UE
+e 2014/26/UE.
+Articolo 2
+Definizioni
+Ai fini della presente direttiva si intende per:
+(1) "organismo di ricerca": un'università, un istituto di ricerca o qualsiasi altra
+organizzazione il cui obiettivo primario sia condurre attività di ricerca scientifica
+oppure condurre attività di ricerca scientifica e fornire servizi didattici:
+(a) senza scopo di lucro o reinvestendo tutti gli utili nella propria attività di ricerca
+scientifica, o
+(b) con una finalità di interesse pubblico riconosciuta da uno Stato membro,
+in modo che non sia possibile l'accesso su base preferenziale ai risultati generati dalla
+ricerca scientifica da parte di un'impresa che esercita un'influenza determinante su
+tale organismo;
+(2) "estrazione di testo e di dati" (text and data mining): qualsiasi tecnica di analisi
+automatizzata dei testi e dei dati in formato digitale avente lo scopo di generare
+informazioni quali modelli, tendenze e correlazioni;
+(3) "istituto di tutela del patrimonio culturale": una biblioteca accessibile al pubblico, un
+museo, un archivio o un istituto per il patrimonio cinematografico o sonoro;
+(4) "pubblicazione di carattere giornalistico": la fissazione di un insieme di opere
+letterarie di carattere giornalistico, che può includere anche altre opere o altro
+materiale e che costituisce un singolo elemento all’interno di una pubblicazione
+periodica o regolarmente aggiornata recante un unico titolo, quale un quotidiano o
+una rivista di interesse generale o specifico, avente lo scopo di fornire informazioni
+su notizie o altri argomenti e pubblicata su qualsiasi mezzo di comunicazione ad
+iniziativa e sotto la responsabilità editoriale e il controllo di un prestatore di servizi.
+IT 24 IT
+TITOLO II
+MISURE MIRANTI AD ADEGUARE LE ECCEZIONI E LE
+LIMITAZIONI ALL'AMBIENTE DIGITALE E AL CONTESTO
+TRANSFRONTALIERO
+Articolo 3
+Estrazione di testo e di dati
+1. Gli Stati membri dispongono un'eccezione ai diritti di cui all’articolo 2 della direttiva
+2001/29/CE, all'articolo 5, lettera a) e all'articolo 7, paragrafo 1, della direttiva
+96/9/CE e all’articolo 11, paragrafo 1, della presente direttiva per le riproduzioni e le
+estrazioni effettuate da organismi di ricerca ai fini dell'estrazione di testo e di dati da
+opere o altro materiale cui essi hanno legalmente accesso per scopi di ricerca
+scientifica.
+2. Qualsiasi disposizione contrattuale in contrasto con l’eccezione di cui al paragrafo 1
+è inapplicabile.
+3. I titolari dei diritti sono autorizzati ad applicare misure atte a garantire la sicurezza e
+l'integrità delle reti e delle banche dati in cui sono ospitate le opere o altro materiale.
+Tali misure non vanno al di là di quanto necessario per il raggiungimento di detto
+obiettivo.
+4. Gli Stati membri incoraggiano i titolari dei diritti e gli organismi di ricerca a definire
+concordemente le migliori prassi per l’applicazione delle misure di cui al paragrafo
+3.
+Articolo 4
+Utilizzo di opere e altro materiale in attività didattiche digitali e transfrontaliere
+1. Gli Stati membri dispongono un'eccezione o una limitazione ai diritti di cui agli
+articoli 2 e 3 della direttiva 2001/29/CE, all'articolo 5, lettera a) e all'articolo 7,
+paragrafo 1, della direttiva 96/9/CE, all’articolo 4, paragrafo 1, della direttiva
+2009/24/CE e all’articolo 11, paragrafo 1, della presente direttiva per consentire
+l’utilizzo digitale di opere e altro materiale esclusivamente per finalità illustrativa ad
+uso didattico, nei limiti di quanto giustificato dallo scopo non commerciale
+perseguito, purché l'utilizzo:
+(a) avvenga nei locali di un istituto di istruzione o tramite una rete elettronica
+sicura accessibile solo agli alunni o studenti e al personale docente di tale
+istituto;
+(b) sia accompagnato dall’indicazione della fonte, compreso il nome dell’autore,
+tranne quando ciò risulti impossibile.
+2. Gli Stati membri possono prevedere che l'eccezione adottata a norma del paragrafo 1
+non si applichi in generale o per determinati tipi di opere o altro materiale qualora
+siano facilmente reperibili sul mercato adeguate licenze che autorizzino gli atti di cui
+al paragrafo 1.
+Gli Stati membri che si avvalgono della disposizione di cui al primo comma adottano
+le misure necessarie a garantire un'adeguata disponibilità e visibilità delle licenze che
+autorizzano gli atti di cui al paragrafo 1 per gli istituti di istruzione.
+3. L'utilizzo di opere e altro materiale per la sola finalità illustrativa ad uso didattico
+tramite reti elettroniche sicure effettuato in conformità delle disposizioni di diritto 
+IT 25 IT
+nazionale adottate a norma del presente articolo è considerato avvenuto
+esclusivamente nello Stato membro in cui ha sede l'istituto di istruzione.
+4. Gli Stati membri possono prevedere un equo compenso per il pregiudizio subito dai
+titolari dei diritti a causa dell'utilizzo delle loro opere o altro materiale a norma del
+paragrafo 1.
+Articolo 5
+Conservazione del patrimonio culturale
+Gli Stati membri dispongono un'eccezione ai diritti di cui all’articolo 2 della direttiva
+2001/29/CE, all'articolo 5, lettera a) e all'articolo 7, paragrafo 1, della direttiva 96/9/CE,
+all’articolo 4, paragrafo 1, lettera a), della direttiva 2009/24/CE e all’articolo 11, paragrafo 1,
+della presente direttiva per consentire agli istituti di tutela del patrimonio culturale di
+realizzare copie di qualunque opera o altro materiale presente permanentemente nelle loro
+raccolte, in qualsiasi formato o su qualsiasi supporto, al solo fine della conservazione di detta
+opera o altro materiale e nella misura necessaria a tale conservazione.
+Articolo 6
+Disposizioni comuni
+L'articolo 5, paragrafo 5, e l’articolo 6, paragrafo 4, primo, terzo e quinto comma, della
+direttiva 2001/29/CE si applicano alle eccezioni e alla limitazione di cui al presente titolo.
+IT 26 IT
+TITOLO III
+MISURE VOLTE A MIGLIORARE LE PROCEDURE DI
+CONCESSIONE DELLE LICENZE E A GARANTIRE UN PIÙ AMPIO
+ACCESSO AI CONTENUTI
+CAPO 1
+Opere fuori commercio
+Articolo 7
+Utilizzo di opere fuori commercio da parte di istituti di tutela del patrimonio culturale
+1. Gli Stati membri dispongono che, qualora un organismo di gestione collettiva
+concluda, per conto dei suoi membri, un contratto di licenza non esclusiva a fini non
+commerciali con un istituto di tutela del patrimonio culturale per la digitalizzazione,
+la distribuzione, la comunicazione al pubblico o la messa a disposizione di opere o
+altro materiale fuori commercio presenti in modo permanente nella raccolta di detto
+istituto, tale licenza non esclusiva possa essere estesa o ritenuta applicabile ai titolari
+di diritti della stessa categoria di quelli coperti dalla licenza che non siano
+rappresentati dall’organismo di gestione collettiva, a condizione che:
+(a) l’organismo di gestione collettiva, sulla base dei mandati conferiti dai titolari di
+diritti, sia ampiamente rappresentativo dei titolari di diritti nella categoria di
+opere o altro materiale e nella tipologia di diritti oggetto della licenza;
+(b) sia garantita parità di trattamento a tutti i titolari di diritti per quanto concerne
+le condizioni della licenza;
+(c) tutti i titolari di diritti possano in qualunque momento opporsi al fatto che le
+loro opere o altro materiale siano considerate fuori commercio ed escludere
+l’applicazione della licenza a tali opere o materiale.
+2. Un'opera o altro materiale è da considerarsi fuori commercio quando l’intera opera o
+altro materiale, in tutte le sue versioni, traduzioni e forme, non è accessibile al
+pubblico attraverso i canali commerciali tradizionali e, ragionevolmente, non ci si
+può aspettare che lo diventi.
+In consultazione con i titolari di diritti, gli organismi di gestione collettiva e gli
+istituti di tutela del patrimonio culturale, gli Stati membri provvedono a che i
+requisiti applicati per determinare se un'opera e altro materiale possono essere
+concessi in licenza in conformità del paragrafo 1 non vadano al di là di quanto
+necessario e ragionevole e non precludano la possibilità di ritenere un'intera raccolta
+fuori commercio allorché è lecito presumere che lo siano tutte le opere o altro
+materiale in essa contenuti.
+3. Gli Stati membri dispongono che si attuino misure di pubblicità adeguate per quanto
+riguarda:
+(a) la definizione delle opere o altro materiale come "fuori commercio";
+(b) la licenza e, in particolare, la sua applicazione ai titolari di diritti non
+rappresentati;
+(c) la facoltà dei titolari di diritti di opporsi, come disposto al paragrafo 1, lettera
+c),
+IT 27 IT
+anche in un lasso di tempo ragionevole prima che l’opera o altro materiale siano
+digitalizzati, distribuiti, comunicati al pubblico o messi a disposizione.
+4. Gli Stati membri provvedono a che le licenze di cui al paragrafo 1 siano richieste da
+un organismo di gestione collettiva rappresentativo per lo Stato membro in cui:
+(a) le opere o i fonogrammi sono stati pubblicati per la prima volta o, nel caso in
+cui non si tratti di pubblicazione, sono stati trasmessi per la prima volta, fatta
+eccezione per le opere cinematografiche e audiovisive;
+(b) in caso di opere cinematografiche e audiovisive, i produttori hanno sede o
+residenza abituale; ovvero
+(c) è stabilito l'istituto di tutela del patrimonio culturale, qualora, dopo ragionevoli
+sforzi, non sia possibile indicare uno Stato membro o un paese terzo
+conformemente alle lettere a) e b).
+5. I paragrafi 1, 2 e 3 non si applicano a opere o altro materiale di cittadini di paesi
+terzi, salvo nel caso in cui si applica il paragrafo 4, lettere a) e b).
+Articolo 8
+Utilizzi transfrontalieri
+1. Le opere o altro materiale oggetto di una licenza concessa a norma dell’articolo 7
+possono essere utilizzati dall’istituto di tutela del patrimonio culturale
+conformemente alle condizioni previste dalla licenza in tutti gli Stati membri.
+2. Gli Stati membri provvedono a che le informazioni che consentono di identificare le
+opere o altro materiale oggetto di una licenza concessa a norma dell’articolo 7 e le
+informazioni circa la facoltà dei titolari di diritti di esercitare l'opposizione prevista
+dall’articolo 7, paragrafo 1, lettera c), siano rese accessibili al pubblico in un portale
+unico online per un periodo di almeno sei mesi prima che le opere o altro materiale
+siano digitalizzati, distribuiti, comunicati al pubblico o messi a disposizione in Stati
+membri diversi da quello in cui è concessa la licenza, e per l’intera durata di
+quest'ultima.
+3. Il portale di cui al paragrafo 2 è allestito e gestito dall’Ufficio dell’Unione europea
+per la proprietà intellettuale conformemente al regolamento (UE) n. 386/2012.
+Articolo 9
+Dialogo fra i portatori di interessi
+Gli Stati membri assicurano un regolare dialogo tra gli organismi rappresentativi degli utenti e
+dei titolari di diritti e qualunque altra organizzazione pertinente dei portatori di interessi, al
+fine di promuovere, a livello di singoli settori, la pertinenza e l’applicabilità dei meccanismi
+di concessione delle licenze di cui all’articolo 7, paragrafo 1, garantire l’efficacia delle misure
+di salvaguardia per i titolari di diritti di cui al presente capo, in particolare per quanto riguarda
+le misure sulla pubblicità, e contribuire all'occorrenza alla definizione dei requisiti di cui
+all’articolo 7, paragrafo 2, secondo comma.
+IT 28 IT
+CAPO 2
+Accesso e disponibilità di opere audiovisive su piattaforme di video su
+richiesta
+Articolo 10
+Meccanismo di negoziazione
+Gli Stati membri provvedono a che le parti che intendono concludere un accordo per poter
+mettere a disposizione opere audiovisive su piattaforme di video su richiesta possano
+avvalersi dell’assistenza di un organismo imparziale e con esperienza pertinente in caso di
+difficoltà riguardanti la concessione in licenza dei relativi diritti. Tale organismo presta
+assistenza nella negoziazione e sostegno nella conclusione degli accordi.
+Entro il [data di cui all’articolo 21, paragrafo 1] gli Stati membri comunicano alla
+Commissione il nome dell’organismo di cui al paragrafo 1.
+IT 29 IT
+TITOLO IV
+MISURE MIRANTI A GARANTIRE IL BUON FUNZIONAMENTO DEL
+MERCATO PER IL DIRITTO D'AUTORE
+CAPO 1
+Diritti sulle pubblicazioni
+Articolo 11
+Protezione delle pubblicazioni di carattere giornalistico in caso di utilizzo digitale
+1. Gli Stati membri riconoscono agli editori di giornali i diritti di cui all'articolo 2 e
+all’articolo 3, paragrafo 2, della direttiva 2001/29/CE per l'utilizzo digitale delle loro
+pubblicazioni di carattere giornalistico.
+2. I diritti di cui al paragrafo 1 non modificano e non pregiudicano in alcun modo quelli
+previsti dal diritto dell’Unione per gli autori e gli altri titolari di diritti relativamente
+ad opere e altro materiale inclusi in una pubblicazione di carattere giornalistico. Essi
+non possono essere invocati contro tali autori e altri titolari di diritti e, in particolare,
+non possono privarli del diritto di sfruttare le loro opere e altro materiale in modo
+indipendente dalla pubblicazione di carattere giornalistico in cui sono inclusi.
+3. Gli articoli da 5 a 8 della direttiva 2001/29/CE e la direttiva 2012/28/UE si
+applicano, mutatis mutandis, ai diritti di cui al paragrafo 1.
+4. I diritti di cui al paragrafo 1 scadono 20 anni dopo l'uscita della pubblicazione di
+carattere giornalistico. Tale termine è calcolato a decorrere dal 1° gennaio dell’anno
+successivo alla data di pubblicazione.
+Articolo 12
+Richieste di equo compenso
+Gli Stati membri possono prevedere che, nel caso in cui un autore abbia trasferito o concesso
+un diritto mediante licenza a un editore, tale trasferimento o licenza costituisca una base
+giuridica sufficiente affinché l’editore possa reclamare una quota del compenso previsto per
+gli utilizzi dell'opera in virtù di un'eccezione o di una limitazione al diritto trasferito o
+concesso mediante licenza.
+CAPO 2
+Utilizzi specifici di contenuti protetti da parte di servizi online
+Articolo 13
+Utilizzo di contenuti protetti da parte di prestatori di servizi della società dell’informazione
+che memorizzano e danno accesso a grandi quantità di opere e altro materiale caricati dagli
+utenti
+1. I prestatori di servizi della società dell’informazione che memorizzano e danno
+pubblico accesso a grandi quantità di opere o altro materiale caricati dagli utenti
+adottano, in collaborazione con i titolari dei diritti, misure miranti a garantire il
+funzionamento degli accordi con essi conclusi per l’uso delle loro opere o altro
+materiale ovvero volte ad impedire che talune opere o altro materiale identificati dai
+titolari dei diritti mediante la collaborazione con gli stessi prestatori siano messi a
+disposizione sui loro servizi. Tali misure, quali l’uso di tecnologie efficaci per il
+riconoscimento dei contenuti, sono adeguate e proporzionate. I prestatori di servizi 
+IT 30 IT
+forniscono ai titolari dei diritti informazioni adeguate sul funzionamento e
+l’attivazione delle misure e, se del caso, riferiscono adeguatamente sul
+riconoscimento e l’utilizzo delle opere e altro materiale.
+2. Gli Stati membri provvedono a che i prestatori di servizi di cui al paragrafo 1
+istituiscano meccanismi di reclamo e ricorso da mettere a disposizione degli utenti in
+caso di controversie in merito all’applicazione delle misure di cui al paragrafo 1.
+3. Gli Stati membri facilitano, se del caso, la collaborazione tra i prestatori di servizi
+della società dell’informazione e i titolari dei diritti tramite dialoghi fra i portatori di
+interessi, al fine di definire le migliori prassi, ad esempio l'uso di tecnologie adeguate
+e proporzionate per il riconoscimento dei contenuti, tenendo conto tra l’altro della
+natura dei servizi, della disponibilità delle tecnologie e della loro efficacia alla luce
+degli sviluppi tecnologici.
+CAPO 3
+Equa remunerazione di autori e artisti (interpreti o esecutori) a livello
+contrattuale
+Articolo 14
+Obbligo di trasparenza
+1. Gli Stati membri provvedono a che gli autori e gli artisti (interpreti o esecutori)
+ricevano, periodicamente e tenendo conto delle specificità di ciascun settore,
+informazioni tempestive, adeguate e sufficienti sullo sfruttamento delle loro opere ed
+esecuzioni da parte di coloro ai quali hanno concesso in licenza o trasferito i diritti,
+in particolare per quanto riguarda le modalità di sfruttamento, i proventi generati e la
+remunerazione dovuta.
+2. L’obbligo di cui al paragrafo 1 è proporzionato ed effettivo e garantisce un livello
+adeguato di trasparenza in ogni settore. Tuttavia, nel caso in cui l’onere
+amministrativo da esso derivante fosse sproporzionato rispetto ai proventi generati
+dallo sfruttamento dell’opera o esecuzione, gli Stati membri possono adeguare
+l’obbligo di cui al paragrafo 1, a condizione che esso continui a sussistere e
+garantisca un livello di trasparenza adeguato.
+3. Gli Stati membri possono decidere che l’obbligo di cui al paragrafo 1 non sussiste
+quando il contributo dell’autore o dell’artista (interprete o esecutore) non è
+significativo rispetto al complesso dell'opera o esecuzione.
+4. Il paragrafo 1 non si applica alle entità soggette agli obblighi in materia di
+trasparenza stabiliti dalla direttiva 2014/26/UE.
+Articolo 15
+Meccanismo di adeguamento contrattuale
+Gli Stati membri garantiscono che gli autori e gli artisti (interpreti o esecutori) abbiano il
+diritto di chiedere una remunerazione ulteriore adeguata alla parte con cui hanno stipulato un
+contratto per lo sfruttamento dei diritti se la remunerazione inizialmente concordata risulta
+sproporzionatamente bassa rispetto ai proventi e ai benefici originati in un secondo tempo
+dallo sfruttamento delle loro opere o esecuzioni.
+IT 31 IT
+Articolo 16
+Meccanismo di risoluzione delle controversie
+Gli Stati membri dispongono che le controversie relative all’obbligo di trasparenza ai sensi
+dell’articolo 14 e al meccanismo di adeguamento contrattuale di cui all’articolo 15 possano
+essere oggetto di un'apposita procedura di risoluzione extragiudiziale, su base volontaria.
+IT 32 IT
+TITOLO V
+DISPOSIZIONI FINALI
+Articolo 17
+Modifiche di altre direttive
+1. La direttiva 96/9/CE è così modificata:
+(a) all'articolo 6, paragrafo 2, la lettera b) è sostituita dalla seguente:
+"b) allorché l’impiego ha esclusivamente finalità illustrativa per uso didattico o
+di ricerca scientifica, sempreché si indichi la fonte, nei limiti di quanto
+giustificato dallo scopo non commerciale perseguito, fatte salve le eccezioni e
+la limitazione previste dalla direttiva [presente direttiva];";
+(b) all'articolo 9, la lettera b) è sostituita dalla seguente:
+"b) qualora si tratti di un'estrazione per finalità illustrativa per uso didattico o di
+ricerca scientifica, sempreché si indichi la fonte, nei limiti di quanto
+giustificato dallo scopo non commerciale perseguito, fatte salve le eccezioni e
+la limitazione previste direttiva [presente direttiva];".
+2. La direttiva 2001/29/CE è così modificata:
+(a) all'articolo 5, paragrafo 2, la lettera c) è sostituita dalla seguente:
+"c) gli atti di riproduzione specifici effettuati da biblioteche accessibili al
+pubblico, istituti di istruzione, musei o archivi che non tendono ad alcun
+vantaggio economico o commerciale, diretto o indiretto, fatte salve le eccezioni
+e la limitazione previste dalla direttiva [presente direttiva];";
+(b) all’articolo 5, paragrafo 3, la lettera a) è sostituita dalla seguente:
+"b) allorché l'utilizzo ha esclusivamente finalità illustrativa per uso didattico o
+di ricerca scientifica, sempreché, salvo in caso di impossibilità, si indichi la
+fonte, compreso il nome dell'autore, nei limiti di quanto giustificato dallo scopo
+non commerciale perseguito, fatte salve le eccezioni e la limitazione previste
+dalla direttiva [presente direttiva];";
+(c) all’articolo 12, paragrafo 4, sono aggiunte le lettere seguenti:
+"e) esaminare l’impatto del recepimento della direttiva [presente direttiva] sul
+funzionamento del mercato interno e segnalare le eventuali difficoltà inerenti a
+tale recepimento;
+f) facilitare lo scambio di informazioni sui pertinenti sviluppi della legislazione
+e della giurisprudenza, nonché sull’applicazione pratica delle misure adottate
+dagli Stati membri per attuare la direttiva [presente direttiva];
+g) discutere di qualunque altro problema conseguente all’applicazione della
+direttiva [presente direttiva].".
+Articolo 18
+Applicazione nel tempo
+1. La presente direttiva si applica a tutte le opere e altro materiale protetti dalla
+legislazione degli Stati membri nel settore del diritto d'autore al [data citata
+all'articolo 21, paragrafo 1] o in data successiva.
+IT 33 IT
+2. Le disposizioni di cui all’articolo 11 si applicano anche alle pubblicazioni di
+carattere giornalistico antecedenti la data del [data citata all'articolo 21, paragrafo 1].
+3. La presente direttiva si applica fatti salvi gli atti conclusi e i diritti acquisiti prima del
+[data citata all'articolo 21, paragrafo 1].
+Articolo 19
+Disposizione transitoria
+Gli accordi di licenza o di trasferimento dei diritti di autori ed artisti (interpreti o esecutori)
+sono soggetti all'obbligo di trasparenza di cui all’articolo 14 a decorrere dal [un anno dopo la
+data di cui all’articolo 21, paragrafo 1].
+Articolo 20
+Protezione dei dati personali
+Il trattamento dei dati personali nel quadro della presente direttiva è effettuato in conformità
+delle direttive 95/46/CE e 2002/58/CE.
+Articolo 21
+Recepimento
+1. Gli Stati membri mettono in vigore le disposizioni legislative, regolamentari e
+amministrative necessarie per conformarsi alla presente direttiva entro il [12 mesi
+dall'entrata in vigore]. Essi ne informano immediatamente la Commissione.
+Le disposizioni adottate dagli Stati membri contengono un riferimento alla presente
+direttiva o sono corredate di tale riferimento all'atto della pubblicazione ufficiale. Le
+modalità del riferimento sono stabilite dagli Stati membri.
+2. Gli Stati membri comunicano alla Commissione il testo delle disposizioni principali
+di diritto interno che adottano nel settore disciplinato dalla presente direttiva.
+Articolo 22
+Riesame
+1. Non prima del [cinque anni dopo la data di cui all’articolo 21, paragrafo 1] la
+Commissione procede a un riesame della presente direttiva e trasmette al Parlamento
+europeo, al Consiglio e al Comitato economico e sociale europeo una relazione sulle
+sue principali conclusioni.
+2. Gli Stati membri forniscono alla Commissione le informazioni necessarie per
+elaborare la relazione di cui al paragrafo 1.
+Articolo 23
+Entrata in vigore
+La presente direttiva entra in vigore il ventesimo giorno successivo alla pubblicazione nella
+Gazzetta ufficiale dell'Unione europea.
+Articolo 24
+Destinatari
+Gli Stati membri sono destinatari della presente direttiva.
+Fatto a Bruxelles, il
+Per il Parlamento europeo Per il Consiglio
+Il presidente Il presidente

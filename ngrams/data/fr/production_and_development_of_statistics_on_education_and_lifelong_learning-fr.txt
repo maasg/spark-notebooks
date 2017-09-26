@@ -1,0 +1,464 @@
+RÈGLEMENT (CE) No 452/2008 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+du 23 avril 2008
+relatif à la production et au développement de statistiques sur l’éducation et la formation tout au long
+de la vie
+(Texte présentant de l’intérêt pour l’EEE)
+LE PARLEMENT EUROPÉEN ET LE CONSEIL DE L’UNION EUROPÉENNE,
+vu le traité instituant la Communauté européenne, et notamment
+son article 285, paragraphe 1,
+vu la proposition de la Commission,
+après consultation du Comité économique et social européen,
+statuant conformément à la procédure visée à l’article 251 du
+traité (1),
+considérant ce qui suit:
+(1) La résolution du Conseil du 5 décembre 1994 sur la pro-
+motion des statistiques enmatière d’éducation dans l’Union
+européenne (2) invitait la Commission à faire progresser
+rapidement, en coopérant étroitement avec les États mem-
+bres, le développement des statistiques relatives à l’éduca-
+tion et à la formation.
+(2) Le Conseil européen tenu à Bruxelles les 22 et 23 mars
+2005 est convenu de relancer la stratégie de Lisbonne. Il a
+conclu que l’Europe doit renouveler les bases de sa com-
+pétitivité, augmenter son potentiel de croissance ainsi que
+sa productivité et renforcer la cohésion sociale, en misant
+principalement sur la connaissance, l’innovation et la valo-
+risation du capital humain. À cet égard, la capacité d’inser-
+tion professionnelle, la flexibilité et la mobilité des citoyens
+sont vitales pour l’Europe.
+(3) Pour atteindre ces objectifs, les systèmes européens d’édu-
+cation et de formation doivent s’adapter aux exigences de
+la société de la connaissance, ainsi qu’aux besoins de relè-
+vement du niveau d’éducation et d’amélioration de la qua-
+lité de l’emploi. Les statistiques relatives à l’éducation, à la
+formation et à la formation tout au long de la vie sont de
+la plus haute importance pour asseoir les prises de décision
+politiques.
+(4) La formation tout au long de la vie est essentielle pour dis-
+poser d’une main-d’œuvre compétente, qualifiée et capa-
+ble de s’adapter. Dans les conclusions de la présidence du
+Conseil européen du printemps 2005, il a été souligné que
+le «capital humain est l’atout le plus important pour
+l’Europe». Approuvées par le Conseil dans sa décision
+2005/600/CE (3), les lignes directrices intégrées pour la
+croissance et l’emploi, qui englobent les lignes directrices
+pour les politiques de l’emploi des États membres, ont pour
+but de mieux contribuer à la stratégie de Lisbonne et d’éla-
+borer des stratégies générales de formation tout au long de
+la vie.
+(5) L’adoption, en février 2001, du rapport du Conseil intitulé
+«Objectifs des systèmes d’éducation et de formation» et, en
+février 2002, du programme de travail sur le suivi de ce
+rapport pour la période 2001-2011 constitue une étape
+importante pour réaliser les engagements de moderniser et
+d’améliorer la qualité des systèmes d’éducation et de for-
+mation des États membres. Les indicateurs et les niveaux de
+référence des performances moyennes européennes («cri-
+tères de référence») figurent parmi les instruments de la
+méthode ouverte de coordination qui jouent un rôle
+important dans le cadre du programme de travail «Éduca-
+tion et formation 2010». En mai 2003, les ministres de
+l’éducation ont franchi une étape décisive par l’adoption de
+cinq critères de référence européens à réaliser à l’horizon
+2010, tout en soulignant que ces critères ne définissent
+pas d’objectifs nationaux, ni n’imposent de décisions
+qu’auraient à prendre les gouvernements nationaux.
+(6) Le 24 mai 2005, le Conseil a adopté des conclusions
+concernant les nouveaux indicateurs en matière d’éduca-
+tion et de formation (4). Dans ces conclusions, il a invité la
+Commission à lui présenter des stratégies et des proposi-
+tions pour le développement de nouveaux indicateurs dans
+neuf domaines spécifiques de l’éducation et de la formation
+et il a également souligné que le développement des nou-
+veaux indicateurs devrait s’effectuer dans le plein respect de
+la compétence des États membres pour ce qui est de l’orga-
+nisation de leurs systèmes éducatifs et ne devrait pas impo-
+ser de charges administratives ou financières indues pour
+l’organisation et les institutions concernées, ni se traduire
+nécessairement par une multiplication des indicateurs uti-
+lisés pour le suivi des progrès accomplis.
+(7) En novembre 2004, le Conseil a également adopté des
+conclusions concernant la coopération européenne en
+matière d’enseignement et de formation professionnels et
+est convenu qu’il convient d’accorder la priorité au niveau
+européen «à l’amélioration de la portée, de la précision et
+de la fiabilité des statistiques concernant (l’enseignement et
+la formation professionnels), afin de permettre une évalua-
+tion des progrès accomplis».
+(1) Avis du Parlement européen du 25 septembre 2007 (non encore paru
+au Journal officiel) et décision du Conseil du 14 février 2008.
+(2) JO C 374 du 30.12.1994, p. 4.
+(3) JO L 205 du 6.8.2005, p. 21.
+(4) JO C 141 du 10.6.2005, p. 7.
+4.6.2008 FR Journal officiel de l’Union européenne L 145/227
+(8) L’existence d’informations statistiques comparables au
+niveau communautaire est essentielle pour l’élaboration de
+stratégies en matière d’éducation et de formation tout au
+long de la vie et pour le suivi des progrès réalisés dans le
+cadre de leur mise en œuvre. Il convient que les statistiques
+soient élaborées sur la base d’un ensemble de concepts
+cohérents et de données comparables en vue de la création
+d’un système européen intégré d’information statistique en
+matière d’éducation, de formation et de formation tout au
+long de la vie.
+(9) Pour l’application du présent règlement, il convient de tenir
+compte de la notion de personnes défavorisées sur le mar-
+ché du travail à laquelle il est fait référence dans les lignes
+directrices pour les politiques de l’emploi des États
+membres.
+(10) La Commission (Eurostat) collecte des données sur la for-
+mation professionnelle en entreprise conformément au
+règlement (CE) no 1552/2005 du Parlement européen et
+du Conseil du 7 septembre 2005 relatif aux statistiques sur
+la formation professionnelle en entreprise (1). Toutefois, un
+cadre juridique plus large est nécessaire pour garantir la
+production et le développement durables de statistiques sur
+l’éducation et la formation tout au long de la vie, couvrant
+au moins l’ensemble des activités existantes et prévues dans
+ce domaine. La Commission (Eurostat) collecte déjà des
+données annuelles sur l’éducation auprès des États mem-
+bres qui coopèrent volontairement, dans le cadre d’une
+action commune avec l’Institut de statistique de l’Unesco
+(ISU) et l’Organisation de coopération et de développement
+économiques (OCDE), connue sous le nom de «collecte de
+données UOE». La Commission (Eurostat) collecte égale-
+ment des données sur l’éducation, la formation et la for-
+mation tout au long de la vie par le biais d’autres enquêtes
+auprès des ménages comme l’enquête de l’Union euro-
+péenne sur les forces de travail (2) et les statistiques com-
+munautaires sur le revenu et les conditions de vie (3), ainsi
+que leurs modules ad hoc.
+(11) Le processus d’élaboration et de suivi des politiques dans le
+domaine de l’éducation et de la formation tout au long de
+la vie étant de nature dynamique et propre à s’adapter à un
+environnement en évolution, le cadre réglementaire statis-
+tique devrait prévoir, dans des proportions limitées et
+contrôlées, un certain degré de flexibilité, en prenant en
+considération la charge imposée aux répondants et aux
+États membres.
+(12) Étant donné que l’objectif du présent règlement, à savoir la
+création de normes statistiques communes permettant la
+production de données harmonisées, ne peut pas être
+réalisé de manière suffisante par les États membres et peut
+donc être mieux réalisé au niveau communautaire, la Com-
+munauté peut prendre des mesures conformément au prin-
+cipe de subsidiarité consacré à l’article 5 du traité.
+Conformément au principe de proportionnalité tel
+qu’énoncé audit article, le présent règlement n’excède pas
+ce qui est nécessaire pour atteindre cet objectif.
+(13) La production de statistiques communautaires spécifiques
+est régie par les règles établies par le règlement (CE)
+no 322/97 du Conseil du 17 février 1997 relatif à la statis-
+tique communautaire (4).
+(14) Le présent règlement garantit le respect intégral du droit à
+la protection des données personnelles prévu à l’article 8
+de la charte des droits fondamentaux de l’Union
+européenne.
+(15) La transmission de données couvertes par le secret statis-
+tique est régie par les règles établies par les règlements (CE)
+no 322/97 et (Euratom, CEE) no 1588/90 du Conseil du
+11 juin 1990 relatif à la transmission à l’Office statistique
+des Communautés européennes d’informations statistiques
+couvertes par le secret (5).
+(16) Le règlement (CE) no 831/2002 de la Commission du
+17 mai 2002 portant modalité d’application du règlement
+(CE) no 322/97 du Conseil relatif à la statistique commu-
+nautaire en ce qui concerne l’accès aux données confiden-
+tielles à des fins scientifiques (6) a fixé les conditions dans
+lesquelles l’accès à des données confidentielles transmises
+à l’autorité communautaire peut être accordé.
+(17) Il y a lieu d’arrêter les mesures nécessaires pour la mise en
+œuvre du présent règlement en conformité avec la décision
+1999/468/CE du Conseil du 28 juin 1999 fixant les moda-
+lités de l’exercice des compétences d’exécution conférées à
+la Commission (7).
+(18) Il convient en particulier d’habiliter la Commission à sélec-
+tionner et à spécifier les thèmes couverts par les statisti-
+ques, leurs caractéristiques en fonction des politiques mises
+en œuvre ou des besoins techniques, la ventilation des
+caractéristiques, la période d’observation et les délais de
+transmission des résultats, les exigences de qualité, y com-
+pris la précision requise, et le cadre de qualité en matière
+d’information. Ces mesures ayant une portée générale et
+ayant pour objet de modifier des éléments non essentiels
+du présent règlement, y compris en le complétant par
+l’ajout de nouveaux éléments non essentiels, elles doivent
+être arrêtées selon la procédure de réglementation avec
+contrôle prévue à l’article 5 bis de la décision 1999/468/CE.
+(1) JO L 255 du 30.9.2005, p. 1.
+(2) Règlement (CE) no 2104/2002 de la Commission du 28 novembre
+2002 portant adaptation du règlement (CE) no 577/98 du Conseil rela-
+tif à l’organisation d’une enquête par sondage sur les forces de travail
+dans la Communauté et du règlement (CE) no 1575/2000 de la Com-
+mission portant application du règlement (CE) no 577/98 du Conseil
+en ce qui concerne la liste des variables sur l’éducation et la formation
+et la codification à utiliser pour la transmission des données à comp-
+ter de 2003 (JO L 324 du 29.11.2002, p. 14).
+(3) Règlement (CE) no 1983/2003 de la Commission du 7 novembre
+2003 portant mise en application du règlement (CE) no 1177/2003 du
+Parlement européen et du Conseil relatif aux statistiques communau-
+taires sur le revenu et les conditions de vie (EU-SILC) en ce qui concerne
+la liste des variables primaires cibles (JO L 298 du 17.11.2003, p. 34).
+(4) JO L 52 du 22.2.1997, p. 1. Règlement modifié par le règlement (CE)
+no 1882/2003 du Parlement européen et du Conseil (JO L 284 du
+31.10.2003, p. 1).
+(5) JO L 151 du 15.6.1990, p. 1. Règlement modifié par le règlement (CE)
+no 322/97.
+(6) JO L 133 du 18.5.2002, p. 7. Règlement modifié en dernier lieu par le
+règlement (CE) no 1000/2007 (JO L 226 du 30.8.2007, p. 7).
+(7) JO L 184 du 17.7.1999, p. 23. Décision modifiée par la décision
+2006/512/CE (JO L 200 du 22.7.2006, p. 11).
+L 145/228 FR Journal officiel de l’Union européenne 4.6.2008
+(19) Le comité du programme statistique, institué par la déci-
+sion 89/382/CEE, Euratom du Conseil (1), a été consulté
+conformément à l’article 3 de ladite décision,
+ONT ARRÊTÉ LE PRÉSENT RÈGLEMENT:
+Article premier
+Objet
+Le présent règlement établit un cadre commun pour la produc-
+tion systématique de statistiques communautaires dans le
+domaine de l’éducation et de la formation tout au long de la vie.
+Article 2
+Définitions
+Aux fins du présent règlement, on entend par:
+a) «statistiques communautaires»: les statistiques communautai-
+res telles que définies à l’article 2, premier tiret, du règlement
+(CE) no 322/97;
+b) «production de statistiques»: la production de statistiques telle
+que définie à l’article 2, deuxième tiret, du règlement (CE)
+no 322/97;
+c) «autorités nationales»: les autorités nationales telles que défi-
+nies à l’article 2, troisième tiret, du règlement (CE) no 322/97;
+d) «éducation»: la communication organisée et durable destinée
+à susciter un apprentissage (2);
+e) «formation tout au long de la vie»: toutes les activités
+d’apprentissage menées au cours de la vie dans le but d’amé-
+liorer ses connaissances, ses qualifications et ses compéten-
+ces, que ce soit dans une perspective personnelle, citoyenne,
+sociale et/ou d’emploi (3);
+f) «microdonnées»: les données statistiques individuelles;
+g) «données confidentielles»: les données qui ne permettent
+qu’une identification indirecte des unités statistiques concer-
+nées, conformément aux règlements (CE) no 322/97 et (Eura-
+tom, CEE) no 1588/90.
+Article 3
+Domaines
+Le présent règlement s’applique à la production de statistiques
+dans trois domaines:
+a) le domaine no 1 couvre les statistiques relatives aux systèmes
+d’éducation et de formation;
+b) le domaine no 2 couvre les statistiques relatives à la partici-
+pation des adultes à la formation tout au long de la vie;
+c) le domaine no 3 couvre d’autres statistiques sur l’éducation et
+la formation tout au long de la vie, telles que des statistiques
+sur le capital humain et sur les avantages sociaux et écono-
+miques de l’éducation, qui ne relèvent pas des domaines nos 1
+et 2.
+La production de statistiques dans ces domaines est effectuée
+conformément à l’annexe.
+Article 4
+Actions statistiques
+1. Pour la production de statistiques communautaires dans le
+domaine de l’éducation et de la formation tout au long de la vie,
+les actions statistiques suivantes sont mises en œuvre:
+a) la transmission périodique, par les États membres, de statis-
+tiques sur l’éducation et la formation tout au long de la vie,
+dans les délais prévus pour les domaines nos 1 et 2;
+b) l’exploitation d’autres enquêtes et systèmes d’information sta-
+tistique en vue d’obtenir des variables et indicateurs statisti-
+ques supplémentaires sur l’éducation et la formation tout au
+long de la vie, correspondant au domaine no 3;
+c) l’élaboration, l’amélioration et l’actualisation de normes et de
+manuels concernant les cadres de référence, les concepts et
+les méthodes statistiques;
+d) l’amélioration de la qualité des données dans le contexte du
+cadre de qualité, afin d’y inclure:
+— la pertinence,
+— la précision,
+— l’actualité et la ponctualité,
+— l’accessibilité et la clarté,
+— la comparabilité, et
+— la cohérence.
+La Commission tient compte des capacités dont disposent les
+États membres pour la collecte et le traitement des données, ainsi
+que pour l’élaboration de concepts et de méthodes.
+Le cas échéant, la dimension régionale des données recueillies est
+particulièrement prise en considération. Le cas échéant, les don-
+nées sont systématiquement ventilées par genre.
+(1) JO L 181 du 28.6.1989, p. 47.
+(2) D’après la classification internationale type de l’éducation (CITE), ver-
+sion 1997.
+(3) Résolution du Conseil du 27 juin 2002 sur l’éducation et la formation
+tout au long de la vie (JO C 163 du 9.7.2002, p. 1).
+4.6.2008 FR Journal officiel de l’Union européenne L 145/229
+2. Dans la mesure du possible, la Commission (Eurostat) veille
+à collaborer avec l’ISU, l’OCDE et d’autres organisations interna-
+tionales afin de garantir la comparabilité des données sur le plan
+international et d’éviter tout double emploi, en particulier en ce
+qui concerne l’élaboration et l’amélioration des concepts et
+méthodes statistiques et la transmission de statistiques par les
+États membres.
+3. Chaque fois que de nouveaux besoins importants de don-
+nées sont identifiés ou que des problèmes sont constatés sur le
+plan de la qualité des données, la Commission (Eurostat) met en
+place, avant toute collecte de données, des études pilotes à réali-
+ser à titre volontaire par les États membres. De telles études pilo-
+tes sont exécutées afin d’évaluer la faisabilité de la collecte des
+données en question, compte tenu des avantages que la disponi-
+bilité de celles-ci offrirait par rapport aux coûts de la collecte et à
+la charge imposée aux répondants. Les études pilotes n’impliquent
+pas nécessairement des mesures d’exécution correspondantes.
+Article 5
+Transmission de microdonnées relatives à des individus
+Lorsque cela est nécessaire pour la production de statistiques
+communautaires, les États membres transmettent à la Commis-
+sion (Eurostat) des microdonnées confidentielles résultant
+d’enquêtes par sondage, conformément aux dispositions en
+matière de transmission de données confidentielles prévues par les
+règlements (CE) no 322/97 et (Euratom, CEE) no 1588/90. Les
+États membres veillent à ce que les données transmises ne permet-
+tent pas d’identifier directement les unités statistiques (les
+individus).
+Article 6
+Mesures d’exécution
+1. Les mesures suivantes visant à modifier des éléments non
+essentiels du présent règlement en le complétant, y compris les
+mesures visant à tenir compte de l’évolution économique et tech-
+nique en matière de collecte, de transmission et de traitement des
+données, sont arrêtées en conformité avec la procédure de régle-
+mentation avec contrôle visée à l’article 7, paragraphe 3, en vue
+de garantir la transmission de données de haute qualité:
+a) la sélection et la définition des thèmes couverts par les domai-
+nes et de leurs caractéristiques, en réponse aux besoins poli-
+tiques ou techniques;
+b) les ventilations des caractéristiques;
+c) la période d’observation et les délais de transmission des
+résultats;
+d) les exigences de qualité, y compris la précision requise;
+e) le cadre des rapports de qualité.
+Si ces mesures nécessitent un accroissement significatif des col-
+lectes de données existantes ou de nouvelles collectes de données
+ou enquêtes, les décisions d’exécution sont fondées sur une ana-
+lyse coût/bénéfice faisant partie intégrante d’une analyse globale
+des effets et implications, en prenant en considération les avanta-
+ges procurés par les mesures, les coûts supportés par les États
+membres et la charge imposée aux répondants.
+2. Les mesures visées au paragraphe 1 doivent tenir compte:
+a) pour tous les domaines, de la charge éventuellement suppor-
+tée par les institutions éducatives et les individus;
+b) pour tous les domaines, des résultats des études pilotes visées
+à l’article 4, paragraphe 3;
+c) pour le domaine no 1, des accords les plus récents entre l’ISU,
+l’OCDE et Eurostat concernant les concepts, les définitions, le
+format de collecte des données, les modalités de traitement,
+la périodicité et les délais pour la transmission des résultats;
+d) pour le domaine no 2, des résultats de l’enquête pilote sur
+l’éducation des adultes réalisée entre 2005 et 2007, ainsi que
+des besoins ultérieurs de développement;
+e) pour le domaine no 3, de la disponibilité, de la pertinence et
+du cadre juridique des sources existantes de données commu-
+nautaires à l’issue d’un examen exhaustif de toutes les sour-
+ces de données existantes.
+3. Si nécessaire, sont arrêtées en conformité avec la procédure
+de réglementation visée à l’article 7, paragraphe 2, des dérogations
+limitées et des périodes de transition pour un ou plusieurs États
+membres sur la base, dans les deux cas, de critères objectifs.
+Article 7
+Comité
+1. La Commission est assistée par le comité du programme
+statistique.
+2. Dans le cas où il est fait référence au présent paragraphe, les
+articles 5 et 7 de la décision 1999/468/CE s’appliquent, dans le
+respect des dispositions de l’article 8 de celle-ci.
+La période prévue à l’article 5, paragraphe 6, de la décision
+1999/468/CE est fixée à trois mois.
+3. Dans le cas où il est fait référence au présent paragraphe,
+l’article 5 bis, paragraphes 1 à 4, et l’article 7 de la décision
+1999/468/CE s’appliquent, dans le respect des dispositions de
+l’article 8 de celle-ci.
+L 145/230 FR Journal officiel de l’Union européenne 4.6.2008
+Article 8
+Entrée en vigueur
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de
+l’Union européenne.
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout
+État membre.
+Fait à Strasbourg, le 23 avril 2008.
+Par le Parlement européen
+Le président
+H.-G. PÖTTERING
+Par le Conseil
+Le président
+J. LENARČIČ
+4.6.2008 FR Journal officiel de l’Union européenne L 145/231
+ANNEXE
+DOMAINES
+Domaine no 1: Systèmes d’éducation et de formation
+1. Objet
+La collecte de données pour ce domaine vise à obtenir des données comparables sur des aspects essentiels des systèmes
+d’éducation et de formation, et notamment sur la participation aux programmes d’éducation et leur achèvement ainsi
+que sur le coût et le type de ressources consacrées à l’éducation et à la formation.
+2. Champ d’application
+La collecte de données couvre l’ensemble des activités intérieures d’éducation, indépendamment du statut ou du mode
+de financement des établissements qui les exercent (publics ou privés, nationaux ou étrangers) et des mécanismes péda-
+gogiques employés. Partant, les collectes de données couvrent tous les types d’apprenants et toutes les tranches d’âge.
+3. Thèmes couverts
+Des données sont collectées sur:
+a) les inscriptions d’étudiants, en incluant leurs caractéristiques;
+b) les entrants;
+c) les diplômés et les obtentions de diplômes;
+d) les dépenses d’éducation;
+e) le personnel éducatif;
+f) les langues étrangères apprises;
+g) la taille des classes,
+afin de permettre le calcul d’indicateurs concernant les moyens disponibles, les processus et les résultats des systèmes
+d’éducation et de formation.
+Les États membres communiquent des informations appropriées (métadonnées) décrivant les particularités des systèmes
+nationaux d’éducation et de formation, les correspondances avec les classifications internationales, de même que tout
+écart entre les données fournies et les spécifications des données demandées et toute autre information indispensable à
+l’interprétation des données et à l’établissement d’indicateurs comparables.
+4. Fréquence
+Sauf indication contraire, les données et les métadonnées sont transmises chaque année conformément à l’échéancier
+arrêté d’un commun accord par la Commission (Eurostat) et les autorités nationales, en tenant compte des accords les
+plus récents conclus entre l’ISU, l’OCDE et la Commission (Eurostat).
+Domaine no 2: Participation des adultes à la formation tout au long de la vie
+1. Objet
+L’enquête dans ce domaine vise à obtenir des données comparables sur la participation et la non-participation des adul-
+tes à la formation tout au long de la vie.
+L 145/232 FR Journal officiel de l’Union européenne 4.6.2008
+2. Champ d’application
+L’unité statistique est l’individu et les données couvrent, au minimum, la tranche d’âge des 25 à 64 ans. Lorsque les infor-
+mations sont recueillies par voie d’enquête, les réponses par des tiers sont évitées dans la mesure du possible.
+3. Thèmes couverts
+Les thèmes couverts par l’enquête sont les suivants:
+a) la participation et la non-participation à des activités d’apprentissage;
+b) les caractéristiques de ces activités d’apprentissage;
+c) des informations sur les aptitudes autodéclarées;
+d) des informations sociodémographiques.
+Des données sur la participation à des activités sociales et culturelles sont également collectées, sur une base volontaire,
+sous forme de variables explicatives pouvant servir à une analyse plus approfondie des profils des participants et des
+non-participants.
+4. Sources de données et taille des échantillons
+La source des données est une enquête par sondage. Des sources de données administratives peuvent être utilisées afin
+d’alléger la charge imposée aux répondants. La taille de l’échantillon est fixée sur la base des besoins en matière de pré-
+cision, qui n’impliquent pas des tailles d’échantillons nationaux effectives supérieures à 5 000 individus, calculées sur la
+base d’un sondage aléatoire simple. À l’intérieur de ces limites, des sous-populations particulières doivent faire l’objet
+d’échantillonnages spécifiques.
+5. Fréquence
+Les données sont collectées tous les cinq ans. La première année de mise en œuvre est, au plus tôt, 2010.
+Domaine no 3: Autres statistiques sur l’éducation et la formation tout au long de la vie
+1. Objet
+La collecte de données pour ce domaine vise à obtenir, à l’appui de politiques spécifiques au niveau communautaire,
+d’autres données comparables sur l’éducation et la formation tout au long de la vie qui ne relèvent pas des domaines
+nos 1 et 2.
+2. Champ d’application
+Les autres statistiques sur l’éducation et la formation tout au long de la vie concernent les aspects suivants:
+a) des statistiques concernant l’éducation et l’économie, qui sont nécessaires au niveau communautaire pour assurer
+le suivi des politiques en matière d’éducation, de recherche, de compétitivité et de croissance;
+b) des statistiques concernant l’éducation et le marché du travail, qui sont nécessaires au niveau communautaire pour
+assurer le suivi des politiques en matière d’emploi;
+c) des statistiques concernant l’éducation et l’inclusion sociale, qui sont nécessaires au niveau communautaire pour
+assurer le suivi des politiques en matière de pauvreté, d’inclusion sociale et d’intégration des migrants.
+En ce qui concerne les aspects précités, les données nécessaires sont tirées des sources statistiques communautaires
+existantes.
+4.6.2008 FR Journal officiel de l’Union européenne L 145/233
